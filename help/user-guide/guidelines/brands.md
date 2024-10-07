@@ -11,6 +11,7 @@ A brand distinguishes an organization, product, service or concept from others. 
 GenStudio for Performance Marketing uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 ## Manage [!DNL Brands]
+
 After adding brand guidelines to GenStudio for Performance Marketing, you can [manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) and [publish](/help/user-guide/guidelines/add-guidelines.md#publish-brand) them. Publishing makes them available for your team to use in asset generation.
 
 [!DNL Brands] can be in either a _Draft_ or _Published_ state. New [!DNL brands] start as _Draft_.
