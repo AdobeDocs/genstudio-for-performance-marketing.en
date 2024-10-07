@@ -128,4 +128,4 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
-1. Continue with [tutorials](/help/tutorials/tutorials.md) to create an experience.
+1. Continue with [tutorials](/help/user-guide/create/tutorials.md) to create an experience.

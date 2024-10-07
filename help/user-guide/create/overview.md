@@ -22,12 +22,12 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="/help/tutorials/tutorials.md">
+      <a href="/help/user-guide/create/create-email-experience.md">
       <img alt="Create new content" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
-         <a href="/help/tutorials/tutorials.md">
-         <strong>Create new content</strong>
+         <a href="/help/user-guide/create/create-email-experience.md">
+         <strong>Create an email experience</strong>
          </a>
       </div>
    </td>
@@ -103,11 +103,6 @@ Drafts in progress are automatically saved. When you navigate back to the [!DNL 
 GenStudio for Performance Marketing allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).
 
 You can revise sections of a single variant, re-generate the content of individual sections and use suggested edits to improve the message, size assets, and more, all within the Canvas.
-
-## Tutorials
-
-* [Create an email experience](/help/tutorials/create-email-experience.md)
-* [Create a Meta ad experience](/help/tutorials/create-meta-ad.md)
 
 <!-- ### Anatomy of an email experience
 
