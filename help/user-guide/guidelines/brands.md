@@ -10,13 +10,16 @@ A brand distinguishes an organization, product, service or concept from others. 
 
 GenStudio for Performance Marketing uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
-**To view or modify a brand**:
+## Manage [!DNL Brands]
+After adding brand guidelines to GenStudio for Performance Marketing, you can [manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) and [publish](/help/user-guide/guidelines/add-guidelines.md#publish-brand) them. Publishing makes them available for your team to use in asset generation.
 
-1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-1. To see a brand's overview information, click to open a defined brand.
-1. To view individual details or modify a brand, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+[!DNL Brands] can be in either a _Draft_ or _Published_ state. New [!DNL brands] start as _Draft_.
 
-You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio for Performance Marketing, modify it, publish it, and more.
+You must publish a [!DNL brand] to make it available for asset generation by your team.
+
+Published [!DNL brands] can be edited, and changes are immediately available. Only published [!DNL brands] can be used to create and validate content.
+
+Deleted [!DNL brands] are archived for 30 days and can be recovered within that period.
 
 ## [!DNL Brands] guidelines
 
