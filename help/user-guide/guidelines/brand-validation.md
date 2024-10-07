@@ -59,7 +59,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 **To improve brand alignment for generated content variants**:
 
-1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant. The [!UICONTROL [!DNL Brand] guidelines check] shows a percentage number of brand alignment for a variant.
+1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant. The [!DNL Brand] guidelines check shows a percentage number of brand alignment for a variant.
 
    See a summary of how many brand guidelines met brand validation or need more attention.
 
