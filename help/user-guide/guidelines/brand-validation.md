@@ -71,7 +71,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
    >
    > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
-1. Click through each guideline that needs attention, using the **[!UICONTROl Next]** and **[!UICONTROl Previous]** buttons.
+1. Click through each guideline that needs attention, using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
 
 1. Use the reasoning noted for each guideline to inform any revisions to variant sections to achieve the strongest alignment to your brand.
 
