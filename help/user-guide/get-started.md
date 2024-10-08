@@ -3,6 +3,7 @@ title: Prepare Adobe GenStudio for Performance Marketing to generate content
 description: Learn how to set up your GenStudio for Performance Marketing to generate new brand-aligned marketing content.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 ---
 
 # Prepare Adobe GenStudio for Performance Marketing to generate content
