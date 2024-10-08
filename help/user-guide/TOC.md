@@ -15,7 +15,6 @@ feature: Generative AI
 + Introduction {#intro}
   + [Concepts](concepts.md)
   + [Effective prompts](effective-prompts.md)
-  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)
@@ -28,6 +27,8 @@ feature: Generative AI
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
   + [Manage variants](create/manage-variants.md)
+  + [Create an email experience](create-email-experience.md)
+  + [Create a Meta ad experience](create-meta-ad.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)
