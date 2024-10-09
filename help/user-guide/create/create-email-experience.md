@@ -37,13 +37,12 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
-   * To select assets (images) from your [!DNL Content] repository, click **[!UICONTROL Select from content]**. Filter and select one or more images.
+1. To add content to be used in the experience *and* to influence content generation:
+   * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * To upload one or more new assets, click **[!UICONTROL Upload]**, browse your files, and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox. Click to select the desired images.
-   * Drag and drop assets into the _Content_ section.
+   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets, 
 1. Click **[!UICONTROL Use]**.
 
 >[!NOTE]
@@ -118,7 +117,7 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 To make the generated emails available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new email experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
+1. **To publish your new email experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
 1. **To export your new email experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
