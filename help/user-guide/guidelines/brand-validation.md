@@ -59,19 +59,22 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 **To improve brand alignment for generated content variants**:
 
-1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant.
+1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant. The [!DNL Brand] guidelines check shows a percentage number of brand alignment for a variant.
 
    See a summary of how many brand guidelines met brand validation or need more attention.
 
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the _Brand validation_ icon in top menu bar to open the _Brand validation_ panel.
 
-   See all sections and brand guidelines that need your attention. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
+   See all sections and brand guidelines that need your attention.
 
    >[!NOTE]
    >
    > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
-1. Manually revise variant sections to achieve the strongest alignment to your brand.
+1. Click through each guideline that needs attention, using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
+
+1. Use the reasoning noted for each guideline to inform any revisions to variant sections to achieve the strongest alignment to your brand.
+
 
 1. After making necessary revisions, click **[!UICONTROL Check again]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity.
 
