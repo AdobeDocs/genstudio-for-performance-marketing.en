@@ -27,8 +27,8 @@ feature: Generative AI
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
   + [Manage variants](create/manage-variants.md)
-  + [Create an email experience](create-email-experience.md)
-  + [Create a Meta ad experience](create-meta-ad.md)
+  + [Create an email experience](create/create-email-experience.md)
+  + [Create a Meta ad experience](create/create-meta-ad.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)
