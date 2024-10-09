@@ -9,7 +9,7 @@ recommendations: noDisplay
 ---
 # Create a display ad experience
 
-This tutorial demonstrates how to generate branded display ad experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded [display ad experiences](display-ad-experiences.md) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To design a compelling display ad experience, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md) before you begin.
 
