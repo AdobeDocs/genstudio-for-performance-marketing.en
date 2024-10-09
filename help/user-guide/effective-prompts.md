@@ -35,7 +35,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), you can use **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) and a prompt) in the prompt area to add details through selection to improve the AI interpretation.
 
-For [emails](/help/user-guide/create/email-experiences.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/tutorials/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring guidelines](/help/user-guide/guidelines/add-guidelines.md).
+For [emails](/help/user-guide/create/email-experiences.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/user-guide/create/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring guidelines](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
