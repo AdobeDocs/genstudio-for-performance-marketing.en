@@ -12,8 +12,7 @@ With [!DNL Create], you can generate content for the following channels:
 
 * [Emails](email-experiences.md)
 * [Meta ads](meta-experiences.md)
-<!-- * Social media images and ads
-* Display ads -->
+* [Display ads](display-ad-experiences.md)
 
 Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
@@ -103,7 +102,3 @@ Drafts in progress are automatically saved. When you navigate back to the [!DNL 
 GenStudio for Performance Marketing allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).
 
 You can revise sections of a single variant, re-generate the content of individual sections and use suggested edits to improve the message, size assets, and more, all within the Canvas.
-
-<!-- ### Anatomy of an email experience
-
-## Prerequisites for using Create -->
