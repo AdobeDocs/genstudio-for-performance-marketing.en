@@ -12,8 +12,7 @@ With [!DNL Create], you can generate content for the following channels:
 
 * [Emails](email-experiences.md)
 * [Meta ads](meta-experiences.md)
-<!-- * Social media images and ads
-* Display ads -->
+* [Display ads](display-ad-experiences.md)
 
 Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
