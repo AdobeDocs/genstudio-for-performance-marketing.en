@@ -4,7 +4,6 @@ description: Learn how to create display ad experiences in Adobe [!DNL GenStudio
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 ---
 # Create a display ad experience
@@ -42,7 +41,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets, 
+   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
 When you are finished adding parameters, collapse the prompt area by clicking the _Parameters_ icon again.

@@ -4,7 +4,6 @@ description: Learn how to create on-brand Meta ad experiences—for Facebook or 
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
@@ -42,7 +41,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets, 
+   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.

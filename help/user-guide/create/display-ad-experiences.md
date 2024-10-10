@@ -10,7 +10,7 @@ level: Beginner
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of successful display ad experiences](/help/user-guide/create/create-display-ad.md).
 
-[!DNL Create] empowers modern marketers to swiftly [produce brand-consistent display ad experiences](/help/user-guide/create/create-email-experience.md) by using [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md).
+[!DNL Create] empowers modern marketers to [produce brand-consistent display ad experiences](/help/user-guide/create/create-display-ad.md) by using [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md).
 
 Editable sections of a display ad experience include:
 
