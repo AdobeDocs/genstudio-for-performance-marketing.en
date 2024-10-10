@@ -10,10 +10,10 @@ GenStudio for Performance Marketing is a standalone enterprise product that embo
 
 With GenStudio for Performance Marketing you can:
 
-- Create on-brand content using natural language prompts
-- Collaborate with stakeholders to review and approve generated content
-- Save generated and approved content to access for future marketing campaigns
-- Evaluate content performance with insights about campaigns and content attributes
+* Create on-brand content using natural language prompts
+* Collaborate with stakeholders to review and approve generated content
+* Save generated and approved content to access for future marketing campaigns
+* Evaluate content performance with insights about campaigns and content attributes
 
 ## Generative AI technology
 
@@ -31,14 +31,14 @@ This approach reinforces social responsibility, minimizes reputational risk, and
 
 Generated content in GenStudio for Performance Marketing must:
 
-- Be inclusive and accurately represent diverse demographics while avoiding reinforcement of harmful biases.
-- Account for the fair treatment of all groups.
-- Be devoid of harmful content.
-- Show accurate interpretations of imagery to ensure text is contextually appropriate and free of unintentional bias or offense.
-- Be free of hate speech or profanity.
-- Prevent the use of hate-oriented or biased material in prompting and generated results.
-- Consistently reflect the tone as noted in the [!DNL Brand] guidelines.
-- Account for child safety.
+* Be inclusive and accurately represent diverse demographics while avoiding reinforcement of harmful biases.
+* Account for the fair treatment of all groups.
+* Be devoid of harmful content.
+* Show accurate interpretations of imagery to ensure text is contextually appropriate and free of unintentional bias or offense.
+* Be free of hate speech or profanity.
+* Prevent the use of hate-oriented or biased material in prompting and generated results.
+* Consistently reflect the tone as noted in the [!DNL Brand] guidelines.
+* Account for child safety.
 
 GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content, per the above guidelines. When such content is detected, the user is made aware that asset generation is blocked with a "Can't generate" message.
 
