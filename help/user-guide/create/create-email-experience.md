@@ -37,7 +37,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. To add content to be used in the experience *and* to influence content generation:
+1. Add content for use in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
