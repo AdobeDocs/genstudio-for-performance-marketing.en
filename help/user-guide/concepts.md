@@ -25,7 +25,7 @@ See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how
 
 ## Harm and bias filters
 
-When utilizing AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires a meticulous evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Thorough testing from multiple perspectives, a comprehensive ethics review, and implementing effective mitigation plans is crucial to prevent harmful content from emerging in outputs.
+When working with AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Thorough testing from multiple perspectives, a comprehensive ethics review, and implementing effective mitigation plans is important to prevent harmful content from emerging in outputs.
 
 This approach reinforces social responsibility, minimizes reputational risk, and ensures adherence to Adobe's Trust & Safety and Ethics policies.
 
@@ -40,9 +40,9 @@ Generated content in GenStudio for Performance Marketing must:
 * Consistently reflect the tone as noted in the [!DNL Brand] guidelines.
 * Account for child safety.
 
-GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content, per the above guidelines. When such content is detected, the user is made aware that asset generation is blocked with a "Can't generate" message.
+GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content, per the above guidelines. When such content is detected, you are made aware that asset generation is blocked with a "Can't generate" message.
 
-When the user receives this message they can edit the prompt and try again or flag the prompt content for review (in this ase the prompt data is collected for review purposes) by GenStudio for Performance Marketing.
+When this message appears, you can edit the prompt and try again _or_ flag the prompt content for review by GenStudio for Performance Marketing. The prompt data for content that is flagged for review is collected for internal review purposes. 
 
 ## Content lifecycle
 
