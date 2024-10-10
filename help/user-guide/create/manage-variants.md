@@ -32,7 +32,7 @@ You can edit the text fields in generated variants. Refine the text for your aud
 1. Enter new text.
 1. Click off the text field to save it.
 
-<!-- ## Re-generate sections
+## Re-generate sections
 
 GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
@@ -40,14 +40,14 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 **To re-generate individual variant sections**:
 
-1. After generating a set of variants, single-click editable text in a variant.
+1. After generating a set of variants, single-click any editable text in a variant.
 1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
 1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
 1. Click **[!UICONTROL Generate]**.
-1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
+1. If you want to regenerate the results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text. -->
+   The variant is updated with the revised text.
 
 ## Crop assets
 

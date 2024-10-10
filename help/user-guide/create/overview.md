@@ -102,7 +102,3 @@ Drafts in progress are automatically saved. When you navigate back to the [!DNL 
 GenStudio for Performance Marketing allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).
 
 You can revise sections of a single variant, re-generate the content of individual sections and use suggested edits to improve the message, size assets, and more, all within the Canvas.
-
-<!-- ### Anatomy of an email experience
-
-## Prerequisites for using Create -->
