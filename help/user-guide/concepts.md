@@ -42,7 +42,7 @@ Generated content in GenStudio for Performance Marketing must:
 
 GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content, per the above guidelines. When such content is detected, the user is made aware that asset generation is blocked with a "Can't generate" message.
 
-When the user receives this message they can edit the prompt and try again or flag the prompt content for review (in this ase the prompt data is collected for review purposes).
+When the user receives this message they can edit the prompt and try again or flag the prompt content for review (in this ase the prompt data is collected for review purposes) by GenStudio for Performance Marketing.
 
 ## Content lifecycle
 
