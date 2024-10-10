@@ -4,7 +4,6 @@ description: Learn how to create on-brand Meta ad experiences—for Facebook or 
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
@@ -37,13 +36,12 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
-   * To select assets (images) already published to [!DNL Content], click **[!UICONTROL Select from content]** and click to select the desired images. Use the filters to further narrow your search results.
+1. Add content for use in the experience *and* to influence content generation:
+   * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
 
-      If you want to use assets already present in a connected AEM Content Hub repository, select the applicable location from the _Location_ dropdown menu and click to select the desired images.
+      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox. Click to select the desired images.
-   * Drag and drop assets into the _Content_ section.
+   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
@@ -82,7 +80,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _[!UICONTROL Link]_, enter a URL for the call-to-action text.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement. Click **[!UICONTROL Apply]**.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback
@@ -120,7 +118,7 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 To make the generated Meta ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
+1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
 1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
