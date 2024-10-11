@@ -1,6 +1,6 @@
 ---
 title: Create a display ad experience
-description: Learn how to create display ad experiences in Adobe [!DNL GenStudio] for Performance Marketers.
+description: Learn how to create display ad experiences in Adobe [!DNL GenStudio] for Performance Marketing.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
 role: User
 level: Beginner
@@ -34,7 +34,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt area.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
+   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. To add content to be used in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
