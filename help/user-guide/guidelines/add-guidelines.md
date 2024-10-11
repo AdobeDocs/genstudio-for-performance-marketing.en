@@ -179,7 +179,7 @@ See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 1. Select the **[!UICONTROL Add persona]** button and choose **Upload PDFs**.
 1. Click **[!UICONTROL Continue]**.
-1. In the _Add your persona popup, attach or drag in your persona document.
+1. In the _Add your persona_ popup, attach or drag in your persona document.
 
    You can attach up to five PDF files with a maximum of 500 MG combined.
 
