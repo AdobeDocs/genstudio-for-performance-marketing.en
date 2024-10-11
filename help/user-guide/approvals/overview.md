@@ -10,7 +10,7 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 ## [!DNL Review and Approval] workflow advantages
 
-* **Support for robust, iterative generative AI content creation**. Creating and deploying brand-aligned content in an organization is a highly iterative process. GenStudio for Performance Marketing generative AI capabilities support the quick creation of hundreds of asset variants. Each reviewer might request multiple changes to an asset draft before approving it. The more reviewers, the greater the number of potential iterations before all stakeholders agree on a final variant.   
+* **Support for robust, iterative generative AI content creation**. Creating and deploying brand-aligned content in an organization is a highly iterative process. GenStudio for Performance Marketing generative AI capabilities support the quick creation of hundreds of asset variants. Each reviewer might request multiple changes to an asset draft before approving it. The more reviewers, the greater the number of potential iterations before all stakeholders agree on a final variant.
 
 * **Support for creative integrity**. Approvals safeguard the creative integrity of your brand assets by keeping content creators involved in the approval process. By involving creative stakeholders (for example, content creators and creative directors) in the review and approval process, you ensure that final output aligns with your vision and brand identity.
 
@@ -18,7 +18,7 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 ## Review and approval lifecycle
 
-The main phases of the review and approval workflow include: 
+The main phases of the review and approval workflow include:
 
 * [Request review and approval of content you have created](./request-review.md)
 * [Review and edit content](./review-and-edit.md)
@@ -29,7 +29,7 @@ The main phases of the review and approval workflow include:
 
 If you have created an asset or experience, you can ask others in your organization's approval chain to formally review and comment on your work. Although any GenStudio for Performance Marketing organization member can review a draft, only designated approvers can comment on or approve a draft.
 
-## About [!DNL Content] drafts 
+## About [!DNL Content] drafts
 
 _Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Draft status identifies where the draft is in the review and approval process. A unique draft ID identifies each draft. THis ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID.
 
@@ -45,7 +45,7 @@ Available draft statuses:
 
 ## Notifications
 
-GenStudio for Performance Marketing in-product notifications update approvers and content editors in real time of asset status changes and `@mention` comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles. 
+GenStudio for Performance Marketing in-product notifications update approvers and content editors in real time of asset status changes and `@mention` comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles.
 
 Content editors and approvers can sign up to receive these notifications in Slack. See [Subscribe to services in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#slack).
 

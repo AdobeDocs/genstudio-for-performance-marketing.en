@@ -60,7 +60,7 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 1. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
 
-<!-- 
+<!--
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 

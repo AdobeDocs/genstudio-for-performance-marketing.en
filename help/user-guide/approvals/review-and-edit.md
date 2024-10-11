@@ -6,7 +6,7 @@ exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 ---
 # Review and edit content
 
-Review and approval processes that involve multiple reviewers can be time-consuming. The cycle of reviewing content, revising content in response to review comments, then reviewing changed content again can repeat many times. 
+Review and approval processes that involve multiple reviewers can be time-consuming. The cycle of reviewing content, revising content in response to review comments, then reviewing changed content again can repeat many times.
 
 Adobe GenStudio for Performance Marketing generative AI capabilities accelerate these critical iterative phases of the content creation and review process. Content creators can respond to reviewer requests by using prompting capabilities to edit drafts quickly. The more reviewers and review cycles that content development requires, the greater the advantages that GenStudio for Performance Marketing brings.
 
@@ -18,7 +18,7 @@ Content editors can make in-process edits to content in response to review comme
 
 As a designated approver, you can access the content that you are asked to review and approve in several ways:
 
-* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification.  The Canvas that displays the asset or experience opens. The _Approval_ panel is displayed on the right. 
+* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification.  The Canvas that displays the asset or experience opens. The _Approval_ panel is displayed on the right.
 
 * **Access the draft for review from the list of approval requests**. If you are asked to review multiple content drafts, your notification email includes a **[!UICONTROL View all notifications]** button. Click this button to navigate to a page that displays all the notifications that you have received, including approval requests and notifications that you have enabled from other Adobe Experience Cloud products.
 
@@ -40,7 +40,7 @@ This process of reviewing, suggesting edits to the content creator, and then rev
 
 **To request changes**:
 
-1. Set draft status to **Needs work**. 
+1. Set draft status to **Needs work**.
 1. Enter comments and recommended changes in the **Comments** field and click **[!UICONTROL Submit]**. All reviewers and the content creator can view these comments.
 1. Click **[!UICONTROL Review & Approve]** and assign **Needs work**. This triggers email and in-product notifications to the content creator.
 

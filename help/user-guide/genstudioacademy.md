@@ -44,8 +44,8 @@ hidefromtoc: true
 <table>
  <tr style= "border: 0;colspan: 3;">
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon</strong></td>
- </tr> 
- <tr style= "border: 0;colspan: 3;"> 
+ </tr>
+ <tr style= "border: 0;colspan: 3;">
    <td align=Center>
       <img src="../assets/tips-and-tricks.png">
       <div>
