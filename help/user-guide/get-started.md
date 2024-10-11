@@ -42,7 +42,7 @@ Although setting up an organization's brand guidelines can be a one-time action,
 
 Templates provide shortcuts and accelerate content creation. A template contains approved features, such as headers and footers, and are often optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
 
-See [Work with templates](./content/templates/use-templates.md) for directions on customizing and uploading templates.
+See [Work with templates](./content/use-templates.md) for directions on customizing and uploading templates.
 
 ## Step 3: Upload approved assets
 
