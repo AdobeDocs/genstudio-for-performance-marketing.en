@@ -30,24 +30,24 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 ### Channels
 
-The [!DNL Insights] _[!UICONTROL Channels]_ view is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. See [Channels overview](channels.md).
+The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
 ### Experiences
 
-The [!DNL Insights] _[!UICONTROL Experiences]_ view concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Experiences] view enables you to analyze an experience's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
+The [[!DNL Insights] _[!UICONTROL Experiences]_ view](experiences.md) concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Experiences] view enables you to analyze an experience's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
 
 ### Assets
 
-The [!DNL Insights] _[!UICONTROL Assets]_ view is designed to help you analyze the performance of assets. You can identify attributes of an asset that contribute to improving a selected metric, such as clicks or impressions.
+The [[!DNL Insights] _[!UICONTROL Assets]_ view](assets.md) is designed to help you analyze the performance of assets. You can identify attributes of an asset that contribute to improving a selected metric, such as clicks or impressions.
 
 Clicking on an asset provides further context about its performance across different experiences:
 
 ![Asset details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
-In the asset view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
+In the asset details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
 ### Attributes
 
 Content _attributes_ help to identify assets by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
 
-The [!DNL Insights] _[!UICONTROL Attributes]_ view can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and can help you to highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.
+The [[!DNL Insights] _[!UICONTROL Attributes]_ view](attributes.md) can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and can help you to highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.
