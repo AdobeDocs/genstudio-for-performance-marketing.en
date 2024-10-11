@@ -80,7 +80,7 @@ To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedb
 
 ## Verify brand alignment
 
-To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand validation panel_](/help/user-guide/brain /brand-validation.md#brand-validation-panel), which displays comprehensive brand validation details and illuminates improvement areas.
+To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), which displays comprehensive brand validation details and illuminates improvement areas.
 
 **To verify brand alignment**:
 
