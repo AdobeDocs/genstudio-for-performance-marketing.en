@@ -34,7 +34,7 @@ Three types of GenStudio for Performance Marketing user roles support this diver
 
 **Editors** have the core permissions needed to create GenStudio for Performance Marketing [!DNL Brands], [!DNL Campaigns], and [!DNL Content] assets. They can also edit and delete assets they have created. GenStudio for Performance Marketing supports the quick creation of hundreds of pieces of content. These users can generate content sections or whole experiences that orchestrate discrete pieces of approved content to meet the needs of specific marketing campaigns.
 
-Editors interact with GenStudio for Performance Marketing generative AI technologies through _prompting_. The prompt area in the Canvas provides tools to place prompts in the context of a specific campaign's guidelines. As a result, the quality and success of generated content partially depend on the quality of the brand guidelines your organization has uploaded and the specificity of your prompt.
+Editors interact with GenStudio for Performance Marketing generative AI technologies through _prompting_. The prompt drawer in the Canvas provides tools to place prompts in the context of a specific campaign's guidelines. As a result, the quality and success of generated content partially depend on the quality of the brand guidelines your organization has uploaded and the specificity of your prompt.
 
 See [Write effective prompts](effective-prompts.md).
 

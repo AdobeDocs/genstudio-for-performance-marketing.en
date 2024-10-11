@@ -27,11 +27,11 @@ To create a display ad experience, use an available template to provide the fram
 
 ## Add parameters
 
-Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt area supercharges the content generation process and is an integral preparatory step for generating a display ad experience.
+Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer supercharges the content generation process and is an integral preparatory step for generating a display ad experience.
 
 **To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the prompt area.
+1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
@@ -44,7 +44,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
-When you are finished adding parameters, collapse the prompt area by clicking the _Parameters_ icon again.
+When you are finished adding parameters, collapse the prompt drawer by clicking the _Parameters_ icon again.
 
 ## Enter a prompt
 
@@ -80,7 +80,7 @@ To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedb
 
 ## Verify brand alignment
 
-To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), which displays comprehensive brand validation details and illuminates improvement areas.
+To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand validation panel_](/help/user-guide/brain /brand-validation.md#brand-validation-panel), which displays comprehensive brand validation details and illuminates improvement areas.
 
 **To verify brand alignment**:
 
