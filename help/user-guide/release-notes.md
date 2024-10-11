@@ -10,5 +10,3 @@ This release information details the latest updates to the GenStudio for Perform
 ## October 15 {#latest}
 
 TBD
-
-See [Beta release notes](beta-release-notes.md).
