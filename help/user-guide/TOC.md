@@ -9,8 +9,7 @@ feature: Generative AI
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
 + [GenStudio for Performance Marketing Guide](home.md)
-+ Release notes {#release-notes}
-  + [Beta release notes](beta-release-notes.md)
++ [Release Notes](release-notes.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
   + [Concepts](concepts.md)

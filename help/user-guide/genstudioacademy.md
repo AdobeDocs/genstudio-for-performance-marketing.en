@@ -42,48 +42,54 @@ hidefromtoc: true
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon</strong></td>
- </tr>
- <tr style= "border: 0;colspan: 3;">
-   <td align=Center>
-      <img src="../assets/tips-and-tricks.png">
-      <div>
-      <strong>Tips and tricks </strong>
-      </div>
-      <p>
-      Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.
-      </p>
-   </td>
-   <td align=Center>
-      <img src="../assets/social-learning.png">
-      <div>
-      <strong>Social learning</strong>
-      </div>
-      <p>
-      Learn from your peers and knowledge share easily across your organization.
-      </p>
-   </td>
-   <td align=Center>
-      <img src="../assets/expert-courses.png">
-      <div>
-      <strong>Expert courses</strong>
-      </div>
-      <p>
-      Advanced courses to unlock expert level AI skills in marketing.
-      </p>
-   </td>
- </tr>
+    <tr style="border: 0;">
+        <td colspan="3">
+            <strong style="font-size: 2em;">Coming soon</strong>
+        </td>
+    </tr>
+    <tr style="border: 0;">
+        <td align="center">
+            <img src="../assets/tips-and-tricks.png" alt="Tips and tricks">
+            <div>
+                <strong>Tips and tricks</strong>
+            </div>
+            <p>Tips and tricks for using GenStudio for Performance Marketing in the most efficient way.</p>
+        </td>
+        <td align="center">
+            <img src="../assets/social-learning.png" alt="Social learning">
+            <div>
+                <strong>Social learning</strong>
+            </div>
+            <p>Learn from your peers and knowledge share easily across your organization.</p>
+        </td>
+        <td align="center">
+            <img src="../assets/expert-courses.png" alt="Expert courses">
+            <div>
+                <strong>Expert courses</strong>
+            </div>
+            <p>Advanced courses to unlock expert level AI skills in marketing.</p>
+        </td>
+    </tr>
 </table>
 
 >[!BEGINSHADEBOX]
 
 <table>
     <tr></tr>
- <tr style= "border: 0;">
- <td><img src="../assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Put your learnings into practice.</strong><p>Explore GenStudio for Performance Marketing a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Take me there</span></a></td>
- </tr>
+    <tr style="border: 0;">
+        <td>
+            <img src="../assets/put-your-learnings-into-practice.png" alt="Put your learnings into practice">
+        </td>
+        <td>
+            <strong style="font-size: 3em">Put your learnings into practice.</strong>
+            <p>Explore GenStudio for Performance Marketing, a generative AI-first application that lets marketing teams create their own ads and emails to drive impactful, personalized marketing campaigns.</p>
+            <p>
+                <a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM">
+                    <span class="spectrum-Button-label has-no-wrap">Take me there</span>
+                </a>
+            </p>
+        </td>
+    </tr>
     <tr></tr>
 </table>
 
