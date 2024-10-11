@@ -27,11 +27,11 @@ To get started generating a new Meta ad experience, use an available template to
 
 ## Add parameters
 
-Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt area enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
+Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
 
 **To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the prompt area.
+1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
@@ -44,7 +44,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
-When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
+When you are done adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
 ## Enter a prompt
 
@@ -76,7 +76,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 **To revise generated variants**:
 
 * **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the ad sections (such as the subject line, 
+* **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the ad sections (such as the subject line,
 header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _[!UICONTROL Link]_, enter a URL for the call-to-action text.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
