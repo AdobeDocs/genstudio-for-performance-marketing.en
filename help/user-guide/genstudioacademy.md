@@ -40,8 +40,8 @@ hidefromtoc: true
 
 <img src="../assets/levels-of-learning.png">
 
-
 <img src="../assets/coming-soon.png">
+
 
 >[!BEGINSHADEBOX]
 

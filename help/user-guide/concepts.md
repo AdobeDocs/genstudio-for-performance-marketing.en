@@ -27,7 +27,7 @@ See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how
 
 The demand is high for quality experiences in multiple channels at a faster pace. GenStudio for Performance Marketing simplifies the content supply chain into a well-organized workflow for marketers. GenStudio for Performance Marketing leverages Adobe technology at each stage of the lifecycle.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr style="border: 0;">
     <td>
        <p><strong>Workflow & Planning</strong></p>
