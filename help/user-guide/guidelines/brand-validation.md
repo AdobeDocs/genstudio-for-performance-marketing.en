@@ -30,7 +30,7 @@ The _Brand validation_ panel opens on the right side of the Canvas when clicked 
 
 The _Brand validation_ panel displays information for:
 
-* **Email**: 
+* **Email**:
   * Subject line section
   * Preheader section
   * Header section

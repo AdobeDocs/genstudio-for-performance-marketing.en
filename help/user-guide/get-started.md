@@ -34,7 +34,7 @@ Three types of GenStudio for Performance Marketing user roles support this diver
 
 **Editors** have the core permissions needed to create GenStudio for Performance Marketing [!DNL Brands], [!DNL Campaigns], and [!DNL Content] assets. They can also edit and delete assets they have created. GenStudio for Performance Marketing supports the quick creation of hundreds of pieces of content. These users can generate content sections or whole experiences that orchestrate discrete pieces of approved content to meet the needs of specific marketing campaigns.
 
-Editors interact with GenStudio for Performance Marketing generative AI technologies through _prompting_. The prompt area in the Canvas provides tools to place prompts in the context of a specific campaign's guidelines. As a result, the quality and success of generated content partially depend on the quality of the brand guidelines your organization has uploaded and the specificity of your prompt.
+Editors interact with GenStudio for Performance Marketing generative AI technologies through _prompting_. The prompt drawer in the Canvas provides tools to place prompts in the context of a specific campaign's guidelines. As a result, the quality and success of generated content partially depend on the quality of the brand guidelines your organization has uploaded and the specificity of your prompt.
 
 See [Write effective prompts](effective-prompts.md).
 
@@ -50,7 +50,7 @@ The following table displays the default editor permissions:
 |   [!DNL Products] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Reviews and approvals]  |   yes     |  yes   |    yes     |    yes     |
 
-### GenStudio for Performance Marketing collaborators 
+### GenStudio for Performance Marketing collaborators
 
 **Collaborators** can view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Collaborators include stakeholders who are essential to the success of the review and approval process for content but who do not need to create or directly edit content. Legal experts and managers of creators are examples of potential collaborators. GenStudio for Performance Marketing collaborators might have permissions to create and view assets in other Creative Cloud products.
 
@@ -95,6 +95,6 @@ GenStudio for Performance Marketing system managers prepare their organization's
 
 1. **[Upload templates](./content/use-templates.md)**. Templates provide shortcuts and accelerate content creation. A template contains approved features, such as headers and footers, and establishes guardrails for content creation. System managers typically upload and manage templates for their organization. Creators use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
 
-1. **[Upload approved assets](./content/manage-assets.md)**. Approved assets in [!DNL Content] are available to all GenStudio for Performance Marketing creators. You can seed [!DNL Content] with assets that creators can use to create new experiences or assets. 
+1. **[Upload approved assets](./content/manage-assets.md)**. Approved assets in [!DNL Content] are available to all GenStudio for Performance Marketing creators. You can seed [!DNL Content] with assets that creators can use to create new experiences or assets.
 
 1. **[Connect to a Meta (Facebook) account](./insights/connect-channel.md)**. Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data.

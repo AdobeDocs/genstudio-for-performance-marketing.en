@@ -45,7 +45,7 @@ Test to ensure that your email template satisfies the following:
 
 ## Define generated content areas
 
-Define the areas in your email template that should be dynamically populated with content from GenStudio for Performance Marketing. 
+Define the areas in your email template that should be dynamically populated with content from GenStudio for Performance Marketing.
 
 To define generated content areas:
 

@@ -92,7 +92,7 @@ Available size/aspect ratios are:
 1. Click **[!UICONTROL Duplicate and resize]**.
 
    [!DNL Create] builds a copy of each variant based on the new selected aspect ratio. All variants, including ones in the initial aspect ratio, are present in the Canvas.
-   
+
    For instance, if you generate four variants in a 1:1 aspect ratio initially and then change the aspect ratio to 4:5, _eight_ total variants are now available on the Canvas.
 
 ## Swap image

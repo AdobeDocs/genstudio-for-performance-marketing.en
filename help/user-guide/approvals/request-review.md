@@ -11,7 +11,7 @@ Only designated approvers can assign an approval status and add review comments
 
 ## Launch an approval request
 
-After you generate your content variants, you can request review and approval. 
+After you generate your content variants, you can request review and approval.
 
 **To request a review**:
 
