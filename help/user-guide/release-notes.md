@@ -7,6 +7,7 @@ recommendations: noDisplay
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
+<!--
 ## October 15 {#latest}
 
-TBD
+TBD -->
