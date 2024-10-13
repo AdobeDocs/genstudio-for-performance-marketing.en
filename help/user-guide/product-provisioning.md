@@ -7,14 +7,14 @@ feature: Prompt, Brands Service, Personas Service, Products Service, Generative 
 
 # Provision Adobe GenStudio for Performance Marketing
 
-Product provisioning is the one-time setup of your organization's GenStudio for Performance Marketing instance. An Adobe system administrator performs these initial provisioning tasks in the Adobe Admin Console. From the Admin Console, an Adobe system admin can access the GenStudio product profile and assign available product licenses to users.
+Product provisioning is the one-time setup of your organization's GenStudio for Performance Marketing instance. An Adobe system administrator performs these initial provisioning tasks in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview). From the Admin Console, an Adobe system administrator can access the GenStudio product profile and assign available product licenses to users.
 
 >[!NOTE]
->Only Adobe system admins can carry out enablement tasks that require Adobe Admin Console access.
+>Only Adobe system administrators can implement enablement tasks that require Adobe Admin Console access.
 
-## Step 1: Access the GenStudio product profile in the Adobe Admin Console
+## Step 1: Access the product profile in Adobe Admin Console
 
- Within the Admin console, the GenStudio product profile defines rules and user profiles that are unique to brand and campaign creation and management within GenStudio for Performance Marketing.
+ Within the Admin console, the product profile defines rules and user profiles that are unique to brand and campaign creation and management within GenStudio for Performance Marketing.
 
 **To access the GenStudio product profile**
 
@@ -28,7 +28,7 @@ Product provisioning is the one-time setup of your organization's GenStudio for 
 
 1. Select **[!UICONTROL GenStudio]** from the list of products. The Console displays the GenStudio product profile, which displays key information about the product licenses your organization has purchased. It also provides options to manage these licenses.
 
-You are now ready to assign licenses to, or provision, users to GenStudio for Performance Marketing. If you have logged into the wrong organization, switch to the correct organization before trying to assign entitlements to users. To change your organization, click the organization name from the top right corner and choose the **GenStudio** organization.
+You are now ready to assign licenses to (provision) users to GenStudio for Performance Marketing. If you logged into the wrong organization, switch to the correct organization before trying to assign entitlements to users. To change your organization, click the organization name from the top right corner and choose the **GenStudio** organization.
 
 ## Step 2: Provision users
 
@@ -39,15 +39,17 @@ Provisioning users in the Admin Console is the process of assigning product lice
 
 **Prerequisites**:
 
-Prepare for provisioning by first identifying this basic information about the users you want to add:
+Prepare for provisioning by first identifying basic information:
 
 * First and last name
 * Corporate email address
-* Type of entitlements you want to assign user. See [Adobe GenStudio for Performance Marketing user roles](user-roles.md) to better understand the three available user roles.
+* Type of entitlements you want to assign users. See [Adobe GenStudio for Performance Marketing user roles and permissions](user-roles.md) to better understand the available user roles.
 
-[Manage user individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
+You can add users individually or import account information for multiple users: 
 
-[Manage multiple users/ bulk CSV upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+* [Manage user individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
 
-Once you have onboarded users to your organization's deployment of GenStudio for Performance Marketing, a Genstudio system manager can [set up your organization's brand and media guidelines](get-started.md).
+* [Manage multiple users/bulk CSV upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+
+Once you onboard users to your organization's GenStudio for Performance Marketing, a Genstudio system manager can [set up your organization's brand and media guidelines](get-started.md).
 

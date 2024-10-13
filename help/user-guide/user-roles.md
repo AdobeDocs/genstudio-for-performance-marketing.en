@@ -1,22 +1,22 @@
 ---
-title: Adobe GenStudio for Performance Marketing user roles
-description: Learn about GenStudio for Performance Marketing user roles.
+title: Adobe GenStudio for Performance Marketing user roles and permissions
+description: Learn about GenStudio for Performance Marketing user roles and permissions.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 ---
 
-# Adobe GenStudio for Performance Marketing user roles
+# Adobe GenStudio for Performance Marketing user roles and permissions
 
 Creating and deploying modern marketing campaigns requires collaboration among stakeholders with varying responsibilities and skill sets. _User roles_ control stakeholder access to GenStudio for Performance Marketing's many capabilities. Your assigned user role determines the tasks that you can perform using this platform. An Adobe system administrator assigns you to a role in the GenStudio product profile in the Adobe Admin Console. Your welcome email identifies your assigned role.
 
 >[!NOTE]
->Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin Console to perform one-time setup tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketing platform interface. An Adobe system administrator who needs system manager entitlements in GenStudio must provision themselves as a GenStudio system manager in the Adobe Admin Console. See [Provision GenStudio for Performance Marketing](product-provisioning.md).
+>Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin Console to perform one-time setup tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketing platform interface. An Adobe system administrator who needs system manager entitlements must provision themselves as a GenStudio system manager in the Adobe Admin Console. See [Provision GenStudio for Performance Marketing](product-provisioning.md).
 
-## What are entitlements?
+## Entitlements
 
-_Entitlements_ Grant permission to perform specific tasks and access protected resources. Entitlements are defined in the user role as defined in the product profile. Users are granted the entitlements defined for a particular role when they are assigned to that user role.
+_Entitlements_ grant permission to perform specific tasks and access protected resources. Entitlements are defined in the user role within the product profile, and users receive these entitlements when assigned to that role.
 
-## User roles overview
+## User roles
 
 Three types of GenStudio for Performance Marketing user roles support this diversity of organizational roles. Permissions are tailored to each of these user types and support each user's responsibilities in the marketing organization. These three user role types are:
 
@@ -24,7 +24,7 @@ Three types of GenStudio for Performance Marketing user roles support this diver
 
 * **GenStudio collaborators** are the widest range of GenStudio for Performance Marketing users. Collaborators can view and approve content and are an essential part of the workflow that ensures that the content you generate matches your organization's needs and standards.
 
-* **GenStudio system managers** have the broadest set of permissions within GenStudio for Performance Marketing. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](/help/user-guide/guidelines/overview.md). GenStudio system managers have permission to create and publish brands, but have no user administration privileges.
+* **GenStudio system managers** have the broadest set of permissions within GenStudio for Performance Marketing. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](./guidelines/overview.md). System managers have permission to create and publish [!DNL Brands], but have no user administration privileges.
 
 ### GenStudio editors
 
@@ -45,13 +45,13 @@ The following table displays the default editor permissions:
 |   [!DNL Products] | yes    |   yes*      |  yes*       |    yes       |
 |   [!DNL Reviews and approvals]  |   yes     |  yes   |    yes     |    yes     |
 
-* Editors can edit and delete personas and products that they have created.
+Editors can edit and delete [!DNL Personas] and [!DNL Products] that they have created.
 
-GenStudio system managers can give editors permission to edit and delete a Brand.
+GenStudio system managers can give editors permission to edit and delete a [!DNL Brand].
 
 ### GenStudio collaborators
 
-_Collaborators_ can view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Collaborators include stakeholders who are essential to the success of the review and approval process for content but who do not need to create or directly edit content. Legal experts and managers of creatives are examples of potential collaborators. GenStudio for Performance Marketing collaborators might have permissions to create and view assets in other Creative Cloud products.
+_Collaborators_ can view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Collaborators include stakeholders who are essential to the success of the review and approval process for content but who do not need to create or directly edit content. Legal experts and managers of creatives are examples of potential collaborators. GenStudio for Performance Marketing collaborators might have permission to create and view assets in other Creative Cloud products.
 
 The following table displays the default collaborator permissions:
 
@@ -68,9 +68,9 @@ The following table displays the default collaborator permissions:
 
 ### GenStudio system managers
 
-_GenStudio system managers_ have the most powerful set of permissions within GenStudio for Performance Marketing. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](/help/user-guide/guidelines/overview.md). GenStudio system managers have permission to create and publish brands, but have no user administration privileges.
+_GenStudio system managers_ have the most powerful set of permissions within GenStudio for Performance Marketing. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](./guidelines/overview.md). System managers have permission to create and publish [!DNL Brands], but have no user administration privileges.
 
-The following table displays the default GenStudio system manager permissions:
+The following table displays the default system manager permissions:
 
 | Feature | Create  | Update | Delete | View |
 |-----------|----------------|----------------|----------------|----------------|
@@ -82,4 +82,4 @@ The following table displays the default GenStudio system manager permissions:
 |   [!DNL Products]  | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Reviews and approvals] |  yes      | yes    |     yes    |   yes      |
 
-See [Set up Adobe GenStudio for Performance Marketing](get-started.md) for an overview of preliminary set-up tasks.
+See [Get started with Adobe GenStudio for Performance Marketing](get-started.md) for an overview of preliminary set-up tasks.
