@@ -148,7 +148,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-b
 
 Feedback on the quality of generated brand-aligned assets can be submitted to improve the content generation process. Indicating whether the results are of high or poor quality helps enhance the overall content quality and user safety of GenStudio for Performance Marketing.
 
-![Submit feedback on content generation](/help/assets/feedback-feneration.png){width="600" zoomable="yes"}
+![Submit feedback on content generation](/help/assets/feedback-generation.png){width="600" zoomable="yes"}
 
 Generation feedback is applicable to an individual variant, not for the collected set of variants.
 

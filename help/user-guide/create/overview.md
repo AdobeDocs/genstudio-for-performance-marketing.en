@@ -44,7 +44,7 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
    </td>
    <td align="center" valign="top" width="100">
       <a href="/help/user-guide/create/create-display-ad.md">
-      <img alt="Create a display ad experience" src="../../assets/icons/icon-addtemplate.svg" width="35">
+      <img alt="Create a display ad experience" src="../../assets/icons/icon-addTemplate.svg" width="35">
       </a>
       <div>
          <a href="/help/user-guide/create/create-display-ad.md">
@@ -56,8 +56,6 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
 </table>
 
 GenStudio for Performance Marketing enables marketers to **create new marketing content**. In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) and inspiration images to inform the creation of brand-aligned content.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content.
-* **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] capabilities
 
