@@ -10,10 +10,8 @@ feature: Generative AI
 
 + [GenStudio for Performance Marketing Guide](home.md)
 + Release notes {#release-notes}
-  + [Beta release notes](beta-release-notes.md)
-+ [Get started with GenStudio for Performance Marketing](get-started.md)
-+ [Provision the product](product-provisioning.md)
-+ [User roles and permissions](user-roles.md)
++ [Release Notes](release-notes.md)
++ [Get started](get-started.md)
 + Introduction {#intro}
   + [Concepts](concepts.md)
   + [Effective prompts](effective-prompts.md)
