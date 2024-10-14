@@ -16,7 +16,7 @@ You can then finalize the draft by publishing it to [!DNL Content] with appropri
 
 1. Access the approved draft directly or from the _Approved variants ready to publish_ pop-up. This pop-up includes a **[!UICONTROL Close]** button to postpone publication of the approved asset and a **[!UICONTROL Publish]** button to start the publication process.
 
-1. Click **[!UICONTROL Publish]** to save the asset or experience to [!DNL Content]. GenStudio for Performance Marketing displays the _Confirm details for your approved content_ window, which displays thumbnails of the approved assets. 
+1. Click **[!UICONTROL Publish]** to save the asset or experience to [!DNL Content]. GenStudio for Performance Marketing displays the _Confirm details for your approved content_ window, which displays thumbnails of the approved assets.
 
 1. Add information about the content as prompted by GenStudio for Performance Marketing. This information is saved as metadata, which adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio for Performance Marketing campaign at this point in the publication process.
 

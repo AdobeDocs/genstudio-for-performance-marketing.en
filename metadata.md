@@ -5,7 +5,7 @@ type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/genstudio-for-performance-marketing.en
 mini-toc-levels: 2
 description: Adobe GenStudio for Performance Marketing Guides
-hide: yes
+hide: false
 ---
 
 # Metadata for internal use

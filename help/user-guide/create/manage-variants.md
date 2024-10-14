@@ -8,7 +8,7 @@ feature: Content, Assets, Experiences
 
 Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—[emails](/help/user-guide/create/email-experiences.md), [Meta ads](/help/user-guide/create/meta-experiences.md), and more—for use in digital marketing initiatives.
 
-When [creating experiences](/help/tutorials/tutorials.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to explicitly manage each piece of generated content.
+When [creating experiences](/help/user-guide/create/overview.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to explicitly manage each piece of generated content.
 
 ## Change draft name
 
@@ -32,7 +32,7 @@ You can edit the text fields in generated variants. Refine the text for your aud
 1. Enter new text.
 1. Click off the text field to save it.
 
-<!-- ## Re-generate sections
+## Re-generate sections
 
 GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
@@ -40,14 +40,14 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 **To re-generate individual variant sections**:
 
-1. After generating a set of variants, single-click editable text in a variant.
+1. After generating a set of variants, single-click any editable text in a variant.
 1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
 1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
 1. Click **[!UICONTROL Generate]**.
-1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
+1. If you want to regenerate the results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text. -->
+   The variant is updated with the revised text.
 
 ## Crop assets
 
@@ -92,7 +92,7 @@ Available size/aspect ratios are:
 1. Click **[!UICONTROL Duplicate and resize]**.
 
    [!DNL Create] builds a copy of each variant based on the new selected aspect ratio. All variants, including ones in the initial aspect ratio, are present in the Canvas.
-   
+
    For instance, if you generate four variants in a 1:1 aspect ratio initially and then change the aspect ratio to 4:5, _eight_ total variants are now available on the Canvas.
 
 ## Swap image
