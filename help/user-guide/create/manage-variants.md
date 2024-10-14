@@ -38,6 +38,8 @@ GenStudio for Performance Marketing has the built-in functionality to regenerate
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
+![Re-generate sections](/help/assets/regenerate-sections.png){width="400" zoomable="yes"}
+
 **To re-generate individual variant sections**:
 
 1. After generating a set of variants, single-click any editable text in a variant.
@@ -145,6 +147,8 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-b
 ## Generation feedback
 
 Feedback on the quality of generated brand-aligned assets can be submitted to improve the content generation process. Indicating whether the results are of high or poor quality helps enhance the overall content quality and user safety of GenStudio for Performance Marketing.
+
+![Submit feedback on content generation](/help/assets/feedback-feneration.png){width="600" zoomable="yes"}
 
 Generation feedback is applicable to an individual variant, not for the collected set of variants.
 
