@@ -34,10 +34,14 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
+   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Add content for use in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
+
+      ![Choose visual content](/help/assets/content-select.png){width="500" zoomable="yes"}
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
@@ -92,9 +96,15 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
+
+   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="500" zoomable="yes"}
+
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
+
+   ![Brand validation panel](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
+
 1. [Manually revise emails](#revise-generated-emails) to ensure your emails are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
