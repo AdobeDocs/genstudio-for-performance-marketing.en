@@ -41,7 +41,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Add content for use in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
 
-      ![Choose visual content](/help/assets/content-select.png){width="500" zoomable="yes"}
+      ![Choose visual content](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
@@ -97,7 +97,7 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
 
-   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="500" zoomable="yes"}
+   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
 
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 

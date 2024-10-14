@@ -34,10 +34,14 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
+   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Add content for use in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
+
+      ![Choose visual content](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
@@ -96,6 +100,8 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
+   ![Brand validation panel](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
+
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise ads](#revise-generated-meta-ads) to ensure your ads are closely aligned with your brand.
 
@@ -108,6 +114,9 @@ Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain
 **To obtain reviews and approvals**:
 
 1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted Meta ad experiences](/help/user-guide/approvals/approve-content.md).
+
+   ![Send drafts for review and approval](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
+
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
 1. Edit the drafts per review comments and [publish your Meta ad experiences](#publish-and-export-experience).
