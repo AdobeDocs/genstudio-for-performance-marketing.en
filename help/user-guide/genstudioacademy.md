@@ -21,6 +21,7 @@ hidefromtoc: true
 
 <img src="../assets/coming-soon.png">
 
+
 >[!BEGINSHADEBOX]
 
 <a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html"><img src="../assets/put-your-learnings-into-practice.png"></a>

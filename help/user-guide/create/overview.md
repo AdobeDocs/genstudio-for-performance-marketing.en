@@ -54,7 +54,7 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
 </table>
 
 GenStudio for Performance Marketing enables marketers to **create new marketing content**. In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) and inspiration images to inform the creation of brand-aligned content.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content.
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] capabilities
@@ -69,7 +69,7 @@ Templates are [uploaded and stored in [!DNL Content]](/help/user-guide/content/o
 
 ### Parameters
 
-In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) and [!DNL Content] (assets) to shape the generated experience.
+In the prompt drawer, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) and [!DNL Content] (assets) to shape the generated experience.
 
 These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio for Performance Marketing and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
@@ -79,7 +79,7 @@ Content—uploaded or added image assets—in _Parameters_ are used in generated
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create].
 
-To create AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt area and click **[!UICONTROL Generate]**.
+To create AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt drawer and click **[!UICONTROL Generate]**.
 
 ### Brand validation
 
