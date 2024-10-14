@@ -21,11 +21,11 @@ System managers set up Adobe GenStudio for Performance Marketing by entering or 
 
 ### Step 1: Add guidelines
 
-Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of content editors and collaborators. [Guidelines](./guidelines/overview) capture brand characteristics such as logos, tone of voice, and color palettes. You can either upload [[!DNL Brands] guidelines](./guidelines/brands) documents or manually enter brand information. [[!DNL Personas] guidelines](./guidelines/personas) and [[!DNL Products] guidelines](./guidelines/products) are important, too. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide the content generation.
+Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of content editors and collaborators. [Guidelines](./guidelines/overview.md) capture brand characteristics such as logos, tone of voice, and color palettes. You can either upload [[!DNL Brands] guidelines](./guidelines/brands.md) documents or manually enter brand information. [[!DNL Personas] guidelines](./guidelines/personas.md) and [[!DNL Products] guidelines](./guidelines/products.md) are important, too. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide the content generation.
 
 #### Prepare your guideline documents
 
-Comprehensive and focused [[!DNL Brands]](./guidelines/brands), [[!DNL Products]](./guidelines/products), and [[!DNL Personas]](./guidelines/personas) guidelines define core aspects of your organization's marketing campaigns. GenStudio for Performance Marketing extracts information from these guidelines to begin building your brand.
+Comprehensive and focused [[!DNL Brands]](./guidelines/brands.md), [[!DNL Products]](./guidelines/products.md), and [[!DNL Personas]](./guidelines/personas.md) guidelines define core aspects of your organization's marketing campaigns. GenStudio for Performance Marketing extracts information from these guidelines to begin building your brand.
 
 Follow these best practices when preparing guidelines:
 
