@@ -9,7 +9,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2024.10.14 General Availability release {#latest}
 
-This release introduces Adobe GenStudio for Performance Marketing, a generative AI-based application that accelerates the planning, development, and analysis of marketing campaigns. GenStudio for Performance Marketing empowers marketing teams to create on-brand, multi-channel content for ads, emails, and campaigns while providing real-time insights to optimize content performance. 
+This release introduces Adobe GenStudio for Performance Marketing, a generative AI-based application that accelerates the planning, development, and analysis of marketing campaigns. GenStudio for Performance Marketing empowers marketing teams to create on-brand, multi-channel content for ads, emails, and campaigns while providing real-time insights to optimize content performance.
 
 ### Features
 
@@ -25,7 +25,7 @@ Major product features include:
 
 **[!DNL Insights]** offers real-time assessment of content performance, helping marketers optimize their strategies and make data-driven decisions.
 
-GenStudio for Performance Marketing integrates with other Adobe Experience Cloud products including Adobe Express and Adobe AEM Assets. 
+GenStudio for Performance Marketing integrates with other Adobe Experience Cloud products including Adobe Express and Adobe AEM Assets.
 
 ### Additional information
 
@@ -34,5 +34,3 @@ See the following helpful resources:
 * [Adobe GenStudio for Performance Marketing User Guide](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
 
 * [Adobe GenStudio Academy](genstudioacademy.md), Adobe's online learning platform for using generative AI technologies in the creative process. [Register for GenStudio Academy](http://adobe.ly/genstudioacademyregistration).
-
-
