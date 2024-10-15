@@ -53,7 +53,10 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter [_Brand voice guidelines_](brands.md#brand-voice-guidelines).
+1. Enter [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines).
+
+   ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="650" zoomable="yes"}
+
 1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
 1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
 
@@ -95,7 +98,9 @@ To add a product, [upload a product guide](#upload-a-product) or [manually creat
 
 In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
 
-You can add [!DNL Products] in GenStudio for Performance Marketing to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
+
+You can add [!DNL Products] in GenStudio for Performance Marketing to specify individual product focus areas when creating content.
 
 See [[!DNL Products]](products.md).
 
@@ -206,7 +211,10 @@ You can manually add persona details, instead of uploading existing persona docu
 
    You can populate various optional guidelines and imagery to build out your persona.
 
-1. Add information about your brand in the _Description_ section.
+1. Add information about your [!DNL Persona] in the _Description_ section.
+
+   ![Add a [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"}
+
 1. Click **[!UICONTROL New persona name]** and enter a name for the [!DNL Persona].
 1. Click into _Description_ and enter a description of this [!DNL Persona].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].
