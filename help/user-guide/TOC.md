@@ -13,6 +13,8 @@ feature: Generative AI
 + [Get started](get-started.md)
 + Introduction {#intro}
   + [Concepts](concepts.md)
+  + [Product provisioning](product-provisioning.md)
+  + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
