@@ -10,8 +10,6 @@ exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
 
 GenStudio for Performance Marketing leverages the power of guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
-![[!DNL Personas] guidelines in GenStudio for Performance Marketing](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
-
 **To view or modify a persona**:
 
 1. In the left navigation area, click **[!UICONTROL Personas]**.
@@ -23,6 +21,8 @@ See [Add guidelines](add-guidelines.md) to learn how to add or modify a persona 
 ## [!DNL Personas] guidelines
 
 Individual persona guidelines give GenStudio for Performance Marketing a clear picture of your [!DNL Personas].
+
+![Persona guidelines](/help/assets/personas.png){width="600" zoomable="yes"}
 
 These guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Personas] guidelines.
 

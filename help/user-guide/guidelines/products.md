@@ -10,8 +10,6 @@ exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
 
 [!DNL Products] encompass all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, GenStudio for Performance Marketing guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](/help/user-guide/guidelines/overview.md)—work together to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
 
-![[!DNL Products] guidelines in GenStudio for Performance Marketing](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
-
 **To view or modify a product**:
 
 1. In the left navigation area, click **[!UICONTROL Products]**.
@@ -23,6 +21,8 @@ See [Add guidelines](add-guidelines.md) to learn how to add or modify a product 
 ## [!DNL Products] guidelines
 
 Individual product guidelines give GenStudio for Performance Marketing a clear picture of your products.
+
+![Product guidelines](/help/assets/products.png){width="600" zoomable="yes"}
 
 These guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your [!DNL Products] guidelines.
 
