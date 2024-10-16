@@ -157,7 +157,7 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 
 * Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
 * Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
-* * Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
+* Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
 
 ## Add [!DNL Personas]
 

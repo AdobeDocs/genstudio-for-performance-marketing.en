@@ -18,7 +18,7 @@ If you are part of the Adobe community and you want to create an article or subm
 
 ### Major changes from Adobe Employees
 
-If you are a technical writer, program manager, or developer from an Adobe product team, and it is your job to contribute to or author technical articles, use the private repository at `https://git.corp.adobe.com/AdobeDocs`. 
+If you are a technical writer, program manager, or developer from an Adobe product team, and it is your job to contribute to or author technical articles, use the private repository at `https://git.corp.adobe.com/AdobeDocs`.
 
 ## Tools and setup
 

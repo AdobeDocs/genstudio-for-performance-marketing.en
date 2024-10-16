@@ -22,9 +22,11 @@ Provide text alternatives for non-textual content, such as images.
 
 ![Collage of ideas, books, man holding giant pencil, computer](../../assets/card-create-assets.png){width="400"}
 
-## Contrast ratios
+## Fonts
 
-Provide an appropriate contrast between text and background. Use the following minimum contrast ratios:
+Use fonts that are easy to read. For example, Sans Serif fonts have a clean, block-like appearance, which contributes to a higher readability.
+
+Provide an appropriate contrast between text and background. Avoid using font colors that produce dark text on a dark background and light text on a light background. Consider the contrast guidelines for an optimal ratio:
 
 - Text and images of text: contrast ratio of at least 4.5:1
 - Large text and images of large-scale text: contrast ratio of at least 3:1

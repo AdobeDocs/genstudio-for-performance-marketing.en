@@ -27,11 +27,11 @@ To create a new email experience, use an available template to provide the frame
 
 ## Add parameters
 
-Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt area supercharges the content generation process and is an integral preparatory step for generating an email experience.
+Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer supercharges the content generation process and is an integral preparatory step for generating an email experience.
 
 **To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the prompt area.
+1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
@@ -48,7 +48,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 >
 >If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
 
-When you are finished adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
+When you are finished adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
 ## Enter a prompt
 

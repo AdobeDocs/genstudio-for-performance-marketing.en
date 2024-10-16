@@ -27,11 +27,11 @@ See [Template elements](use-templates.md#template-elements) and [Template exampl
 
 GenStudio for Performance Marketing supports these aspect ratios for Meta ads:
 
-* Square (1:1): 1080 x 1080 pixels 
+* Square (1:1): 1080 x 1080 pixels
 * Vertical (4:5): 1080 x 1350 pixels
 * Story (9:16): 1080 x 1920 pixels
 
-If the ad is not designed in one of these aspect ratios, GenStudio for Performance Marketing automatically crops the image into the appropriate size.  
+If the ad is not designed in one of these aspect ratios, GenStudio for Performance Marketing automatically crops the image into the appropriate size.
 
 ## Test a Meta ad template
 
@@ -41,7 +41,7 @@ Use your email delivery or proofing platform to test your email and verify that 
 
 ## Define generated content areas
 
-Define the areas in your email template that should be dynamically populated with content from GenStudio for Performance Marketing. 
+Define the areas in your email template that should be dynamically populated with content from GenStudio for Performance Marketing.
 
 To define generated content areas:
 

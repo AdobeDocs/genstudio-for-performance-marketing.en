@@ -37,42 +37,42 @@ When this message appears, you can edit the prompt and try again _or_ flag the p
 
 The demand is high for quality experiences in multiple channels at a faster pace. GenStudio for Performance Marketing simplifies the content supply chain into a well-organized workflow for marketers. GenStudio for Performance Marketing leverages Adobe technology at each stage of the lifecycle.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr style="border: 0;">
-    <td style="width: 120px;">
-       <img alt="calendar" src="../assets/csc-workflow-planning.png" width="100">
+    <td>
+       <p><strong>Workflow & Planning</strong></p>
     </td>
     <td>
         <p>Brainstorm ideas, define guidelines, and build a strategy around content to engage your audience.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="brush and canvas" src="../assets/csc-creation-production.png" width="100">
+    <td>
+        <p><strong>Creation & Production</strong></p>
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="images and more" src="../assets/csc-content-mgmt.png" width="100">
+    <td>
+        <p><strong>Content Management</strong></p>
     </td>
     <td>
         <p>Store, share, and find creative assets in the centralized repository. Reuse and revitalize content based on performance.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="paper airplane" src="../assets/csc-delivery-activation.png" width="100">
+    <td>
+        <p><strong>Delivery & Activation</strong></p>
     </td>
     <td>
         <p>Activate content and publish across multiple marketing channels.</P>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="chart" src="../assets/csc-reporting-insights.png" width="100">
+    <td>
+        <p><strong>Reporting & Insights</strong></p>
     </td>
     <td>
         <p>Collect data and derive insights for asset performance optimization.</p>
