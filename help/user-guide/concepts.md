@@ -10,10 +10,10 @@ GenStudio for Performance Marketing is a standalone enterprise product that embo
 
 With GenStudio for Performance Marketing you can:
 
-- Create on-brand content using natural language prompts
-- Collaborate with stakeholders to review and approve generated content
-- Save generated and approved content to access for future marketing campaigns
-- Evaluate content performance with insights about campaigns and content attributes
+* Create on-brand content using natural language prompts
+* Collaborate with stakeholders to review and approve generated content
+* Save generated and approved content to access for future marketing campaigns
+* Evaluate content performance with insights about campaigns and content attributes
 
 ## Generative AI technology
 
@@ -22,6 +22,16 @@ GenStudio for Performance Marketing harnesses the power of generative AI to acce
 Begin by effectively training GenStudio for Performance Marketing on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature.
 
 See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
+
+## Data governance
+
+When working with AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Thorough testing from multiple perspectives, a comprehensive ethics review, and implementing effective mitigation plans is important to prevent harmful content from emerging in outputs.
+
+This approach reinforces social responsibility, minimizes reputational risk, and ensures adherence to Adobe's Trust & Safety and Ethics policies.
+
+GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content per data governance standards and policies. When such content is detected, you are made aware that asset generation is blocked with a "Can't generate" message.
+
+When this message appears, you can edit the prompt and try again _or_ flag the prompt content for review by GenStudio for Performance Marketing. The prompt data for content that is flagged for review is collected for internal review purposes. 
 
 ## Content lifecycle
 
