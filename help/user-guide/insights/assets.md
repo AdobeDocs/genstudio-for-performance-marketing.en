@@ -46,4 +46,5 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost ($) for a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of actions completed | Helps to identify assets that result in valuable actions. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost ($) associated with each click on an asset.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount ($) spent from the budget as it relates to individual assets over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL Experiences count]** | The number of experiences that use this asset. | |
 | **[!UICONTROL Attributes]**  | A list of attributes detected and applied to this asset. | |
