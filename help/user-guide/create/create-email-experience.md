@@ -49,9 +49,8 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click **[!UICONTROL Use]**.
 
 >[!NOTE]
->
->If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section.
->![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="400" zoomable="yes"}
+>If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
+>![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 When you are finished adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
