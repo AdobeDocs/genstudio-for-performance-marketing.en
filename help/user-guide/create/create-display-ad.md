@@ -50,6 +50,8 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 After guidelines are selected, craft a prompt using natural language to start generating content for your new display ad experience. To enhance the quality of the generated display ad experiences, it is crucial to craft detailed and descriptive prompts.
 
+![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
+
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
 **To enter a prompt**:
@@ -109,6 +111,11 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 To make the generated display ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new display ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
+   1. Select _[!UICONTROL [!DNL Campaigns]]_ and add _[!UICONTROL More details]_ if desired.
+   1. Click **[!UICONTROL Publish]**.
+
+      ![Publish a display ad](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+
 1. **To export your new display ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—JPG only—and click **[!UICONTROL Export]**.
 

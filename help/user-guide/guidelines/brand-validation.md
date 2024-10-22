@@ -20,7 +20,7 @@ A summary of brand validation information for each generated content variant is 
 
 The _[!DNL Brand] guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested.
 
-![[!DNL Brand] guidelines check](/help/assets/brand-guidelines-check.png){width="650" zoomable="yes"}
+![[!DNL Brand] guidelines check](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
 
 Click the icon to see how many guidelines are compliant with your brand and how many guidelines need review.
 
