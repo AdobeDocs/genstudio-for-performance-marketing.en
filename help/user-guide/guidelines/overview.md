@@ -30,12 +30,12 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 [!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enable two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in [[!DNL Create]](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
-* [**Brand Validation**](#brand-validation), which happens as part of the content creation process
+* [**Brand validation**](#brand-validation), which happens as part of the content creation process
 
-## Brand Validation
+## Brand validation
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
 
 GenStudio for Performance Marketing conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
-See [Brand Validation](/help/user-guide/guidelines/brand-validation.md).
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).

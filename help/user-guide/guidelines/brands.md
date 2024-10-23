@@ -22,6 +22,8 @@ You can upload brand guideline docs—up to three PDF or DOC files—to GenStudi
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
+![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
+
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
 
 ### Brand voice guidelines
