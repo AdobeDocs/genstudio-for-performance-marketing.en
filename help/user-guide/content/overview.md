@@ -33,6 +33,16 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
       </p>
    </td>
    <td align="center" valign="top" width="100">
+      <a href="../content/asset-details.md#edit-in-express">
+         <img alt="Edit in Adobe Express" src="../../assets/icons/icon-editExpress.png">
+      </a>
+      <p>
+         <a href="../content/asset-details.md#edit-in-express">
+         <strong>Edit assets in Adobe Express</strong>
+         </a>
+      </p>
+   </td>
+   <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
          <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.png">
       </a>
@@ -49,16 +59,6 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
       <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>Upload template</strong>
-         </a>
-      </p>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/asset-details.md#edit-in-express">
-         <img alt="Edit in Adobe Express" src="../../assets/icons/icon-editExpress.png">
-      </a>
-      <p>
-         <a href="../content/asset-details.md#edit-in-express">
-         <strong>Edit assets in Adobe Express</strong>
          </a>
       </p>
    </td>
@@ -79,4 +79,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements. Learn about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into building templates with the [Customize a template](customize-template.md) topic.

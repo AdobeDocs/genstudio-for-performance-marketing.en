@@ -48,6 +48,7 @@ feature: Generative AI
     + [Work with templates](content/use-templates.md)
     + [Customize a template](content/customize-template.md)
     + [Create accessible templates](content/accessibility-for-templates.md)
+    + [Best practices](content/best-practices-for-templates.md)
     + [Prepare an email template](content/email-template.md)
     + [Prepare a Meta ad template](content/meta-template.md)
 + Campaigns {#campaigns}

@@ -7,9 +7,15 @@ exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
 # Customize a template
 
-Adapt your HTML templates for Adobe GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+You can customize a template for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content.
 
-The next few sections explain how to add content placeholders, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+
+Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+
+>[!TIP]
+>
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Content placeholders
 
@@ -41,7 +47,7 @@ GenStudio for Performance Marketing populates certain fields automatically in th
 
 - **Email template** does not require you to identify the `subject` field
 - **Meta ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
-- **Display Ads template** does not require you to idenitify the `CTA` field
+- **Display Ads template** does not require you to identify the `CTA` field
 
 >[!WARNING]
 >
