@@ -33,9 +33,7 @@ Select any of the following to open a detailed list of feature categories:
 
 +++**Image features**
 
-The following tables list the image-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
-
-**Image Colors and Tags**
+The following tables list the image color, tone, and clutter feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
 | Category | Description | Values |
 | -------- | ----------- | ------ |
@@ -48,7 +46,11 @@ The following tables list the image-based feature categories recognized by the G
 | Visual Attention Spread | The level of viewer attention spread across an image. | `high`, `medium`, `low` |
 | Visual Content Density | The amount of information or detail in an image. | `high`, `medium`, `low` |
 
-**Image Styles**
++++
+
++++**Image styles**
+
+The following tables list the image style feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
 | Category | Description | Values |
 | -------- | ----------- | ------ |
@@ -57,22 +59,19 @@ The following tables list the image-based feature categories recognized by the G
 | Camera Setting         | The configuration of the camera's controls to produce the image. | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
 | Image Type             | The visual treatment of an image. | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
 | Lighting Condition     | The type of light in an image. | `golden hour`, `blue hour`, `midday`, `overcast`, `night`, `high-key`, `low-key`, `daylight`, `incandescent`, `fluorescent`, `colorful`, `studio` |
-| Photography Styles     | The subject and technique used to capture an image. | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
+| Photography Styles     | The subject and technique used to capture an image. | `aerial`, `architectural`, `astrophotography`, `black and white`, `business`, `cityscape`, `commercial`, `composite`, `creative`, `editorial`, `event`, `family`, `fashion`, `fine art`, `food`, `holiday`, `indoor`, `landscape`, `lifestyle`, `macro`, `minimalist`, `night`, `outdoor`, `pet`, `portrait`, `product`, `real estate`, `seascape`, `sports`, `still-life`, `street`, `travel`, `underwater`, `wildlife` |
 
 +++
 <!--
 +++**Video features**
 
-The following table lists the video-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+The following table lists the video feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
 | Category | Description | Values |
 | -------- | ----------- | ------ |
 
 
-| Audio Genre  | |
-| Audio Genre Category  | |
-| Audio Mood  | |
-| Audio Types| |
+
 | Objects  | |
 | Orientation  | |
 | People Categories  | |
@@ -82,11 +81,18 @@ The following table lists the video-based feature categories recognized by the G
 | Video Category  | |
 | Video Type  | |
 
++++**Video audio**
+
+| Audio Genre  | |
+| Audio Genre Category  | |
+| Audio Mood  | |
+| Audio Types| |
+
 +++
 
 +++**Text features**
 
-The following table lists the text-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+The following table lists the text feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
 | Category | Description | Values |
 | -------- | ----------- | ------ |
@@ -105,6 +111,7 @@ The following table lists the text-based feature categories recognized by the Ge
 | Words Count Per Sentence  | |
 
 +++
+
 -->
 
 ## Attribute metrics
