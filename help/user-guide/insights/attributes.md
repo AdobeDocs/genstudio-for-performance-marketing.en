@@ -25,40 +25,53 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 ## Categories
 
-GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. An example value of _image orientation_ is `landscape`.
+GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. For example, the _image orientation_ category has a `landscape`, `portrait`, or `square` value.
 
 Attributes that are detected and automatically applied cannot be edited.
 
-<!--
 Select any of the following to open a detailed list of feature categories:
 
 +++**Image features**
 
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
-| Background Colors      | 14 colors |
+The following table lists the image-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+
+| Category | Description | Values |
+| -------- | ----------- | ------ |
+| Colors and tone | The color of elements in the background or foreground of the image.<br>The overall warmth or coolness of the image colors. | Returns the Color profile from a set of 40 pre-determined colors<br>Tones: `warm`, `cool`, `neutral` |
+| Objects                | The items, entities, and elements that are visible. | Examples: `lighthouse`, `orchid`, `tunnel` |
+| Orientation            | Image alignment, based on its width-to-height ratio. | Examples: `landscape`, `portrait`, `square` |
+| People Categories      | The kinds of people in an image. | Examples: `person`, `social group`, `people`, `kid` |
+| Scenes                 | The setting or environment depicted in an image. | Examples: `city`, `island`, `living room` |
+| Tags            | Objects, elements, and other image characteristics. | Uses a fixed vocabulary of 4383 wordsExamples include: `gaming`, `law`, `yoga` |
+| Visual Attention Spread| The level of viewer attention spread across an image. | `high`, `medium`, `low` |
+| Visual Content Density | The amount of information or detail in an image. | `high`, `medium`, `low` |
+
+<!--
+
 | Camera Position        | - `low angle`, `high angle`, `dutch angle`<br>- `overhead view`, `eye level`,`bird's eye view` |
 | Camera Proximity       | `close up`, `mid shot`, `long shot` |
 | Camera Setting         | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
 | Foreground Colors      | 14 colors |
 | Image Type             | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
 | Lighting Condition     | golden hour, blue hour, midday, overcast, night, high-key, low-key, daylight, incandescent, fluorescent, colorful, studio |
-| Objects                | The items, entities, and elements that are visible, such as `lighthouse`, `orchid`, or `tunnel`. |
-| Orientation            | Examples: `landscape`, `portrait`, `square` |
-| Overall Tone           | `warm`, `cool`, `neutral` |
-| People Categories      | Examples: `person`, `social group`, `people`, `kid` |
+
+
+
 | Photography Styles     | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
-| Scenes                 | Examples: `city`, `island`, `living room` |
-| Tags                   | Examples: `gaming`, `law`, `yoga` |
-| Visual Attention Spread| The level of viewer attention spread across an image: `high`, `low` |
-| Visual Content Density | The amount of information or detail in an image: `high`, `low` |
+
+
+
 
 +++
 
 +++**Video features**
 
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
+The following table lists the video-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+
+| Category | Description | Values |
+| -------- | ----------- | ------ |
+
+
 | Audio Genre  | |
 | Audio Genre Category  | |
 | Audio Mood  | |
@@ -76,8 +89,10 @@ Select any of the following to open a detailed list of feature categories:
 
 +++**Text features**
 
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
+The following table lists the text-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+
+| Category | Description | Values |
+| -------- | ----------- | ------ |
 | Emojis Count  | |
 | HashTags Count  | |
 | Keywords  | |
@@ -93,7 +108,6 @@ Select any of the following to open a detailed list of feature categories:
 | Words Count Per Sentence  | |
 
 +++
-
 -->
 
 ## Attribute metrics
