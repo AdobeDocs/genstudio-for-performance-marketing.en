@@ -33,7 +33,16 @@ GenStudio for Performance Marketing supports ad formats, such as asset feeds, li
 
 | Instagram    | Facebook/Meta    | Messenger    | Audience Network |
 | ------------ | ---------------- | ------------ | ---------------- |
-| Explore<br>Explore Home<br>Explore Grid Home<br>Feed<br>Reels<br>Profile Feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels Overlay<br>Right column<br>Search results<br>Stories<br>Video Feeds<br>Ads on Facebook Reels | Inbox<br>Stories | Native, Banner and Interstitial<br>Rewarded Video |
+| Explore<br>Explore home<br>Explore grid Home<br>Feed<br>Reels<br>Profile feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels overlay<br>Right column<br>Search results<br>Stories<br>Video feeds<br>Ads on Facebook reels | Inbox<br>Stories | Native, banner, and interstitial<br>Rewarded video |
+
+#### Unsupported placements
+
+GenStudio for Performance Metrics does not support the following ad placements:
+
+- Collaborative
+- Catalog/Advantage+ catalogue
+- Instance Experience
+- Carousel
 
 ## Experiences metrics
 
