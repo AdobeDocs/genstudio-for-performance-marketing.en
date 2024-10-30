@@ -33,37 +33,34 @@ Select any of the following to open a detailed list of feature categories:
 
 +++**Image features**
 
-The following table lists the image-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+The following tables list the image-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
+
+**Image Colors and Tags**
 
 | Category | Description | Values |
 | -------- | ----------- | ------ |
-| Colors and tone | The color of elements in the background or foreground of the image.<br>The overall warmth or coolness of the image colors. | Returns the Color profile from a set of 40 pre-determined colors<br>Tones: `warm`, `cool`, `neutral` |
-| Objects                | The items, entities, and elements that are visible. | Examples: `lighthouse`, `orchid`, `tunnel` |
-| Orientation            | Image alignment, based on its width-to-height ratio. | Examples: `landscape`, `portrait`, `square` |
-| People Categories      | The kinds of people in an image. | Examples: `person`, `social group`, `people`, `kid` |
-| Scenes                 | The setting or environment depicted in an image. | Examples: `city`, `island`, `living room` |
-| Tags            | Objects, elements, and other image characteristics. | Uses a fixed vocabulary of 4383 wordsExamples include: `gaming`, `law`, `yoga` |
-| Visual Attention Spread| The level of viewer attention spread across an image. | `high`, `medium`, `low` |
+| Colors and tone   | The color of elements in the background or foreground of the image.<br>The overall warmth or coolness of the image colors. | Colors: Returns the color profile from a set of 40 pre-determined colors.<br>Tones: `warm`, `cool`, `neutral` |
+| Objects           | The items, entities, and elements that are visible. | Examples: `lighthouse`, `orchid`, `tunnel` |
+| Orientation       | Image alignment, based on its width-to-height ratio. | Examples: `landscape`, `portrait`, `square` |
+| People Categories | The kinds of people in an image. | Examples: `person`, `social group`, `people`, `kid` |
+| Scenes            | The setting or environment depicted in an image. | Examples: `city`, `island`, `living room` |
+| Tags              | Objects, elements, and other image characteristics. | Examples: `gaming`, `law`, `yoga` |
+| Visual Attention Spread | The level of viewer attention spread across an image. | `high`, `medium`, `low` |
 | Visual Content Density | The amount of information or detail in an image. | `high`, `medium`, `low` |
 
-<!--
+**Image Styles**
 
-| Camera Position        | - `low angle`, `high angle`, `dutch angle`<br>- `overhead view`, `eye level`,`bird's eye view` |
-| Camera Proximity       | `close up`, `mid shot`, `long shot` |
-| Camera Setting         | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
-| Foreground Colors      | 14 colors |
-| Image Type             | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
-| Lighting Condition     | golden hour, blue hour, midday, overcast, night, high-key, low-key, daylight, incandescent, fluorescent, colorful, studio |
-
-
-
-| Photography Styles     | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
-
-
-
+| Category | Description | Values |
+| -------- | ----------- | ------ |
+| Camera Position        | The location and angle of the camera relative to the subject. | - `low angle`, `high angle`, `dutch angle`<br>- `overhead view`, `eye level`,`bird's eye view` |
+| Camera Proximity       | The distance between the camera and the subject of an image. | `close up`, `mid shot`, `long shot` |
+| Camera Setting         | The configuration of the camera's controls to produce the image. | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
+| Image Type             | The visual treatment of an image. | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
+| Lighting Condition     | The type of light in an image. | `golden hour`, `blue hour`, `midday`, `overcast`, `night`, `high-key`, `low-key`, `daylight`, `incandescent`, `fluorescent`, `colorful`, `studio` |
+| Photography Styles     | The subject and technique used to capture an image. | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
 
 +++
-
+<!--
 +++**Video features**
 
 The following table lists the video-based feature categories recognized by the GenStudio for Performance Marketing generative AI.
