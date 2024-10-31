@@ -60,4 +60,5 @@ feature: Generative AI
   + [Experiences](insights/experiences.md)
   + [Assets](insights/assets.md)
   + [Attributes](insights/attributes.md)
+  + [Attribute categories](insights/attribute-category.md)
 + [GenStudio Academy - Hidden](genstudioacademy.md)
