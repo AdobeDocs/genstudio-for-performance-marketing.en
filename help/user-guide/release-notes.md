@@ -7,7 +7,25 @@ recommendations: noDisplay
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2024.10.14 General Availability release {#latest}
+## 2024.10.31  {#latest}
+
+### New features
+
+* The **[!DNL Content]** search filter now supports search by color tag.  <!-- GS-5501 -->
+
+* The **[!DNL Create]** Canvas now displays character counts for email fragments. <!-- GS-5819 -->
+
+### Fixes
+
+* Missing screen reader labels have been added to mobile and desktop `view` elements. <!-- GS-5624 4729 -->
+
+* The **[!DNL Create]** Canvas email subject line and pre-header text areas are now dynamic in height. <!-- GS-6258 -->
+
+* Layout issues with email borders have been resolved. <!-- GS-6631 -->
+
+* Keyboard focus now works as expected on the **[!DNL Content]** **[!UICONTROL Delete]** button. Previously, this button could not be reached or operated by the keyboard.  <!-- GS-4065 -->
+
+## 2024.10.14 General Availability release
 
 This release introduces Adobe GenStudio for Performance Marketing, a generative AI-based application that accelerates the planning, development, and analysis of marketing campaigns. GenStudio for Performance Marketing empowers marketing teams to create on-brand, multi-channel content for ads, emails, and campaigns while providing real-time insights to optimize content performance.
 
