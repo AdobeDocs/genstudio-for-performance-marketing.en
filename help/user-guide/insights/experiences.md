@@ -40,17 +40,13 @@ GenStudio for Performance Marketing supports ad formats, such as asset feeds, li
 GenStudio for Performance Metrics does not support the following ad placements:
 
 - Collaborative
-- Catalog/Advantage+ catalogue
+- Catalog/Advantage+ catalog
 - Instance Experience
 - Carousel
 
-## Experiences metrics
+## Experience performance
 
 Insights metrics can help you evaluate which experiences contribute to the success of a campaign and which ad placements are most effective.
-
-<!-- For example, -->
-
-### Metrics detail
 
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Experiences] table view. Each metric includes a brief definition as it relates to ad names, how the metric is calculated, and one or more insights to help understand its significance and impact on an experience.
 
@@ -67,3 +63,14 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Use to monitor spending on experiences that result in valuable customer actions. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an experience placement.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+
+## Placement performance
+
+In the _Experience details_ view, the top three metrics reflect the overall performance of the selected experience. However, the _Performance by placement_ section shows the detailed metrics for each ad placement. The following table provides definitions for placement performance metrics:
+
+| Metric                 | Definition                    | Calculation |
+| ---------------------- | ----------------------------- | ----------- |
+| **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks in the ad placement of the experience. | `clicks` divided by `impressions` |
+| **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent on this ad placement to achieve a specific customer action, such as a purchase or subscription. | total amount `spent` divided by the number of customer actions completed |
+| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an experience placement. | total amount `spent` divided by `clicks` |
+| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time. | |
