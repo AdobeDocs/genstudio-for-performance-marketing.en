@@ -34,155 +34,29 @@ The following table lists the image feature categories recognized by the GenStud
 
 The following table lists the video feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Description</th>
-      <th>Values</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Audio Genre</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Audio Genre Category</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Audio Mood</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Audio Types</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Objects</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Orientation</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>People Categories</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Scenes</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Styles</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tags</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Video Category</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Video Type</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Category            | Description | Values |
+|---------------------|-------------|--------|
+| Audio Genre         |             |        |
+| Audio Genre Category|             |        |
+| Audio Mood          |             |        |
+| Audio Types         |             |        |
+| Objects             |             |        |
+| Orientation         |             |        |
+| People Categories   |             |        |
+| Scenes              |             |        |
+| Styles              |             |        |
+| Tags                |             |        |
 
 ## Text features
 
 The following table lists the text feature categories recognized by the GenStudio for Performance Marketing generative AI.
 
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Description</th>
-      <th>Values</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Emojis Count</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HashTags Count</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Keywords</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Marketing Emotions</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Narratives</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Persuasion Strategies</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Readability</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sentences Count</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stop Words Ratio</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Text Quotes Count</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tones</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Words Count</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Words Count Per Sentence</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Category             | Description | Values |
+|----------------------|-------------|--------|
+| Emojis Count         |             |        |
+| HashTags Count       |             |        |
+| Keywords             |             |        |
+| Marketing Emotions   |             |        |
+| Narratives           |             |        |
+| Persuasion Strategies|             |        |
+| Readability          |             |        |
