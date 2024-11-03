@@ -11,7 +11,7 @@ GenStudio system managers by default have permissions that permit them to create
 These additional configuration steps include:
 
 1. Create a new user group in the Adobe Admin Console.
-1. Assign a GenStudio system manager to the user group.
+1. Assign a GenStudio system manager product profile to the user group.
 1. Create an Adobe GenStudio [!DNL Brands] project from the Console _Storage_ tab.
 1. Invite the user group you just created to the [!DNL Brands] project.
 1. Add users to the user group.
