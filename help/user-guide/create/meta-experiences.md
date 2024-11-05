@@ -22,7 +22,6 @@ Editable sections of an email experience include:
 * On-image text
 * Image
 * Brand logo
-* 
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
 
