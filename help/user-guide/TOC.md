@@ -9,13 +9,13 @@ feature: Generative AI
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
 + [GenStudio for Performance Marketing Guide](home.md)
-+ Release notes {#release-notes}
-  + [Beta release notes](beta-release-notes.md)
++ [Release Notes](release-notes.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
   + [Concepts](concepts.md)
+  + [Product provisioning](product-provisioning.md)
+  + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
-  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)
@@ -27,7 +27,11 @@ feature: Generative AI
   + [[!DNL Create] overview](create/overview.md)
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
+  + [Display ad experiences](create/display-ad-experiences.md)
   + [Manage variants](create/manage-variants.md)
+  + [Create an email experience](create/create-email-experience.md)
+  + [Create a Meta ad experience](create/create-meta-ad.md)
+  + [Create a display ad experience](create/create-display-ad.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)

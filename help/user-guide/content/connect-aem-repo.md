@@ -22,20 +22,28 @@ Follow the **Deploy Content Hub** self-service process to enable [!DNL Content H
 
 After you enable [!DNL AEM Assets Content Hub], you have a new instance with the `contenthub` suffix within [!DNL AEM Assets as a Cloud Service] on Admin Console.
 
+>[!IMPORTANT]
+>
+>Administrators should verify that the [!DNL AEM Assets Content Hub] repository is within the same organization as GenStudio for Performance Marketing.
+
 ## Step 2: Onboard GenStudio users
 
-In the [!DNL Admin Console], add GenStudio users or user groups to the [!DNL AEM Assets Content Hub] product profiles. [!DNL AEM Assets Content Hub] users can view assets but cannot add assets or modify existing assets.
+In the [!DNL Admin Console], add a GenStudio for Performance Marketing user or user group to the [!DNL AEM Assets Content Hub] product profile. If a content reviewer does not have access to the same organization as the [!DNL AEM Assets Content Hub] repository, they may experience difficulties in reviewing and approving content.
 
 - [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
 - [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## Step 3: Approve assets
 
-Approve assets for use in [!DNL AEM Assets Content Hub], which makes them available in GenStudio for Performance Marketing. See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
+Approve assets for use in [!DNL AEM Assets Content Hub], which makes them available in GenStudio for Performance Marketing.
+
+See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
 
 ## Step 4: Configure asset visibility
 
-In _[!DNL AEM Assets Content Hub]_ configuration options, review each set of configuration options for filters, asset details, search, and branding. See [Configure Content Hub user interface](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in the _AEM as a Cloud Service_ documentation.
+In _[!DNL AEM Assets Content Hub]_ configuration options, review each set of configuration options for filters, asset details, search, and branding.
+
+See [Configure Content Hub user interface](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in the _AEM as a Cloud Service_ documentation.
 
 ## Step 5: Verify the connection
 

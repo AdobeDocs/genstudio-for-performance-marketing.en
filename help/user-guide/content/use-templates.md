@@ -108,7 +108,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   <!-- - **Display ads**: requires Dimensions -->
+   - **Display ads**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 
@@ -128,4 +128,4 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
-1. Continue with [tutorials](/help/tutorials/tutorials.md) to create an experience.
+1. Continue to [Create](/help/user-guide/create/overview.md) an experience.

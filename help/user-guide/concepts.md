@@ -10,10 +10,10 @@ GenStudio for Performance Marketing is a standalone enterprise product that embo
 
 With GenStudio for Performance Marketing you can:
 
-- Create on-brand content using natural language prompts
-- Collaborate with stakeholders to review and approve generated content
-- Save generated and approved content to access for future marketing campaigns
-- Evaluate content performance with insights about campaigns and content attributes
+* Create on-brand content using natural language prompts
+* Collaborate with stakeholders to review and approve generated content
+* Save generated and approved content to access for future marketing campaigns
+* Evaluate content performance with insights about campaigns and content attributes
 
 ## Generative AI technology
 
@@ -23,46 +23,56 @@ Begin by effectively training GenStudio for Performance Marketing on your organi
 
 See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
 
+## Data governance
+
+When working with AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Thorough testing from multiple perspectives, a comprehensive ethics review, and implementing effective mitigation plans is important to prevent harmful content from emerging in outputs.
+
+This approach reinforces social responsibility, minimizes reputational risk, and ensures adherence to Adobe's Trust & Safety and Ethics policies.
+
+GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content per data governance standards and policies. When such content is detected, you are made aware that asset generation is blocked with a "Can't generate" message.
+
+When this message appears, you can edit the prompt and try again _or_ flag the prompt content for review by GenStudio for Performance Marketing. The prompt data for content that is flagged for review is collected for internal review purposes. 
+
 ## Content lifecycle
 
 The demand is high for quality experiences in multiple channels at a faster pace. GenStudio for Performance Marketing simplifies the content supply chain into a well-organized workflow for marketers. GenStudio for Performance Marketing leverages Adobe technology at each stage of the lifecycle.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr style="border: 0;">
-    <td style="width: 120px;">
-       <img alt="calendar" src="../assets/csc-workflow-planning.png" width="100">
+    <td>
+       <p><strong>Workflow & Planning</strong></p>
     </td>
     <td>
         <p>Brainstorm ideas, define guidelines, and build a strategy around content to engage your audience.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="brush and canvas" src="../assets/csc-creation-production.png" width="100">
+    <td>
+        <p><strong>Creation & Production</strong></p>
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="images and more" src="../assets/csc-content-mgmt.png" width="100">
+    <td>
+        <p><strong>Content Management</strong></p>
     </td>
     <td>
         <p>Store, share, and find creative assets in the centralized repository. Reuse and revitalize content based on performance.</p>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="paper airplane" src="../assets/csc-delivery-activation.png" width="100">
+    <td>
+        <p><strong>Delivery & Activation</strong></p>
     </td>
     <td>
         <p>Activate content and publish across multiple marketing channels.</P>
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="chart" src="../assets/csc-reporting-insights.png" width="100">
+    <td>
+        <p><strong>Reporting & Insights</strong></p>
     </td>
     <td>
         <p>Collect data and derive insights for asset performance optimization.</p>
