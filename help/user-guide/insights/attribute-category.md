@@ -10,51 +10,56 @@ An attribute category is a classification group that organizes related attribute
 
 ## Image features
 
-The following table lists the image feature categories recognized by the GenStudio for Performance Marketing generative AI.
+Image features represent distinct and informative elements or patterns within an image that are used for analysis with Insights. GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the image and apply tags based on the inherent features. The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
 
 <!-- For the writer, turn off word wrap to work with these tables. In VSCode, toggle View - Word Wrap. -->
 
 | Category                | Description                                                                                           | Example                                                                                                                                                                        |
-|-------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Camera Position         | The location and angle of the camera relative to the subject.                                         |                                                                               |
-| Camera Proximity        | The distance between the camera and the subject of an image.                                          | `close up`, `mid shot`, `long shot`                                                                                                                                                                                        |
-| Camera Setting          | The configuration of the camera's controls to produce the image.                                      |                 |
-| Colors and tone         | The colors identified in important image elements in the background or foreground of the image.<br>The overall warmth or coolness of the image colors. | Colors: Identifies one to three colors from a set of 40 pre-determined colors.<br>Tones: `warm`, `cool`, `neutral`                                                        |
-| Image Type              | The visual treatment of an image.                                                                     |                                                                                                          |
-| Lighting Condition      | The type of light in an image.                                                                        |                                                                          |
-| Objects                 | The items, entities, and elements that are visible.                                                   |                                                                                                                                                                                |
-| Orientation             | Image alignment, based on its width-to-height ratio.                                                  |                                                                                                                                                                                |
-| People Categories       | The kinds of people in an image.                                                                      | ![woman person dancing](../../assets/category/people-categories.png){width="150" zoomable="yes"}                                                                                                                            |
-| Photography Styles      | The subject and technique used to capture an image.                                                   |  |
-| Scenes                  | The setting or environment depicted in an image.                                                      |                                                                                                                                                                               |
-| Tags                    | Objects, elements, and other image characteristics.                                                   |                                                                                                                                                                                           |
-| Visual Attention Spread | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                                                                    |
-| Visual Content Density  | The amount of information or detail in an image.                                                      | `high`, `medium`, `low`                                                                                                                                                                                                    |
+| ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Camera angle            | The location and angle of the camera relative to the subject.                                         |                                                                                                                                                                                |
+| Subject distance        | The distance between the camera and the subject of an image.                                          | `close up`, `mid shot`, `long shot`                                                                                                                                            |
+| Camera setting          | The configuration of the camera's controls to produce the image.                                      |                                                                                                                                                                                |
+| Color and tone          | Evaluates the colors in important image elements and tags a maximum of three dominant colors for **[!UICONTROL Foreground Colors]**, elements in the front layer of the image, and **[!UICONTROL Background Colors]**, elements in the back layer of an image.<br>**[!UICONTROL Color Temperature]** describes the general warmth or coolness of the image colors. | Colors: Identifies one to three colors from a set of 40 pre-determined colors.<br>Tones: `warm`, `cool`, `neutral`<br>![colors and cool tones](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
+| Image style             | The visual treatment of an image.                                                                     |                                                                                                                                                                                |
+| Lighting condition      | The type of light in an image.                                                                        |                                                                                                                                                                                |
+| Objects                 | Identifies one or more items, entities, and elements that make up the image.                          | ![sunflower, plane, flower object](../../assets/category/image-objects.png){width="200" zoomable="yes"}                                                                        |
+| Orientation             | Relative position of the image based on the aspect ratio.                                             | `landscape`, `portrait`, `square`                                                                                                                                              |
+| People                  | When one or more people are present, describes the person or people in the image.                     | ![woman person dancing](../../assets/category/image-people.png){width="200" zoomable="yes"}                                                                                    |
+| Photography genres      | Detects the subject and technique used to capture an image, such as `abstract` or `landscape` though not to be confused with a landscape orientation. |                                                                                                                                |
+| Scenes                  | Detects the setting or environment depicted in an image.                                              |                                                                                                                                                                                |
+| Tags                    | Objects, elements, and other image characteristics detected but do not fall under a specific classification. |                                                                                                                                                                         |
+
+<!-- Not yet approved by legal
+| Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                                                                    |
+| Content density         | The amount of information or detail in an image.                                                      | `high`, `medium`, `low`                                                                                                                                                                                                    |
+-->
 
 ## Video features
 
-The following table lists the video feature categories recognized by the GenStudio for Performance Marketing generative AI.
+Image features represent distinct and informative elements, sounds, or patterns within a video that are used for analysis with Insights. GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the video and apply tags based on the inherent features. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
 
-<!-- For the writer, turn off word wrap to work with these tables. In VSCode, toggle View - Word Wrap. -->
-
-| Category            | Description | Example |
-|---------------------|-------------|--------|
-| Audio Genre         |             |        |
-| Audio Genre Category|             |        |
-| Audio Mood          |             |        |
-| Audio Types         |             |        |
-| Objects             |             |        |
-| Orientation         |             |        |
-| People Categories   |             |        |
-| Scenes              |             |        |
-| Styles              |             |        |
-| Tags                |             |        |
+| Category            | Description                                                                                               | Example                                                  |
+| ------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Audio Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.                       |          |
+| Audio Genre Category| When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`.                  |          |
+| Audio Mood          | Describes the general atmosphere or tone of the audio, such as `relaxing` or `energetic`.                     |          |
+| Audio Types         | When audio is present, the video may receive a tag for one or more audio types, such as `music` or `speech`.                                         |          |
+| Objects             | Identifies one or more items, entities, and elements that appear throughout the video.             | ![objects in video](../../assets/category/video-objects.png){width="200" zoomable="yes"}       |
+| Orientation         | Relative position of the video based on the aspect ratio of the frame.            | `landscape`, `portrait`, `square`        |
+| People              | When a person is present, describes the kinds of people in the video.            |        |
+| Scenes              | The setting or environment depicted in the video.            |        |
+| Styles              | Detects visual treatments applied to elements in the video, such as `matte` or `neon`.      |        |
+| Tags                | Objects, elements, and other video characteristics detected but do not fall under a specific classification.  |        |
 
 ## Text features
 
-The following table lists the text feature categories recognized by the GenStudio for Performance Marketing generative AI.
+Text features include counts for certain text elements, such as words, sentences, emojis, and classifications for semantics, emotion, and tone that are used for analysis with Insights. Text may also receive a readability score. Coming soon.
 
-<!-- For the writer, turn off word wrap to work with these tables. In VSCode, toggle View - Word Wrap. -->
+<!-- Not yet approved by legal
+
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study text and apply tags based on the inherent features.
+
+The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
 
 | Category             | Description | Example |
 |----------------------|-------------|--------|
@@ -62,6 +67,8 @@ The following table lists the text feature categories recognized by the GenStudi
 | HashTags Count       |             |        |
 | Keywords             |             |        |
 | Marketing Emotions   |             |        |
-| Narratives           |             |        |
+| Narratives           | Text that represents an overarching situation, theme, or a story. Narratives can communicate values, purpose, or identity that resonates with consumers on many levels.   |        |
 | Persuasion Strategies|             |        |
 | Readability          |             |        |
+| Tone of voice        | | |
+-->
