@@ -59,7 +59,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, one variation—fueled by the prompt, guidelines, and content you added—is generated and shown in the Canvas.
+By default, four variations—fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 ## Revise generated display ads
 
@@ -118,5 +118,7 @@ To make the generated display ads available for current and future use, publish 
 
 1. **To export your new display ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—JPG only—and click **[!UICONTROL Export]**.
+
+      Exported HTML should be placed within a predefined web property, like a template or `div` container. Without these set dimensions, images may appear distorted when viewed independently.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).
