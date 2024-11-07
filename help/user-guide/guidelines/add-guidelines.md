@@ -76,7 +76,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
    A _Published_ badge is visible for all brands that are currently published.
 
 1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
-1. In the _Publish brand_ popup, verify who has access to (to view and use) the published brand.
+1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
 1. Select **[!UICONTROL Publish]**.
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
 
@@ -84,9 +84,9 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 1. Click **[!UICONTROL Done]** to exit the popup.
 
-The brand shows a green dot and "Published", and an **[!UICONTROL Publish]** appears.
+The brand shows a green dot and "Published", and a **[!UICONTROL Publish]** button appears.
 
-**To unpublish a published brand**, click to open it and select **[!UICONTROL Publish]**.
+**To unpublish a published brand**, click to open it and click **[!UICONTROL Publish]**.
 
 The published brand is now available for use in _[!DNL Create]_ or _[!DNL Content]_.
 
