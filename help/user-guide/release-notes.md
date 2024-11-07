@@ -9,10 +9,6 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2024.11.07 {#latest}
 
-### New features
-
-Asset cards are now animated when [!DNL Content] > [!DNL Assets] are filtered by channel. <!-- GS-6854 -->
-
 ### Fixes
 
 * The Save in progress spinner is no longer displayed when a user clicks **[!UICONTROL Upload New Image]** then cancels the operation before upload completes. <!-- GS-6780 -->
@@ -54,7 +50,6 @@ Asset cards are now animated when [!DNL Content] > [!DNL Assets] are filtered by
 * Fragment regeneration now works as expected for resized experiences. <!-- GS-6836 -->
 
 * Regenerating Meta ad images after resizing them no longer results in an error. Previously, resizing images before regeneration changed the channel metadata from `meta` to `facebook`. <!-- GS-7042 -->
-
 
 ## 2024.10.31
 
