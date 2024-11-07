@@ -119,4 +119,6 @@ To make the generated display ads available for current and future use, publish 
 1. **To export your new display ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—JPG only—and click **[!UICONTROL Export]**.
 
+      Exported HTML should be placed within a predefined web property, like a template or `div` container. Without these set dimensions, images may appear distorted when viewed independently.
+
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).
