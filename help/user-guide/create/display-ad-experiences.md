@@ -12,7 +12,7 @@ With Adobe GenStudio for Performance Marketing, you can use generative AI to str
 
 [!DNL Create] empowers modern marketers to [produce brand-consistent display ad experiences](/help/user-guide/create/create-display-ad.md) by using [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md).
 
-When generating Meta experiences four variation are created and shown in the Canvas.
+When generating Meta experiences four variations are created and shown in the Canvas.
 
 Editable sections of a display ad experience include:
 
