@@ -11,7 +11,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ### Fixes
 
-* The Save in progress spinner is no longer displayed when a user clicks **[!UICONTROL Upload New Image]** then cancels the operation before upload completes. <!-- GS-6780 -->
+* The _Save in progress_ spinner is no longer displayed when a user clicks **[!UICONTROL Upload New Image]** then cancels the operation before upload completes. <!-- GS-6780 -->
 
 * Experience titles are now created correctly during experience regeneration. <!-- GS-7006 -->
 
@@ -23,13 +23,13 @@ This release information details the latest updates to the GenStudio for Perform
 
 * Selecting **[!UICONTROL Delete]** from the [!DNL Create] action menu (…) now works as expected. <!-- GS-6871 -->
 
-* All Meta template interactive elements can now be reached and operated by keyboard alone. <!-- GS-4066 -->
+* Users can now control all Meta ad template interactive elements by keyboard alone. <!-- GS-4066 -->
 
 * Added extraction of image dimensions from template image fields to display ad templates. Smart crop requests are now sent for the actual dimension of the image and not the entire template. <!-- GS-6926 -->
 
 * Localized the `Zoom to fit to screen` string in generated email and Meta ads. <!-- GS-5063 -->
 
-* The [!DNL Create] prompt drawer now closes as expected when a user clicks outside it. <!-- GS-5254 -->
+* The [!DNL Create] prompt drawer now closes as expected when a user clicks away. <!-- GS-5254 -->
 
 * Meta ads export now includes the selected call-to-action label as expected. <!-- GS-6504 -->
 
@@ -41,7 +41,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 * The Canvas **[!UICONTROL Brand]** button is now disabled when a brand score is not generated. <!-- GS-6429 -->
 
-* The Facebook/Meta toggle on the Canvas action bar now updates experience renderings as expected when the `ReadOnly` Canvas setting is enabled. <!-- GS-7039 -->
+* The Facebook/Instagram toggle on the Canvas action bar now updates experience renderings as expected when the `ReadOnly` Canvas setting is enabled. <!-- GS-7039 -->
 
 #### Image regeneration
 
