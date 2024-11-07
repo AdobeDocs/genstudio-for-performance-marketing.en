@@ -7,11 +7,60 @@ recommendations: noDisplay
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2024.10.31  {#latest}
+## 2024.11.07 {#latest}
 
 ### New features
 
-* The **[!DNL Content]** search filter now supports search by color tag.  <!-- GS-5501 -->
+Asset cards are now animated when [!DNL Content] > [!DNL Assets] are filtered by channel. <!-- GS-6854 -->
+
+### Fixes
+
+* The Save in progress spinner is no longer displayed when a user clicks **[!UICONTROL Upload New Image]** then cancels the operation before upload completes. <!-- GS-6780 -->
+
+* Experience titles are now created correctly during experience regeneration. <!-- GS-7006 -->
+
+* Issues with flickering scrollbars during draft loading have been resolved. <!-- GS-5587 -->
+
+* The `View documentation` link in the [!DNL Content] _Add your approved template_ popup now works as expected. <!-- GS-6881 -->
+
+* Deleting an image from the prompt drawer during a resize operation no longer results in an error. <!-- GS-7115 7009 -->
+
+* Selecting **[!UICONTROL Delete]** from the [!DNL Create] action menu (…) now works as expected. <!-- GS-6871 -->
+
+* All Meta template interactive elements can now be reached and operated by keyboard alone. <!-- GS-4066 -->
+
+* Added extraction of image dimensions from template image fields to display ad templates. Smart crop requests are now sent for the actual dimension of the image and not the entire template. <!-- GS-6926 -->
+
+* Localized the `Zoom to fit to screen` string in generated email and Meta ads. <!-- GS-5063 -->
+
+* The [!DNL Create] prompt drawer now closes as expected when a user clicks outside it. <!-- GS-5254 -->
+
+* Meta ads export now includes the selected call-to-action label as expected. <!-- GS-6504 -->
+
+* Brand score is now updated and retained as expected for regenerated experiences. <!-- GS-6535 -->
+
+* HTML export of Meta ads and display ads no longer include wrapper `div` and `chrome` elements. <!-- GS-7116 -->
+
+* Issues with email draft rendering during publishing are now resolved. <!-- GS-6394 -->
+
+* The Canvas **[!UICONTROL Brand]** button is now disabled when a brand score is not generated. <!-- GS-6429 -->
+
+* The Facebook/Meta toggle on the Canvas action bar now updates experience renderings as expected when the `ReadOnly` Canvas setting is enabled. <!-- GS-7039 -->
+
+#### Image regeneration
+
+* Resizing multiple Meta ad variants now works as expected. Previously, the Canvas did not display regenerated variants, but remained blank. <!-- GS-7010 -->
+
+* Fragment regeneration now works as expected for resized experiences. <!-- GS-6836 -->
+
+* Regenerating Meta ad images after resizing them no longer results in an error. Previously, resizing images before regeneration changed the channel metadata from `meta` to `facebook`. <!-- GS-7042 -->
+
+
+## 2024.10.31
+
+### New features
+
+* The **[!DNL Content]** search filter now supports search by color tag. <!-- GS-5501 -->
 
 * The **[!DNL Create]** Canvas now displays character counts for email fragments. <!-- GS-5819 -->
 
