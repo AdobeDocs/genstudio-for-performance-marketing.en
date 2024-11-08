@@ -29,13 +29,11 @@ At the time that you created a campaign with Meta ads, you may have selected an 
 1. **App promotion**: Promote your application.
 1. **Sales**: Focus on reaching the people mostly likely to use your product.
 
-## Channels metrics
+## Channel performance
 
 Depending on your performance goals, Insights metrics can help you evaluate whether you are achieving your objective.
 
 For example, if awareness is your objective, then an increase in the rate of `impressions` may indicate that you are expanding your reach. To understand if that is achieving your objective, you could look at metrics that indicate your content is engaging, such as `clicks` or `video plays`. How effectively is your audience interacting with your content?
-
-### Metrics detail
 
 The following table provides definitions and insights for key digital marketing metrics in the Channels view. Each metric includes a brief definition as it relates to Channels, how the metric is calculated, and one or more insights to help understand its significance and impact on marketing campaigns.
 

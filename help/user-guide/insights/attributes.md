@@ -29,13 +29,11 @@ GenStudio for Performance Marketing recognizes certain features of images, video
 
 You cannot edit tags that are detected and automatically applied.
 
-See [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists for image, video, and text categories.
+See [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
 
-## Attribute metrics
+## Attribute performance
 
 Insights metrics can help you evaluate which attributes inspire more customer engagement.
-
-### Metrics detail
 
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Attributes] table view. Each metric includes a brief definition as it relates to an asset, how the metric is calculated, and one or more insights to help understand its significance and impact on an ad campaign.
 

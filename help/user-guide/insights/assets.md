@@ -28,11 +28,9 @@ In the asset details view, you can see which experiences use the selected asset.
 
 ![Asset details](/help/assets/insights-asset-details.png){zoomable="yes"}
 
-## Asset metrics
+## Asset performance
 
 Insights metrics can help you evaluate which assets contribute to the success of a campaign and which asset attributes are most effective.
-
-### Metrics detail
 
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Assets] table view. Each metric includes a brief definition as it relates to an asset, how the metric is calculated, and one or more insights to help understand its significance and impact on an asset.
 
