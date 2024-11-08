@@ -2,6 +2,7 @@
 title: Assets overview
 description: Learn how to evaluate asset performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Assets
+exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
 ---
 # Assets overview
 

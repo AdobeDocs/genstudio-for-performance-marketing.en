@@ -4,8 +4,8 @@ description: Learn about email experiences in Adobe GenStudio for Performance Ma
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
+exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
 ---
-
 # Email experiences
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact email experiences](/help/user-guide/create/create-email-experience.md).
