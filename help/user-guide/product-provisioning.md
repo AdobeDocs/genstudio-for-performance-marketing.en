@@ -3,6 +3,7 @@ title: Provision Adobe GenStudio for Performance Marketing
 description: Learn about provisioning the GenStudio for Performance Marketing product.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
 ---
 # Provision Adobe GenStudio for Performance Marketing
 

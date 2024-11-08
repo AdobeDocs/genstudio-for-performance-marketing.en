@@ -2,8 +2,8 @@
 title: Manage variants
 description: Customize and enhance generated variants and assets to suit your digital marketing needs.
 feature: Content, Assets, Experiences
+exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
 ---
-
 # Manage variants
 
 Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—[emails](/help/user-guide/create/email-experiences.md), [Meta ads](/help/user-guide/create/meta-experiences.md), and more—for use in digital marketing initiatives.
@@ -38,13 +38,16 @@ GenStudio for Performance Marketing has the built-in functionality to regenerate
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
+![Re-generate sections](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+
 **To re-generate individual variant sections**:
 
 1. After generating a set of variants, single-click any editable text in a variant.
-1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
 1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
-1. Click **[!UICONTROL Generate]**.
-1. If you want to regenerate the results, click the regenerate icon adjacent to _Results_.
+   * Choose an available option and click **[!UICONTROL Replace]**.
+1. (_Optional_) Select _[!UICONTROL Generate with prompt] and enter a new prompt to change the focus of the regenerated content.
+   * Click **[!UICONTROL Generate]**.
+1. If you want to regenerate the results to see more options, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
    The variant is updated with the revised text.
@@ -145,6 +148,8 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-b
 ## Generation feedback
 
 Feedback on the quality of generated brand-aligned assets can be submitted to improve the content generation process. Indicating whether the results are of high or poor quality helps enhance the overall content quality and user safety of GenStudio for Performance Marketing.
+
+![Submit feedback on content generation](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
 Generation feedback is applicable to an individual variant, not for the collected set of variants.
 

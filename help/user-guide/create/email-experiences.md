@@ -4,13 +4,15 @@ description: Learn about email experiences in Adobe GenStudio for Performance Ma
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
+exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
 ---
-
 # Email experiences
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact email experiences](/help/user-guide/create/create-email-experience.md).
 
 [!DNL Create] enables modern marketers to use [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md) to quickly [create brand-aligned email experiences](/help/user-guide/create/create-email-experience.md).
+
+When generating Meta experiences four variations are created and shown in the Canvas.
 
 Editable sections of an email experience include:
 
@@ -47,3 +49,9 @@ Each field and section of email experiences are progressively loaded in this seq
 1. Headlines, email body (for single section emails), and calls-to-action
 1. Email body for subsequent sections (for multi-section emails)
 1. Brand validation process occurs and the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) populates for each variant.
+
+## Character counts
+
+After you generate a set of email variants, you can see the character count displayed for each email section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+
+![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}

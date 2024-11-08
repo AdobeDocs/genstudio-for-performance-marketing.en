@@ -5,6 +5,7 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
+exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
 ---
 # Create a display ad experience
 
@@ -50,6 +51,8 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 After guidelines are selected, craft a prompt using natural language to start generating content for your new display ad experience. To enhance the quality of the generated display ad experiences, it is crucial to craft detailed and descriptive prompts.
 
+![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
+
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
 **To enter a prompt**:
@@ -57,7 +60,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, one variation—fueled by the prompt, guidelines, and content you added—is generated and shown in the Canvas.
+By default, four variations—fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 ## Revise generated display ads
 
@@ -109,7 +112,14 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 To make the generated display ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new display ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
+   1. Select _[!UICONTROL [!DNL Campaigns]]_ and add _[!UICONTROL More details]_ if desired.
+   1. Click **[!UICONTROL Publish]**.
+
+      ![Publish a display ad](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+
 1. **To export your new display ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—JPG only—and click **[!UICONTROL Export]**.
+
+      Exported HTML should be placed within a predefined web property, like a template or `div` container. Without these set dimensions, images may appear distorted when viewed independently.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).

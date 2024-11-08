@@ -14,11 +14,13 @@ GenStudio for Performance Marketing conducts brand validation on various aspects
 * Copy guidelines for different channel platforms
 * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
 
-## Brand guidelines check
+## [!DNL Brand] guidelines check
 
-A summary of brand validation information for each generated content variant is accessible through the _Brand guidelines check_ icon next to each variant in the Canvas.
+A summary of brand validation information for each generated content variant is accessible through the _[!DNL Brand] guidelines check_ icon next to each variant in the Canvas.
 
-The _Brand guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested.
+The _[!DNL Brand] guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested.
+
+![[!DNL Brand] guidelines check](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
 
 Click the icon to see how many guidelines are compliant with your brand and how many guidelines need review.
 
@@ -27,6 +29,8 @@ See [Improve brand alignment](#improve-brand-alignment).
 ## Brand validation panel
 
 The _Brand validation_ panel opens on the right side of the Canvas when clicked from the top menu bar _or_ from the _Brand guidelines check_ icon for a variant. This panel provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
+
+![[!DNL Brand] validation panel](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
 
 The _Brand validation_ panel displays information for:
 

@@ -53,7 +53,10 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter [_Brand voice guidelines_](brands.md#brand-voice-guidelines).
+1. Enter [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines).
+
+   ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="650" zoomable="yes"}
+
 1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
 1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
 
@@ -69,25 +72,40 @@ You do not have to [publish](#publish-brand) your brand to make the information 
 
 Before publishing your brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
 
-**To publish the brand**:
+**To publish a brand guidelines draft**:
 
+1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
+
+   A _Published_ badge is visible for all brands that are currently published.
+
+1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
+1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
 1. Select **[!UICONTROL Publish]**.
+1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
 
-   In the _Publish brand_ popup, verify who has access (to view and use) to the published brand.
+   The popup confirms the brand is published—"New brand is now ready".
 
-1. Click **[!UICONTROL Publish]**.
+1. Click **[!UICONTROL Done]** to exit the popup.
 
-When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
+The brand shows a green dot and "Published", and a **[!UICONTROL Publish]** button appears.
+
+**To unpublish a published brand**, click to open it and click **[!UICONTROL Publish]**.
 
 The published brand is now available for use in _[!DNL Create]_ or _[!DNL Content]_.
 
 ### Manage [!DNL Brands]
 
-In the _[!DNL Brands]_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a brand** from the list from the [!DNL Brands] action menu:
+In the _[!DNL Brands]_ home, you can click to open an already-created brand to manage or publish it.
 
-* Click a brand tile to open a brand.
-* Select **[!UICONTROL Rename]** from the [!DNL Brands] action menu to rename an existing persona.
-* Select **[!UICONTROL Delete]** from the [!DNL Brands] action menu to delete a brand.
+**To view or modify a brand**:
+
+1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
+1. To see a brand's overview information, click to open a defined brand.
+1. To view individual details or modify brand guidelines, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+1. To rename an existing brand, select **[!UICONTROL Rename]** from the [!DNL Brands] action menu.
+1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
+
+You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand.
 
 ## Add [!DNL Products]
 
@@ -95,7 +113,9 @@ To add a product, [upload a product guide](#upload-a-product) or [manually creat
 
 In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
 
-You can add [!DNL Products] in GenStudio for Performance Marketing to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
+
+You can add [!DNL Products] in GenStudio for Performance Marketing to specify individual product focus areas when creating content.
 
 See [[!DNL Products]](products.md).
 
@@ -179,7 +199,7 @@ See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 1. Select the **[!UICONTROL Add persona]** button and choose **Upload PDFs**.
 1. Click **[!UICONTROL Continue]**.
-1. In the _Add your persona popup, attach or drag in your persona document.
+1. In the _Add your persona_ popup, attach or drag in your persona document.
 
    You can attach up to five PDF files with a maximum of 500 MG combined.
 
@@ -206,7 +226,10 @@ You can manually add persona details, instead of uploading existing persona docu
 
    You can populate various optional guidelines and imagery to build out your persona.
 
-1. Add information about your brand in the _Description_ section.
+1. Add information about your [!DNL Persona] in the _Description_ section.
+
+   ![Add a [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"}
+
 1. Click **[!UICONTROL New persona name]** and enter a name for the [!DNL Persona].
 1. Click into _Description_ and enter a description of this [!DNL Persona].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].

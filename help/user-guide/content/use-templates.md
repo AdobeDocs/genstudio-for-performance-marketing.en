@@ -108,7 +108,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   <!-- - **Display ads**: requires Dimensions -->
+   - **Display ads**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 
