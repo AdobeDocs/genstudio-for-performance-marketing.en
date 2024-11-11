@@ -7,7 +7,7 @@ exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
 ---
 # Provision Adobe GenStudio for Performance Marketing
 
-Product provisioning is the one-time setup of your organization's GenStudio for Performance Marketing instance. An Adobe system administrator performs these initial provisioning tasks in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview). From the Admin Console, an Adobe system administrator can access the GenStudio product profile and assign available product licenses to users.
+An Adobe system administrator performs initial provisioning tasks in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview). From the Admin Console, an Adobe system administrator can access the GenStudio product profile and assign available product licenses to users.
 
 >[!NOTE]
 >
