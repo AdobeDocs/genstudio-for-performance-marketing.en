@@ -4,8 +4,8 @@ description: Learn about display ad experiences in Adobe GenStudio for Performan
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
+exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
 ---
-
 # Display ad experiences
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of successful display ad experiences](/help/user-guide/create/create-display-ad.md).

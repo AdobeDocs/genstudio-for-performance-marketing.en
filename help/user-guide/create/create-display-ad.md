@@ -5,6 +5,7 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
+exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
 ---
 # Create a display ad experience
 

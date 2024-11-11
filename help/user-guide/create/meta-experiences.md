@@ -4,8 +4,8 @@ description: Learn all about Meta experiences in Adobe GenStudio for Performance
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
+exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
 ---
-
 # Meta experiences
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact Meta experiences](/help/user-guide/create/create-meta-ad.md).
