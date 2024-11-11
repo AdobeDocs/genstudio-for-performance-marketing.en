@@ -3,6 +3,7 @@ title: Attribute categories
 description: Learn about attribute categories used in GenStudio for Performance Marketing.
 feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
+exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
 ---
 # Attribute categories
 
