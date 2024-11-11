@@ -14,6 +14,7 @@ feature: Generative AI
 + Introduction {#intro}
   + [Concepts](concepts.md)
   + [Product provisioning](product-provisioning.md)
+  + [Configure [!DNL Brand] permissions](configure-brand-permissions.md)
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
 + Guidelines {#guidelines}

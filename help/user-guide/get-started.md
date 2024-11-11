@@ -35,7 +35,7 @@ Follow these best practices when preparing guidelines:
 
 * Avoid redundancy. You might be tempted to repeat a directive multiple times, but redundancy in your guidelines does not help the underlying LLM capture and implement your brand guidelines.
 
-* Identify elements that you want the LLM to exclude during content generation (for example, exclamation points in text)
+* Identify elements that you want the LLM to exclude during content generation (for example, exclamation points in text).
 
 You can upload guideline documents or consult them as you manually enter information into GenStudio for Performance Marketing. See [Add guidelines](./guidelines/overview.md) for guidance on uploading or entering this information.
 
@@ -43,16 +43,28 @@ You can upload guideline documents or consult them as you manually enter informa
 
 A GenStudio system manager can prepare the product's underlying generative AI framework by manually entering or uploading your organization's specific brand requirements. Although setting up an organization's brand guidelines is a one-time action, you may revise and enhance these guidelines based on your organization's volatility, growth, and changing market circumstances.
 
-### Step 2: Upload templates
+## Step 2: Set up an Adobe Admin Console project for GenStudio [!DNL Brands]
+
+System administrators must complete additional set-up tasks before collaborators can edit or create [!DNL Brands]. Adobe system administrators carry out these tasks in the Adobe Admin Console:
+
+* Create a new user group that includes all user who need edit and create [!DNL Brands] entitlements.
+
+* Create a new project in the Adobe Admin Console.
+
+See [Assign Brand permissions](configure-brand-permissions.md).
+
+### Step 3: Upload templates
 
 Templates accelerate content creation. A template contains approved features, such as headers and footers, and is optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
 
-See [Work with templates](./content/use-templates.md) for directions on customizing and uploading templates.
+See [Work with templates](./content/use-templates.md).
 
-### Step 3: Upload approved assets
+### Step 4: Upload approved assets
 
-Approved assets in [!DNL Content] are available to all GenStudio for Performance Marketing editors. You can populate [!DNL Content] with assets for content editors to use in creating new experiences or assets. See [Upload approved assets](./content/manage-assets.md) for guidance on uploading and managing assets.
+Approved assets in [!DNL Content] are available to all GenStudio for Performance Marketing editors. You can populate [!DNL Content] with assets for content editors to use in creating new experiences or assets.
 
-### Step 4: Connect to a Meta (Facebook) account
+See [Upload approved assets](./content/manage-assets.md).
+
+### Step 5: Connect to a Meta (Facebook) account
 
 Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data. See [Connect to a Meta (Facebook) account](./insights/connect-channel.md#meta-ads-connect).
