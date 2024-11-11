@@ -91,7 +91,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
    Example Preview for an email template:
 
-   ![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -116,7 +116,7 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-   ![Content template list](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Select a template for a full view and a list of details.
 

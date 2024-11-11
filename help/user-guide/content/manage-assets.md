@@ -15,7 +15,7 @@ The gallery shows an inventory of approved assets, experiences, or templates dep
 
 The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
 
-![Assets view with search on dog](../../assets/content-assets.png)
+![Assets view with search on dog](/help/assets/content-assets.png)
 
 ### Search content
 

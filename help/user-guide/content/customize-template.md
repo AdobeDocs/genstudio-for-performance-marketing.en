@@ -117,7 +117,7 @@ When you [upload a template](use-templates.md#upload-a-template), GenStudio for 
 
 Example Preview for an email template:
 
-![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
+![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
 ### Control preview
 
