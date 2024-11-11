@@ -12,7 +12,7 @@ GenStudio for Performance Marketing uses Adobe's AI and machine learning capabil
 
 ## Image features
 
-Image features represent distinct and informative elements or patterns within an image that are used for analysis with Insights. The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
+Image features represent distinct and informative elements or patterns within an image that are used for analysis with [!DNL Insights]. The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
@@ -25,11 +25,11 @@ Image features represent distinct and informative elements or patterns within an
 | Image style             | The visual treatment of an image.                                                                     |                                                                                                                                                                                |
 | Lighting condition      | The type of light in an image.                                                                        |                                                                                                                                                                                |
 | Objects                 | Identifies one or more items, entities, and elements that make up the image.                          | ![sunflower, plane, flower object](../../assets/category/image-objects.png){width="200" zoomable="yes"}                                                                        |
-| Orientation             | The relative position of the image is based on the aspect ratio.                                             | `landscape`, `portrait`, `square`                                                                                                                                      |
-| People                  | When at least one person is present, one or more attributes may describe the person or persons in the image. | ![woman person dancing](../../assets/category/image-people.png){width="200" zoomable="yes"}                                                                                    |
-| Photography genres      | Detects the subject and technique used to capture an image, such as `abstract` or `landscape` (not the same as landscape orientation). |                                                                                                                                |
-| Scenes                  | Detects the setting or environment depicted in an image.                                              |                                                                                                                                                                                |
-| Tags                    | Detects objects, elements, and other image characteristics that do not fall under a specific classification. |                                                                                                                                                                         |
+| Orientation             | The position of the image relative to the aspect ratio.                                               | `landscape`, `portrait`, `square`                                                                                                                                              |
+| People                  | When at least one person is present, one or more attributes may describe the person or persons in the image. | ![woman person dancing](../../assets/category/image-people.png){width="200" zoomable="yes"}                                                                             |
+| Photography genres      | Detects the subject and technique used to capture an image, such as `abstract` or `landscape` (not the same as landscape orientation). |           |
+| Scenes                  | Detects the setting or environment depicted in an image.                                              |                                             |
+| Tags                    | Detects objects, elements, and other image characteristics that do not fall under a specific classification. |                                      |
 
 <!-- Not yet approved by legal
 | Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                                                                    |
@@ -38,24 +38,24 @@ Image features represent distinct and informative elements or patterns within an
 
 ## Video features
 
-Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with Insights. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
+Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights]. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
 
-| Category            | Description                                                                                               | Example                                                  |
-| ------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Audio Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.                       |          |
-| Audio Genre Category| When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`.                  |          |
-| Audio Mood          | Describes the general atmosphere or tone of the audio, such as `relaxing` or `energetic`.                     |          |
-| Audio Types         | When audio is present, the video may receive a tag for one or more audio types, such as `music` or `speech`.                                         |          |
-| Objects             | Identifies one or more items, entities, and elements that appear throughout the video.             | ![objects in video](../../assets/category/video-objects.png){width="200" zoomable="yes"}       |
-| Orientation         | The relative position of the video is based on the aspect ratio of the frame.            | `landscape`, `portrait`, `square`        |
-| People              | When at least one person is present, one or more attributes may describe the person or persons in the video.            |        |
-| Scenes              | The setting or environment depicted in the video.            |        |
-| Styles              | Detects visual treatments applied to elements in the video, such as `matte` or `neon`.      |        |
-| Tags                | Detects objects, elements, and other video characteristics that do not fall under a specific classification.  |        |
+| Category            | Description                                                                                                  | Example                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| Audio Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.       |          |
+| Audio Genre Category| When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`. |          |
+| Audio Mood          | Describes the general atmosphere or tone of the audio, such as `relaxing` or `energetic`.                    |          |
+| Audio Types         | When audio is present, the video may receive a tag for one or more audio types, such as `music` or `speech`. |          |
+| Objects             | Identifies one or more items, entities, and elements that appear throughout the video.                       | ![objects in video](../../assets/category/video-objects.png){width="200" zoomable="yes"} |
+| Orientation         | The position of the video relative to the aspect ratio of the frame.            | `landscape`, `portrait`, `square`        |
+| People              | When at least one person is present, one or more attributes may describe the person or persons in the video. |        |
+| Scenes              | The setting or environment depicted in the video.                                                            |        |
+| Styles              | Detects visual treatments applied to elements in the video, such as `matte` or `neon`.                       |        |
+| Tags                | Detects objects, elements, and other video characteristics that do not fall under a specific classification. |        |
 
 ## Text features
 
-Text features include counts for certain text elements, such as words, sentences, emojis, and classifications for semantics, emotion, and tone that are used for analysis with Insights. Text may also receive a readability score. Coming soon.
+Text features include counts for certain text elements, such as words, sentences, emojis, and classifications for semantics, emotion, and tone that are used for analysis with [!DNL Insights]. Text may also receive a readability score. Coming soon.
 
 <!-- Not yet approved by legal
 
