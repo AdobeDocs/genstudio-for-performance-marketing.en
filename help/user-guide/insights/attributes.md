@@ -1,7 +1,7 @@
 ---
 title: Attributes overview
 description: Learn how to evaluate the performance of specific attributes in Adobe GenStudio for Performance Marketing.
-feature: Insights, Assets
+feature: Insights, Attributes
 ---
 # Attributes overview
 

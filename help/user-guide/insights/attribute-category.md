@@ -1,7 +1,7 @@
 ---
 title: Attribute categories
 description: Learn about attribute categories used in GenStudio for Performance Marketing.
-feature: Insights, Assets
+feature: Insights, Attributes
 recommendations: noDisplay
 ---
 # Attribute categories
@@ -12,7 +12,7 @@ An attribute category is a classification group that organizes related attribute
 
 Image features represent distinct and informative elements or patterns within an image that are used for analysis with Insights. GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the image and apply tags based on the inherent features. The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
 
-<!-- For the writer, turn off word wrap to work with these tables. In VSCode, toggle View - Word Wrap. -->
+<!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
 | Category                | Description                                                                                           | Example                                                                                                                                                                        |
 | ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
