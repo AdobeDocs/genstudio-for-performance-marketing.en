@@ -1,14 +1,14 @@
 ---
 title: Attribute categories
 description: Learn about attribute categories used in GenStudio for Performance Marketing.
-feature: Insights, Attributes
+feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
 ---
 # Attribute categories
 
 An attribute category is a classification group that organizes related attributes that share a common characteristic. These categories help streamline the discovery, identification, and understanding of specific attributes by providing greater context and facilitating their application and use.
 
-GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study images, videos, and text and apply [!UICONTROL Asset attributes] based on the level of confidence. The attributes list of an asset is not exhaustive. Assets that contain a rich set of features may be limited to a confidence threshold, such as the three most dominant features identified.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study images, videos, and text and apply [!UICONTROL Asset attributes] based on the level of confidence. _Confidence_ refers to the probability that the AI assigns to a prediction or classification. In the context of machine learning, it is a kind of scoring that measures how "confident" the AI is that the classification is correct. The higher the confidence scoring, the greater the certainty. For example, when analyzing an image, the AI may identify several features and assign a score to each signifying how confident it is that the feature is correct. The attributes list of an asset is not exhaustive. Assets that contain a rich set of features may be limited to a confidence threshold, such as the three most dominant features identified.
 
 ## Image features
 

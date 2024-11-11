@@ -38,7 +38,7 @@ GenStudio for Performance Marketing supports ad formats, such as asset feeds, li
 
 #### Unsupported placements
 
-GenStudio for Performance Metrics does not support the following ad placements:
+GenStudio for Performance Marketing does not support the following ad placements:
 
 - Collaborative
 - Catalog/Advantage+ catalog
