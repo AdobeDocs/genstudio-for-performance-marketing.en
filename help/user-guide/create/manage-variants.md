@@ -36,7 +36,7 @@ You can edit the text fields in generated variants. Refine the text for your aud
 
 GenStudio for Performance Marketing has the built-in functionality to regenerate sections of generated variants. You can rephrase, shorten, or lengthen text, or add fresh prompts to generate new content.
 
-For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using these options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, _[!UICONTROL Lengthen]_—, or _[!UICONTROL Generate new text]_ to add a new prompt.
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset. You can _[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_ a section's content, or _[!UICONTROL Generate new text]_ to add a new prompt.
 
 ![Re-generate sections](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
