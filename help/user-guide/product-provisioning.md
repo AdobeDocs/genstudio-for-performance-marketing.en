@@ -13,6 +13,10 @@ An Adobe system administrator performs initial provisioning tasks in the [Adobe 
 >
 >Only Adobe system administrators can implement enablement tasks that require Adobe Admin Console access.
 
+>[!IMPORTANT]
+>
+>Do not edit or delete existing product profiles or add a new one. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
+
 ## Step 1: Access the product profile in Adobe Admin Console
 
  Within the Admin Console, the product profile defines rules and user profiles that are unique to brand and campaign creation and management within GenStudio for Performance Marketing.
