@@ -48,3 +48,9 @@ Each field and section of the Meta ad experiences are progressively loaded in th
 1. Headlines
 1. On-image text
 1. The brand validation process occurs and the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) populates for each variant.
+
+## Character counts
+
+After you generate a set of Meta variants, you can see the character count displayed for each Meta ad section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+
+![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
