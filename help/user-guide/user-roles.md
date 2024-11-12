@@ -27,6 +27,10 @@ See [Administrative roles](https://helpx.adobe.com/enterprise/using/admin-roles.
 
 _Entitlements_ grant permission to perform specific tasks and access protected resources. Entitlements, or permissions, are defined in the user role within the product profile, and users receive these entitlements when assigned to that role.
 
+>[!IMPORTANT]
+>
+>Do not add new, or edit or delete, existing product profiles. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
+
 ## User roles
 
 Three types of GenStudio for Performance Marketing user roles support this diversity of organizational roles. Entitlements are tailored to each of these user types and support each user's responsibilities in the marketing organization. These three user role types are:
