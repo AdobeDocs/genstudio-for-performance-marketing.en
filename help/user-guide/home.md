@@ -81,6 +81,10 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 </tr>
 </table>
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+
 ## Learn how to
 
 <table style="table-layout:fixed">
