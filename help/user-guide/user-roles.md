@@ -29,7 +29,7 @@ _Entitlements_ grant permission to perform specific tasks and access protected r
 
 >[!IMPORTANT]
 >
->Do not edit or delete existing product profiles or add a new one. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
+>Do not add new, or edit or delete, existing product profiles. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
 
 ## User roles
 

@@ -15,7 +15,7 @@ An Adobe system administrator performs initial provisioning tasks in the [Adobe 
 
 >[!IMPORTANT]
 >
->Do not edit or delete existing product profiles or add a new one. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
+>Do not add new, or edit or delete, existing product profiles. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
 
 ## Step 1: Access the product profile in Adobe Admin Console
 
