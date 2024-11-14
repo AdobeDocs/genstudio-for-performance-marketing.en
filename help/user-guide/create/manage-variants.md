@@ -52,6 +52,23 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
    The variant is updated with the revised text.
 
+## Revise the call-to-action
+
+After generating a set of variants, you can revise the call-to-action (CTA) text and link.
+
+>[!NOTE]
+>
+>You can edit CTA label text using the _[!UICONTROL Rephrase]_ option if the label text is a generated template field (not hard-coded in the template). You can edit the CTA link using the _[!UICONTROL Add link]_ option if a link is existing and editable (not hard-coded in the template).
+
+**To revise the CTA in a variant**:
+
+1. After generating a set of variants, single-click a CTA.
+1. To rephrase the CTA text, click **[!UICONTROL Rephrase]**.
+   1. Choose a rephrased option or click **[!UICONTROL Refresh]** to see more options.
+   1. Once a new option is chosen, click **[!UICONTROL Replace]**. The new CTA text is revised and a _"A button label was replaced"_ message appears confirming the change.
+1. To add a link to your CTA, single-click CTA text.
+   1. In the _Edit link_ popup that appears, revise the existing link (or click **[!UICONTROL Remove link]** and add a new URL) and click **[!UICONTROL Apply]**.
+
 ## Crop assets
 
 You can manually crop and reposition image assets in individual generated variants.
