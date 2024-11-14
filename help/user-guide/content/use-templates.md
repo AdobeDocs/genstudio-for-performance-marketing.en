@@ -10,9 +10,9 @@ GenStudio for Performance Marketing enables content creators to produce consiste
 
 ## Template elements
 
-A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience.
+A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience. Template elements provide the structure for content creation.
 
-The following is a list of elements that are used in templates and some details about their characteristics.
+The following is a list of elements that are used in templates and some details about their characteristics:
 
 - **Preheader**
 
