@@ -58,7 +58,7 @@ After generating a set of variants, you can revise the call-to-action (CTA) text
 
 >[!NOTE]
 >
->You can edit CTA label text using the _[!UICONTROL Rephrase]_ option if the label text is a generated template field (not hard-coded in the template). You can edit the CTA link using the _[!UICONTROL Add link]_ option if a link is existing and editable (not hard-coded in the template).
+>You can edit CTA label text using the _[!UICONTROL Rephrase]_ option if the label text is a generated template field (not hard-coded in the template). You can edit a CTA link using the _[!UICONTROL Edit link]_ option if the link is existing and editable (not hard-coded in the template).
 
 **To revise the CTA in a variant**:
 
