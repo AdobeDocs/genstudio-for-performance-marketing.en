@@ -33,15 +33,15 @@ For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to i
 
 The following table lists the field names recognized by GenStudio for Performance Marketing for population into templates. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate content.
 
-| Field          | Role                   | Channel template               |
-| -------------- | ---------------------- | ------------------------------ |
-| `pre_header`   | Pre header             | email             |
-| `headline`     | Headline               | email  <br>Meta ad |
-| `body`         | Body copy              | email  <br>Meta ad |
-| `cta`          | Call to action         | email  <br>Meta ad |
-| `on_image_text`| On image text          | Meta ad            |
-| `image`        | Image                  | email  <br>Meta ad   |
-| `brand_logo`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
+| Field              | Role                   | Channel template                 |
+| ------------------ | ---------------------- | -------------------------------- |
+| `{{pre_header}}`   | Pre header             | email                            |
+| `{{headline}}`     | Headline               | email <br>Meta ad <br>Display ad |
+| `{{body}}`         | Body copy              | email <br>Meta ad <br>Display ad |
+| `{{cta}}`          | Call to action         | email <br>Meta ad <br>Display ad |
+| `{{on_image_text}}`| On image text          | Meta ad                          |
+| `{{image}}`        | Image                  | email <br>Meta ad <br>Display ad |
+| `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
