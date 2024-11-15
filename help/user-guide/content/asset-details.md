@@ -30,6 +30,19 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
 
+>[!BEGINSHADEBOX]
+
+Criteria for enhancing images with the [!DNL Edit in Adobe Express] feature:
+
+- Supported MIME types include `image/png` and `image/jpeg`
+- The minimum image dimensions are 50x50 pixels
+- The maximum image dimensions are 8000x8000 pixels
+- The maximum size is 40MB (40,000,000 bytes)
+
+>[!ENDSHADEBOX]
+
+**To edit an asset with Express**:
+
 1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
@@ -85,7 +98,7 @@ The following table details the metadata (asset details) you can define when cre
 | [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
 | [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
 | Channels      | Content types in GenStudio for Performance Marketing the asset is used for, such as email and Meta ads |
-| Timeframe     | Timeframe for which the asset it used, such as quarter, season, year, etc. Example: `Winter 2023` |
+| Timeframe     | Timeframe for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
 | Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
 | Language      | Languages for which the asset is used. Example: `Spanish` |
 | Keywords      | Keywords used for further identification of asset characteristics and purpose |
