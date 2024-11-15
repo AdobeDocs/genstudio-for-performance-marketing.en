@@ -49,3 +49,5 @@ See [Configure Content Hub user interface](https://experienceleague.adobe.com/en
 ## Step 5: Verify the connection
 
 In GenStudio for Performance Marketing Content, the _[!UICONTROL Location]_ list is available above the gallery on the right side. The list is not available if you do not have access or your organization has not deployed and connected an [!DNL AEM Assets Content Hub] repository.
+
+See [Assets location](manage-assets.md#assets-location) to read about the Location list and changing repositories.
