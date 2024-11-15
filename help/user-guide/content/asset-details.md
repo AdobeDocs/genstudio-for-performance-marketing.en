@@ -30,6 +30,19 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
 
+>[!BEGINSHADEBOX]
+
+Criteria for using the [!DNL Edit in Adobe Express] feature:
+
+- Supported MIME types include `image/png` and `image/jpeg`
+- Minimum dimension is 50x50 pixels
+- Maximum dimension is 8000x8000 pixels
+- Maximum size is 40MB (40,000,000 bytes)
+
+>[!ENDSHADEBOX]
+
+**To edit an asset with Express**:
+
 1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
