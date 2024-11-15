@@ -101,3 +101,5 @@ Some simple best practices for crafting effective prompts:
 - Review and adjust guidelines regularly.
 - Iterate and refine.
 - Learn through experimentation.
+
+{{in-academy}}

@@ -19,9 +19,9 @@ With GenStudio for Performance Marketing you can:
 
 GenStudio for Performance Marketing harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
 
-Begin by effectively training GenStudio for Performance Marketing on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature.
+Begin by effectively training GenStudio for Performance Marketing on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
 
-See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
+{{in-academy}}
 
 ## Data governance
 
