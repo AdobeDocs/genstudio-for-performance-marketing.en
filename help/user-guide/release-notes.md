@@ -12,7 +12,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ### New features
 
-Added support for rich media templates, enabling the reuse of assets already published through other managed content channels. <!-- GS-6107 -->
+Added support for rich media templates, enabling customers to reuse of assets that have already published through their own managed content channels. <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
@@ -122,4 +122,4 @@ See the following helpful resources:
 
 * [Adobe GenStudio for Performance Marketing User Guide](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
 
-* [Adobe GenStudio Academy](genstudioacademy.md), Adobe's online learning platform for using generative AI technologies in the creative process. [Register for GenStudio Academy](http://adobe.ly/genstudioacademyregistration).
+* [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy), Adobe's online learning platform for using generative AI technologies in the creative process.
