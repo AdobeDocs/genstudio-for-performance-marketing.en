@@ -32,12 +32,12 @@ You can edit image assets (JPG or PNG) directly within GenStudio for Performance
 
 >[!BEGINSHADEBOX]
 
-Criteria for using the [!DNL Edit in Adobe Express] feature:
+Criteria for enhancing images with the [!DNL Edit in Adobe Express] feature:
 
 - Supported MIME types include `image/png` and `image/jpeg`
-- Minimum dimension is 50x50 pixels
-- Maximum dimension is 8000x8000 pixels
-- Maximum size is 40MB (40,000,000 bytes)
+- The minimum image dimensions are 50x50 pixels
+- The maximum image dimensions are 8000x8000 pixels
+- The maximum size is 40MB (40,000,000 bytes)
 
 >[!ENDSHADEBOX]
 
@@ -98,7 +98,7 @@ The following table details the metadata (asset details) you can define when cre
 | [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
 | [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
 | Channels      | Content types in GenStudio for Performance Marketing the asset is used for, such as email and Meta ads |
-| Timeframe     | Timeframe for which the asset it used, such as quarter, season, year, etc. Example: `Winter 2023` |
+| Timeframe     | Timeframe for which the asset it is used, such as quarter, season, year, etc. Example: `Winter 2023` |
 | Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
 | Language      | Languages for which the asset is used. Example: `Spanish` |
 | Keywords      | Keywords used for further identification of asset characteristics and purpose |
