@@ -8,7 +8,6 @@ last-substanial-update: 2024-11-15
 
 Templates significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-You can learn about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for use in your next campaign.
 
 Use the following recommendations when using templates with GenStudio for Performance Marketing:
 
