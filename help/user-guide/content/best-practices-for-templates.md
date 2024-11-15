@@ -8,7 +8,6 @@ last-substanial-update: 2024-11-15
 
 Templates significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-
 Use the following recommendations when using templates with GenStudio for Performance Marketing:
 
 1. Know about [template elements](#know-about-template-elements)
@@ -16,9 +15,13 @@ Use the following recommendations when using templates with GenStudio for Perfor
 1. Design with [accessibility standards](accessibility-for-templates.md) for an optimal experience
 1. Follow [template guidelines](#follow-template-guidelines)
 
+>[!TIP]
+>
+>Learn more about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for use in your next campaign.
+
 ## Know about template elements
 
-As a best practice, familiarize yourself with the parts of a template. Each template type uses different elements to create a structure for content creation. To customize your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
+As a best practice, familiarize yourself with the parts of a template. Each template type uses different elements to create a structure for channel-specific content creation. To customize your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
 
 See [Template elements](use-templates.md#template-elements).
 
@@ -32,9 +35,7 @@ See [channel guidelines](../guidelines/brands.md#channel-guidelines).
 
 ## Channel-specific template guidelines
 
-Build templates that the layout and visual requirements for each type.
-
-Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
+Build templates that accommodate the layout and visual requirements for each channel. Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
 >[!BEGINTABS]
 
@@ -48,7 +49,7 @@ Follow these design best practices when customizing email templates to work with
 - Do **not** use fixed width in body or container
 - Do **not** use base64 encoding for images
 
-Constraints:
+**Constraints**:
 
 - For a basic template (one section) only generates a maximum of 1 set of template elements
 - For a complex template (multiple sections) only generates a maximum of 3 sets of template elements
@@ -66,11 +67,11 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Do **not** use relative font size
 - Use a minimum resolution of 1080x1080 for images
 
-Constraints:
+**Constraints**:
 
 - Only generates 1 set of template elements
 
-Supported Aspect ratios:
+**Supported aspect ratios**:
 
 - 1:1
 - 4:5
@@ -78,17 +79,17 @@ Supported Aspect ratios:
 
 >[!TAB Display ad]
 
-Follow these design best practices when customizing Display ad templates to work with GenStudio for Performance Marketing:
+Follow these design best practices when customizing display ad templates to work with GenStudio for Performance Marketing:
 
 - Use Adobe or Google fonts
 - Prepare assets that display well in slim dimensions
 - Use background images (`image` field) uploaded to the GenStudio for Performance Marketing content repository; do **not** use embedded or encoded background images
 
-Constraints:
+**Constraints**:
 
 - Only generates 1 set of template elements
 
-Supported dimensions:
+**Supported dimensions**:
 
 - Vertical: 300x600, 160x600​
 - Horizontal: 300x250, 728x90, 336x280, 320x50, 970x250​
