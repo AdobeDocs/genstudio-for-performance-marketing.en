@@ -10,10 +10,11 @@ GenStudio for Performance Marketing is a standalone enterprise product that embo
 
 With GenStudio for Performance Marketing you can:
 
-* Create on-brand content using natural language prompts
+* Create on-brand content using natural language prompts for all your top-priority digital channels such as paid media, email, and display ads
 * Collaborate with stakeholders to review and approve generated content
 * Save generated and approved content to access for future marketing campaigns
-* Evaluate content performance with insights about campaigns and content attributes
+* Evaluate content performance with insights about asset performance and attributes of high-performing content
+* Assess content effectiveness by analyzing asset performance and identifying key attributes of top-performing content
 
 ## Generative AI technology
 
@@ -23,9 +24,9 @@ Begin by effectively training GenStudio for Performance Marketing on your organi
 
 {{in-academy}}
 
-## LLMs
+## Large language models
 
-GenStudio for Performance Marketing leverages Firefall, Adobe's generative AI platform, which offers foundational AI and machine learning (ML) services. Firefall simplifies the use of large language models (LLMs), powering Adobe's GenAI capabilities to create engaging experiences.
+GenStudio for Performance Marketing leverages Adobe's generative AI platform, which offers foundational AI and machine learning (ML) services. This platform simplifies the use of large language models (LLMs), powering Adobe's GenAI capabilities to create engaging experiences.
 
 GenStudio for Performance Marketing uses the GPT series of third-party LLMs.<!-- Claude, and Gemini models. -->
 
