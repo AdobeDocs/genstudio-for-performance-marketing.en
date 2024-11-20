@@ -27,7 +27,7 @@ Begin by effectively training GenStudio for Performance Marketing on your organi
 
 GenStudio for Performance Marketing leverages Firefall, Adobe's generative AI platform, which offers foundational AI and machine learning (ML) services. Firefall simplifies the use of large language models (LLMs), powering Adobe's GenAI capabilities to create engaging experiences.
 
-GenStudio for Performance Marketing uses third-party LLMs, including GPT, Claude, and Gemini models.
+GenStudio for Performance Marketing uses the GPT series of third-party LLMs.<!-- Claude, and Gemini models. -->
 
 ## Data governance
 
