@@ -12,7 +12,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ### New features
 
-Added support for rich media templates, enabling customers to reuse of assets that have already published through their own managed content channels. <!-- GS-6107 -->
+Added support for rich media templates, enabling customers to reuse assets that have already published through their own managed content channels. <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
@@ -22,7 +22,7 @@ Added support for rich media templates, enabling customers to reuse of assets th
 
 * The buttons on the [!DNL Content] _Experiences_ **[!UICONTROL Export]** popup are no longer truncated in certain languages. <!-- GS-6873 -->
 
-* Display ads created with templates sized at 50x50 are now exported in the expected image size. Previously, exported PNG files were exported at double the expected dimensions. <!-- GS-7192 -->
+* Display ads created with templates sized at 50x50 are now exported in the expected image size. Previously, PNG files were exported at double the expected dimensions. <!-- GS-7192 -->
 
 * Template errors that occurred when Display ads were resized are now resolved. <!-- GS-7322 -->
 
@@ -30,11 +30,13 @@ Added support for rich media templates, enabling customers to reuse of assets th
 
 This release includes improvements to localization throughout the UI, including:
 
-* All strings the [!DNL Content] _Upload asset_ popup are now correctly localized. <!-- GS-6872 6770 -->
+* All strings in the [!DNL Content] _Upload asset_ popup are now correctly localized. <!-- GS-6872 6770 -->
 * All tooltips in [!DNL Content] _Assets_ view **[!UICONTROL Search]** field are localized. <!-- GS-6879 -->
 * When replacing an existing image in an email variant on the [!DNL Create] Canvas, the _Select from Content_ view is now localized. <!-- GS-6906 -->
 
-## 2024.11.07
+## Release notes archive
+
++++Archive: 2024.11.07
 
 ### Fixes and enhancements
 
@@ -78,7 +80,9 @@ This release includes improvements to localization throughout the UI, including:
 
 * Regenerating Meta ad images after resizing them no longer results in an error. Previously, resizing images before regeneration changed the channel metadata from `meta` to `facebook`. <!-- GS-7042 -->
 
-## 2024.10.31
++++
+
++++Archive: 2024.10.31
 
 ### New features
 
@@ -116,10 +120,4 @@ Major product features include:
 
 GenStudio for Performance Marketing integrates with other Adobe Experience Cloud products including Adobe Express and Adobe AEM Assets.
 
-### Additional information
-
-See the following helpful resources:
-
-* [Adobe GenStudio for Performance Marketing User Guide](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
-
-* [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy), Adobe's online learning platform for using generative AI technologies in the creative process.
++++
