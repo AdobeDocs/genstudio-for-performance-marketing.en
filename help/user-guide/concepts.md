@@ -10,10 +10,12 @@ GenStudio for Performance Marketing is a standalone enterprise product that embo
 
 With GenStudio for Performance Marketing you can:
 
-* Create on-brand content using natural language prompts for all your top-priority digital channels such as paid media, email, and display ads
+* Create on-brand content using natural language prompts for your top-priority digital channels, such as paid media, email, and display ads
+
 * Collaborate with stakeholders to review and approve generated content
 * Save generated and approved content to access for future marketing campaigns
-* Evaluate content performance with insights about asset performance and attributes of high-performing content
+* Evaluate content performance with insights about high-performing experiences, assets, and attributes
+
 * Assess content effectiveness by analyzing asset performance and identifying key attributes of top-performing content
 
 ## Generative AI technology
