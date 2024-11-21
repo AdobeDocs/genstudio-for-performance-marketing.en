@@ -14,8 +14,6 @@ With GenStudio for Performance Marketing you can:
 
 * Collaborate with stakeholders to review and approve generated content
 * Save generated and approved content to access for future marketing campaigns
-* Evaluate content performance with insights about high-performing experiences, assets, and attributes
-
 * Assess content effectiveness by analyzing asset performance and identifying key attributes of top-performing content
 
 ## Generative AI technology
