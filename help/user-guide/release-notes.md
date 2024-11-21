@@ -34,9 +34,9 @@ This release includes improvements to localization throughout the UI, including:
 * All tooltips in [!DNL Content] _Assets_ view **[!UICONTROL Search]** field are localized. <!-- GS-6879 -->
 * When replacing an existing image in an email variant on the [!DNL Create] Canvas, the _Select from Content_ view is now localized. <!-- GS-6906 -->
 
-## Release notes archive
+## Earlier release notes
 
-+++Archive: 2024.11.07
++++Notes from 2024.11.07
 
 ### Fixes and enhancements
 
@@ -82,7 +82,7 @@ This release includes improvements to localization throughout the UI, including:
 
 +++
 
-+++Archive: 2024.10.31
++++Notes from 2024.10.31
 
 ### New features
 
