@@ -16,7 +16,35 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 ![Assets view with search on dog](../../assets/content-assets.png)
 
-### Assets location
+### Search content
+
+The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
+
+There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attributes](/help/user-guide/insights/attributes.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+
+When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
+
+**To search for content to reuse**:
+
+1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
+
+1. Select an asset repository from the **[!UICONTROL Location]** list, or verify that you are looking at the correct asset repository. `GenStudio assets` is the default repository.
+
+   >[!IMPORTANT]
+   >
+   >The _Location_ list is available only when you [connect to an AEM repository](connect-aem-repo.md).
+
+1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
+
+1. Narrow your search by selecting a category from the _[!UICONTROL Filter]_ list. For example, if you are looking for a PNG file, click **[!UICONTROL File format]** and choose **PNG**.
+
+   The more you narrow your search, the fewer filter options available. Click **[!UICONTROL Clear all]** to remove all filters.
+
+1. Select an asset for a full view and a list of details.
+
+   Click **[!UICONTROL Download]** (down arrow) to use the asset in your local workstation.
+
+### Location
 
 By default, assets that you add to [!DNL Content] through the [!DNL Create] process or through upload are stored in the `GenStudio assets` repository. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketing. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
 
@@ -64,30 +92,61 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Search content
+### Download assets
 
-The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
+**To download an asset**:
 
-There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attributes](/help/user-guide/insights/attributes.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
 
-When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
+1. In the asset view, click the **[!UICONTROL Download]** icon (arrow pointing down) in the upper right.
 
-**To search for content to reuse**:
+1. The download begins placing a copy of the asset in your default download location.
 
-1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
+### Delete assets
 
-1. Select an asset repository from the **[!UICONTROL Location]** list, or verify that you are looking at the correct asset repository. `GenStudio assets` is the default repository.
+**To delete an asset**:
 
-   >[!IMPORTANT]
+1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
+
+1. In the asset view, click the **[!UICONTROL Delete]** icon (trash can) in the upper right.
+
+1. In the _Delete asset_ popup, verify the asset and click **[!UICONTROL Delete]**.
+
+## Edit in Express
+
+You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
+
+>[!BEGINSHADEBOX]
+
+Criteria for enhancing images with the [!DNL Edit in Adobe Express] feature:
+
+- Supported MIME types include `image/png` and `image/jpeg`
+- The minimum image dimensions are 50x50 pixels
+- The maximum image dimensions are 8000x8000 pixels
+- The maximum size is 40MB (40,000,000 bytes)
+
+>[!ENDSHADEBOX]
+
+**To edit an asset with Express**:
+
+1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
+
+1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
+
+1. In the _[!UICONTROL Powered by Adobe Express]_ Canvas, use the Express controls on the left panel to enhance your image.
+
+1. When you are happy with the updated image, click **[!UICONTROL Save a copy]** in the upper right.
+
+1. Select the file format—JPG or PNG—and click **[!UICONTROL Save a copy]**.
+
+1. In the _[!UICONTROL Save a copy of asset]_ popup, update the **[!UICONTROL Asset name]**.
+
+   - Select **[!UICONTROL Same details as original asset]** to carry over the asset details to the new image.
+
+   - Expand the **[!UICONTROL More details]** section to update the Campaign, Guidelines, and other metadata.
+
+   >[!TIP]
    >
-   >The _Location_ list is available only when you [connect to an AEM repository](connect-aem-repo.md).
+   >The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
-1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
-
-1. Narrow your search by selecting a category from the _[!UICONTROL Filter]_ list. For example, if you are looking for a PNG file, click **[!UICONTROL File format]** and choose **PNG**.
-
-   The more you narrow your search, the fewer filter options available. Click **[!UICONTROL Clear all]** to remove all filters.
-
-1. Select an asset for a full view and a list of details.
-
-   Click **[!UICONTROL Download]** (down arrow) to use the asset in your local workstation.
+1. Click **[!UICONTROL Save]**.
