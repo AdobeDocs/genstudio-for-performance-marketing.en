@@ -22,7 +22,7 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
 
-The following asset contains system metadata describing the file type, size, and other characteristics, one user-defined keyword, and several AI-detected attributes and colors.
+The following image asset contains system metadata describing the file type, size, and other characteristics, one user-defined keyword, and several AI-detected attributes and colors.
 
 ![details of an asset with multiple tags](/help/assets/content-asset-details.png)
 

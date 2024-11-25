@@ -8,9 +8,9 @@ exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 
 Adobe GenStudio for Performance Marketing [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
-## Assets gallery
+## Content gallery
 
-The [!UICONTROL Assets] gallery shows an inventory of approved assets. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from many categories to filter the assets shown in the gallery. Click the search (magnifying glass) icon to use a keyword to find an asset.
+The gallery shows an inventory of approved assets, experiences, or templates depending on the selected view. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from many categories to filter the content shown in the gallery. In the _[!UICONTROL Assets]_ view, click the search (magnifying glass) icon to use a keyword to find an asset.
 
 The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
 
@@ -18,9 +18,9 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 ### Search content
 
-The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
+The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
-There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attributes](/help/user-guide/insights/attributes.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attribute-category.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
 
 When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
 
@@ -48,11 +48,15 @@ When searching for _Experiences_, you can use the **[!UICONTROL Created by]** fi
 
 By default, assets that you add to [!DNL Content] through the [!DNL Create] process or through upload are stored in the `GenStudio assets` repository. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketing. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
 
-The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) [!DNL Assets Content Hub] repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
+The **[!UICONTROL Location]** list above the _[!UICONTROL Assets]_ gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) [!DNL Assets Content Hub] repositories.
+
+![location list of repositories](../../assets/content-location-selection.png){width="350"}
+
+When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
 
 See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your [!DNL AEM Assets Content Hub] repository to GenStudio for Performance Marketing.
 
-The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and final updates for assets, experiences, and templates save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
+The AEM repository is read-only, which means that you can access the content but you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and final updates for assets, experiences, and templates save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
@@ -64,7 +68,7 @@ In [!UICONTROL Content], Performance Marketing can easily store, retrieve, and m
 
 When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
 
-![Location field](../../assets/content-location.png){width="350" align="center"}
+![Location field](../../assets/content-location.png){width="350"}
 
 **To add one or more assets**:
 
