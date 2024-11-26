@@ -51,7 +51,8 @@ By default, assets that you add to [!DNL Content] through the [!DNL Create] proc
 
 The **[!UICONTROL Location]** list above the _[!UICONTROL Assets]_ gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) [!DNL Assets Content Hub] repositories.
 
-![location list of repositories](../../assets/content-location-selection.png){width="350"}
+![Location list of repositories](../../assets/content-location-selection.png){width="350"}
+
 
 When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
 
