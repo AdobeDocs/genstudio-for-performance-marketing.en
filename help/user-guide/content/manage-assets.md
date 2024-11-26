@@ -149,7 +149,7 @@ Criteria for enhancing images with the [!DNL Edit in Adobe Express] feature:
 
    - Select **[!UICONTROL Same details as original asset]** to carry over the asset details to the new image.
 
-   - Expand the **[!UICONTROL More details]** section to update the Campaign, Guidelines, and other metadata.
+   - Expand the **[!UICONTROL More details]** section to update the guidelines and other metadata.
 
    >[!TIP]
    >

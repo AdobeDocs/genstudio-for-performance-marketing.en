@@ -16,9 +16,9 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
-   If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
+1. If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
 
-Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+Asset details include metadata applied during the create or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
 
 The following image asset contains system metadata describing the file type, size, and other characteristics, one user-defined keyword, and several AI-detected attributes and colors.
 
