@@ -13,7 +13,7 @@ Use the following recommendations when using templates with GenStudio for Perfor
 1. Know about [template elements](#know-about-template-elements)
 1. Configure [channel guidelines](#configure-channel-guidelines) for effective personalization of content
 1. Design with [accessibility standards](accessibility-for-templates.md) for an optimal experience
-1. Follow [channel-specific template guidelines](#channel-specific-template-guidelines)
+1. Follow [channel-specific template guidelines](#follow-channel-specific-template-guidelines)
 
 >[!TIP]
 >
@@ -33,7 +33,7 @@ Configure channel guidelines for each brand before using templates in GenStudio 
 
 See [channel guidelines](../guidelines/brands.md#channel-guidelines).
 
-## Channel-specific template guidelines
+## Follow channel-specific template guidelines
 
 Build templates that accommodate the layout and visual requirements for each channel. Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
