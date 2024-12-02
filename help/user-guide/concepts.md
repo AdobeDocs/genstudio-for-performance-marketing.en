@@ -30,30 +30,34 @@ GenStudio for Performance Marketing leverages Adobe's generative AI platform, wh
 
 GenStudio for Performance Marketing uses the GPT series of third-party LLMs through Azure OpenAI.<!-- Claude, and Gemini models. -->
 
-## Generative credits
+## Generative actions
 
-Generative credits allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These generative actions are calculated and debited against your allotted generative credits.
+Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions.
 
-See your Adbe account management to review your generative credit allocation and usage. Usage rates may vary. Plans are subject to change.
+See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. Usage rates may vary. Plans are subject to change.
 
-## Generative credits rate info
+<!-- Add example about usage mode?
+Where users check how many generative actions they have left
+How many genactions are available by default
+How they re-up their genactions
+If genactions roll over month to month or not -->
 
-Features that consume GenActions
+### Rates
 
-| SN  | PRODUCT FUNCTION  | RATE | USAGE MODEL  | Notes |
-| --- | ------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 1   | Create Email              | 5 GenActions per Prompt | Mo will work on 1 email campaign per week. It will take 5 generations (aka Prompts) to get to good outputs. So Mo will use 5 Prompts per week, 20 a month. At the rate of 5 GenActions - this will be 100 GenActions / month.                            | Each generation will create 4 draft emails.                                                                           |
-| 2   | Create Paid Media Ads     | 5 GenActions per Prompt | Mo will work on 3 Ads per week, or 12 Ads per month. It will take 5 generations (aka Prompts) to get to good outputs. So Mo will use 60 Prompts per month. At the rate of 5 GenActions per Prompt - this will be 300 GenActions / month.                 | Each generation will create 4 draft paid media ads. We expect Mo to create multiple size renditions per the use case. |
-| 3   | Create Display Ads        | 5 GenActions per Prompt | Mo will work on 3 Display Ads per week, or 12 Display Ads per month. It will take 5 generations (aka Prompts) to get to good outputs. So Mo will use 60 Prompts per month. At the rate of 5 GenActions per Prompt - this will be 300 GenActions / month. | Each generation will create 4 draft emails. We expect Mo to create multiple size renditions per the use case.         |
-| 4   | Fragment Regeneration     | 1 GenAction per Prompt  | Users can use generative capabilities to regenerate specific fragments or sections of their digital experiences. As this is not a holistic experience generation, the rate per Prompt is lower at 1 GenAction per prompt.                                |                                                                                                                       |
-| 5   | On-Brand Image Generation | 1 GenAction per Prompt  | Mo will generate 4 Images per week, or 16 Images per month. It will take 5 generations (aka Prompts) to get to good outputs. So Mo will use 80 Prompts per month. At the rate of 1 GenActions per Prompt - this will be 80 GenActions / month.           | Not in GA Scope. Each generation will create 4 draft images.                                                          |
+The following functions consume generative actions.
 
-#### GenAI-powered functions that do not consume GenAction credits
+| Function                 | Generative actions rate |
+| -----------------------  | ------------------ |
+| Create email             | 5 per prompt  |
+| Create paid media ads    | 5 per prompt  |
+| Create display ads       | 5 per prompt  |
+| Regenerate sections      | 1 per prompt  |
+<!-- | Generate on-brand images | 1 per prompt  |
+| Translation              | 1 per prompt  |
+| Video: ADLS              | 1 per prompt  |
+| Video: TTS + Avatar      | 1 per prompt  | -->
 
-| SN  | PRODUCT FUNCTION                  | USAGE                                                                                                                                                                                                                           |
-|-----|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Brand Validation on Generate click | Brand Validation is invoked after each generation (Prompt) on the entire generated content. For GA, only Marketing Copy is validated if a Brand is selected in the Create menu. Selecting a Brand is optional. Mo might choose to not select a Brand and there will be no validation conducted. While these operations incur COGS, for now, we will meter these actions, but not allocate GenActions. After GA, brand validation will also be performed on Images generated in GenStudio. All generated variants (for example, 4 for email) are sent separately (async) to the Brand Validation service. |
-| 2   | Brand Validation on Manual Recheck | If a Brand is selected, Mo can initiate a manual Brand Validation of an edited / regenerated fragment. In the current implementation, the entire single variant (all text fragments + media) are sent to the Brand Validation service. |
+Generative credits _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
 
 ## Data governance
 
