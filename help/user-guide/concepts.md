@@ -34,7 +34,7 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 
 Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions.
 
-See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. Usage rates may vary. Plans are subject to change.
+<!-- See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. -->
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -44,7 +44,7 @@ If genactions roll over month to month or not -->
 
 ### Rates
 
-The following functions consume generative actions.
+The following functions consume generative actions at the specified rate.
 
 | Function                 | Generative actions rate |
 | -----------------------  | ------------------ |
@@ -57,7 +57,17 @@ The following functions consume generative actions.
 | Video: ADLS              | 1 per prompt  |
 | Video: TTS + Avatar      | 1 per prompt  | -->
 
+Usage rates may vary. Plans are subject to change.
+
 Generative credits _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
+
+Generative credits do not "roll over" from one year to the next. <!-- What about month to month? -->
+
+### Manage generative actions
+
+If you exceed your annual entitlement of generative actions, you may purchase more directly from your Adobe sales representative.
+
+See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for information.
 
 ## Data governance
 
