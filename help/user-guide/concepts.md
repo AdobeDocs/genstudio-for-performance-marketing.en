@@ -68,7 +68,7 @@ Generative credits do not "roll over" from one year to the next. <!-- What about
 
 If you exceed your annual entitlement of generative actions, you may purchase more directly from your Adobe sales representative.
 
-See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for information.
+See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for generative action and entitlement.
 
 ## Data governance
 
