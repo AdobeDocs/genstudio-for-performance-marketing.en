@@ -114,7 +114,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
 
-1. In the asset view, click the **[!UICONTROL Delete]** icon (trash can) in the upper right.
+1. In the asset view, click **[!UICONTROL Delete]** (trash can) in the upper right.
 
 1. In the _Delete asset_ popup, verify the asset and click **[!UICONTROL Delete]**.
 

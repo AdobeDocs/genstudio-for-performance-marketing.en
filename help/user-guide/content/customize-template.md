@@ -93,7 +93,7 @@ To create an editable section, add double brackets around the section name:
 
 _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. The underscore (`_`) must be followed by a field name: `headline`, `body`, `image`, or `cta`. For example, the following headline and body belongs to the `pod1` section:
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`). For example, the following headline and body belongs to the `pod1` section:
 
 - `pod1_headline`
 - `pod1_body`
@@ -112,6 +112,8 @@ A template can include up to three sections. For example, the following list has
 - `cta`
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
+
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
 
 ## Template preview
 

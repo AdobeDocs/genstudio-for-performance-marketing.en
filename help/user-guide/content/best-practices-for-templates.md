@@ -47,7 +47,7 @@ Follow these design best practices when customizing email templates to work with
 - Use clean and responsive HTML and inline CSS
 - Do **not** use JavaScript
 - Do **not** use fixed width in body or container
-- Do **not** use base64 encoding for images, which increases the template size dramatically
+- Do **not** use base64 encoding for images because it can significantly increase the template size
 
 **Constraints**:
 

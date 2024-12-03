@@ -30,7 +30,7 @@ The following image asset contains system metadata describing the file type, siz
 
 ## System metadata
 
-Some asset metadata is automatically collected when an asset is uploaded, such as file type, size, dimensions, source, and more. With the exception of file name, you cannot edit default system metadata.
+Some asset metadata is automatically collected when an asset is uploaded, such as file type, size, dimensions, source, and more. Except for the file name, you cannot edit default system metadata.
 
 ### Generated tags
 
