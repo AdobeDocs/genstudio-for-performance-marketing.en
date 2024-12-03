@@ -52,6 +52,7 @@ The following functions consume generative actions at the specified rate.
 | Create paid media ads    | 5 per prompt  |
 | Create display ads       | 5 per prompt  |
 | Regenerate sections      | 1 per prompt  |
+
 <!-- | Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
