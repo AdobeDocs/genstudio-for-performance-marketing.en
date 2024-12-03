@@ -40,7 +40,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{body}}`         | Body copy              | email <br>Meta ad <br>Display ad |
 | `{{cta}}`          | Call to action         | email <br>Meta ad <br>Display ad |
 | `{{on_image_text}}`| On image text          | Meta ad                          |
-| `{{image}}`        | Image                  | email <br>Meta ad <br>Display ad |
+| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
@@ -93,21 +93,23 @@ To create an editable section, add double brackets around the section name:
 
 _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area:
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. The underscore (`_`) must be followed by a field name: `headline`, `body`, `image`, or `cta`. For example, the following headline and body belongs to the `pod1` section:
 
 - `pod1_headline`
 - `pod1_body`
 
-Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field.
+Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
 
-A template can include up to three sections:
+A template can include up to three sections. For example, the following list has three headline and body sections:
 
-- `headline`
-- `body`
+- `pre-header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
 - `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
