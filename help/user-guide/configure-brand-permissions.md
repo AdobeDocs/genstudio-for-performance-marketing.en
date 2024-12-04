@@ -63,7 +63,7 @@ To assign users the permission to create, edit, and publish [!DNL Brands], add t
 
 1. Select the name of the user group that you created earlier. The _Add users to this user group_ popup opens.
 
-1. Add a new or existing user by either username or email address. Learn about managing user groups in [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
+1. Add a new or existing user by either username or email address. When you enter a name or email address for an existing user, this field is automatically populated with matching names for known users that belong to this IMS org. Learn about managing user groups in [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
 
 Users are granted the [!DNL Brand] create, edit, and publish permissions of Adobe GenStudio system managers when added to the group. Users also receive an automated email invitation to edit the Adobe GenStudio for Performance Marketing [!DNL Brands] project.
 
