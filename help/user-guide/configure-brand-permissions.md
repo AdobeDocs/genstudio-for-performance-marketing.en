@@ -27,9 +27,9 @@ Adding users and user groups are basic tasks common to all Adobe products with e
 
 See [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
 
-## Step 2: Assign a GenStudio system manager profile to user group
+## Step 2: Assign a GenStudio system manager profile to the user group
 
-Once you have created a new user group and added users, you can assign the **Adobe GenStudio system manager** profile to this group. The entitlements associated to the assigned profile gives all users in this group GenStudio [!DNL Brands] permissions (create, update, and delete brands).
+Once you have created a new user group and added users, you can assign the **Adobe GenStudio system manager** profile to this group. The entitlement associated to the assigned profile gives all users in this group GenStudio [!DNL Brands] permissions (create, update, and delete brands).
 
 **To assign a profile to the user group**:
 
@@ -49,7 +49,25 @@ Once you have created a new user group and added users, you can assign the **Ado
 
 See [Assign Product Profiles to User Groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
 
-## Step 3: Create a [!DNL Brands] project
+## Step 3: Add users to the user group
+
+To assign users the permission to create, edit, and publish [!DNL Brands], add them to the newly created user group.
+
+>[!NOTE]
+>
+>You must add at least one user to this user group before adding the group to your project.
+
+**To add users to the user group**:
+
+1. From the _Admin Console_, navigate to **[!UICONTROL Users]** > **[!UICONTROL User Groups]**.
+
+1. Select the name of the user group that you created earlier. The _Add users to this user group_ popup opens.
+
+1. Add a new or existing user by either username or email address. Learn about managing user groups in [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
+
+Users are granted the [!DNL Brand] create, edit, and publish permissions of Adobe GenStudio system managers when added to the group. Users also receive an automated email invitation to edit the Adobe GenStudio for Performance Marketing [!DNL Brands] project.
+
+## Step 4: Create a [!DNL Brands] project
 
 A _project_ provides a storage location where select users can save assets—in this case, [!DNL Brands] assets.
 
@@ -61,13 +79,13 @@ A _project_ provides a storage location where select users can save assets—in 
 
 1. Click **[!UICONTROL Create Project]**. The _New Project_ popup opens.
 
-1. Enter `Adobe GenStudio Brands` into the project name field. Enter this project name exactly as displayed here. Do not include extra spaces or change the lettercase.
+1. Enter `Adobe GenStudio Brands` in the project name field. Enter this project name exactly as displayed here. Do not include extra spaces or change the lettercase.
 
 1. Click **[!UICONTROL Create]**. The _Invite to project_ popup opens.
  
 See [Manage projects](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html) in the _Enterprise and Teams administration guide_.
 
-## Step 4: Invite user group to project
+## Step 5: Invite user group to project
 
 You are now ready to add the user group you just created to the `Adobe GenStudio [!DNL Brands]` project.
 
@@ -78,17 +96,3 @@ You are now ready to add the user group you just created to the `Adobe GenStudio
 1. Choose the **Can edit** permissions option.
 
 1. Click **[!UICONTROL Invite]**.
-
-## Step 5: Add users to the user group
-
-To assign users the permission to create, edit, and publish [!DNL Brands], add them to the newly created user group.
-
-**To add users to the user group**:
-
-1. From the _Admin Console_, navigate to **[!UICONTROL Users]** > **[!UICONTROL User Groups]**.
-
-1. Select the name of the user group that you created earlier. The _Add users to this user group_ popup opens.
-
-1. Add a new or existing user by either username or email address. Learn about managing user groups in [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) in _Enterprise and Teams administration guide_.
-
-Users are granted the [!DNL Brand] create, edit, and publish permissions of Adobe GenStudio system managers when added to the group. Users also receive an automated email invitation to edit the Adobe GenStudio for Performance Marketing [!DNL Brands] project.
