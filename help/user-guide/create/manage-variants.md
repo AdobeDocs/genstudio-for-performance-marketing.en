@@ -67,7 +67,7 @@ After generating a set of variants, you can revise the call-to-action (CTA) text
    1. Choose a rephrased option or click **[!UICONTROL Refresh]** to see more options.
    1. Once a new option is chosen, click **[!UICONTROL Replace]**. The new CTA text is revised and a _"A button label was replaced"_ message appears confirming the change.
 1. To add a link to your CTA, click **[!UICONTROL Add link]**.
-   1. Type or paste in a URL and click **[!UICONTROL Apply]**..
+   1. Type or paste in a URL and click **[!UICONTROL Apply]**.
 1. To revise an existing link in your CTA, edit the existing URL or paste in a new URL and click **[!UICONTROL Apply]**.
 
 The added or revised link is applied to all CTAs in the set of variants.
