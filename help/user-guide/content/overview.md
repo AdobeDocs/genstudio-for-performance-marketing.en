@@ -67,7 +67,7 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
 
 ## [!DNL Content] capabilities
 
-GenStudio for Performance Marketing [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
+GenStudio for Performance Marketing [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jump-start the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 

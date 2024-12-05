@@ -59,4 +59,4 @@ You can add users individually or import account information for multiple users:
 
 * [Manage multiple users/bulk CSV upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
 
-Once you onboard users to your organization's GenStudio for Performance Marketing, a Genstudio system manager can [set up your organization's brand and media guidelines](get-started.md).
+Once you onboard users to your organization's GenStudio for Performance Marketing, a GenStudio system manager can [set up your organization's brand and media guidelines](get-started.md).
