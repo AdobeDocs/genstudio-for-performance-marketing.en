@@ -79,7 +79,7 @@ A _project_ provides a storage location where select users can save assets—in 
 
 1. Click **[!UICONTROL Create Project]**. The _New Project_ popup opens.
 
-1. Enter `Adobe GenStudio Brands` in the project name field. Enter this project name exactly as displayed here. Do not include extra spaces or change the lettercase.
+1. Enter `Adobe GenStudio Brands` in the project name field. Enter this project name exactly as displayed here. Do not include extra spaces or change the letter case.
 
 1. Click **[!UICONTROL Create]**. The _Invite to project_ popup opens.
  
