@@ -9,7 +9,8 @@ exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 
 You can customize a template for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content.
 
-The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+
 
 Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 

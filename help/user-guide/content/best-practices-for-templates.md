@@ -27,7 +27,7 @@ See [Template elements](use-templates.md#template-elements).
 
 ## Configure channel guidelines
 
-Configure channel guidelines for each brand before using templates in GenStudio for Performance Marketing. The channel guidelines directly influence the type of content generated when using the template. For example, you can set character limits on the body of an email:
+Configure channel guidelines for each brand before using templates in GenStudio for Performance Marketing. The channel guidelines directly influence the type of content generated when using the template. For example, you can set character limits on the body of an email.
 
 ![Body specifications](/help/assets/channel-email-body.png)
 
