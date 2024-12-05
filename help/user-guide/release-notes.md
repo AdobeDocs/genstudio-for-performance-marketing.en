@@ -2,7 +2,7 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substanial-update: 2024-11-14
+last-substantial-update: 2024-11-14
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes

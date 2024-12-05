@@ -41,7 +41,7 @@ GenStudio for Performance Marketing populates certain fields automatically in th
 
 - **Email template** does not require you to identify the `subject` field
 - **Meta ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
-- **Display Ads template** does not require you to idenitify the `CTA` field
+- **Display Ads template** does not require you to identify the `CTA` field
 
 >[!WARNING]
 >

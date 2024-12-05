@@ -55,7 +55,7 @@ See [Assign Brand permissions](configure-brand-permissions.md).
 
 ### Step 3: Upload templates
 
-Templates accelerate content creation. A template contains approved features, such as headers and footers, and is optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
+Templates accelerate content creation. A template contains approved features, such as headers and footers, and is optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jump-start the content creation process within the established boundaries of the organizational brand.
 
 See [Work with templates](./content/use-templates.md).
 
