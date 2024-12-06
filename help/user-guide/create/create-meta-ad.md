@@ -82,7 +82,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line,
 header, or body copy) and edit as needed.
-* **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _[!UICONTROL Link]_, enter a URL for the call-to-action text.
+* **To change or select the call-to-action**, click the button displaying the call-to-action and select from the available button text options. In _[!UICONTROL Link]_, enter a new URL or revise an existing URL.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
