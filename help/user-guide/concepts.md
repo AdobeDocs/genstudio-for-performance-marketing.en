@@ -44,6 +44,12 @@ If genactions roll over month to month or not -->
 
 ### Rates
 
+By default, an allotment of 60,000 generative actions are available annually.
+
+>[!NOTE]
+>
+>Usage rates may vary. Plans are subject to change. See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for updated rate information.
+
 The following functions consume generative actions at the specified rate.
 
 | Function                 | Generative actions rate |
@@ -57,12 +63,6 @@ The following functions consume generative actions at the specified rate.
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
 | Video: TTS + Avatar      | 1 per prompt  | -->
-
-By default, an allotment of 60,000 generative actions are available annually.
-
->[!TIP]
->
->Usage rates may vary. Plans are subject to change. See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for updated rate information.
 
 Generative credits _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
 
