@@ -22,3 +22,9 @@ Editable sections of a display ad experience include:
 * Image
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+
+## Character counts
+
+After you generate a set of display ad variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+
+![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
