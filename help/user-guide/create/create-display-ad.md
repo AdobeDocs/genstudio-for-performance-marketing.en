@@ -69,7 +69,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 **To revise generated variants**:
 
 * **To [edit the display ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit a display ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the display ad sections or fields (such as the subject line, header, or body copy) and edit as needed.
+* **To [manually edit a display ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the display ad sections or fields (such as the subject line, header, or body copy) and edit as needed.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over the image, click the crop icon that appears, and adjust the image size and placement. Click **[!UICONTROL Apply]**.
 
