@@ -75,7 +75,7 @@ See [Content placeholders](customize-template.md#content-placeholders) to unders
 Follow these design best practices when customizing Meta ad templates to work with GenStudio for Performance Marketing:
 
 - Use 360 pixel width for column layouts
-- Use a minimum resolution of 1080x1080 for images
+- Use a minimum resolution of 1080 x 1080 px for images
 - Do **not** use relative font size
 - Do **not** define viewports
 - Do **not** use JavaScript
@@ -130,8 +130,15 @@ Follow these design best practices when customizing display ad templates to work
 
 **Supported dimensions**:
 
-- Vertical: (px) 300 x 600, 160 x 600​
-- Horizontal: (px) 300 x 250, 728 x 90, 336 x 280, 320 x 50, 970 x 250​
+- Vertical: (px)
+   - 300 x 600
+   - 160 x 600​
+- Horizontal: (px)
+   - 300 x 250
+   - 728 x 90
+   - 336 x 280
+   - 320 x 50
+   - 970 x 250​
 
 **Recognized field names**:
 
