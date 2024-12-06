@@ -2,7 +2,7 @@
 title: Best practices for templates
 description: Follow best practices when using templates with Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-last-substanial-update: 2024-11-15
+last-substantial-update: 2024-12-06
 ---
 # Best practices for using templates
 
@@ -51,10 +51,11 @@ Follow these design best practices when customizing email templates to work with
 
 **Constraints**:
 
-- For a basic template (one section) only generates a maximum of 1 set of template elements
-- For a complex template (multiple sections) only generates a maximum of 3 sets of template elements
-- Field maximum is 20
-- HTML file size maximum is 102k
+- Use of [sections](customize-template.md#sections-or-groups):
+   - A basic template (one section only) generates 1 set of template elements
+   - A complex template (multiple sections) generates 3 sets of template elements
+- Maximum fields allowed in a template is 20
+- Maximum HTML file size is 102 k
 
 **Recognized field names**:
 
@@ -79,26 +80,28 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Do **not** define viewports
 - Do **not** use JavaScript
 - Do **not** override an HTML element in the CSS
+- Use the following settings for background images:
 
-Add `object-fit: cover` value to `background-image` CSS class:
+    Add `object-fit: cover` value to `background-image` CSS class:
 
-```css
-.background-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-```
+    ```css
+    .background-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    ```
 
 **Constraints**:
 
-- Only generates 1 set of template elements
+- Use of [sections](customize-template.md#sections-or-groups):
+   - Can only use one section, which generates 1 set of template elements
 
 **Supported aspect ratios**:
 
-- Square 1:1 (1080 x 1080 pixels)
-- Vertical 4:5 (1080 x 1350 pixels)
-- Story 9:16 (1080 x 1920 pixels)
+- Square 1:1 (1080 x 1080 px)
+- Vertical 4:5 (1080 x 1350 px)
+- Story 9:16 (1080 x 1920 px)
 
 **Recognized field names**:
 
@@ -116,17 +119,19 @@ Follow these design best practices when customizing display ad templates to work
 
 - Use Adobe or Google fonts
 - Prepare assets that display well in slim dimensions
-- Use background images (`image` field) uploaded to the GenStudio for Performance Marketing content repository; do **not** use embedded or encoded background images
+- Do **not** use embedded or encoded background images
+- Use background images (`image` field) uploaded to the GenStudio for Performance Marketing content repository
 - Do **not** use JavaScript
 
 **Constraints**:
 
-- Only generates 1 set of template elements
+- Use of [sections](customize-template.md#sections-or-groups):
+   - Can only use one section, which generates 1 set of template elements
 
 **Supported dimensions**:
 
-- Vertical: 300x600, 160x600​
-- Horizontal: 300x250, 728x90, 336x280, 320x50, 970x250​
+- Vertical: (px) 300 x 600, 160 x 600​
+- Horizontal: (px) 300 x 250, 728 x 90, 336 x 280, 320 x 50, 970 x 250​
 
 **Recognized field names**:
 

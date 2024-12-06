@@ -101,7 +101,7 @@ Use a prefix of your choice in the field name to indicate that a field is part o
 
 Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
 
-A template can include up to three sections. For example, the following list has three headline and body sections:
+An email template can include up to three sections. For example, the following list has three headline and body sections:
 
 - `pre-header`
 - `pod1_headline`
