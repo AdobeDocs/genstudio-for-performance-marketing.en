@@ -52,10 +52,10 @@ Follow these design best practices when customizing email templates to work with
 **Constraints**:
 
 - Use of [sections](customize-template.md#sections-or-groups):
-   - A basic template (one section only) generates 1 set of template elements
-   - A complex template (multiple sections) generates 3 sets of template elements
-- Maximum fields allowed in a template is 20
-- Maximum HTML file size is 102 k
+   - A basic template (one section only) can generate a single set of template elements.
+   - A complex template (multiple sections) can generate up to three sets of template elements.
+- The maximum fields allowed in a template are 20
+- The maximum HTML file size is 102 k
 
 **Recognized field names**:
 
@@ -95,7 +95,7 @@ Follow these design best practices when customizing Meta ad templates to work wi
 **Constraints**:
 
 - Use of [sections](customize-template.md#sections-or-groups):
-   - Can only use one section, which generates 1 set of template elements
+   - Only one section can be used, generating a single set of template elements.
 
 **Supported aspect ratios**:
 
@@ -126,7 +126,7 @@ Follow these design best practices when customizing display ad templates to work
 **Constraints**:
 
 - Use of [sections](customize-template.md#sections-or-groups):
-   - Can only use one section, which generates 1 set of template elements
+   - Only one section can be used, generating a single set of template elements.
 
 **Supported dimensions**:
 
