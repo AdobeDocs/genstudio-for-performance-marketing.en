@@ -129,7 +129,7 @@ To make the generated Meta ads available for current and future use, publish it 
 
 1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
 1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
-   1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
+   1. Select the format—HTML and images or CSV and images (JPG or PNG)—click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
 
