@@ -2,7 +2,7 @@
 title: Best practices for templates
 description: Follow best practices when using templates with Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-last-substantial-update: 2024-12-06
+last-substantial-update: 2024-12-09
 ---
 # Best practices for using templates
 
@@ -55,7 +55,7 @@ Follow these design best practices when customizing email templates to work with
    - A basic template (one section only) can generate a single set of template elements.
    - A complex template (multiple sections) can generate up to three sets of template elements.
 - The maximum fields allowed in a template are 20
-- The maximum HTML file size is 102 k
+- The maximum HTML file size is 102 KB
 
 **Recognized field names**:
 
@@ -75,22 +75,22 @@ See [Content placeholders](customize-template.md#content-placeholders) to unders
 Follow these design best practices when customizing Meta ad templates to work with GenStudio for Performance Marketing:
 
 - Use 360 pixel width for column layouts
-- Use a minimum resolution of 1080 x 1080 px for images
+- Use a minimum resolution of 1080 x 1080 pixels for images
 - Do **not** use relative font size
 - Do **not** define viewports
 - Do **not** use JavaScript
 - Do **not** override an HTML element in the CSS
 - Use the following settings for background images:
 
-    Add `object-fit: cover` value to `background-image` CSS class:
+   Add `object-fit: cover` value to `background-image` CSS class:
 
-    ```css
-    .background-image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-    ```
+   ```css
+   .background-image {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+   }
+   ```
 
 **Constraints**:
 
@@ -99,9 +99,9 @@ Follow these design best practices when customizing Meta ad templates to work wi
 
 **Supported aspect ratios**:
 
-- Square 1:1 (1080 x 1080 px)
-- Vertical 4:5 (1080 x 1350 px)
-- Story 9:16 (1080 x 1920 px)
+- Square 1:1 (1080 x 1080 pixels)
+- Vertical 4:5 (1080 x 1350 pixels)
+- Story 9:16 (1080 x 1920 pixels)
 
 **Recognized field names**:
 
@@ -130,10 +130,10 @@ Follow these design best practices when customizing display ad templates to work
 
 **Supported dimensions**:
 
-- Vertical: (px)
+- Vertical: (pixels)
    - 300 x 600
    - 160 x 600​
-- Horizontal: (px)
+- Horizontal: (pixels)
    - 300 x 250
    - 728 x 90
    - 336 x 280
