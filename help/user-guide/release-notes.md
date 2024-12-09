@@ -13,6 +13,20 @@ This release information details the latest updates to the GenStudio for Perform
 
 ### New features
 
+
+### Fixes and enhancements
+
+
+### Localization
+
+This release includes improvements to localization throughout the UI, including:
+
+## Earlier release notes
+
++++Notes from 2024.11.14
+
+### New features
+
 Added support for rich media templates, enabling customers to reuse assets that have already published through their own managed content channels. <!-- GS-6107 -->
 
 ### Fixes and enhancements
@@ -35,7 +49,7 @@ This release includes improvements to localization throughout the UI, including:
 * All tooltips in [!DNL Content] _Assets_ view **[!UICONTROL Search]** field are localized. <!-- GS-6879 -->
 * When replacing an existing image in an email variant on the [!DNL Create] Canvas, the _Select from Content_ view is now localized. <!-- GS-6906 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.11.07
 
