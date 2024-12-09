@@ -31,7 +31,7 @@ Configure channel guidelines for each brand before using templates in GenStudio 
 
 ![Body specifications](/help/assets/channel-email-body.png)
 
-See [channel guidelines](../guidelines/brands.md#channel-guidelines).
+See [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines).
 
 ## Follow channel-specific template guidelines
 
