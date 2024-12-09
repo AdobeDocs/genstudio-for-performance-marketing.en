@@ -107,7 +107,7 @@ In the _[!DNL Brands]_ home, you can click to open an already-created brand to m
 1. To **view individual details or modify brand guidelines**, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 1. To **rename an existing brand**, select **[!UICONTROL Rename]** from the [!DNL Brands] action menu.
 1. To **duplicate an existing brand**, select **[!UICONTROL Duplicate]** from the [!DNL Brands] action menu.
-   1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**. A "New brand created" banner appears. The duplicated brand is unpublished.
+   1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**. A "New brand created" banner appears. The new duplicated brand is unpublished.
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To **delete a brand**, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
 

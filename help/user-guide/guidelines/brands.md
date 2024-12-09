@@ -16,9 +16,9 @@ After adding brand guidelines to GenStudio for Performance Marketing, you can [m
 
 [!DNL Brands] can be in either a _Draft_ or _Published_ state. New [!DNL brands] start as _Draft_.
 
-You must [publish a [!DNL brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
+You must [publish a brand](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
 
-Published [!DNL brands] can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content.
+Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Manage brands](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
 Deleted [!DNL brands] are archived for 30 days and can be recovered within that period.
 
