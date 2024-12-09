@@ -20,7 +20,7 @@ Provide text alternatives for non-textual content, such as images.
 <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
 ```
 
-![Collage of ideas, books, man holding giant pencil, computer](../../assets/card-create-assets.png){width="400"}
+![Collage of ideas, books, man holding giant pencil, computer](/help/assets/card-create-assets.png){width="400"}
 
 ## Fonts
 

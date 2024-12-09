@@ -51,9 +51,9 @@ GenStudio for Performance Marketing guidelines help the generative AI to persona
 
 ### Structured prompts
 
-For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an [email](/help/user-guide/create/email-experiences.md). Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be inserted into the corresponding content placeholders.
+For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/customize-template.md#sections-or-groups) so that the generated content can be inserted into the corresponding content placeholders.
 
-For instance, you can instruct GenStudio for Performance Marketing to generate content that promotes a new product in the first section of an email and generate content that details the cost-saving benefits of the product in the second email section.
+For instance, you can instruct GenStudio for Performance Marketing to generate content for an email that promotes a new product in the first section and details the cost-saving benefits in the second section.
 
 The structured prompt should:
 
@@ -66,7 +66,7 @@ The structured prompt should:
   For instance, if your template uses `moduleA` or `Group-3` as a section name, then you can reference those section names in the prompt.
 
 - Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt applies to *all* email sections and still facilitates content generation.
-- Use section names as [defined in your email template](/help/user-guide/content/email-template.md#code-an-email-template). Prompt references must match the section names coded in your email template.
+- Use section names as defined in your email template. Prompt references must match the section names coded in your email template.
 - Be case insensitive. For instance, you can use `Pod` or `pod` in your email template and structured prompt.
 - Reference the generic user prompt first, and then the section-specific directives.
 - Use a colon, hyphen, comma, or other demarcation (`,:;#$!~|@=-%&*^_`) as a separation between the section name reference and directive. For instance, you can use the following as a section-specific prompt directive: `Pod1; Describe how to easily edit text and swap images.`
@@ -85,7 +85,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-See [Prepare an email template](/help/user-guide/content/email-template.md#code-an-email-template).
+See [best practices for using templates](/help/user-guide/content/best-practices-for-templates.md).
 
 ## Try again
 
