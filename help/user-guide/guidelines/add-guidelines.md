@@ -81,7 +81,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
    A _Published_ badge and the last date the brand was published is visible for all brands that are currently published.
 
-1. Click to open an unpublished brand. Click **[!UICONTROL Publish]** button is visible.
+1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
 1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
 1. Select **[!UICONTROL Publish]**.
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
@@ -107,7 +107,10 @@ In the _[!DNL Brands]_ home, you can click to open an already-created brand to m
 1. To **view individual details or modify brand guidelines**, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 1. To **rename an existing brand**, select **[!UICONTROL Rename]** from the [!DNL Brands] action menu.
 1. To **duplicate an existing brand**, select **[!UICONTROL Duplicate]** from the [!DNL Brands] action menu.
-   1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**. A "New brand created" banner appears. The new duplicated brand is unpublished.
+   1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
+
+      The popup confirms the brand is duplicated—"New brand created". The new duplicated brand is unpublished.
+
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To **delete a brand**, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
 
