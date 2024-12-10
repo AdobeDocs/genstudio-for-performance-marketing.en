@@ -48,6 +48,16 @@ User-defined metadata adds marketing context to the asset's content, allowing ma
 
 When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets), you can define a set of optional asset details that exist in GenStudio for Performance Marketing as metadata. Including more details can improve asset identification in searches and filtering.
 
+**To edit the user-defined metadata**:
+
+1. In _[!DNL Content]_, select an asset, experience, or template.
+
+1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
+
+1. Click **[!UICONTROL Edit details]** (pencil) to edit asset metadata.
+
+   The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
+
 ### Metadata details
 
 The following table details the metadata (asset details) you can define when creating an asset.
