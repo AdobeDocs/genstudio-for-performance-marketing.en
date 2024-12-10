@@ -15,7 +15,7 @@ To design a compelling display ad experience, it is recommended that you [add gu
 
 ## Choose a template
 
-To create a display ad experience, use an available template to provide the framework for your content.
+To create a display ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supporting display ad dimensions.
 
 **To choose a display ad template**:
 
