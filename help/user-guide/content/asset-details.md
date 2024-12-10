@@ -52,17 +52,22 @@ When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets)
 
 The following table details the metadata (asset details) you can define when creating an asset.
 
-| Field         | Description |
-| ------------- | ----------- |
-| Campaigns (project name) | Default metadata captured and stored with the asset |
-| [!DNL Brands]    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
-| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
-| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
-| Channels      | Content types in GenStudio for Performance Marketing the asset is used for, such as email and Meta ads |
-| [!UICONTROL Timeframe]     | Time frame for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
-| Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
-| Language      | Languages for which the asset is used. Example: `Spanish` |
-| Keywords      | User-defined keywords used for further identification of asset characteristics and purpose |
+| Field          | Description |
+| -------------- | ----------- |
+| Title          | Name of the asset. The default title may be the original filename. |
+| Campaigns      | [Campaigns](/help/user-guide/campaigns/overview.md) include promotional content with consistent messaging for the purpose of achieving a business goal. |
+| [!DNL Brands]  | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
+| [!DNL Products]| [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
+| [!DNL Personas]| [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
+| Channels       | Platforms for distributing certain content types, such as email and display ads. |
+| [!UICONTROL Timeframe] | Time frame for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
+| Region         | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
+| Language       | Languages for which the asset is used. Example: `Spanish` |
+| Keywords       | User-defined keywords are used for further identification of asset characteristics and purpose. |
+
+>[!TIP]
+>
+>Click on **[!UICONTROL Edit details]** (pencil) to edit asset metadata. For example, you can change the asset name or add or remove keywords.
 
 <!-- ## History
 
