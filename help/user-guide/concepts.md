@@ -33,7 +33,6 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 ## Generative actions
 
 Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions as defined in your contract.
-
 <!-- See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. -->
 
 <!-- Add example about usage mode?
