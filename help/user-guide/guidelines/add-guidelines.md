@@ -28,7 +28,7 @@ In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ pan
 
 ### Upload a brand
 
-You can upload your own brand documents to populate a new brand.
+You can upload your own brand guidelines documents—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand.
 
 See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
@@ -100,21 +100,20 @@ The published brand is now available for use in [_[!DNL Create]_](/help/user-gui
 
 In the _[!DNL Brands]_ home, you can click to open an already-created brand to manage or publish it.
 
-**To view or modify a brand**:
+To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left navigation area and click to open an existing brand.
 
-1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-1. To **see a brand's overview information**, click to open a defined brand.
-1. To **view individual details or modify brand guidelines**, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
-1. To **rename an existing brand**, select **[!UICONTROL Rename]** from the [!DNL Brands] action menu.
-1. To **duplicate an existing brand**, select **[!UICONTROL Duplicate]** from the [!DNL Brands] action menu.
+**To modify a brand**:
+
+1. In **[!DNL Brands]**, click to open a defined brand.
+1. To view individual details or modify brand guidelines, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+1. To rename an existing brand, select **[!UICONTROL Rename]** from the _[!DNL Brands]_ action menu.
+1. To duplicate an existing brand, select **[!UICONTROL Duplicate]** from the _[!DNL Brands]_ action menu.
    1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
 
       The popup confirms the brand is duplicated—"New brand created". The new duplicated brand is unpublished.
 
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
-1. To **delete a brand**, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
-
-You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand.
+1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
 
 ## Add [!DNL Products]
 
