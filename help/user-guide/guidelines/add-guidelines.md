@@ -79,7 +79,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 
-   All currently published brands display a _Published_ badge and the last published date.
+   A _Published_ badge and the last date the brand was published is visible for all brands that are currently published.
 
 1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
 1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
@@ -102,7 +102,7 @@ In the _[!DNL Brands]_ home, you can click to open an already-created brand to m
 
 To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left navigation area and click to open an existing brand.
 
-**To modify a brand**:
+**To modify a brand** in the [!DNL Brands] view:
 
 1. In **[!DNL Brands]**, click to open a defined brand.
 1. To view individual details or modify brand guidelines, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
@@ -110,10 +110,12 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 1. To duplicate an existing brand, select **[!UICONTROL Duplicate]** from the _[!DNL Brands]_ action menu.
    1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
 
-      The popup confirms the brand is duplicated—"New brand created". The new duplicated brand is unpublished.
+      The popup confirms the brand is duplicated—"New brand created". The duplicated brand is initially in _Unpublished_ mode.
 
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
+
+You can also manage brands in the [!DNL Brands] view from the _[!DNL Brands]_ action menu (three dots).
 
 ## Add [!DNL Products]
 
