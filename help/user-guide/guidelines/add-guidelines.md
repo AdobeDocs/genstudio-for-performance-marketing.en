@@ -79,7 +79,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 
-   A _Published_ badge and the last date the brand was published is visible for all brands that are currently published.
+   All currently published brands display a _Published_ badge and the last published date.
 
 1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
 1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
