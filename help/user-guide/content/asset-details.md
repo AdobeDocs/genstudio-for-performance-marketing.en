@@ -65,7 +65,7 @@ The following table details the metadata (asset details) that you can define whe
 | Field          | Description |
 | -------------- | ----------- |
 | Title          | Name of the asset; the default title may be the original filename |
-| [!DNL Campaigns]| [[!DNL Campaigns]](/help/user-guide/campaigns/overview.md) include promotional content with consistent messaging for the purpose of achieving a business goal |
+| [!DNL Campaigns]| [[!DNL Campaigns]](/help/user-guide/campaigns/overview.md) include promotional content with consistent messaging for the purpose of achieving a business goal<br>Clicking on a campaign link takes you to the campaign's overview page |
 | [!DNL Brands]  | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
 | [!DNL Products]| [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
 | [!DNL Personas]| [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
@@ -79,9 +79,22 @@ The following table details the metadata (asset details) that you can define whe
 >
 >Click on **[!UICONTROL Edit details]** (pencil) to edit asset metadata. For example, you can change the asset name or add or remove keywords.
 
-<!-- ## History
+## Generative context
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
+The [!UICONTROL Generative Context] section shows what information was used to generate the experience, such as the `Prompt` used during the [!DNL Create] process. This insight may help you to build even more successful variants.
 
-list other activity, show screenshot?
--->
+Information may include:
+
+- `Brand`, `Product`, and `Persona` parameters
+- `Subject line` and `Pre Header` for email experiences
+- `Headline` and `Body` for Meta ads
+
+## History
+
+Expand the _[!UICONTROL History]_ section in an experience to view a timeline of approvals and activity. For example, an approved experience reveals the approval date, time, and approver:
+
+```
+Approved
+
+December 10, 2024 at 6:00 PM by Username
+```
