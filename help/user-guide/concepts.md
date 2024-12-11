@@ -32,13 +32,12 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 
 ## Generative actions
 
-Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions.
+Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions as defined in your contract.
 
 <!-- See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. -->
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
-How many genactions are available by default
 How they re-up their genactions
 If genactions roll over month to month or not -->
 
@@ -54,23 +53,23 @@ The following functions consume generative actions at the specified rate.
 
 | Function                 | Generative actions rate |
 | -----------------------  | ------------------ |
-| Create email             | 5 per prompt  |
-| Create paid media ads    | 5 per prompt  |
-| Create display ads       | 5 per prompt  |
-| Regenerate sections      | 1 per prompt  |
+| Create email             | 5 per generation  |
+| Create paid media ads    | 5 per generation  |
+| Create display ads       | 5 per generation  |
+| Regenerate sections      | 1 per generation  |
 
 <!-- | Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
 | Video: TTS + Avatar      | 1 per prompt  | -->
 
-Generative credits _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
+Generative actions _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
 
-Generative credits do not "roll over" from one year to the next. <!-- What about month to month? -->
+Generative actions do not "roll over" annually. <!-- What about month to month? -->
 
 ### Manage generative actions
 
-If you exceed your annual entitlement of generative actions, you may purchase more directly from your Adobe sales representative.
+If you exceed your annual entitlement of generative actions, you may purchase more directly from your account representative.
 
 See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
 
