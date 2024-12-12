@@ -1,7 +1,8 @@
 ---
 title: Attributes overview
 description: Learn how to evaluate the performance of specific attributes in Adobe GenStudio for Performance Marketing.
-feature: Insights, Assets
+feature: Insights, Attributes
+exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
 ---
 # Attributes overview
 
@@ -25,82 +26,15 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 ## Categories
 
-GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. An example value of _image orientation_ is `landscape`.
+GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. For example, the _image orientation_ category has a `landscape`, `portrait`, or `square` value.
 
-Attributes that are detected and automatically applied cannot be edited.
+You cannot edit tags that are detected and automatically applied.
 
-<!--
-Select any of the following to open a detailed list of feature categories:
+See [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
 
-+++**Image features**
-
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
-| Background Colors      | 14 colors |
-| Camera Position        | - `low angle`, `high angle`, `dutch angle`<br>- `overhead view`, `eye level`,`bird's eye view` |
-| Camera Proximity       | `close up`, `mid shot`, `long shot` |
-| Camera Setting         | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
-| Foreground Colors      | 14 colors |
-| Image Type             | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
-| Lighting Condition     | golden hour, blue hour, midday, overcast, night, high-key, low-key, daylight, incandescent, fluorescent, colorful, studio |
-| Objects                | The items, entities, and elements that are visible, such as `lighthouse`, `orchid`, or `tunnel`. |
-| Orientation            | Examples: `landscape`, `portrait`, `square` |
-| Overall Tone           | `warm`, `cool`, `neutral` |
-| People Categories      | Examples: `person`, `social group`, `people`, `kid` |
-| Photography Styles     | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
-| Scenes                 | Examples: `city`, `island`, `living room` |
-| Tags                   | Examples: `gaming`, `law`, `yoga` |
-| Visual Attention Spread| The level of viewer attention spread across an image: `high`, `low` |
-| Visual Content Density | The amount of information or detail in an image: `high`, `low` |
-
-+++
-
-+++**Video features**
-
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
-| Audio Genre  | |
-| Audio Genre Category  | |
-| Audio Mood  | |
-| Audio Types| |
-| Objects  | |
-| Orientation  | |
-| People Categories  | |
-| Scenes  | |
-| Styles  | |
-| Tags   | |
-| Video Category  | |
-| Video Type  | |
-
-+++
-
-+++**Text features**
-
-| Category               | Values                              |
-| ---------------------- | ----------------------------------- |
-| Emojis Count  | |
-| HashTags Count  | |
-| Keywords  | |
-| Marketing Emotions  | |
-| Narratives  |  |
-| Persuasion Strategies  |  |
-| Readability  | |
-| Sentences Count  | |
-| Stop Words Ratio  | |
-| Text Quotes Count  | |
-| Tones  | |
-| Words Count  | |
-| Words Count Per Sentence  | |
-
-+++
-
--->
-
-## Attribute metrics
+## Attribute performance
 
 Insights metrics can help you evaluate which attributes inspire more customer engagement.
-
-### Metrics detail
 
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Attributes] table view. Each metric includes a brief definition as it relates to an asset, how the metric is calculated, and one or more insights to help understand its significance and impact on an ad campaign.
 
@@ -113,7 +47,7 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL Impressions]** | A count of each time an image or videos with this attribute loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | Number of times users interact with an image or video with this attribute. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks on images or videos with this attribute.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
-| **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost ($) for every one-thousand ad impressions of an image or video with this attribute.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
-| **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost ($) spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Helps to identify attributes that result in valuable customer actions. |
-| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost ($) associated with each click on images or videos with this attribute.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
-| **[!UICONTROL Spend]**       | The amount ($) spent from the budget as it relates to attributes over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost for every one-thousand ad impressions of an image or video with this attribute.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
+| **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Helps to identify attributes that result in valuable customer actions. |
+| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click on images or videos with this attribute.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
+| **[!UICONTROL Spend]**       | The amount spent from the budget as it relates to attributes over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |

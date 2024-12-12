@@ -3,14 +3,19 @@ title: Provision Adobe GenStudio for Performance Marketing
 description: Learn about provisioning the GenStudio for Performance Marketing product.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
 ---
 # Provision Adobe GenStudio for Performance Marketing
 
-Product provisioning is the one-time setup of your organization's GenStudio for Performance Marketing instance. An Adobe system administrator performs these initial provisioning tasks in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview). From the Admin Console, an Adobe system administrator can access the GenStudio product profile and assign available product licenses to users.
+An Adobe system administrator performs initial provisioning tasks in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview). From the Admin Console, an Adobe system administrator can access the GenStudio product profile and assign available product licenses to users.
 
 >[!NOTE]
 >
 >Only Adobe system administrators can implement enablement tasks that require Adobe Admin Console access.
+
+>[!IMPORTANT]
+>
+>Do not add new, or edit or delete, existing product profiles. Altering the default product profiles can seriously disrupt your GenStudio for Performance Marketing deployment.
 
 ## Step 1: Access the product profile in Adobe Admin Console
 
@@ -54,4 +59,4 @@ You can add users individually or import account information for multiple users:
 
 * [Manage multiple users/bulk CSV upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
 
-Once you onboard users to your organization's GenStudio for Performance Marketing, a Genstudio system manager can [set up your organization's brand and media guidelines](get-started.md).
+Once you onboard users to your organization's GenStudio for Performance Marketing, a GenStudio system manager can [set up your organization's brand and media guidelines](get-started.md).

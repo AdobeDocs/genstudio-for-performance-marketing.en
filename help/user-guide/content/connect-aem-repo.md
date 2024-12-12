@@ -1,8 +1,9 @@
 ---
-title: "Connect to an [!DNL AEM Assets Content Hub] repository"
+title: Connect to an [!DNL AEM Assets Content Hub] repository
 description: Learn how to connect Adobe GenStudio for Performance Marketing to an Adobe Experience Manager (AEM) [!DNL Content Hub] repository and leverage existing approved content.
 level: Experienced
 feature: Assets, Content
+exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
 ---
 # Connect to an [!DNL AEM Assets Content Hub] repository
 
@@ -48,3 +49,5 @@ See [Configure Content Hub user interface](https://experienceleague.adobe.com/en
 ## Step 5: Verify the connection
 
 In GenStudio for Performance Marketing Content, the _[!UICONTROL Location]_ list is available above the gallery on the right side. The list is not available if you do not have access or your organization has not deployed and connected an [!DNL AEM Assets Content Hub] repository.
+
+See [Assets location](manage-assets.md#assets-location) to read about the Location list and changing repositories.
