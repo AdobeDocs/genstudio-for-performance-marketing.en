@@ -140,6 +140,8 @@ Follow these design best practices when customizing display ad templates to work
    - 336 x 280
    - 320 x 50
    - 970 x 250​
+- Custom: (pixels)
+  - 50 x 50 to 2000 x 2000
 
 **Recognized field names**:
 
