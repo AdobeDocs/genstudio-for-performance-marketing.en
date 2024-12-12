@@ -53,7 +53,6 @@ The **[!UICONTROL Location]** list above the _[!UICONTROL Assets]_ gallery on th
 
 ![Location list of repositories](../../assets/content-location-selection.png){width="350"}
 
-
 When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
 
 See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your [!DNL AEM Assets Content Hub] repository to GenStudio for Performance Marketing.
@@ -64,7 +63,20 @@ The AEM repository is read-only, which means that you can access the content but
 
 ## Assets management
 
-In [!UICONTROL Content], Performance Marketing can easily store, retrieve, and manage their digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, users can ensure that their assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
+In [!UICONTROL Content], you can easily store, retrieve, and manage your digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, you can ensure that your assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
+
+The table lists the management tasks available for assets, experiences, and templates:
+
+| Command                                                   | Assets | Experiences | Templates |
+| --------------------------------------------------------- | :----: | :---------: | :-------: |
+| [View details](/help/user-guide/content/asset-details.md) |   ✓    |     ✓       |     ✓     |
+| [Create experience](/help/user-guide/create/overview.md)  |        |             |     ✓     |
+| [Edit in Adobe Express](#edit-in-express)                 |   ✓    |             |           |
+| [Export for Activation](#export-for-activation)           |        |     ✓       |           |
+| [Download](#download-assets)                              |   ✓    |             |     ✓     |
+| [Delete](#delete-assets)                                  |   ✓    |     ✓       |     ✓     |
+
+<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Add assets
 
@@ -94,10 +106,6 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 1. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
 
-<!--
-In the future, need guidance on template upload errors. For now, the UI just says error.
--->
-
 ### Download assets
 
 **To download an asset**:
@@ -117,6 +125,15 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. In the asset view, click **[!UICONTROL Delete]** (trash can) in the upper right.
 
 1. In the _Delete asset_ popup, verify the asset and click **[!UICONTROL Delete]**.
+
+## Export for activation
+
+You can export an approved experience for activation in the following formats:
+
+- Email: HTML, CSV
+- Meta and display ads: HTML, JPEG, PNG
+
+See [Activation](/help/user-guide/activation/overview.md).
 
 ## Edit in Express
 
