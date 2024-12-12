@@ -31,7 +31,7 @@ See the [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/en/doc
 All the articles in this repository use GitHub-flavored markdown. If you are not familiar with markdown, see:
 
 - [Markdown basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Printable markdown cheatsheet](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Printable markdown cheat sheet](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## Labels
 
