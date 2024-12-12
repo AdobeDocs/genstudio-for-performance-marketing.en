@@ -128,10 +128,18 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 ## Export for activation
 
-You can export an approved experience for activation in the following formats:
+You can export an approved experience for activation in a format compatible with your target channel.
 
-- Email: HTML, CSV
-- Meta and display ads: HTML, JPEG, PNG
+**To export and experience**:
+
+1. In _[!DNL Content]_, select an experience. Clicking on an experience opens the details view or click the shortcut menu (`...`).
+
+1. Click **[!UICONTROL Export for activation]** (box with arrow pointing out).
+
+1. In the _Export for activation_ popup, select one of the available formats:
+
+   - Email: `HTML`, `CSV`
+   - Meta and display ads: `HTML`, `JPEG`, `PNG`
 
 See [Activation](/help/user-guide/activation/overview.md).
 
