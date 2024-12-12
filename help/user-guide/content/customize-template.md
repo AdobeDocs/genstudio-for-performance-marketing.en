@@ -7,9 +7,16 @@ exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
 # Customize a template
 
-Adapt your HTML templates for Adobe GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+You can customize a template for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content.
 
-The next few sections explain how to add content placeholders, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+
+
+Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+
+>[!TIP]
+>
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Content placeholders
 
@@ -27,15 +34,15 @@ For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to i
 
 The following table lists the field names recognized by GenStudio for Performance Marketing for population into templates. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate content.
 
-| Field          | Role                   | Channel template               |
-| -------------- | ---------------------- | ------------------------------ |
-| `pre_header`   | Pre header             | email             |
-| `headline`     | Headline               | email  <br>Meta ad |
-| `body`         | Body copy              | email  <br>Meta ad |
-| `cta`          | Call to action         | email  <br>Meta ad |
-| `on_image_text`| On image text          | Meta ad            |
-| `image`        | Image                  | email  <br>Meta ad   |
-| `brand_logo`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
+| Field              | Role                   | Channel template                 |
+| ------------------ | ---------------------- | -------------------------------- |
+| `{{pre_header}}`   | Pre header             | email                            |
+| `{{headline}}`     | Headline               | email <br>Meta ad <br>Display ad |
+| `{{body}}`         | Body copy              | email <br>Meta ad <br>Display ad |
+| `{{cta}}`          | Call to action         | email <br>Meta ad <br>Display ad |
+| `{{on_image_text}}`| On image text          | Meta ad                          |
+| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
+| `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -87,23 +94,27 @@ To create an editable section, add double brackets around the section name:
 
 _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area:
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`). For example, the following headline and body belongs to the `pod1` section:
 
 - `pod1_headline`
 - `pod1_body`
 
-Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field.
+Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
 
-A template can include up to three sections:
+An email template can include up to three sections. For example, the following list has three headline and body sections:
 
-- `headline`
-- `body`
+- `pre-header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
 - `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
+
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
 
 ## Template preview
 
@@ -111,7 +122,7 @@ When you [upload a template](use-templates.md#upload-a-template), GenStudio for 
 
 Example Preview for an email template:
 
-![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
+![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
 ### Control preview
 

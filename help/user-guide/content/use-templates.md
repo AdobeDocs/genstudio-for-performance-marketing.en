@@ -10,9 +10,9 @@ GenStudio for Performance Marketing enables content creators to produce consiste
 
 ## Template elements
 
-A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email or Meta ad experience.
+A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience. Template elements provide the structure for content creation.
 
-The following is a list of elements that are used in templates and some details about their characteristics.
+The following is a list of elements that are used in templates and some details about their characteristics:
 
 - **Preheader**
 
@@ -67,19 +67,13 @@ The following is a list of elements that are used in templates and some details 
 >
 >See the [recognized field names](customize-template.md#recognized-field-names) that GenStudio for Performance Marketing supports for templates of each Channel type.
 
-## Configure channel guidelines
-
-It is a best practice to configure [channel guidelines](../guidelines/brands.md#channel-guidelines) for each brand before using templates in GenStudio for Performance Marketing. The channel guidelines directly influence the type of content generated when using the template. For example, you can set character limits on the body of an email.
-
-![Body specifications](/help/assets/channel-email-body.png)
-
 ## Customize template
 
 You [customize your template](customize-template.md) for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content. GenStudio for Performance Marketing recognizes certain fields, such as the `body` field, and adheres to the channel guidelines configured for the selected brand.
 
 >[!TIP]
 >
->Follow [accessibility guidelines for building templates](accessibility-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Upload a template
 
@@ -97,7 +91,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
    Example Preview for an email template:
 
-   ![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -122,7 +116,7 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-   ![Content template list](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Select a template for a full view and a list of details.
 

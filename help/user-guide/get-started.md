@@ -43,7 +43,7 @@ You can upload guideline documents or consult them as you manually enter informa
 
 A GenStudio system manager can prepare the product's underlying generative AI framework by manually entering or uploading your organization's specific brand requirements. Although setting up an organization's brand guidelines is a one-time action, you may revise and enhance these guidelines based on your organization's volatility, growth, and changing market circumstances.
 
-## Step 2: Set up an Adobe Admin Console project for GenStudio [!DNL Brands]
+### Step 2: Set up an Adobe Admin Console project for GenStudio [!DNL Brands]
 
 System administrators must complete additional set-up tasks before collaborators can edit or create [!DNL Brands]. Adobe system administrators carry out these tasks in the Adobe Admin Console:
 
