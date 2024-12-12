@@ -51,7 +51,6 @@ Each field and section of the Meta ad experiences are progressively loaded in th
 
 ## Character counts
 
-After you generate a set of Meta ad variants, you can see the character count displayed for each Meta ad section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
-
+After you generate a set of Meta variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
 
 ![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
