@@ -14,6 +14,8 @@ See the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
+{{in-academy}}
+
 ## Add [!DNL Brands]
 
 To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
@@ -21,6 +23,7 @@ To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a br
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 >[!TIP]
+>
 >Each brand operates independently with no hierarchical relationships. To create sub-brands under a parent brand, include the parent brand's information during the creation process.
 
 ### Upload a brand

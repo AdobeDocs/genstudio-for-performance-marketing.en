@@ -43,7 +43,7 @@ You can upload guideline documents or consult them as you manually enter informa
 
 A GenStudio system manager can prepare the product's underlying generative AI framework by manually entering or uploading your organization's specific brand requirements. Although setting up an organization's brand guidelines is a one-time action, you may revise and enhance these guidelines based on your organization's volatility, growth, and changing market circumstances.
 
-## Step 2: Set up an Adobe Admin Console project for GenStudio [!DNL Brands]
+### Step 2: Set up an Adobe Admin Console project for GenStudio [!DNL Brands]
 
 System administrators must complete additional set-up tasks before collaborators can edit or create [!DNL Brands]. Adobe system administrators carry out these tasks in the Adobe Admin Console:
 
@@ -55,7 +55,7 @@ See [Assign Brand permissions](configure-brand-permissions.md).
 
 ### Step 3: Upload templates
 
-Templates accelerate content creation. A template contains approved features, such as headers and footers, and is optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
+Templates accelerate content creation. A template contains approved features, such as headers and footers, and is optimized for specific channels. System managers typically upload and manage templates for their organization. Content editors use templates to jump-start the content creation process within the established boundaries of the organizational brand.
 
 See [Work with templates](./content/use-templates.md).
 
