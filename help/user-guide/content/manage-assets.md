@@ -130,7 +130,7 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 You can export an approved experience for activation in a format compatible with your target channel.
 
-**To export and experience**:
+**To export an experience**:
 
 1. In _[!DNL Content]_, select an experience. Clicking on an experience opens the details view or click the shortcut menu (`...`).
 
