@@ -65,9 +65,9 @@ The AEM repository is read-only, which means that you can access the content but
 
 In [!UICONTROL Content], you can easily store, retrieve, and manage your digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, you can ensure that your assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
 
-The table lists the management tasks available for assets, experiences, and templates:
+The following table lists the management tasks available for assets, experiences, and templates:
 
-| Command                                                   | Assets | Experiences | Templates |
+| Tasks                                                     | Assets | Experiences | Templates |
 | --------------------------------------------------------- | :----: | :---------: | :-------: |
 | [View details](/help/user-guide/content/asset-details.md) |   ✓    |     ✓       |     ✓     |
 | [Create experience](/help/user-guide/create/overview.md)  |        |             |     ✓     |
