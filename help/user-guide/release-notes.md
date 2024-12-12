@@ -9,17 +9,77 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2024.11.14 {#latest}
+## 2024.12.12 {#latest}
 
 ### New features
 
+Content editors can now:
+
+* Edit asset, experience, and template metadata. See [Asset details](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/asset-details). <!-- GS-4905 6935-->
+
+* Export display ads and Meta ads as HTML. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad). <!-- GS-7093 6655-->
+
+* Export Meta or display ad experiences from the _Experiences_ view as JPEG or PNG files. <!-- GS-5152 -->
+
+* Assign custom width and height to web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates) <!-- GS-6735 -->
+
+* Set custom width and height for web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates). <!-- GS-7166 -->
+
+* Use the **[!UICONTROL Refresh]** button on the [!DNL Content] Template _Asset details_ view to refresh the selected template.  <!-- GS-7102 -->
+
+* Duplicate any existing brand from the [!DNL Content] _[!DNL Brand]_ menu. <!-- BRANDS-548 -->
+
+* Regenerate sections of a display ad variant. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) <!-- GS-5080 -->
+
+* Regenerate sections of an email variant. See [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience) <!-- GS-5078 -->
+
+This release introduces these additional features:
+
+* An asset's generated tags are now included in the _Details_ view of any experience to which the asset belongs. Editors can now search approved experiences by these tags. See _Generated tags_ in [Asset details](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/asset-details#generated-tags). <!-- GS-3705 -->
 
 ### Fixes and enhancements
 
+* Display ad titles are now saved to [!DNL Content] as expected. <!-- GS-7239 -->
 
-### Localization
+* The prompt drawer no longer closes when an editor clicks outside the drawer drop-down menu. <!-- GS-7275 -->
 
-This release includes improvements to localization throughout the UI, including:
+* The [!DNL Create] [!DNL Persona]/[!DNL Product] drop-down menu now loads as expected when a thumbnail URL service error occurs. <!-- GS-7277 -->
+
+* Display ads that contain elements that overlay fragments are now editable. <!-- GS-7186 -->
+
+* The Canvas **[!UICONTROL Brand]** button is now disabled when brand scores are not generated for an experience. <!-- GS-6429 -->
+
+* The Canvas now displays resized experiences in consistent order. <!-- GS-7123 -->
+
+* Manual crop now uses image, not template, dimensions, when editing display ads. Previously, when an image was smaller than the dimensions specified in the display ad template, the bounding box used template dimensions, not image dimensions. <!-- GS-7315 -->
+
+* Editors can now select up to four images when creating a display ad. <!-- GS-7189 -->
+
+* Display ad and Meta ad drafts now load as expected when resized on a different browser. <!-- GS-7204 -->
+
+* Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
+
+* Unused template fields are no longer displayed in generated content.  <!-- GS-5670 -->
+
+* Editors can now single-click on links to edit as expected in generated variants. <!-- GS-7423 -->
+
+* [!DNL Create] now correctly respects collaborator privileges. <!-- GS-7614 -->
+
+* The Canvas **[!UICONTROL Resize]** button is now disabled after all resize options have been selected and rendered. <!-- GS-5940 -->
+
+* Reviewers with view-only access can now zoom in and out of content during reviews. <!-- GS-7371 -->
+
+* Keyboard focus has been added to only actionable buttons on the [!DNL Create] _Recent work_ view. <!-- GS-4060 -->
+
+* The **Saving in progress** message displayed during email fragment save operations is now displayed only during the save operation. Previously, this message hung indefinitely.  <!-- GS-6964 -->
+
+* Editors now see an error message as expected when a draft fails to load in the [!DNL Create] _Recent Work_ area.  <!-- GS-8081 -->
+
+* The Canvas now displays resized Meta ads and display ads in correct order.  <!-- GS-7375 -->
+
+* Editors can now single-click into fields on email and display ads. <!-- GS-6297 -->
+
+* Edit fragment capability for email and Meta ads is now triggered as expected by a single click. <!-- GS-8081 -->
 
 ## Earlier release notes
 
@@ -27,7 +87,7 @@ This release includes improvements to localization throughout the UI, including:
 
 ### New features
 
-Added support for rich media templates, enabling customers to reuse assets that have already published through their own managed content channels. <!-- GS-6107 -->
+Added support for rich media templates, enabling customers to reuse assets that have already been published through their own managed content channels. <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
@@ -113,7 +173,7 @@ This release includes improvements to localization throughout the UI, including:
 
 * Layout issues with email borders have been resolved. <!-- GS-6631 -->
 
-* Keyboard focus now works as expected on the **[!DNL Content]** **[!UICONTROL Delete]** button. Previously, this button could not be reached or operated by the keyboard.  <!-- GS-4065 -->
+* Keyboard focus now works as expected on the **[!DNL Content]** **[!UICONTROL Delete]** button. Previously, users could not access this button by the keyboard.  <!-- GS-4065 -->
 
 ## 2024.10.14 General Availability release
 
@@ -123,7 +183,7 @@ This release introduces Adobe GenStudio for Performance Marketing, a generative 
 
 Major product features include:
 
-**[!DNL Create]** introduces the Canvas, which offers a structured prompting experience that enables content editors to quickly generate content and variants. System managers train the product on organizational brand guidelines. [!DNL Create] ensures all AI-generated content aligns with your brand guidelines—branding, customer personas, and product descriptions—and streamlines the production of high-impact, brand-consistent marketing content.
+**[!DNL Create]** introduces the Canvas, which offers a structured prompting experience that enables content editors to quickly generate content and variants. System managers train the product on organizational brand guidelines. [!DNL Create] ensures that all AI-generated content aligns with your brand guidelines—branding, customer personas, and product descriptions—and streamlines the production of high-impact, brand-consistent marketing content.
 
 **[!DNL Content]** stores curated, brand-compliant approved assets and experiences. GenStudio for Performance Marketing users can easily find, edit, repurpose, and share approved assets, reducing the need to recreate content from scratch for every campaign.
 
