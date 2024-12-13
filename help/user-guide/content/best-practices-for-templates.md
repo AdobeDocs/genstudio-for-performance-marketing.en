@@ -2,7 +2,7 @@
 title: Best practices for templates
 description: Follow best practices when using templates with Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-last-substantial-update: 2024-12-09
+last-substantial-update: 2024-12-13
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 ---
 # Best practices for using templates
@@ -140,6 +140,8 @@ Follow these design best practices when customizing display ad templates to work
    - 336 x 280
    - 320 x 50
    - 970 x 250​
+- Custom: (pixels)
+  - 50 x 50 to 2000 x 2000
 
 **Recognized field names**:
 
