@@ -17,25 +17,21 @@ Content editors can now:
 
 * Edit asset, experience, and template metadata. See [Asset details](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/asset-details). <!-- GS-4905 6935-->
 
-* Export display ads and Meta ads as HTML. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad). <!-- GS-7093 6655-->
+* Export display ads and Meta ads as HTML. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) and [Create a meta ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-meta-ad). <!-- GS-7093 6655-->
 
 * Export Meta or display ad experiences from the _Experiences_ view as JPEG or PNG files. <!-- GS-5152 -->
 
+* View an asset's generated tags in the _Details_ view of any experience that uses the asset. See _Generated tags_ in [Asset details](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/asset-details#generated-tags). <!-- GS-3705 -->
+
 * Assign custom width and height to web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates) <!-- GS-6735 -->
 
-* Set web banner custom width and height in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates). <!-- GS-7166 -->
+* Assign custom dimensions to images during image upload. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates). <!-- GS-7166 -->
 
 * Use the **[!UICONTROL Refresh]** button on the [!DNL Content] Template _Asset details_ view to refresh the selected template.  <!-- GS-7102 -->
 
-* Duplicate any existing brand from the [!DNL Content] _[!DNL Brand]_ menu. <!-- BRANDS-548 -->
+* Duplicate existing brands. <!-- BRANDS-548 -->
 
-* Regenerate sections of a display ad variant. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad). <!-- GS-5080 -->
-
-* Regenerate sections of an email variant. See [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience). <!-- GS-5078 -->
-
-This release introduces these additional features:
-
-* An asset's generated tags are now included in the _Details_ view of any experience to which the asset belongs. Editors can now search approved experiences by these tags. See _Generated tags_ in [Asset details](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/asset-details#generated-tags). <!-- GS-3705 -->
+* Regenerate sections of display ad and email variants. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) and [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience). <!-- GS-5080 5078-->
 
 ### Fixes and enhancements
 
