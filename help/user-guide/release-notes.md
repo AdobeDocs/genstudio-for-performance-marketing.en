@@ -23,15 +23,15 @@ Content editors can now:
 
 * Assign custom width and height to web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates) <!-- GS-6735 -->
 
-* Set custom width and height for web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates). <!-- GS-7166 -->
+* Set web banner custom width and height in display ad templates. These values are now saved as template metadata. See [Best practices for templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates). <!-- GS-7166 -->
 
 * Use the **[!UICONTROL Refresh]** button on the [!DNL Content] Template _Asset details_ view to refresh the selected template.  <!-- GS-7102 -->
 
 * Duplicate any existing brand from the [!DNL Content] _[!DNL Brand]_ menu. <!-- BRANDS-548 -->
 
-* Regenerate sections of a display ad variant. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) <!-- GS-5080 -->
+* Regenerate sections of a display ad variant. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad). <!-- GS-5080 -->
 
-* Regenerate sections of an email variant. See [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience) <!-- GS-5078 -->
+* Regenerate sections of an email variant. See [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience). <!-- GS-5078 -->
 
 This release introduces these additional features:
 
@@ -51,13 +51,11 @@ This release introduces these additional features:
 
 * The Canvas now displays resized experiences in consistent order. <!-- GS-7123 -->
 
-* Manual crop now uses image, not template, dimensions, when editing display ads. Previously, when an image was smaller than the dimensions specified in the display ad template, the bounding box used template dimensions, not image dimensions. <!-- GS-7315 -->
+* Manual crop now uses image dimensions, not template dimensions, when editing display ads. Previously, when an image was smaller than the dimensions specified in the display ad template, the bounding box used template dimensions, not image dimensions. <!-- GS-7315 -->
 
 * Editors can now select up to four images when creating a display ad. <!-- GS-7189 -->
 
 * Display ad and Meta ad drafts now load as expected when resized on a different browser. <!-- GS-7204 -->
-
-* Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
 
 * Unused template fields are no longer displayed in generated content.  <!-- GS-5670 -->
 
@@ -67,11 +65,11 @@ This release introduces these additional features:
 
 * The Canvas **[!UICONTROL Resize]** button is now disabled after all resize options have been selected and rendered. <!-- GS-5940 -->
 
-* Reviewers with view-only access can now zoom in and out of content during reviews. <!-- GS-7371 -->
+* Reviewers with view-only access can now zoom in and out of variants during reviews. <!-- GS-7371 -->
 
 * Keyboard focus has been added to only actionable buttons on the [!DNL Create] _Recent work_ view. <!-- GS-4060 -->
 
-* The **Saving in progress** message displayed during email fragment save operations is now displayed only during the save operation. Previously, this message hung indefinitely.  <!-- GS-6964 -->
+* The **Saving in progress** message displayed during email fragment save operations is now displayed only during the save operation. Previously, the Canvas displayed this message indefinitely. <!-- GS-6964 -->
 
 * Editors now see an error message as expected when a draft fails to load in the [!DNL Create] _Recent Work_ area.  <!-- GS-8081 -->
 
@@ -80,6 +78,8 @@ This release introduces these additional features:
 * Editors can now single-click into fields on email and display ads. <!-- GS-6297 -->
 
 * Edit fragment capability for email and Meta ads is now triggered as expected by a single click. <!-- GS-8081 -->
+
+* Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
 
 ## Earlier release notes
 
