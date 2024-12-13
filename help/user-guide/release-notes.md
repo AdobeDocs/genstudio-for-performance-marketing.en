@@ -25,7 +25,7 @@ Editors can now specify custom values to these aspects of generated variants:
 
 * Dimensions to images in display ad experiences during image upload.<!-- GS-7166 -->
 
-See channel-specific guidelines in the [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+* See channel-specific guidelines in the [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Export options now include:
 
