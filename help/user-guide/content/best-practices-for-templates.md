@@ -2,7 +2,7 @@
 title: Best practices for templates
 description: Follow best practices when using templates with Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-last-substantial-update: 2024-12-09
+last-substantial-update: 2024-12-13
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 ---
 # Best practices for using templates

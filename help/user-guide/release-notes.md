@@ -2,7 +2,7 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2024-11-14
+last-substantial-update: 2024-12-13
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
@@ -106,7 +106,7 @@ Added support for rich media templates, enabling customers to reuse assets that 
 This release includes improvements to localization throughout the UI, including:
 
 * All strings in the [!DNL Content] _Upload asset_ popup are now correctly localized. <!-- GS-6872 6770 -->
-* All tooltips in [!DNL Content] _Assets_ view **[!UICONTROL Search]** field are localized. <!-- GS-6879 -->
+* All tooltips in the [!DNL Content] _Assets_ view **[!UICONTROL Search]** field are localized. <!-- GS-6879 -->
 * When replacing an existing image in an email variant on the [!DNL Create] Canvas, the _Select from Content_ view is now localized. <!-- GS-6906 -->
 
 +++
@@ -119,7 +119,7 @@ This release includes improvements to localization throughout the UI, including:
 
 * Experience titles are now created correctly during experience regeneration. <!-- GS-7006 -->
 
-* Issues with flickering scrollbars during draft loading have been resolved. <!-- GS-5587 -->
+* Issues with flickering scroll bars during draft loading have been resolved. <!-- GS-5587 -->
 
 * The `View documentation` link in the [!DNL Content] _Add your approved template_ popup now works as expected. <!-- GS-6881 -->
 
@@ -175,7 +175,9 @@ This release includes improvements to localization throughout the UI, including:
 
 * Keyboard focus now works as expected on the **[!DNL Content]** **[!UICONTROL Delete]** button. Previously, users could not access this button by the keyboard.  <!-- GS-4065 -->
 
-## 2024.10.14 General Availability release
++++
+
++++Notes from 2024.10.14 General Availability
 
 This release introduces Adobe GenStudio for Performance Marketing, a generative AI-based application that accelerates the planning, development, and analysis of marketing campaigns. GenStudio for Performance Marketing empowers marketing teams to create on-brand, multi-channel content for ads, emails, and campaigns while providing real-time insights to optimize content performance.
 
