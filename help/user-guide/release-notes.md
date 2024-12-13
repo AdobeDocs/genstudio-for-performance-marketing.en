@@ -27,17 +27,15 @@ Editors can now specify custom values to these aspects of generated variants:
 
 Export options now include:
 
-* Export display ads and Meta ads as HTML. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) and [Create a meta ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-meta-ad). <!-- GS-7093 6655-->
+* Export display ads and Meta ads as HTML, JPEG, or PNG. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) and [Create a meta ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-meta-ad). <!-- GS-7093 6655 5152-->
 
-* Export Meta or display ad experiences from the _Experiences_ view as JPEG or PNG files. <!-- GS-5152 -->
-
-Additional new capabilities let editors:
+Additional new capabilities allow editors to:
 
 * Use the **[!UICONTROL Refresh]** button on the [!DNL Content] Template _Asset details_ view to refresh the selected template.  <!-- GS-7102 -->
 
-* Regenerate sections of display ad and email variants. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad) and [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience). <!-- GS-5080 5078-->
+* Regenerate sections of display ad and email variants. See [Create a display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-display-ad#revise-generated-display-ads) and [Create an email experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience#revise-generated-emails). <!-- GS-5080 5078-->
 
-* Duplicate existing brands. <!-- BRANDS-548 -->
+* Duplicate existing brands. See [Manage brands](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/guidelines/brands#manage-brands). <!-- BRANDS-548 -->
 
 ### Fixes and enhancements
 
