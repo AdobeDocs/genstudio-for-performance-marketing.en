@@ -21,9 +21,11 @@ Editors can now perform the following metadata-related tasks:
 
 Editors can now specify custom values to these aspects of generated variants:
 
-* Width and height to web banners in display ad templates. These values are now saved as template metadata. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md) <!-- GS-6735 -->
+* Width and height to web banners in display ad templates. These values are now saved as template metadata. <!-- GS-6735 -->
 
-* Dimensions to images in display ad experiences during image upload. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md). <!-- GS-7166 -->
+* Dimensions to images in display ad experiences during image upload.<!-- GS-7166 -->
+
+See channel-specific guidelines in the [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Export options now include:
 
