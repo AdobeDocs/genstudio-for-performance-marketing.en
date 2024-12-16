@@ -1,6 +1,6 @@
 ---
 title: Request reviews and approvals
-description: Request a review.
+description: Request a review of generated content with Adobe GenStudio for Performance Marketing.
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
 ---
 # Request review and approval
