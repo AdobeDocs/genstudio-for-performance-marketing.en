@@ -32,8 +32,7 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 
 ## Generative actions
 
-Generative actions allow the use of generative AI features powered by GenStudio for Performance Marketing. Each generative action, such as generating a set of email variants, incurs a computational cost comprised of the processing power required to generate the content, the complexity of the task, and the amount of data processed. These are calculated and debited against your allotted generative actions as defined in your contract.
-<!-- See your [Adobe account](https://account.adobe.com/) to review your generative action allocation and usage. -->
+Generative actions are the units quantifying the use of generative AI features within GenStudio for Performance Marketing. See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for specific definitions and usage info.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -42,7 +41,9 @@ If genactions roll over month to month or not -->
 
 ### Rates
 
-By default, an allotment of 60,000 generative actions are available annually.
+You receive a default allotment of generative actions.
+
+See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) to learn about default generative actions entitlements.
 
 >[!NOTE]
 >
@@ -62,9 +63,12 @@ The following functions consume generative actions at the specified rate.
 | Video: ADLS              | 1 per prompt  |
 | Video: TTS + Avatar      | 1 per prompt  | -->
 
-Generative actions _are not_ consumed when using brand validation during variant generation or while manually re-checking variants.
+Generative actions _are not_ consumed when:
 
-Generative actions do not "roll over" annually. <!-- What about month to month? -->
+* Using [brand validation](/help/user-guide/guidelines/brand-validation.md) during variant generation
+* Extracting information from [uploaded guidelines](/help/user-guide/guidelines/add-guidelines.md)
+* Manually [re-checking variants](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* Digital assets are automatically tagged with attributes ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
 ### Manage generative actions
 
