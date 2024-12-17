@@ -41,15 +41,15 @@ If genactions roll over month to month or not -->
 
 ### Rates
 
-You receive a default allotment of generative actions.
+You receive a default allotment of Generative actions.
 
-See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) to learn about default generative actions entitlements.
+See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) to learn about default Generative actions entitlements.
 
 >[!NOTE]
 >
 >Usage rates may vary. Plans are subject to change. See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for updated rate information.
 
-The following functions consume generative actions at the specified rate.
+The following functions consume Generative actions at the specified rate.
 
 | Function                 | Generative actions rate |
 | -----------------------  | ------------------ |
@@ -70,9 +70,9 @@ Generative actions _are not_ consumed when:
 * Manually [re-checking variants](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
 * Digital assets are automatically tagged with attributes ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
-### Manage generative actions
+### Manage Generative actions
 
-If you exceed your annual entitlement of generative actions, you may purchase more directly from your account representative.
+If you exceed your annual entitlement of Generative actions, you may purchase more directly from your account representative.
 
 See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
 
