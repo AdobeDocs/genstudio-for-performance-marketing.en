@@ -67,7 +67,9 @@ GenStudio system managers can give editors permission to edit and delete a [!DNL
 
 ### GenStudio collaborators
 
-_Collaborators_ can view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Collaborators include stakeholders who are essential to the success of the review and approval process for content but who do not need to create or directly edit content. Legal experts and managers of creatives are examples of potential collaborators. GenStudio for Performance Marketing collaborators might have permission to create and view assets in other Creative Cloud products.
+_Collaborators_ can view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Collaborators see a "*You don't have access to this content*" message when they attempt to access [[!DNL Create]](/help/user-guide/create/overview.md).
+
+Collaborators include stakeholders who are essential to the success of the review and approval process for content but who do not need to create or directly edit content. Legal experts and managers of creatives are examples of potential collaborators. GenStudio for Performance Marketing collaborators might have permission to create and view assets in other Creative Cloud products.
 
 The following table displays the default collaborator permissions:
 
