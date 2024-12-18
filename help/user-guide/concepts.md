@@ -43,12 +43,11 @@ If genactions roll over month to month or not -->
 
 You receive a default allotment of [!DNL Generative Actions] as outlined in the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
 
-
 >[!NOTE]
 >
 >Usage rates may vary. Plans are subject to change. See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for updated rate information.
 
-The following functions consume Generative actions at the specified rate.
+The following functions consume [!DNL Generative Actions] at the specified rate.
 
 | Function                 | Generative actions rate |
 | -----------------------  | ------------------ |
@@ -62,18 +61,16 @@ The following functions consume Generative actions at the specified rate.
 | Video: ADLS              | 1 per prompt  |
 | Video: TTS + Avatar      | 1 per prompt  | -->
 
-Generative actions _are not_ consumed when:
+[!DNL Generative Actions] _are not_ consumed when:
 
 * Using [brand validation](/help/user-guide/guidelines/brand-validation.md) during variant generation
 * Extracting information from [uploaded guidelines](/help/user-guide/guidelines/add-guidelines.md)
 * Manually [re-checking variants](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
 * Digital assets are automatically tagged with attributes ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
-### Manage Generative actions
-
-If you exceed your annual entitlement of Generative actions, you may purchase more directly from your account representative.
-
-See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
+>[!TIP]
+>
+>If you exceed your entitlement of [!DNL Generative Actions], you may purchase more directly from your account representative.
 
 ## Data governance
 
