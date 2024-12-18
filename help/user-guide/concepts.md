@@ -32,7 +32,7 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 
 ## Generative actions
 
-Generative actions are the units quantifying the use of generative AI features within GenStudio for Performance Marketing. See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for specific definitions and usage info.
+_[!DNL Generative Actions]_, as defined in the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html), are the units quantifying the use of generative AI features within GenStudio for Performance Marketing.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -41,9 +41,8 @@ If genactions roll over month to month or not -->
 
 ### Rates
 
-You receive a default allotment of Generative actions.
+You receive a default allotment of [!DNL Generative Actions] as outlined in the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
 
-See the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) to learn about default Generative actions entitlements.
 
 >[!NOTE]
 >
