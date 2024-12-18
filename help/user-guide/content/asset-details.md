@@ -16,60 +16,21 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
-   >[!TIP]
-   >
-   >If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
+1. If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
 
-   Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+Asset details include metadata applied during the create or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+
+The following image asset contains system metadata describing the file type, size, and other characteristics, one user-defined keyword, and several AI-detected attributes and colors.
+
+![details of an asset with multiple tags](/help/assets/content-asset-details.png)
 
 >[!NOTE]
 >
 >Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure [!DNL AEM Assets Content Hub] asset details.
 
-## Edit in Express
-
-You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
-
->[!BEGINSHADEBOX]
-
-Criteria for enhancing images with the [!DNL Edit in Adobe Express] feature:
-
-- Supported MIME types include `image/png` and `image/jpeg`
-- The minimum image dimensions are 50x50 pixels
-- The maximum image dimensions are 8000x8000 pixels
-- The maximum size is 40MB (40,000,000 bytes)
-
->[!ENDSHADEBOX]
-
-**To edit an asset with Express**:
-
-1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
-
-1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
-
-1. In the _[!UICONTROL Powered by Adobe Express]_ Canvas, use the Express controls on the left panel to enhance your image.
-
-1. When you are happy with the updated image, click **[!UICONTROL Save a copy]** in the upper right.
-
-1. Select the file format—JPG or PNG—and click **[!UICONTROL Save a copy]**.
-
-1. In the _[!UICONTROL Save a copy of asset]_ popup, update the **[!UICONTROL Asset name]**.
-
-   - Select **[!UICONTROL Same details as original asset]** to carry over the asset details to the new image.
-
-   - Expand the **[!UICONTROL More details]** section to update the Campaign, Guidelines, and other metadata.
-
-   >[!TIP]
-   >
-   >The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
-
-1. Click **[!UICONTROL Save]**.
-
 ## System metadata
 
-Some asset metadata is automatically collected when an asset is uploaded. You cannot edit default system metadata.
-
-Default metadata that is stored and captured for an asset include the file's name, dimensions, source, and more.
+Some asset metadata is automatically collected when an asset is uploaded, such as file type, size, dimensions, source, and more. Except for the file name, you cannot edit default system metadata.
 
 ### Generated tags
 
@@ -87,25 +48,53 @@ User-defined metadata adds marketing context to the asset's content, allowing ma
 
 When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets), you can define a set of optional asset details that exist in GenStudio for Performance Marketing as metadata. Including more details can improve asset identification in searches and filtering.
 
+**To edit the user-defined metadata**:
+
+1. In _[!DNL Content]_, select an asset, experience, or template.
+
+1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
+
+1. Click **[!UICONTROL Edit details]** (pencil) to edit asset metadata.
+
+   The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
+
 ### Metadata details
 
-The following table details the metadata (asset details) you can define when creating an asset.
+The following table details the metadata (asset details) that you can define when creating an asset.
 
-| Field         | Description |
-| ------------- | ----------- |
-| Campaigns (project name) | Default metadata captured and stored with the asset |
-| [!DNL Brands]    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
-| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
-| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
-| Channels      | Content types in GenStudio for Performance Marketing the asset is used for, such as email and Meta ads |
-| Timeframe     | Timeframe for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
-| Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
-| Language      | Languages for which the asset is used. Example: `Spanish` |
-| Keywords      | Keywords used for further identification of asset characteristics and purpose |
+| Field          | Description |
+| -------------- | ----------- |
+| Title          | Name of the asset; the default title may be the original filename |
+| [!DNL Campaigns]| [[!DNL Campaigns]](/help/user-guide/campaigns/overview.md) include promotional content with consistent messaging for the purpose of achieving a business goal<br>Clicking on a campaign link takes you to the campaign's overview page |
+| [!DNL Brands]  | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
+| [!DNL Products]| [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
+| [!DNL Personas]| [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
+| Channels       | Platforms for distributing certain content types, such as email and display ads |
+| [!UICONTROL Timeframe] | Time frame for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
+| Region         | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
+| Language       | Languages for which the asset is used. Example: `Spanish` |
+| Keywords       | User-defined keywords are used for further identification of asset characteristics and purpose |
 
-<!-- ## History
+>[!TIP]
+>
+>Click on **[!UICONTROL Edit details]** (pencil) to edit asset metadata. For example, you can change the asset name or add or remove keywords.
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
+## Generative context
 
-list other activity, show screenshot?
--->
+The [!UICONTROL Generative Context] section shows what information was used to generate the experience, such as the `Prompt` used during the [!DNL Create] process. This insight may help you to build even more successful variants.
+
+Information may include:
+
+- `Brand`, `Product`, and `Persona` parameters
+- `Subject line` and `Pre Header` for email experiences
+- `Headline` and `Body` for Meta ads
+
+## History
+
+Expand the _[!UICONTROL History]_ section in an experience to view a timeline of approvals and activity. For example, an approved experience reveals the approval date, time, and approver:
+
+```
+Approved
+
+December 10, 2024 at 6:00 PM by Username
+```

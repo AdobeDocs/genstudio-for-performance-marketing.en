@@ -12,7 +12,9 @@ With Adobe GenStudio for Performance Marketing, you can use generative AI to str
 
 [!DNL Create] empowers modern marketers to [produce brand-consistent display ad experiences](/help/user-guide/create/create-display-ad.md) by using [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md).
 
-When generating Meta experiences four variations are created and shown in the Canvas.
+When generating display ad experiences four variations are created and shown in the Canvas.
+
+Adobe GenStudio for Performance Marketing supports both [standard and custom size display ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Editable sections of a display ad experience include:
 
@@ -22,3 +24,9 @@ Editable sections of a display ad experience include:
 * Image
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+
+<!-- ## Character counts
+
+After you generate a set of display ad variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+
+![Character count](/help/assets/character-count.png){width="500" zoomable="yes"} -->

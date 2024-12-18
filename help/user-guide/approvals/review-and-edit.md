@@ -1,6 +1,6 @@
 ---
 title: Review and edit content
-description: Learn how to review and edit content iteratively.
+description: Learn how to review and edit content iteratively with Adobe GenStudio for Performance Marketing.
 feature: Approval
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 ---
@@ -24,7 +24,7 @@ As a designated approver, you can access the content that you are asked to revie
 
 ## Access content for review
 
-You can approve content if you have received an email requesting your review and approval of an asset or experience. This email contains a link to the draft you have been asked to review. This URL is valid only while the draft is under review.
+You can approve content if you have received an email requesting your review and approval of an asset or experience. This email contains a link to the draft that you have been asked to review. This URL is valid only while the draft is under review.
 
 **To review content**:
 
@@ -34,7 +34,7 @@ You can approve content if you have received an email requesting your review and
 
 ## Request changes
 
-You can list suggested changes or ask questions about the draft from the Content  _Approval_ panel. The **Needs work** draft status notifies the content creator that changes are requested.
+You can list suggested changes or ask questions about the draft from the [!DNL Content] _Approval_ panel. The **Needs work** draft status notifies the content creator that changes are requested.
 
 This process of reviewing, suggesting edits to the content creator, and then revising the content and optionally requesting additional input via `@mention` comments is highly iterative. It is in this part of the cycle that you see the time-saving abilities of GenStudio for Performance Marketing.
 
