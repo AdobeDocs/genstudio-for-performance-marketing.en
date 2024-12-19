@@ -85,7 +85,7 @@ The [!UICONTROL Generative Context] section shows what information was used to g
 
 Information may include:
 
-- `Brand`, `Product`, and `Persona` parameters
+- `Brand`, `Product`, and `Persona` parameters selected during the [!DNL Create] process
 - `Subject line` and `Pre Header` for email experiences
 - `Headline` and `Body` for Meta ads
 
