@@ -21,9 +21,10 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
-There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attribute-category.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attribute-category.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign. Or you can filter content based on your username or a team member:
 
-When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
+- When searching for _Assets_, you can use the **[!UICONTROL Uploaded by]** filter to limit the list to show only the assets uploaded by you or a specific person.
+- When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
 
 **To search for content to reuse**:
 
