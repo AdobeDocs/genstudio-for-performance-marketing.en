@@ -10,7 +10,7 @@ GenStudio for Performance Marketing enables content creators to produce consiste
 
 While GenStudio for Performance Marketing does not support the direct creation of templates within the application, you can easily design and prepare templates using popular design tools, such as Adobe XD or Adobe Campaign. Once your design is complete, you can adapt it for use in GenStudio for Performance Marketing by following these steps:
 
-1. **Design Your Template**: Use your preferred design tool to create the visual layout of your template. This includes elements like the preheader, headline, body, CTA, images, and footer.
+1. **Design Your Template**: Use your preferred design tool to create the visual layout of your template with elements such as a preheader, headline, body, CTA, images, and footer.
 
 2. **Code Your Template**: Convert your design into HTML and inline CSS to ensure it is clean and responsive across various devices.
 
