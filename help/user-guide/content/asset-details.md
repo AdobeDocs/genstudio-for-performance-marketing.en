@@ -50,11 +50,11 @@ When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets)
 
 **To edit the user-defined metadata**:
 
-1. In _[!DNL Content]_, select an asset, experience, or template.
+1. In _[!DNL Content]_, select an asset, experience, or template. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
-1. Click **[!UICONTROL Edit details]** (pencil) to edit asset metadata.
+1. Click **[!UICONTROL Edit details]** (pencil) to edit asset, experience, or template metadata.
 
    The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
@@ -85,8 +85,8 @@ The [!UICONTROL Generative Context] section shows what information was used to g
 
 Information may include:
 
-- `Brand`, `Product`, and `Persona` parameters
-- `Subject line` and `Pre Header` for email experiences
+- `Brand`, `Product`, and `Persona` parameters selected during the [!DNL Create] process
+- `Subject line` and `Preheader` for email experiences
 - `Headline` and `Body` for Meta ads
 
 ## History

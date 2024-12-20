@@ -155,6 +155,10 @@ To ensure that these resources are available during the thumbnail generation pro
 
 1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
 
+>[!TIP]
+>
+>Use [refresh](/help/user-guide/content/use-templates.md#refresh-template) to update the template preview with the latest static content.
+
 ## Template examples
 
 +++Example: Email template with one section
