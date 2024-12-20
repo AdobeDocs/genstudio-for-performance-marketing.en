@@ -63,7 +63,7 @@ The AEM repository is read-only, which means that you can access the content but
 
 #### Digital Rights Management
 
-An AEM repository may enforce certain licensing requirements, such as asset expiration; in which case you cannot use expired content in [!DNL Create] workflows. Consult your [!DNL Content Hub] administrator for assistance with these assets. Expired assets may need to be renewed or replaced to maintain the continuity of your projects.
+An AEM repository may enforce certain licensing requirements, such as asset expiration; in which case you cannot use expired content in [!DNL Create] workflows. Expired assets may need to be renewed or replaced to maintain the continuity of your projects. Consult your [!DNL Content Hub] administrator for assistance with these assets.
 
 ## Assets management
 
