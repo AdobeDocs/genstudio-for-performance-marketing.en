@@ -8,7 +8,7 @@ exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 
 GenStudio for Performance Marketing enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-While GenStudio for Performance Marketing does not support the direct creation of templates within the application, you can easily design and prepare templates using popular design tools, such as Adobe XD or Adobe Campaign. Once your design is complete, you can adapt it for use in GenStudio for Performance Marketing. Begin using templates by following these steps:
+While GenStudio for Performance Marketing does not support the direct creation of templates within the application, you can easily design and prepare templates using popular design tools, such as Adobe InDesign, Illustrator, or Express. Once your design is complete, you can adapt it for use in GenStudio for Performance Marketing. Begin using templates by following these steps:
 
 1. **Design Your Template**: Use your preferred design tool to create the visual layout of your [template with elements](#template-elements) such as a preheader, headline, body, CTA, images, and footer.
 
@@ -85,9 +85,15 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 >
 >Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
-## Upload a template
+## Manage templates
 
-Use [Customize templates](customize-template.md) as a guide when preparing a template for GenStudio for Performance Marketing. See [accessibility guidelines for templates](accessibility-for-templates.md) for guidance on providing a better experience for all audiences.
+The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, display ads, and Meta ads.
+
+![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
+
+### Add a template
+
+Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the [Customize templates](customize-template.md) guidance.
 
 **To add a template**:
 
@@ -118,7 +124,19 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
 1. Click **[!UICONTROL Done]**.
 
-## Create an experience with a template
+### Refresh template
+
+Templates may include static files, such as icons or logos. Use refresh to update the template preview with the latest versions of these assets.
+
+**To refresh the template**:
+
+1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
+
+1. Click on a template for a full view and a list of details.
+
+1. Click **[!UICONTROL Refresh]** (circling arrows) from the upper right corner to perform a refresh of all assets used in the template.
+
+### Create an experience with a template
 
 Find and use an existing template in GenStudio for Performance Marketing to create more experiences.
 
@@ -126,9 +144,7 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-   ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
-
-1. Select a template for a full view and a list of details.
+1. Click on a template for a full view and a list of details.
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
