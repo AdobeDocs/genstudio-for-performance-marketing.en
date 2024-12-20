@@ -17,7 +17,7 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
          <img alt="magnifier" src="../../assets/icons/icon-search.png">
       </a>
       <p>
-         <a href="../content/manage-assets.md#search">
+         <a href="../content/manage-assets.md#search-content">
          <strong>Find content</strong>
          </a>
       </p>
