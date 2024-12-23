@@ -61,6 +61,8 @@ The AEM repository is read-only, which means that you can access the content but
 
 {{note-aem-assets}}
 
+An AEM repository may enforce certain licensing requirements, such as asset expiration. These assets may not be available for use in [!DNL Create] workflows. Expired assets may need to be renewed or replaced to maintain the continuity of your projects. Consult your [!DNL AEM Assets Content Hub] administrator for assistance with these assets.
+
 ## Assets management
 
 In [!UICONTROL Content], you can easily store, retrieve, and manage your digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, you can ensure that your assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
