@@ -2,6 +2,8 @@
 title: Data storage
 description: Learn about data storage for Insights in GenStudio for Performance Marketing.
 feature: Insights
+level: Experienced
+role: Admin
 last-substantial-update: 2025-1-7
 ---
 # Data storage
