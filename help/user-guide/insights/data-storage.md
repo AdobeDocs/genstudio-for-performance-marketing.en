@@ -12,7 +12,9 @@ GenStudio for Performance Marketing uses Adobe Experience Platform (AEP) to stor
 
 >[!WARNING]
 >
->Resetting the production sandbox in AEP automatically deletes the following data structures required for GenStudio for Performance Marketing to operate reliably and causes [!DNL Insights] to stop working.
+>Resetting the production sandbox in AEP deletes all data structures and causes [!DNL Insights] to stop working.
+>
+>Use caution and do not delete the following data structures required for GenStudio for Performance Marketing to operate reliably:
 >
 >- AEP Datasets prefixed with `GS Insights`
 >- AEP Schemas, classes, and field groups prefixed with `GS Insights`
