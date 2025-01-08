@@ -12,7 +12,7 @@ GenStudio for Performance Marketing uses Adobe Experience Platform (AEP) for dat
 
 ## Data connections
 
-GenStudio for Performance Marketing uses Customer Journey Analytics (CJA) to aggregate multiple data sources by creating a connection to one or more AEP datasets. CJA uses these connections to build robust data views.
+GenStudio for Performance Marketing uses Customer Journey Analytics (CJA) to aggregate multiple data sources by creating a connection to one or more AEP datasets. CJA uses these data connections to create data views for analyzing metrics with [!DNL Insights].
 
 >[!BEGINSHADEBOX]
 
