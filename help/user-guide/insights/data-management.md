@@ -8,11 +8,11 @@ last-substantial-update: 2025-1-7
 ---
 # Data management
 
-GenStudio for Performance Marketing uses Adobe Experience Platform (AEP) for data ingestion and storage of the metrics and metadata that power [!DNL Insights]. AEP contains the _schemas_ that define the data structures and _datasets_ for storing and managing data collections.
+GenStudio for Performance Marketing uses Adobe Experience Platform (AEP) for data ingestion and storage of the metrics and metadata that power [!DNL Insights]. AEP uses _schemas_ to define the data structures and _datasets_ for storing and managing data collections.
 
 ## Data connections
 
-GenStudio for Performance Marketing uses Customer Journey Analytics (CJA) to aggregate multiple data sources by creating a connection to one or more AEP datasets.
+GenStudio for Performance Marketing uses Customer Journey Analytics (CJA) to aggregate multiple data sources by creating a connection to one or more AEP datasets. CJA uses these connections to build robust data views.
 
 >[!BEGINSHADEBOX]
 
