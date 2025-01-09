@@ -15,7 +15,7 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 ## Choose a template
 
-To get started generating a new Meta ad experience, use an available template to provide the framework for your content.
+To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported Meta ad aspect ratios.
 
 **To choose a Meta ad template**:
 
@@ -52,7 +52,7 @@ When you are done adding parameters, you can collapse the prompt drawer by click
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or indescriptive prompts.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or ambiguous prompts.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
