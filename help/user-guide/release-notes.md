@@ -9,7 +9,13 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2024.12.12 {#latest}
+## 2025.01 {#latest}
+
+TBD
+
+## Earlier release notes
+
++++Notes from 2024.12.12
 
 ### New features
 
@@ -83,7 +89,7 @@ Additional new capabilities allow editors to:
 
 * Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.11.14
 
