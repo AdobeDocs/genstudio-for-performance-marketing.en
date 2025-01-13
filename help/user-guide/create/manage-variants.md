@@ -55,13 +55,29 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 After generating a set of variants, you can revise the call-to-action (CTA) text and link.
 
+>[!NOTE]
+>
+>You can edit CTA label text using the _[!UICONTROL Rephrase]_ option if the label text is a generated template field (not hard-coded in the template). You can edit a CTA link using the _[!UICONTROL Edit link]_ option if the link is existing and editable (not hard-coded in the template).
+
 **To revise the CTA in a variant**:
 
-1. After generating a set of variants, click the button displaying the CTA text.
-1. To change the CTA button text, select from the available options in the _Call to actions_ list.
-1. To change the link in the CTA, click **[!UICONTROL Link]**.
-   1. Enter or paste in a new link or revise the existing link in the _Edit link_ section and click **[!UICONTROL Apply]**. You can click **[!UICONTROL Remove link]** to remove the existing link before entering a new one.
+1. Click a CTA button in one of the variants.
 
+   This selects the button, displays the character count, and presents two options: _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_.
+
+1. Click **[!UICONTROL Rephrase]**.
+
+   1. Choose from the list of regenerated phrases or click **[!UICONTROL Refresh results]** for more options.
+
+   1. Click **[!UICONTROL Replace]**.
+
+      The CTA text refreshes and a _"A button label was replaced"_ message appears confirming the change.
+
+1. Click **[!UICONTROL Add link]**.
+
+   1. Type or paste in a URL and click **[!UICONTROL Apply]**.
+   
+      To revise an existing link in your CTA, edit the existing URL or paste in a new URL and click **[!UICONTROL Apply]**.
 
 The added or revised link is applied to all CTAs in the set of variants.
 
