@@ -56,7 +56,7 @@ When you are finished adding parameters, you can collapse the prompt drawer by c
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience. Detailed prompts yield higher quality output than vague or indescriptive prompts.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience. Detailed prompts yield higher quality output than vague or ambiguous prompts.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
