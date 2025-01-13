@@ -9,7 +9,7 @@ exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 
 You can customize a template for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content.
 
-The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
 
 Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
@@ -115,6 +115,30 @@ An email template can include up to three sections. For example, the following l
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
+
+## Calls to action
+
+A call to action includes a phrase or button text and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ to work properly, you must include placeholders. During the variant generation process in Create, GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise the call-to-action](/help/user-guide/create/manage-variants.md#revise-the-call-to-action).
+
+Use the following guidance to set up CTA placeholders:
+
+- CTA rephrase is available and link is editable
+
+   ```html
+   <a class="button" href="{{pod1_link}}" >{{cta}}</a>
+   ```
+
+- CTA rephrase is available, but link is **not** editable because actual link is provided in the template
+
+   ```html
+   <a align="center" href="https://link">{{cta}}</a>
+   ```
+
+- CTA link is editable, but rephrase is **not** available because phrase is provided in the template
+
+   ```html
+   <a class="button" href="{{pod1_link}}" >Register now</a>
+   ```
 
 ## Template preview
 
