@@ -33,7 +33,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 Email experiences can feature multiple sections, allowing full customization to align with your brand and goals. [Select [!DNL Products] and visual assets for each section](/help/user-guide/create/create-email-experience.md#add-parameters) and use [structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to craft unique content. Each section supports one visual asset.
 
-See [Prepare an email template](/help/user-guide/content/email-template.md) to learn how to create a multi-section template.
+See [customizing templates with sections](/help/user-guide/content/customize-template.md#sections-or-groups) to learn how to create a multi-section template.
 
 ## Progressive loading
 
@@ -52,6 +52,6 @@ Each field and section of email experiences are progressively loaded in this seq
 
 ## Character counts
 
-After you generate a set of email variants, you can see the character count displayed for each email section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+After you generate a set of email variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
 
 ![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}

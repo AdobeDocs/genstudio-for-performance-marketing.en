@@ -1,6 +1,6 @@
 ---
 title: Approve content
-description: Learn how to approve content.
+description: Learn how to approve generated content with Adobe GenStudio for Performance Marketing.
 feature: Approval
 exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
 ---

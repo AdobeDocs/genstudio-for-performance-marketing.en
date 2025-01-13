@@ -17,7 +17,7 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
          <img alt="magnifier" src="../../assets/icons/icon-search.png">
       </a>
       <p>
-         <a href="../content/manage-assets.md#search">
+         <a href="../content/manage-assets.md#search-content">
          <strong>Find content</strong>
          </a>
       </p>
@@ -29,6 +29,16 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
       <p>
          <a href="../content/manage-assets.md">
          <strong>Add assets</strong>
+         </a>
+      </p>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/asset-details.md#edit-in-express">
+         <img alt="Edit in Adobe Express" src="../../assets/icons/icon-editExpress.png">
+      </a>
+      <p>
+         <a href="../content/asset-details.md#edit-in-express">
+         <strong>Edit assets in Adobe Express</strong>
          </a>
       </p>
    </td>
@@ -52,22 +62,12 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
          </a>
       </p>
    </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/asset-details.md#edit-in-express">
-         <img alt="Edit in Adobe Express" src="../../assets/icons/icon-editExpress.png">
-      </a>
-      <p>
-         <a href="../content/asset-details.md#edit-in-express">
-         <strong>Edit assets in Adobe Express</strong>
-         </a>
-      </p>
-   </td>
 </tr>
 </table>
 
 ## [!DNL Content] capabilities
 
-GenStudio for Performance Marketing [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
+GenStudio for Performance Marketing [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jump-start the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 
@@ -79,4 +79,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements. Learn about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into building templates with the [Customize a template](customize-template.md) topic.

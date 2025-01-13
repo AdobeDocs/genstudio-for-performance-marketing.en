@@ -14,6 +14,8 @@ See the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
+{{in-academy}}
+
 ## Add [!DNL Brands]
 
 To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
@@ -21,11 +23,12 @@ To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a br
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 >[!TIP]
+>
 >Each brand operates independently with no hierarchical relationships. To create sub-brands under a parent brand, include the parent brand's information during the creation process.
 
 ### Upload a brand
 
-You can upload your own brand documents to populate a new brand.
+You can upload your own brand guidelines documents—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand.
 
 See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
@@ -76,7 +79,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 
-   A _Published_ badge is visible for all brands that are currently published.
+   A _Published_ badge and the last date the brand was published is visible for all brands that are currently published.
 
 1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
 1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
@@ -89,23 +92,30 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 The brand shows a green dot and "Published", and a **[!UICONTROL Publish]** button appears.
 
-**To unpublish a published brand**, click to open it and click **[!UICONTROL Publish]**.
+**To unpublish a published brand**, click to open it and click **[!UICONTROL Unpublish]**.
 
-The published brand is now available for use in _[!DNL Create]_ or _[!DNL Content]_.
+The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) or [_[!DNL Content]_](/help/user-guide/content/overview.md).
 
 ### Manage [!DNL Brands]
 
 In the _[!DNL Brands]_ home, you can click to open an already-created brand to manage or publish it.
 
-**To view or modify a brand**:
+To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left navigation area and click to open an existing brand.
 
-1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-1. To see a brand's overview information, click to open a defined brand.
+**To modify a brand** in the [!DNL Brands] view:
+
+1. In **[!DNL Brands]**, click to open a defined brand.
 1. To view individual details or modify brand guidelines, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
-1. To rename an existing brand, select **[!UICONTROL Rename]** from the [!DNL Brands] action menu.
+1. To rename an existing brand, select **[!UICONTROL Rename]** from the _[!DNL Brands]_ action menu.
+1. To duplicate an existing brand, select **[!UICONTROL Duplicate]** from the _[!DNL Brands]_ action menu.
+   1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
+
+      The popup confirms the brand is duplicated—"New brand created". The duplicated brand is initially in _Unpublished_ mode.
+
+   1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
 
-You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketing to automatically create a brand.
+You can also manage brands in the [!DNL Brands] view from the _[!DNL Brands]_ action menu (three dots).
 
 ## Add [!DNL Products]
 

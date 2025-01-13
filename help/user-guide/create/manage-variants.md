@@ -34,21 +34,20 @@ You can edit the text fields in generated variants. Refine the text for your aud
 
 ## Re-generate sections
 
-GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate sections of generated variants. You can rephrase, shorten, or lengthen text, or add fresh prompts to generate new content.
 
-For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset. You can _[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_ a section's content, or _[!UICONTROL Generate new text]_ to add a new prompt.
 
 ![Re-generate sections](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
 **To re-generate individual variant sections**:
 
 1. After generating a set of variants, single-click any editable text in a variant.
-1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
-   * Choose an available option and click **[!UICONTROL Replace]**.
-1. (_Optional_) Select _[!UICONTROL Generate with prompt] and enter a new prompt to change the focus of the regenerated content.
-   * Click **[!UICONTROL Generate]**.
-1. If you want to regenerate the results to see more options, click the regenerate icon adjacent to _Results_.
-1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
+1. To alter the existing text, select _[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
+1. To generate new phrasing options, select _[!UICONTROL Generate new text]_ and enter a new prompt.
+   1. Click **[!UICONTROL Generate]**.
+1. As you are re-generating a section's text, click the regenerate icon to see more text options.
+1. From the results that appear, select the desired option and click **[!UICONTROL Replace]**.
 
    The variant is updated with the revised text.
 
@@ -62,13 +61,23 @@ After generating a set of variants, you can revise the call-to-action (CTA) text
 
 **To revise the CTA in a variant**:
 
-1. After generating a set of variants, single-click a CTA.
-1. To rephrase the CTA text, click **[!UICONTROL Rephrase]**.
-   1. Choose a rephrased option or click **[!UICONTROL Refresh]** to see more options.
-   1. Once a new option is chosen, click **[!UICONTROL Replace]**. The new CTA text is revised and a _"A button label was replaced"_ message appears confirming the change.
-1. To add a link to your CTA, click **[!UICONTROL Add link]**.
+1. Click a CTA button in one of the variants.
+
+   This selects the button, displays the character count, and presents two options: _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_.
+
+1. Click **[!UICONTROL Rephrase]**.
+
+   1. Choose from the list of regenerated phrases or click **[!UICONTROL Refresh results]** for more options.
+
+   1. Click **[!UICONTROL Replace]**.
+
+      The CTA text refreshes and a _"A button label was replaced"_ message appears confirming the change.
+
+1. Click **[!UICONTROL Add link]**.
+
    1. Type or paste in a URL and click **[!UICONTROL Apply]**.
-1. To revise an existing link in your CTA, edit the existing URL or paste in a new URL and click **[!UICONTROL Apply]**.
+   
+      To revise an existing link in your CTA, edit the existing URL or paste in a new URL and click **[!UICONTROL Apply]**.
 
 The added or revised link is applied to all CTAs in the set of variants.
 

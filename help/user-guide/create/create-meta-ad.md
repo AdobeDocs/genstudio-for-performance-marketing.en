@@ -80,7 +80,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 **To revise generated variants**:
 
 * **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the ad sections (such as the subject line,
+* **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line,
 header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
 <!-- **To [change or select the call-to-action](/help/user-guide/create/manage-variants.md#revise-the-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
@@ -130,7 +130,7 @@ To make the generated Meta ads available for current and future use, publish it 
 
 1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
 1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
-   1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
+   1. Select the format—HTML and images or CSV and images (JPG or PNG)—click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
 
