@@ -118,7 +118,7 @@ See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompt
 
 ## Calls to action
 
-A call to action includes a phrase or button text and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ to work properly, you must include placeholders. During the variant generation process in Create, GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise the call-to-action](/help/user-guide/create/manage-variants.md#revise-the-call-to-action).
+A call to action includes a phrase or button text and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ to work properly during the variant generation process, you must include placeholders for the link and the CTA phrase.
 
 Use the following guidance to set up CTA placeholders:
 
@@ -139,6 +139,8 @@ Use the following guidance to set up CTA placeholders:
    ```html
    <a class="button" href="{{pod1_link}}" >Register now</a>
    ```
+
+GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise the call-to-action](/help/user-guide/create/manage-variants.md#revise-the-call-to-action).
 
 ## Template preview
 
