@@ -116,7 +116,7 @@ GenStudio for Performance Marketing understands that `pod1_headline` is more clo
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
 
-## Calls to action
+### Calls to action
 
 A call to action includes a phrase or button text and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ to work properly during the variant generation process, you must include placeholders for the link and the CTA phrase.
 
