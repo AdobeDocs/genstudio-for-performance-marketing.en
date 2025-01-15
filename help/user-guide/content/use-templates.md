@@ -126,7 +126,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 ### Refresh template
 
-Templates may include static files, such as icons or logos. Use refresh to update the template preview with the latest versions of these assets.
+Templates may include static files, such as icons or logos. [Static content](/help/user-guide/content/customize-template.md#static-content) is not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. Use refresh to update the template preview with the latest versions of these assets.
 
 **To refresh the template**:
 
@@ -148,4 +148,4 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
-1. Continue to [Create](/help/user-guide/create/overview.md) an experience.
+1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.

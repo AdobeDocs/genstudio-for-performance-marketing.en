@@ -149,7 +149,7 @@ Another example may be to prevent the use of tracking codes when previewing a te
 
 ## Static content
 
-Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketing. When GenStudio for Performance Marketing generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketing. When GenStudio for Performance Marketing generates thumbnails for these templates or the experiences derived from them, it validates the source and embeds a copy for preview. It may ignore external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
 
 To ensure that these resources are available during the thumbnail generation process, consider two options:
 
@@ -159,7 +159,7 @@ To ensure that these resources are available during the thumbnail generation pro
 
 >[!TIP]
 >
->Use [refresh](/help/user-guide/content/use-templates.md#refresh-template) to update the template preview with the latest static content.
+>External files are not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. If the source file changes, you can use [refresh](/help/user-guide/content/use-templates.md#refresh-template) to update the template preview with the latest static content.
 
 ## Template examples
 
