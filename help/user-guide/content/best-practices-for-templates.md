@@ -117,6 +117,8 @@ See [Content placeholders](customize-template.md#content-placeholders) to unders
 
 >[!TAB Display ad]
 
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
 Follow these design best practices when customizing display ad templates to work with GenStudio for Performance Marketing:
 
 - Use Adobe or Google fonts
