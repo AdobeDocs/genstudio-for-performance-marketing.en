@@ -33,13 +33,19 @@ You can now generate new call-to-action (CTA) phrases when managing variants. Us
 
 * Persona, brand, and product selections are now preloaded during template generation. <!-- GS-8069 -->
 
+* The email call-to-action link is no longer a required field. <!-- GS-8103 -->
+
 * The [!DNL Brand] selector drop-down menu now works as expected for templates. Previously, the selector did not load successfully for some templates. <!-- GS-8908 -->
 
 * Editors can now select a maximum of four images for single-pod emails and Meta ads. <!-- GS-2631 -->
 
 * The year value of an approved experience's `Created by` field now stays consistent as expected after the experience's metadata has been edited. <!-- GS-8344 -->
 
+* Content editors can now successfully select a template from [!DNL Create]. Previously, the application threw a console error when an editor selected a template.  <!-- GS-8798 -->
+
 * Issues with resize and regenerate operations for Meta ads have been resolved. <!-- GS-8900 -->
+
+* The **[!UICONTROL Back]** button now returns users to either the previous page or the [!DNL Create] landing page as expected. <!-- GS-8622 -->
 
 ## 2024.12.12
 
