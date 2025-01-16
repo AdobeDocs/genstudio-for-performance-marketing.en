@@ -11,19 +11,21 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.1.16 {#latest}
 
-### New features
+### GenStudio for Performance Marketing integration with Adobe Workfront Proof
 
-The GenStudio for Performance Marketing and Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content. 
+The GenStudio for Performance Marketing and Adobe Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content.
 
 Beta programs provide a way to help shape product development and determine general availability readiness. Contact Etienne Bosch (etienneb@adobe.com) for information about the GenStudio for Performance Marketing/Workfront Proof integration Beta program.
 
-#### Additional enhancements
+### Generate new Calls to Action
 
-* You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow these [CTA guidelines](link) when customizing your template. <!-- GS-6676 6848 -->
+You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Calls to action_ in [Customize a template](https://experienceleague.adobe.com/docs/genstudio-for-performance-marketing/user-guide/content/templates/customize-template.html). For guidelines on managing CTAs in variants, see _Revise the call-to-action_ in [Manage variants](https://experienceleague.adobe.com/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants.html?lang=en#revise-the-call-to-action). <!-- GS-6676  -->
+
+### Fixes and enhancements
 
 * Character counts are now displayed in all generated and manual fields of display ads. See _Character counts_ in [Meta experiences](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/meta-experiences#character-counts). <!-- GS-7732 -->
 
-* _Collaborators_ can now view assets in GenStudio for Performance Marketing but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in Create. <!-- GS-7614 -->
+* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in[!DNL Create]. <!-- GS-7614 -->
 
 * Content editors can now edit asset, experience, and template metadata. <!-- GS-4905 -->
 
@@ -31,11 +33,9 @@ Beta programs provide a way to help shape product development and determine gene
 
 * Persona, brand, and product selections are now preloaded during template generation. <!-- GS-8069 -->
 
-### Fixes and enhancements
+* The [!DNL Brand] selector drop-down menu now works as expected for templates. Previously, the selector did not load successfully for some templates. <!-- GS-8908 -->
 
-* The [!DNL Brand] selector dropdown menu now works as expected for templates. Previously, the selector did not load successfully for some templates. <!-- GS-8908 -->
-
-* Editors can now select a maximum of four images for single pod emails and Meta ads. <!-- GS-2631 -->
+* Editors can now select a maximum of four images for single-pod emails and Meta ads. <!-- GS-2631 -->
 
 * The year value of an approved experience's `Created by` field now stays consistent as expected after the experience's metadata has been edited. <!-- GS-8344 -->
 
