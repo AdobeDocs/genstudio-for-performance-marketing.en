@@ -2,6 +2,7 @@
 title: Create a display ad experience
 description: Learn how to create display ad experiences in Adobe [!DNL GenStudio] for Performance Marketing.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
 recommendations: noDisplay

@@ -15,7 +15,7 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 ## Choose a template
 
-To get started generating a new Meta ad experience, use an available template to provide the framework for your content.
+To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported Meta ad aspect ratios.
 
 **To choose a Meta ad template**:
 
@@ -52,7 +52,7 @@ When you are done adding parameters, you can collapse the prompt drawer by click
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or indescriptive prompts.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or ambiguous prompts.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -82,7 +82,8 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line,
 header, or body copy) and edit as needed.
-* **To change or select the call-to-action**, click the button displaying the call-to-action and select from the available button text options.<!-- In _[!UICONTROL Link]_, enter a new URL or revise an existing URL. -->
+* **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
+<!-- **To [change or select the call-to-action](/help/user-guide/create/manage-variants.md#revise-the-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.

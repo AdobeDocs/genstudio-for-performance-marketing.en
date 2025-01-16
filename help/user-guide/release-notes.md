@@ -49,7 +49,9 @@ You can now generate new call-to-action (CTA) phrases when managing variants. Us
 
 * The **[!UICONTROL Back]** button now returns users to either the previous page or the [!DNL Create] landing page as expected. <!-- GS-8622 -->
 
-## 2024.12.12
+## Earlier release notes
+
++++Notes from 2024.12.12
 
 ### New features
 
@@ -123,7 +125,7 @@ Additional new capabilities allow editors to:
 
 * Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.11.14
 

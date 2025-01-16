@@ -8,7 +8,7 @@ exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
 
 Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—[emails](/help/user-guide/create/email-experiences.md), [Meta ads](/help/user-guide/create/meta-experiences.md), and more—for use in digital marketing initiatives.
 
-When [creating experiences](/help/user-guide/create/overview.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to explicitly manage each piece of generated content.
+When [creating experiences](/help/user-guide/create/overview.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to manage each piece of generated content.
 
 ## Change draft name
 
@@ -26,7 +26,7 @@ Generated variant drafts have a default name shown at the top of the Canvas. Def
 
 You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage. For example, you can manually revise text in variants to preview the appearance of a headline with a chosen image.
 
-**To manually edit text in generated variants**:
+**To edit text manually in generated variants**:
 
 1. After generating a set of variants, double-click editable text in a variant.
 1. Enter new text.
@@ -46,7 +46,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. To alter the existing text, select _[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
 1. To generate new phrasing options, select _[!UICONTROL Generate new text]_ and enter a new prompt.
    1. Click **[!UICONTROL Generate]**.
-1. As you are re-generating a section's text, click the regenerate icon to see more text options.
+1. As you are re-generating a section's text, click the regenerate icon (circling arrows) to see more text options.
 1. From the results that appear, select the desired option and click **[!UICONTROL Replace]**.
 
    The variant is updated with the revised text.
@@ -55,13 +55,29 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 After generating a set of variants, you can revise the call-to-action (CTA) text and link.
 
+>[!NOTE]
+>
+>You can edit CTA label text using the _[!UICONTROL Rephrase]_ option if the label text is a generated template field (not hard-coded in the template). You can edit a CTA link using the _[!UICONTROL Edit link]_ option if the link is existing and editable (not hard-coded in the template).
+
 **To revise the CTA in a variant**:
 
-1. After generating a set of variants, click the button displaying the CTA text.
-1. To change the CTA button text, select from the available options in the _Call to actions_ list.
-1. To change the link in the CTA, click **[!UICONTROL Link]**.
-   1. Enter or paste in a new link or revise the existing link in the _Edit link_ section and click **[!UICONTROL Apply]**. You can click **[!UICONTROL Remove link]** to remove the existing link before entering a new one.
+1. Click a CTA button in one of the variants.
 
+   The button is selected, displays the character count, and presents two options: _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_.
+
+1. Click **[!UICONTROL Rephrase]**.
+
+   1. Choose from the list of regenerated phrases or click **[!UICONTROL Refresh results]** for more options.
+
+   1. Click **[!UICONTROL Replace]**.
+
+      The CTA text refreshes and a _"A button label was replaced"_ message appears confirming the change.
+
+1. Click **[!UICONTROL Add link]**.
+
+   1. Type or paste in a URL and click **[!UICONTROL Apply]**.
+   
+      To revise an existing link in your CTA, edit the existing URL or paste in a new URL and click **[!UICONTROL Apply]**.
 
 The added or revised link is applied to all CTAs in the set of variants.
 
