@@ -149,17 +149,13 @@ Another example may be to prevent the use of tracking codes when previewing a te
 
 ## Static content
 
-Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketing. When GenStudio for Performance Marketing generates thumbnails for these templates or the experiences derived from them, it validates the source and embeds a copy for preview. It may ignore external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+Email and Meta templates often link to images and CSS files hosted on other domains. When GenStudio for Performance Marketing generates thumbnails for template previews or the experiences derived from them, it validates the content source and embeds a copy for preview purposes.
 
-To ensure that these resources are available during the thumbnail generation process, consider two options:
+External files are temporarily embedded only for the purpose of creating the template preview, which ensures that the preview accurately reflects the content as it appears at the time of creation. These external files are **not** stored permanently in GenStudio for Performance Marketing. After the template preview is created, GenStudio continues to reference the original source link provided in the template.
 
-1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketing to access and include the resources.
+### Refresh content
 
-1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
-
->[!TIP]
->
->External files are not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. If the source file changes, you can use [refresh](/help/user-guide/content/use-templates.md#refresh-template) to update the template preview with the latest static content.
+If the source changes after creating the initial preview, use the [refresh](/help/user-guide/content/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.
 
 ## Template examples
 
