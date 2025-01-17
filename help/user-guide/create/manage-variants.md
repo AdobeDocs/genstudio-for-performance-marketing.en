@@ -51,7 +51,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
    The variant is updated with the revised text.
 
-## Revise the call-to-action
+## Revise Call to action
 
 After generating a set of variants, you can revise the call-to-action (CTA) text and link.
 
