@@ -1,6 +1,6 @@
 ---
 title: Test page for markdown
-description: This is a hidden article so we can test how different markdown transforms.
+description: This article is hidden for testing different markdown transforms.
 hide: yes
 hidefromtoc: yes
 ---
