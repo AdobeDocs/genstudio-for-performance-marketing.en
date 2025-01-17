@@ -49,8 +49,9 @@ The following is a list of elements that are used in templates and some details 
   - Capable of including text, images, and other media
   - Used in email and Meta ad templates
 
-- **CTA (Call-to-Action)**
+- **CTA**
 
+  - Call-to-action button uses a phrase and a link
   - Encourages the recipient to take a specific action such as clicking a link or making a purchase
   - Used in email and Meta ad templates
 

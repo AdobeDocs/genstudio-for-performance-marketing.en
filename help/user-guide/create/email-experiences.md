@@ -19,7 +19,7 @@ Editable sections of an email experience include:
 * Pre-header
 * Headline
 * Body
-* Call-to-action (CTA)
+* Call to action (CTA)
 * Image
 * Brand logo
 
