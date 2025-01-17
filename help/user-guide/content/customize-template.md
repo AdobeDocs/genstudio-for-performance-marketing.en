@@ -101,7 +101,9 @@ Use a prefix of your choice in the field name to indicate that a field is part o
 
 Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
 
-An email template can include up to three sections. For example, the following list has three headline and body sections:
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
+
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
 - `pre-header`
 - `pod1_headline`
