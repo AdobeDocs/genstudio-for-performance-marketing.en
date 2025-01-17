@@ -2,14 +2,56 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2024-12-13
+last-substantial-update: 2025-01-16
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2024.12.12 {#latest}
+## 2025.1.16 {#latest}
+
+### Integration with Adobe Workfront Proof
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+The GenStudio for Performance Marketing and Adobe Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content.
+
+Beta programs provide a way to help shape product development and determine general availability readiness. Contact Etienne Bosch (etienneb@adobe.com) for information about the GenStudio for Performance Marketing/Workfront Proof integration Beta program.
+
+### Generate new Calls to Action
+
+You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/content/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+
+### Fixes and enhancements
+
+* Character counts are now displayed in all generated and manual fields of display ads. See _Character counts_ in [Meta experiences](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
+
+* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in[!DNL Create]. <!-- GS-7614 -->
+
+* Content editors can now edit asset, experience, and template metadata. <!-- GS-4905 -->
+
+* Custom image sizes within Meta ad templates are now supported. <!-- GS-7512 -->
+
+* Persona, brand, and product selections are now preloaded during template generation. <!-- GS-8069 -->
+
+* The email call-to-action link is no longer a required field. <!-- GS-8103 -->
+
+* The [!DNL Brand] selector drop-down menu now works as expected for templates. Previously, the selector did not load successfully for some templates. <!-- GS-8908 -->
+
+* Editors can now select a maximum of four images for single-pod emails and Meta ads. <!-- GS-2631 -->
+
+* The year value of an approved experience's `Created by` field now stays consistent as expected after the experience's metadata has been edited. <!-- GS-8344 -->
+
+* Content editors can now successfully select a template from [!DNL Create]. Previously, the application threw a console error when an editor selected a template.  <!-- GS-8798 -->
+
+* Issues with resize and regenerate operations for Meta ads have been resolved. <!-- GS-8900 -->
+
+* The **[!UICONTROL Back]** button now returns users to either the previous page or the [!DNL Create] landing page as expected. <!-- GS-8622 -->
+
+## Earlier release notes
+
++++Notes from 2024.12.12
 
 ### New features
 
@@ -83,7 +125,7 @@ Additional new capabilities allow editors to:
 
 * Improved performance of the [!DNL Create] **[!UICONTROL Back]** button. <!-- GS-6767 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.11.14
 

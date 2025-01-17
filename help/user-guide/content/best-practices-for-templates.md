@@ -103,6 +103,7 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Square 1:1 (1080 x 1080 pixels)
 - Vertical 4:5 (1080 x 1350 pixels)
 - Story 9:16 (1080 x 1920 pixels)
+- Custom image size: (50 x 50 pixels minimum image width)
 
 **Recognized field names**:
 
@@ -115,6 +116,8 @@ For Meta ads, the `headline`, `body`, and `CTA` fields are automatically generat
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
 >[!TAB Display ad]
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
 Follow these design best practices when customizing display ad templates to work with GenStudio for Performance Marketing:
 
