@@ -23,6 +23,10 @@ Beta programs provide a way to help shape product development and determine gene
 
 You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/content/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
+The following preview shows the CTA character count, new options, and a rephrase-and-replace example:
+
+![CTA rephrase in action](/help/assets/animation/rephrase-cta.gif "CTA rephrase"){width="250" zoomable="yes"}
+
 ### Fixes and enhancements
 
 * Character counts are now displayed in all generated and manual fields of display ads. See _Character counts_ in [Meta experiences](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->

@@ -1,7 +1,7 @@
 ---
 title: GenStudio Academy
 description: Enhance your content supply chain skills with Adobe GenStudio Academy
-recommendations: disable, exclude
+recommendations: noDisplay, noCatalog
 index: false
 hidefromtoc: true
 exl-id: 44486f96-e01b-4fa1-91f3-a0b50d458133

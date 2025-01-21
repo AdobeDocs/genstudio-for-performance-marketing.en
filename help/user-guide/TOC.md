@@ -63,3 +63,4 @@ feature: Generative AI
   + [Attribute categories](insights/attribute-category.md)
   + [Data management](insights/data-management.md)
 + [GenStudio Academy - Hidden](genstudioacademy.md)
++ [Test markdown - Hidden](test-markdown.md)
