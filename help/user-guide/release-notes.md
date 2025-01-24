@@ -135,7 +135,7 @@ Additional new capabilities allow editors to:
 
 ### New features
 
-Added support for rich media templates, enabling customers to reuse assets that have already been published through their own managed content channels. <!-- GS-6107 -->
+Added the ability to refresh template content hosted on external domains. If the sourced content changes after creating the initial template preview, use the [refresh template](/help/user-guide/content/use-templates.md#refresh-template) feature to update the preview with the most recent version. <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
