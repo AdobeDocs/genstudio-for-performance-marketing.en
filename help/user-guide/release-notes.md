@@ -135,7 +135,7 @@ Additional new capabilities allow editors to:
 
 ### New features
 
-Added the ability to refresh template content hosted on external domains. If the sourced content changes after creating the initial template preview, use the [refresh template](/help/user-guide/content/use-templates.md#refresh-template) feature to update the preview with the most recent version. <!-- GS-6107 -->
+Added support for displaying static content hosted on external domains. GenStudio for Performance Marketing validates the content source defined in the template and embeds a copy to produce the template preview. See [Static content](/help/user-guide/content/customize-template.md#static-content). <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
