@@ -135,7 +135,7 @@ Additional new capabilities allow editors to:
 
 ### New features
 
-Added support for rich media templates, enabling customers to reuse assets that have already been published through their own managed content channels. <!-- GS-6107 -->
+Added support for displaying static content hosted on external domains. GenStudio for Performance Marketing validates the content source defined in the template and embeds a copy to produce the template preview. See [Static content](/help/user-guide/content/customize-template.md#static-content). <!-- GS-6107 -->
 
 ### Fixes and enhancements
 
