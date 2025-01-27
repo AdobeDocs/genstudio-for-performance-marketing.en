@@ -20,11 +20,12 @@ Image features represent distinct and informative elements or patterns within an
 
 | Category                | Description                                                                                           | Example                                                                                                                                                                        |
 | ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                        |
 | Camera angle            | The location and angle of the camera relative to the subject.                                         |                                                                                                                                                                                |
-| Subject distance        | The distance between the camera and the subject of an image.                                          | `close up`, `mid shot`, `long shot`                                                                                                                                            |
 | Camera setting          | The configuration of the camera's controls to produce the image.                                      |                                                                                                                                                                                |
 | Color and tone          | Evaluates colors used in image elements. Identifies one to three colors from a set of 40 pre-determined colors in the following image layers:<br>**[!UICONTROL Foreground colors]**—elements in the front layer of the image<br>**[!UICONTROL Background colors]**—elements in the back layer of an image | Color values: `Red`, `Dark_Red`, `Green`, `Bright_Green`, `Dark_Green`, `Light_Green`, `Mud_Green`, `Blue`, `Dark_Blue`, `Light_Blue`, `Royal_Blue`, `Black`, `White`, `Off_White`, `Gray`, `Dark_Gray`, `Silver`, `Cream`, `Magenta`, `Cyan`, `Yellow`, `Mustard`, `Khaki`, `Brown`, `Dark_Brown`, `Violet`, `Pink`, `Dark_Pink`, `Maroon`, `Tan`, `Purple`, `Lavender`, `Turquoise`, `Plum`, `Gold`, `Emerald`, `Orange`, `Beige`, `Lilac`, `Olive` |
 | Color temperature       | Describes the general warmth or coolness of colors in the image.                                      | Tone or temperature values: `warm`, `cool`, `neutral`<br>![colors and cool tones](../../assets/category/image-color-temp.png){width="200" zoomable="yes"}|
+| Content density         | The amount of information or detail in an image.                                                      | `high`, `medium`, `low`                                                                                                                                                        |
 | Image style             | The visual treatment of an image.                                                                     |                                                                                                                                                                                |
 | Lighting condition      | The type of light in an image.                                                                        |                                                                                                                                                                                |
 | Objects                 | Identifies one or more items, entities, and elements that make up the image.                          | ![sunflower, plane, flower object](../../assets/category/image-objects.png){width="200" zoomable="yes"}                                                                        |
@@ -32,12 +33,8 @@ Image features represent distinct and informative elements or patterns within an
 | People                  | When at least one person is present, one or more attributes may describe the person or persons in the image. | ![woman person dancing](../../assets/category/image-people.png){width="200" zoomable="yes"}                                                                             |
 | Photography genres      | Detects the subject and technique used to capture an image, such as `abstract` or `landscape` (not the same as landscape orientation). |           |
 | Scenes                  | Detects the setting or environment depicted in an image.                                              |                                             |
+| Subject distance        | The distance between the camera and the subject of an image.                                          | `close up`, `mid shot`, `long shot`                                                                                                                                            |
 | Tags                    | Detects objects, elements, and other image characteristics that do not fall under a specific classification. |                                      |
-
-<!-- Not yet approved by legal
-| Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                                                                    |
-| Content density         | The amount of information or detail in an image.                                                      | `high`, `medium`, `low`                                                                                                                                                                                                    |
--->
 
 ## Video features
 
@@ -45,10 +42,11 @@ Image features represent distinct and informative elements, sounds, or patterns 
 
 | Category            | Description                                                                                                  | Example                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Audio Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.       |          |
-| Audio Genre Category| When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`. |          |
 | Audio Mood          | Describes the general atmosphere or tone of the audio, such as `relaxing` or `energetic`.                    |          |
 | Audio Types         | When audio is present, the video may receive a tag for one or more audio types, such as `music` or `speech`. |          |
+| Categories          |  ?  |  |
+| Music Category      | When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`. |          |
+| Music Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.       |          |
 | Objects             | Identifies one or more items, entities, and elements that appear throughout the video.                       | ![objects in video](../../assets/category/video-objects.png){width="200" zoomable="yes"} |
 | Orientation         | The position of the video relative to the aspect ratio of the frame.            | `landscape`, `portrait`, `square`        |
 | People              | When at least one person is present, one or more attributes may describe the person or persons in the video. |        |
