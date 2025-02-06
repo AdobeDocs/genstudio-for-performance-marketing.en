@@ -139,7 +139,7 @@ You can add or swap images in generated variants right from the Canvas.
 
    You can also use images available in connected Adobe Experience Manager (AEM) Assets Content Hub repositories by selecting that repository from the [**[!UICONTROL Location]** menu](/help/user-guide/content/manage-assets.md#location).
 
-1. Click to select an image and click **[!UICONTROL Use]**
+1. Click to select an image and click **[!UICONTROL Use]**.
 
    The image is added or swapped into the applicable variant.
 
