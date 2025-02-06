@@ -43,6 +43,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{on_image_text}}`| On image text          | Meta ad                          |
 | `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
+| `{{link}}`         | Call to action on image | email                           |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -143,6 +144,20 @@ Use the following guidance to set up CTA placeholders:
    ```
 
 GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action).
+
+### Link on image
+
+You can customize your email template to allow creatives to add a link to an image. Similar to the CTA link, use the following guidance to apply a `link` placeholder to an image tag:
+
+```html
+<a href="{{ link }}"><img src="image-source.jpg" alt="description"></a>
+```
+
+In this example:
+
+- `{{ link }}` is a placeholder for the actual URL.
+- `src="image-source.jpg"` should be replaced with the actual image source URL.
+- `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
 
 ## Template preview
 
