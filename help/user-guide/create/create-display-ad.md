@@ -31,6 +31,8 @@ To create a display ad experience, use an available template to provide the fram
 
 Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer supercharges the content generation process and is an integral preparatory step for generating a display ad experience.
 
+If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to your variants. You can change them if desired.
+
 **To add parameters and assets**:
 
 1. Click the _Parameters_ icon to expand the prompt drawer.

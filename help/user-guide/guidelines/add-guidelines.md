@@ -14,6 +14,8 @@ See the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
+When creating variants from a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to the variants. You can change them if desired.
+
 {{in-academy}}
 
 ## Add [!DNL Brands]
