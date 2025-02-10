@@ -100,7 +100,7 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 
    ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
 
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
 1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
 
@@ -112,7 +112,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
-Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible as an icon on the right action bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 **To obtain reviews and approvals**:
 

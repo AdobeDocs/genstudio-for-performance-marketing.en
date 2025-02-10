@@ -99,7 +99,7 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
    ![Brand validation panel](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
 
@@ -110,7 +110,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
-Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible as an icon on the right action bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 **To obtain reviews and approvals**:
 
