@@ -99,7 +99,9 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
+1. Click **[!UICONTROL Review]** to get the details of the sections and guidelines that need improvement.
+
+   You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
    ![Brand validation panel](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
 
