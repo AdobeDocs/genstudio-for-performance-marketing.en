@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudio User Guide
-description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to quickly create on-brand assets, generate variations, and optimize experiences.
+description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to create on-brand assets, generate variations, and optimize experiences.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
 # Adobe GenStudio for Performance Marketing User Guide
