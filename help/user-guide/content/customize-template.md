@@ -37,18 +37,18 @@ The following table lists the field names recognized by GenStudio for Performanc
 | Field              | Role                   | Channel template                 |
 | ------------------ | ---------------------- | -------------------------------- |
 | `{{pre_header}}`   | Pre header             | email                            |
-| `{{headline}}`     | Headline               | email <br>Meta ad <br>Display ad |
-| `{{body}}`         | Body copy              | email <br>Meta ad <br>Display ad |
-| `{{cta}}`          | Call to action         | email <br>Meta ad <br>Display ad |
+| `{{headline}}`     | Headline               | email <br>Meta ad <br>Banner and Display ad |
+| `{{body}}`         | Body copy              | email <br>Meta ad <br>Banner and Display ad |
+| `{{cta}}`          | Call to action         | email <br>Meta ad <br>Banner and Display ad |
 | `{{on_image_text}}`| On image text          | Meta ad                          |
-| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
+| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Banner and Display ad |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
 - **Email template** does not require you to identify the `subject` field
 - **Meta ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
-- **Display Ads template** does not require you to identify the `CTA` field
+- **Banner and Display ads template** does not require you to identify the `CTA` field
 
 >[!WARNING]
 >
