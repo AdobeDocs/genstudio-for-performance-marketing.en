@@ -94,7 +94,7 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 <td valign="top">
    <div>
       <a href="/help/user-guide/guidelines/add-guidelines.md">
-      <img alt="Add guidelines" src="../assets/card-create-assets.png">
+      <img alt="Add guidelines" src="../assets/card-guidelines.png">
       <strong>Add guidelines</strong>
       </a>
    </div>
