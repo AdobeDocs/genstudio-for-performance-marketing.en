@@ -8,9 +8,13 @@ exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
 
 The [!DNL Insights] _[!UICONTROL Experiences]_ view shows a list of experiences for the connected channel ad account. For Facebook, the experiences are Meta ad names.
 
+{{connect-insights}}
+
 The _[!UICONTROL Experiences]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Campaign] lists to filter the ad names in the table.
 
 ![Experiences filter and table](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Experience details
 

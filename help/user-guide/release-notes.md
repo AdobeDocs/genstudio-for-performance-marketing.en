@@ -11,7 +11,9 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.2.13 {#latest}
 
-Add new notes here
+### Insights export to CSV
+
+You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to easily export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
 
 ## Earlier release notes
 
