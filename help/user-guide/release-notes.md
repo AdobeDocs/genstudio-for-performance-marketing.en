@@ -2,14 +2,26 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-01-16
+last-substantial-update: 2025-02-13
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.1.16 {#latest}
+## 2025.2.13 {#latest}
+
+### Landing page improvements for [!DNL Create]
+
+The [!DNL Create] landing page in GenStudio for Performance Marketing includes UI improvements that enhance the user experience. The _Recent work_ section is refined and configured with the list view as the default view. Padding and other visual improvements streamline the look and feel of the [!DNL Create] Canvas.
+
+### Insights export to CSV
+
+You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to easily export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
+
+## Earlier release notes
+
++++Notes from 2025.1.16
 
 ### Integration with Adobe Workfront Proof
 
@@ -22,10 +34,6 @@ Beta programs provide a way to help shape product development and determine gene
 ### Generate new Calls to Action
 
 You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/content/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
-
-The following preview shows the CTA character count, new options, and a rephrase-and-replace example:
-
-![CTA rephrase in action](/help/assets/animation/rephrase-cta.gif "CTA rephrase"){width="250" zoomable="yes"}
 
 ### Fixes and enhancements
 
@@ -53,7 +61,7 @@ The following preview shows the CTA character count, new options, and a rephrase
 
 * The **[!UICONTROL Back]** button now returns users to either the previous page or the [!DNL Create] landing page as expected. <!-- GS-8622 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.12.12
 
