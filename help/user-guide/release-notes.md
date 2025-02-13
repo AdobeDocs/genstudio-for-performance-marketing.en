@@ -15,7 +15,9 @@ Add new notes here
 
 ## Earlier release notes
 
-+++Notes from 2025.1.16
+### Landing page improvements for [!DNL Create]
+
+The [!DNL Create] landing page in GenStudio for Performance Marketing includes UI improvements that improve the user experience. The _Recent work_ section is refined, with the list view configured to be the default view. Padding and other visual improvements were added, which streamline the look and feel of the [!DNL Create] Canvas.
 
 ### Integration with Adobe Workfront Proof
 
