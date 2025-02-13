@@ -8,18 +8,20 @@ exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
 
 The [!DNL Insights] _[!UICONTROL Assets]_ view shows a list of assets used in experiences and ad campaigns for the selected channel account.
 
-The _[!UICONTROL Assets]_ gallery is the default view that shows a collage of asset previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to toggle one of three viewable metrics:
+{{connect-insights}}
+
+The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists.
+
+![Assets filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
+
+The _[!UICONTROL Assets]_ gallery view shows a collage of asset previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
 
 - CPA (Cost per action)
 - CTR (Click-through rate)
 - CPC (Cost per click)
 - Spend
-
-The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists.
-
-![Assets filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
-
-You can toggle between the views using the view list (table) icon and the gallery view (grid) icon.
 
 ## Asset details
 
