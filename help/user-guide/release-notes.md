@@ -11,6 +11,10 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.2.13 {#latest}
 
+### Landing page improvements for [!DNL Create]
+
+The [!DNL Create] landing page in GenStudio for Performance Marketing includes UI improvements that enhance the user experience. The _Recent work_ section is refined and configured with the list view as the default view. Padding and other visual improvements streamline the look and feel of the [!DNL Create] Canvas.
+
 ### Insights export to CSV
 
 You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to easily export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
