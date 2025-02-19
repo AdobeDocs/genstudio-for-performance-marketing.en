@@ -29,7 +29,7 @@ You can now download the viewable table from any [!DNL Insights] view into a CSV
 
 The GenStudio for Performance Marketing and Adobe Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content.
 
-Beta programs provide a way to help shape product development and determine general availability readiness. Contact Etienne Bosch (etienneb@adobe.com) for information about the GenStudio for Performance Marketing/Workfront Proof integration Beta program.
+Beta programs provide a way to help shape product development and determine general availability readiness.
 
 ### Generate new Calls to Action
 
