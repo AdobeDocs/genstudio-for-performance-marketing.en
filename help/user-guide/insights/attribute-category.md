@@ -10,66 +10,18 @@ exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
 
 An attribute category is a classification group that organizes related attributes that share a common characteristic. These categories help streamline the discovery, identification, and understanding of specific attributes by providing greater context and facilitating their application and use.
 
-GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study images, videos, and text and apply [!UICONTROL Asset attributes] based on a probability of correctness. The attributes list of an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study images, videos, and text and apply [!UICONTROL Asset attributes] based on a probability of correctness. The detected attributes list of an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
 
-## Image features
+Attribute categories have several practical applications that can significantly enhance brand-aligned creation, marketing strategies, and overall user engagement.
 
-Image features represent distinct and informative elements or patterns within an image that are used for analysis with [!DNL Insights]. The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
+- **Content Optimization**: Analyze the performance of attributes, such as colors, tones, and other features, to understand which elements resonate most with your audience.
 
-<!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
+- **Personalization**: Identify the preferred attributes of your target audience and personalize the marketing campaign.
 
-| Category                | Description                                                                                           | Example                                                                                                                                                                        |
-| ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                        |
-| Camera angle            | The location and angle of the camera relative to the subject.                                         | `Low angle`, `High angle`, `Eye level`, `Overhead view`, `Dutch angle`, `Bird's eye view`<p>![eye level](/help/assets/category/image-camera-angle.png){width="200" zoomable="yes"}                                                                                         |
-| Camera setting          | The configuration of the camera's controls to produce the image.                                      | `Fast shutter speed`, `Long exposure`, `Bokeh blur`, `Motion blur`, `Tilt-shift blur`, `Flash`, `Wide-angle`, `Black and white`, `Surreal`, `Double-exposure`, `Macro`, `Normal mode`                                                                                                                        |
-| Color and tone          | Evaluates colors used in image elements. Identifies one to three colors from a set of 40 pre-determined colors in the following image layers:<br>**[!UICONTROL Foreground colors]**—elements in the front layer of the image<br>**[!UICONTROL Background colors]**—elements in the back layer of an image | Color values: `Red`, `Dark_Red`, `Green`, `Bright_Green`, `Dark_Green`, `Light_Green`, `Mud_Green`, `Blue`, `Dark_Blue`, `Light_Blue`, `Royal_Blue`, `Black`, `White`, `Off_White`, `Gray`, `Dark_Gray`, `Silver`, `Cream`, `Magenta`, `Cyan`, `Yellow`, `Mustard`, `Khaki`, `Brown`, `Dark_Brown`, `Violet`, `Pink`, `Dark_Pink`, `Maroon`, `Tan`, `Purple`, `Lavender`, `Turquoise`, `Plum`, `Gold`, `Emerald`, `Orange`, `Beige`, `Lilac`, `Olive` |
-| Color temperature       | Describes the general warmth or coolness of colors in the image.                                      | Tone or temperature values: `warm`, `cool`, `neutral`<br>![colors and cool tones](/help/assets/category/image-color-temp.png){width="200" zoomable="yes"} |
-| Content density         | The amount of information or detail in an image.                                                      | `high`, `medium`, `low`                                                                                                                                                        |
-| Image style             | The visual treatment of an image.                                                                     | ![cartoon image style](/help/assets/category/image-style.png){width="200" zoomable="yes"}                                                                                                                                                                               |
-| Lighting condition      | The type of light in an image.                                                                        | `Golden hour`, `Blue hour`, `Midday`, `Overcast`, `Night`, `High-key`, `Low-key`, `Daylighting`, `Incandescent`, `Fluorescent`, `Colorful`, `Studio`                                                                                                                                                                               |
-| Objects                 | Identifies one or more items, entities, and elements that make up the image.                          | ![sunflower, plane, flower object](/help/assets/category/image-objects.png){width="200" zoomable="yes"}                                                                        |
-| Orientation             | The position of the image relative to the aspect ratio.                                               | `landscape`, `portrait`, `square`                                                                                                                                              |
-| People                  | When at least one person is present, one or more attributes may describe the person or persons in the image. | ![woman person dancing](/help/assets/category/image-people.png){width="200" zoomable="yes"}                                                                             |
-| Photography genres      | Detects the subject and technique used to capture an image, such as `abstract` or `landscape` (not the same as landscape orientation). | `Architecture`, `Astro`, `Landscape`, `Pet`, `Interior`, `Wildlife`, `Night`, `Cityscape`, `Seascape`, `Underwater`, `Storm`, `Adventure sports`, `Fashion`, `Portrait`, `Sports`, `Food`, `Street`, `Event`, `Lifestyle`, `Commercial`, `Group`, `Abstract`, `Minimalist`, `Composite`          |
-| Scenes                  | Detects the setting or environment depicted in an image.                                              | ![beach and ocean scene](/help/assets/category/image-scenes.png){width="200" zoomable="yes"}                            |
-| Subject distance        | The distance between the camera and the subject of an image.                                          | `close up`, `mid shot`, `long shot`<p>![close-up shot](/help/assets/category/image-subject-distance.png){width="200" zoomable="yes"}                                           |
-| Tags                    | Detects objects, elements, and other image characteristics that do not fall under a specific classification. | ![tags for dancer and dancing](/help/assets/category/image-tags.png){width="200" zoomable="yes"}                                     |
+- **Campaign Analysis**: See how different attributes impact campaign performance.
 
-## Video features
+- **Brand Compliance**: Ensure that you are using content that aligns with brand guidelines.
 
-Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights]. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
+- **Content Discoverability**: Filter and find the ideal content in the digital asset management system.
 
-| Category            | Description                                                                                                  | Example                                                                                 |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Audio Mood          | Describes the general atmosphere or tone of the audio, such as `relaxing` or `energetic`.                    |          |
-| Audio Types         | When audio is present, the video may receive a tag for one or more audio types, such as `music` or `speech`. |          |
-| Categories          |  ?  |  |
-| Music Category      | When music is present, the video may receive one broad classification of music genre, such as `acoustic` or `traditional`. |          |
-| Music Genre         | When music is present, the video may receive one classification of music style, such as `electronic` or `classical`.       |          |
-| Objects             | Identifies one or more items, entities, and elements that appear throughout the video.                       | ![objects in video](../../assets/category/video-objects.png){width="200" zoomable="yes"} |
-| Orientation         | The position of the video relative to the aspect ratio of the frame.            | `landscape`, `portrait`, `square`        |
-| People              | When at least one person is present, one or more attributes may describe the person or persons in the video. |        |
-| Scenes              | The setting or environment depicted in the video.                                                            |        |
-| Styles              | Detects visual treatments applied to elements in the video, such as `matte` or `neon`.                       |        |
-| Tags                | Detects objects, elements, and other video characteristics that do not fall under a specific classification. |        |
-
-## Text features
-
-Text features include counts for certain text elements, such as words, sentences, emojis, and classifications for semantics, emotion, and tone that are used for analysis with [!DNL Insights]. Text may also receive a readability score. Coming soon.
-
-<!-- Not yet approved by legal
-
-The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI.
-
-| Category             | Description | Example |
-|----------------------|-------------|--------|
-| Emojis Count         |             |        |
-| HashTags Count       |             |        |
-| Keywords             |             |        |
-| Marketing Emotions   |             |        |
-| Narratives           | Text that represents an overarching situation, theme, or a story. Narratives can communicate values, purpose, or identity that resonates with consumers on many levels.   |        |
-| Persuasion Strategies|             |        |
-| Readability          |             |        |
-| Tone of voice        | | |
--->
+- **Creative Collaboration**: Use attribute categories and user-defined keywords to collaborate with your team.
