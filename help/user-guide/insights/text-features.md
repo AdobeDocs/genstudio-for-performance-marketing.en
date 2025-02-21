@@ -3,7 +3,7 @@ title: Text features
 description: Learn about the text feature of attribute categories used in GenStudio for Performance Marketing.
 feature: Insights, Attributes, Generative AI
 hide: yes
-hidefromtoc: yes
+hidefromtoc: no
 recommendations: noDisplay, noCatalog
 ---
 # Text features
@@ -16,13 +16,31 @@ GenStudio for Performance Marketing uses Adobe's AI and machine learning capabil
 
 Tone represents a general character, attitude, or atmosphere exhibited through language. A simple choice of words and punctuation, sentence structure, and style can alter the tone of your message. For example, consider the following urgent messages using the three basic levels of tone:
 
-- `Formal`: Take advantage of this distinctive and exceptional opportunity!
-- `Conversational`: Don't miss out on this great opportunity!
-- `Direct`: Don't miss the chance!
+- `Formal`
+
+   ```
+   Take advantage of this distinctive and exceptional opportunity!
+   ```
+
+- `Conversational`
+
+   ```
+   Don't miss out on this great opportunity!
+   ```
+
+- `Direct`
+
+   ```
+   Don't miss the chance!
+   ```
 
 The AI further detects a more nuanced tone. Using the same urgent statement from the earlier example, the following version uses a whimsical `poetic` tone:
 
-- `Poetic`: Embrace the moment, without delay, for this occasion won't always stay.
+- `Poetic`
+
+   ```
+   Embrace the moment, without delay, for this occasion won't always stay.
+   ```
 
 Other secondary values for tone include: `Enthusiastic`, `Assertive`, `Humorous/Witty`, `Inspirational`, `Empathetic`, `Sensory`, `Storytelling`, `Poetic`, `Quantitative`, `Personal`
 
