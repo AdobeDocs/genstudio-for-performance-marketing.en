@@ -28,10 +28,12 @@ feature: Generative AI
   + [[!DNL Create] overview](create/overview.md)
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
+  + [LinkedIn experiences](create/linkedin-experiences.md)
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Manage variants](create/manage-variants.md)
   + [Create an email experience](create/create-email-experience.md)
   + [Create a Meta ad experience](create/create-meta-ad.md)
+  + [Create a LinkedIn experience](create/create-linkedin.md)
   + [Create a display ad experience](create/create-display-ad.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
