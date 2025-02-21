@@ -89,11 +89,8 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
-
-   ![Brand validation panel](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
-
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise ads](#revise-generated-meta-ads) to ensure your ads are closely aligned with your brand.
+1. [Manually revise ads](#revise-generated-linkedin-ads) to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -122,4 +119,3 @@ To make the generated LinkedIn ads available for current and future use, publish
    1. Select the format—JPG, PNG, or GIF—and click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
-
