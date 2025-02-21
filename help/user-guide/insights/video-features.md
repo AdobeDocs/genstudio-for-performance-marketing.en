@@ -8,6 +8,7 @@ feature: Insights, Attributes, Generative AI
 Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights]. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
+
 | Category            | Description                                                                                                  | Example                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | Audio Mood          | Determines the overall emotional tone or atmosphere of the audio track, such as `calm`, `upbeat`, or `tense`. | `Energetic`, `Happy`, `Emotional Ambient/atmospheric`, `Relaxing`, `Dramatic`, `Expressive/characterful`, `Intense`, `Slow`, `Neutral` |
