@@ -4,7 +4,6 @@ description: Learn about LinkedIn experiences in Adobe GenStudio for Performance
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
 ---
 # LinkedIn experiences
 
