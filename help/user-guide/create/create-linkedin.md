@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 This tutorial demonstrates how to generate [LinkedIn experiences](/help/user-guide/create/meta-experiences.md) that adhere to your brand guidelines using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-Before you begin generating a LinkedIn experience, it is important to [add guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and learn the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
+Before you begin generating a LinkedIn ad, it is important to [add guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and learn the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 
 ## Choose a template
 
@@ -26,7 +26,7 @@ To generate a new LinkedIn experience you need a template to provide the framewo
 
 ## Add parameters
 
-Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
+Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer enhances the content generation process and is a crucial step in preparing to generate a LinkedIn experience.
 
 **To add parameters and assets**:
 
@@ -51,7 +51,7 @@ When you are done adding parameters, you can collapse the prompt drawer by click
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or ambiguous prompts.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new LinkedIn experience. Detailed prompts ensure you receive good quality and useful output.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -62,30 +62,20 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
-Generated content loads progressively—as each section of the Meta experiences are generated they appear in the Canvas. See [Meta experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
+Generated content loads progressively—as each section of the LinkedIn experiences are generated they appear in the Canvas. See [LinkedIn experiences](/help/user-guide/create/linkedin-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
-## Choose Meta ads channel
+## Revise generated LinkedIn ads
 
-When generating a Meta ad, you can choose between Facebook or Instagram ads.
-
-Toggle the Meta ads channel option—between **Facebook** and **Instagram**—in the right menu bar (Facebook and Instagram icons) to see and manage variants for each channel.
-
-When [revising the Meta ads](#revise-generated-meta-ads), you can change the aspect ratio of Facebook and Instagram ads.
-
-## Revise generated Meta ads
-
-Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
+Before sending variants for approval or publishing to [!DNL Content] you can edit the LinkedIn ads or delete a variant from the set of generated ads.
 
 **To revise generated variants**:
 
-* **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line,
-header, or body copy) and edit as needed.
+* **To [edit the LinkedIn ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
+* **To [manually edit a LinkedIn ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line, header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
-<!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
-* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
-* **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
+* **To [delete a LinkedIn ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback
 
@@ -125,16 +115,11 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 ## Publish and export experience
 
-To make the generated Meta ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated LinkedIn ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
-1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
-   1. Select the format—HTML and images or CSV and images (JPG or PNG)—click **[!UICONTROL Export]**.
+1. **To publish your new experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
+1. **To export your new experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
+   1. Select the format—JPG, PNG, or GIF—and click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
 
-## Connect Meta
-
-You can connect GenStudio for Performance Marketing to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
-
-See [Connect channel account](/help/user-guide/insights/connect-channel.md) for more information.

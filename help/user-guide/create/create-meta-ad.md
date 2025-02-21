@@ -84,9 +84,9 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
-* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
-* **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
+* **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback
 
