@@ -3,7 +3,7 @@ title: Text features
 description: Learn about the text feature of attribute categories used in GenStudio for Performance Marketing.
 feature: Insights, Attributes, Generative AI
 hide: yes
-hidefromtoc: no
+hidefromtoc: yes
 recommendations: noDisplay, noCatalog
 ---
 # Text features
