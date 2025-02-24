@@ -28,7 +28,7 @@ The details view includes a metrics overall ad `click-through rate`, `cost per a
 
 ### Text attributes
 
-Below the experience preview is a list of [!UICONTROL Text attributes] associated with the ad. When assets and experiences are approved and stored in [!DNL Content], GenStudio for Performance Marketing generates tags based on their inherent features. See [Asset details](../content/asset-details.md#system-metadata) for details about system metadata.
+Below the experience preview is a list of [!UICONTROL Text attributes] associated with the ad. When assets and experiences are approved and stored in [!DNL Content], GenStudio for Performance Marketing generates tags based on their inherent features. See [Asset details](/help/user-guide/content/asset-details.md#system-metadata) for details about system metadata.
 
 ### Ad placements
 
