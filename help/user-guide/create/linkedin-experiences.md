@@ -11,7 +11,7 @@ With Adobe GenStudio for Performance Marketing, you can leverage generative AI t
 
 [!DNL Create] enables content creators and marketers to employ [guidelines](/help/user-guide/guidelines/overview.md), image assets, and an [instructive prompt](/help/user-guide/effective-prompts.md) to [generate brand-adhered LinkedIn experiences](/help/user-guide/create/create-email-experience.md).
 
-When generating LinkedIn experiences four variations are created and shown in the Canvas.
+When generating LinkedIn experiences, four variations are created and shown in the Canvas.
 
 Editable sections of an email experience include:
 

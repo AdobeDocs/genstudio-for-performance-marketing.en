@@ -14,13 +14,13 @@ Before you begin generating a LinkedIn ad, it is important to [add guidelines](/
 
 ## Choose a template
 
-To generate a new LinkedIn experience you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
+To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
 
 **To choose a LinkedIn template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL LinkedIn]** in the _"What do you want to create today?"_ section.
 1. Use the search option, adjacent to _Filter_, to find a specific template.
-1. Click to select a template and click **[!UICONTROL Use]**.
+1. Click to select a template, and click **[!UICONTROL Use]**.
 
    This action opens the Canvas, which is the central hub for content creation.
 
@@ -51,7 +51,7 @@ When you are done adding parameters, you can collapse the prompt drawer by click
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new LinkedIn experience. Detailed prompts ensure you receive good quality and useful output.
+After you select guidelines, craft a prompt using natural language to start generating content for your new LinkedIn experience. Detailed prompts ensure you receive good quality and useful output.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -62,11 +62,11 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
-Generated content loads progressively—as each section of the LinkedIn experiences are generated they appear in the Canvas. See [LinkedIn experiences](/help/user-guide/create/linkedin-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
+Generated content loads progressively—as each section of the LinkedIn experiences are generated, they appear in the Canvas. See [LinkedIn experiences](/help/user-guide/create/linkedin-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
 ## Revise generated LinkedIn ads
 
-Before sending variants for approval or publishing to [!DNL Content] you can edit the LinkedIn ads or delete a variant from the set of generated ads.
+Before sending variants for approval or publishing to [!DNL Content], you can edit the LinkedIn ads or delete a variant from the set of generated ads.
 
 **To revise generated variants**:
 
