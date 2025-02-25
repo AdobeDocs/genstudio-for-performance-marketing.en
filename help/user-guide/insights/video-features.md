@@ -5,7 +5,9 @@ feature: Insights, Attributes, Generative AI
 ---
 # Video features
 
-Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights]. The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI.
+Image features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights].
+
+The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI:
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
