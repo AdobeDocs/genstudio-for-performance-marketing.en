@@ -45,17 +45,6 @@ The following table shows each category of brand voice guideline and guideline e
 
 Each channel has certain inherent guidelines that influence channel asset composition.
 
-If channel guidelines are not configured for a [!DNL Brand], the following default channel guidelines based on industry best practices will be applied.
-
-| Section | Channel Default Values |
-| ------------------| --------- |
-| Subject   | *Email*: "Limit to 2 lines or less" |
-| Preheader   | *Email*: "Limit to 2 lines or less" |
-| Headline   | *Email*: "Limit to 8 words or less"<br>*Paid social*: "Limit to 40 characters or less"<br>_Display ads_: "Limit to 6 words or less" |
-| Body   | *Email*: "Limit to 3-4 lines"<br>*Paid social*: "Limit to 125 characters or less"<br>_Display ads_: "Limit to 6 words or less" |
-| CTA   | *Email*: "Limit to 2 words or less"<br>_Display ads_: "Limit to 2 words or less" |
-
-
 The following table shows each channel section, channels for which it is available, description of the section, guideline examples, and example results.
 
 | Sections | Channels | Description | Best practices |
@@ -66,6 +55,53 @@ The following table shows each channel section, channels for which it is availab
 | Headline          | email, social ads, display ads | A title or phrase to grab the reader's attention | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful headlines in _Examples_ section for better quality output.<br>_Examples_: "Use punchy statements to grab attention" |
 | Body              | email, social ads, display ads | Marketing content that includes message, links, and images | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Limit to 80-100 characters", "Avoid excessive acronyms" |
 | CTA               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Do not use end punctuation"|
+
+#### Default channel guidelines
+
+If channel guidelines are not configured for a [!DNL Brand], the following default channel guidelines based on industry best practices will be applied.
+
+>[!BEGINTABS]
+
+>[!TAB Email]
+
+| Section   | Default Values                |
+|-----------|-------------------------------|
+| Subject   | Limit to 2 lines or less      |
+| Preheader | Limit to 2 lines or less      |
+| Headline  | Limit to 8 words or less      |
+| Body      | Limit to 3-4 lines            |
+| CTA       | Limit to 2 words or less      |
+
+>[!TAB Paid social]
+
+| Section   | Default Values                |
+|-----------|-------------------------------|
+| Headline  | Limit to 40 characters or less|
+| Body      | Limit to 125 characters or less|
+
+>[!TAB Display ads]
+
+| Section   | Default Values                |
+|-----------|-------------------------------|
+| Headline  | Limit to 6 words or less      |
+| Body      | Limit to 6 words or less      |
+| CTA       | Limit to 2 words or less      |
+
+>[!TAB Meta]
+
+| Section       | Default Values                |
+|---------------|-------------------------------|
+| Headline      | Limit to 40 characters or less|
+| Body          | Limit to 125 characters or less|
+| On-image text | Limit to 5-6 words            |
+
+>[!TAB LinkedIn]
+
+| Section   | Default Values                |
+|-----------|-------------------------------|
+| Headline  | Limit to 70 characters or less to avoid truncation|
+
+>[!ENDTABS]
 
 <!-- Not in M2.1 // ### Image guidelines
 
