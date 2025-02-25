@@ -58,13 +58,13 @@ The following table shows each channel section, channels for which it is availab
 
 #### Default channel guidelines
 
-If channel guidelines are not configured for a [!DNL Brand], the following default channel guidelines based on industry best practices will be applied.
+The following default channel guidelines for [!DNL Brands]—based on industry best practices and individual platform specifications—are applied per channel.
 
 >[!BEGINTABS]
 
 >[!TAB Email]
 
-| Section   | Default Values                |
+| Section   | Default guideline                |
 |-----------|-------------------------------|
 | Subject   | Limit to 2 lines or less      |
 | Preheader | Limit to 2 lines or less      |
@@ -74,14 +74,14 @@ If channel guidelines are not configured for a [!DNL Brand], the following defau
 
 >[!TAB Paid social]
 
-| Section   | Default Values                |
+| Section   | Default guideline                |
 |-----------|-------------------------------|
 | Headline  | Limit to 40 characters or less|
 | Body      | Limit to 125 characters or less|
 
 >[!TAB Display ads]
 
-| Section   | Default Values                |
+| Section   | Default guideline                |
 |-----------|-------------------------------|
 | Headline  | Limit to 6 words or less      |
 | Body      | Limit to 6 words or less      |
@@ -89,7 +89,7 @@ If channel guidelines are not configured for a [!DNL Brand], the following defau
 
 >[!TAB Meta]
 
-| Section       | Default Values                |
+| Section       | Default guideline                |
 |---------------|-------------------------------|
 | Headline      | Limit to 40 characters or less|
 | Body          | Limit to 125 characters or less|
@@ -97,9 +97,16 @@ If channel guidelines are not configured for a [!DNL Brand], the following defau
 
 >[!TAB LinkedIn]
 
-| Section   | Default Values                |
-|-----------|-------------------------------|
-| Headline  | Limit to 70 characters or less to avoid truncation|
+| Section            | Default guideline                                |
+|--------------------|-----------------------------------------------|
+| Headline           | Limit to 70 characters or less to avoid truncation|
+| Headline           | Limit headline to 200 characters              |
+| Description        | Limit description to 100 characters to avoid truncation|
+| Description        | Limit description to 300 characters           |
+| Introductory text  | Limit introductory text to 150 characters to avoid truncation|
+| Introductory text  | Limit introductory text to 600 characters      |
+| Introductory text  | Maximum of four emojis                        |
+| Ad name            | Limit to 255 characters or less               |
 
 >[!ENDTABS]
 
