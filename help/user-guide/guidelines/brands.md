@@ -18,7 +18,7 @@ After adding brand guidelines to GenStudio for Performance Marketing, you can [m
 
 You must [publish a brand](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
 
-Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Manage brands](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
+Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
 Deleted [!DNL brands] are archived for 30 days and can be recovered within that period.
 
@@ -44,6 +44,17 @@ The following table shows each category of brand voice guideline and guideline e
 ### Channel guidelines
 
 Each channel has certain inherent guidelines that influence channel asset composition.
+
+If channel guidelines are not configured for a [!DNL Brand], the following default channel guidelines based on industry best practices will be applied.
+
+| Section | Channel Default Values |
+| ------------------| --------- |
+| Subject   | *Email*: "Limit to 2 lines or less" |
+| Preheader   | *Email*: "Limit to 2 lines or less" |
+| Headline   | *Email*: "Limit to 8 words or less"<br>*Paid social*: "Limit to 40 characters or less"<br>_Display ads_: "Limit to 6 words or less" |
+| Body   | *Email*: "Limit to 3-4 lines"<br>*Paid social*: "Limit to 125 characters or less"<br>_Display ads_: "Limit to 6 words or less" |
+| CTA   | *Email*: "Limit to 2 words or less"<br>_Display ads_: "Limit to 2 words or less" |
+
 
 The following table shows each channel section, channels for which it is available, description of the section, guideline examples, and example results.
 

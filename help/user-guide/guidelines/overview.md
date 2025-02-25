@@ -22,6 +22,7 @@ GenStudio for Performance Marketing guidelines:
 * Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#brand-validation)
+* Implements ADA and individual platform text guidelines compliance for generated variants
 
 By incorporating brand, product, and persona data into GenStudio for Performance Marketing, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
 
@@ -36,6 +37,6 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
 
-GenStudio for Performance Marketing conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
+GenStudio for Performance Marketing conducts brand validation on various brand aspects, including ADA and channel platform compliance, and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
