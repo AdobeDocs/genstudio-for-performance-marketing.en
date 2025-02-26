@@ -21,7 +21,7 @@ A summary of brand validation information for each generated content variant is 
 
 The _[!DNL Brand] and compliance check_ displays the:
 
-* Percentage of compliance with your [!DNL Brand](brands.md) calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested
+* Percentage of compliance with your [[!DNL Brand]](brands.md) calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested
 * `Pass` or `Fail` result for the platform specific guidelines, such as Meta
 * `Pass` or `Fail` result for ADA compliance
 
