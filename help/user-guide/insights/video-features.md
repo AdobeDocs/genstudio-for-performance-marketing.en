@@ -5,9 +5,9 @@ feature: Insights, Attributes, Generative AI
 ---
 # Video features
 
-Video features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights].
+Video features represent distinct and informative elements, sounds, or patterns within a video for analysis with [!DNL Insights]. These features help in categorizing and understanding the video content, enabling more accurate and detailed insights. By identifying various attributes such as audio mood, music genre, and objects, the AI can provide a comprehensive analysis of the video, aiding in better decision-making and strategy formulation.
 
-## Audio Detection
+## Audio detection
 
 Audio detection in GenStudio for Performance Marketing involves analyzing the audio track of a video to identify various attributes. This detection process determines the overall mood of the audio by identifying the types of audio present, tagging specific genres or categories of music, and extracting keywords from speech. By understanding these audio elements, the AI can provide deeper insights into the video's content and context, enhancing the overall analysis and categorization process.
 
@@ -21,7 +21,7 @@ Audio detection in GenStudio for Performance Marketing involves analyzing the au
 
 1. Select a feature from the **[!UICONTROL Attribute category]** list. For an audio example, select **Music genre**.
 
-1. Click an attribute for a detailed view of videos that share that category.
+1. Select an attribute for a detailed view of videos that share that category.
 
    As an example, the `Music genre` category may have `electronic` as an attribute.
 
@@ -29,7 +29,7 @@ Audio detection in GenStudio for Performance Marketing involves analyzing the au
 
 1. Toggle the **unmute** (located in the lower-left corner of a video preview) button and listen to the audio of the video preview.
 
-The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI:
+The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

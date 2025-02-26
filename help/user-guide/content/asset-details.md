@@ -36,7 +36,7 @@ Some asset metadata is automatically collected when an asset is uploaded, such a
 
 When you store an approved asset in [!DNL Content], GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the asset and apply tags based on the asset features. For example, a picture of a cat may result in attribute tags like `pet photography` or `cat`, and color tags that identify dominant colors in the picture. You cannot edit tags that are detected and automatically applied.
 
-See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
+See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attributes.md#categories) for detailed lists of image, video, and text features.
 
 ### Generated content metadata
 

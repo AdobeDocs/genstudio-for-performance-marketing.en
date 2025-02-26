@@ -5,11 +5,11 @@ feature: Insights, Attributes, Generative AI
 ---
 # Image features
 
-Image features represent distinct and informative elements or patterns within an image that are used for analysis with [!DNL Insights].
+Image features represent distinct and informative elements or patterns within an image that are used for analysis with [!DNL Insights]. These features help in categorizing and understanding the visual content, enabling more accurate and detailed insights. By identifying various attributes, such as style, color, and objects, the AI can provide a comprehensive analysis of the image, aiding in better decision-making and strategy formulation.
 
 ## Style detection
 
-Determining the _image style_ serves as a foundation for identifying other image characteristics. The AI can apply the appropriate analysis techniques and recognize relevant features, leading to a more comprehensive understanding of the image. Each style has distinct visual characteristics that influence how the image is perceived and analyzed. 
+Determining the _image style_ serves as a foundation for identifying other image characteristics. The AI can apply the appropriate analysis techniques and recognize relevant features, leading to a more comprehensive understanding of the image. Each style has distinct visual characteristics that influence how the image is perceived and analyzed.
 
 If the image style is identified as a `photograph`, the AI analyzes additional traits for `camera settings`, `camera proximity`, and `Photography genres`. These traits are specific to photographs and provide deeper insights into the image's composition and quality. See [28 types of photography styles](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html) in Adobe's _Learn photography_ and learn about popular types of photography and foundational terminology.
 
@@ -25,13 +25,13 @@ If the image style is identified as a `sketch` or a `digital cartoon`, a differe
 
 1. Select an image feature from the **[!UICONTROL Attribute category]** list, such as `Scenes`.
 
-1. Click an attribute for a detailed view of images that share that category.
+1. Select an attribute for a detailed view of images that share that category.
 
    As an example, the `Scenes` category may have `restaurant` as an attribute.
 
 1. The _Attribute details_ page lists all the images with this attribute.
 
-The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI:
+The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
