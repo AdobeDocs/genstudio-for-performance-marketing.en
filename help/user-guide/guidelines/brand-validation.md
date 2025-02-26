@@ -6,89 +6,77 @@ exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
 ---
 # Brand validation
 
-In GenStudio for Performance Marketing, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity.
+In GenStudio for Performance Marketing, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity, ADA compliance, and individual channel platform guidance.
 
 GenStudio for Performance Marketing conducts brand validation on various aspects, including:
 
-* Brand guidelines specific to each customer
-* Copy guidelines for different channel platforms
+* Defined or default [!DNL Brand], [!DNL Persona], and [!DNL Product] guidelines
+* Channel-specific platform guidelines
 * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
+* American with Disabilities Act (ADA) compliance standards
 
-## [!DNL Brand] guidelines check
+## [!DNL Brand] and compliance check
 
-A summary of brand validation information for each generated content variant is accessible through the _[!DNL Brand] guidelines check_ icon next to each variant in the Canvas.
+A summary of brand validation information for each generated content variant is accessible through the _[!DNL Brand] and compliance check_ icon for each variant in the Canvas.
 
-The _[!DNL Brand] guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested.
+The _[!DNL Brand] and compliance check_ displays the:
 
-![[!DNL Brand] guidelines check](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
+* Percentage of compliance with your [!DNL Brand](brands.md) calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested
+* `Pass` or `Fail` result for the platform specific guidelines, such as Meta
+* `Pass` or `Fail` result for ADA compliance
 
-Click the icon to see how many guidelines are compliant with your brand and how many guidelines need review.
+![[!DNL Brand] and compliance check](/help/assets/brand-compliance-check.png){width="450" zoomable="yes"}
 
-See [Improve brand alignment](#improve-brand-alignment).
-
-## Brand validation panel
-
-The _Brand validation_ panel opens on the right side of the Canvas when clicked from the top menu bar _or_ from the _Brand guidelines check_ icon for a variant. This panel provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
-
-![[!DNL Brand] validation panel](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
-
-The _Brand validation_ panel displays information for:
-
-* **Email**:
-  * Subject line section
-  * Preheader section
-  * Header section
-  * Body section
-  * CTA (call to action) section
-  * Brand voice guidelines
-* **Meta ad**:
-  * Headline section
-  * Body copy section
-  * CTA (call to action) section
-  * On-image text section
+Click the percentage to see how compliant the variant is. The scores will auto-update as you make edits to the variants. You can _View and fix issues_ to ensure further compliancy.
 
 See [Improve brand alignment](#improve-brand-alignment).
 
-### Filter
+## Brand and compliance check panel
 
-In the _Brand validation_ panel you can filter what guidelines are shown. Click the filter icon at the top of the panel to view:
+The _Brand and compliance check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the _Brand and compliance check_ icon for a variant. This panel provides detailed brand validation and compliance information and illuminates opportunities for improvement for each variant section.
 
-* **Guidelines that are met**—Displays only the guidelines that passed brand validation.
-* **Guidelines that need attention**—Displays only the guidelines that did not pass brand validation and need further edits to be more brand compliant.
-* **Both**—Displays all guidelines for which the variants are measured against.
+![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="650" zoomable="yes"}
+
+The _Brand and compliance check_ panel displays validation and compliance information for each section of the variant:
+
+* Representation of the _[!DNL Brand] and compliance check_ information for [!DNL Brand], platform guidelines, and accessibility compliance
+* _Failed_ section displaying the number of failed guidelines and detailed information about each guideline needing revision
+* _Passed_ section displaying the number of passed guidelines and detailed information about each passing guideline
+
+See [Improve brand alignment](#improve-brand-alignment) to learn how to improve the _Brand and compliance check_ scores.
+
+### Compliance type
+
+In the _Brand and compliance check_ panel you can toggle which guideline and compliance checks are performed. Click the _Compliance type_ icon (levels icon) at the top of the panel to toggle on or off:
+
+* **[!DNL Brand]**Performs the checks associated with [!DNL Brand] guidelines
+* **Channel-specific platform**—Performs the checks associated with the channel-specific platform, such as Meta.
+* **Accessibility**—Performs the checks associated with ADA accessibility compliance
+
+To **set the compliance type**, click to toggle off or on the available types and click **Apply**.
 
 ## Improve brand alignment
 
-To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation_ panel. You can manually modify specific sections to align with your [brand guidelines](brands.md).
+To maximize effectiveness of generated content and maintain consistent brand identity, use the [_Brand and compliance check_](#brand-and-compliance-check) and the [_Brand and compliance check_ panel](#brand-and-compliance-check-panel). You can manually modify specific sections to align with your [[!DNL Brand] guidelines](brands.md), platform guidelines checks, and accessibility compliance checks.
 
-**To improve brand alignment for generated content variants**:
+**To improve brand alignment for generated variants**:
 
-1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant. The [!DNL Brand] guidelines check shows a percentage number of brand alignment for a variant.
+1. Click the **[!UICONTROL [!DNL Brand] and compliance check]** icon in the right action bar to see validation and compliance information for a single variant.
 
-   See a summary of how many brand guidelines met brand validation or need more attention.
-
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the _Brand validation_ icon in top menu bar to open the _Brand validation_ panel.
-
-   See all sections and brand guidelines that need your attention.
+   You can see a summary of the _Failed_ and _Passed_ checks to see which sections and guidelines need improvement.
 
    >[!NOTE]
    >
    > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
-1. Click through each guideline that needs attention, using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
+1. and click to fix guidelines that are not currently compliant.
+1. Click to expand and inspect each failed check in available sections such as _Headline_ and _Brand voice_.
 
-1. Use the reasoning noted for each guideline to inform any revisions to variant sections to achieve the strongest alignment to your brand.
+   Use the reasoning noted for each failed check to inform any revisions to variant sections to achieve the strongest alignment to your brand.
 
+1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility compliance standards.
 
-1. After making necessary revisions, click **[!UICONTROL Check again]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity.
+   The brand validation process runs again. If the revised items pass validation, a green banner appears at the bottom of the canvas to confirm "Brand guideline score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand and compliance check_ icon for the revised variant also shows your progress.
 
-   The brand validation process runs again. If the section/guideline passes validation, a green banner appears at the bottom of the canvas to confirm "Brand guidelines score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
+1. Continue revising sections to ensure the entire variant passes validation and compliance checks. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas.
 
-1. Continue revising sections to ensure the entire variant passes brand validation.
-
-   Navigate between guidelines in the _Brand validation panel_ using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
-
-1. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas. For instance, use the arrow to move from `Email 1/4` to `Email 2/4`.
-1. Continue revising sections to better adhere to your brand.
-
-   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) for more information on considered guidelines.
