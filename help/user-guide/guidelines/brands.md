@@ -100,11 +100,11 @@ The following default channel guidelines for [!DNL Brands]—based on industry b
 | Section            | Default guideline                                |
 |--------------------|-----------------------------------------------|
 | Headline           | Limit to 70 characters or less to avoid truncation|
-| Headline           | Limit headline to 200 characters              |
-| Description        | Limit description to 100 characters to avoid truncation|
-| Description        | Limit description to 300 characters           |
-| Introductory text  | Limit introductory text to 150 characters to avoid truncation|
-| Introductory text  | Limit introductory text to 600 characters      |
+| Headline           | Limit to 200 characters              |
+| Description        | Limit to 100 characters to avoid truncation|
+| Description        | Limit to 300 characters           |
+| Introductory text  | Limit to 150 characters to avoid truncation|
+| Introductory text  | Limit to 600 characters      |
 | Introductory text  | Maximum of four emojis                        |
 | Ad name            | Limit to 255 characters or less               |
 
