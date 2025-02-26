@@ -35,7 +35,7 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 The _Brand and compliance check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the _Brand and compliance check_ icon for a variant. This panel provides detailed brand validation and compliance information and illuminates opportunities for improvement for each variant section.
 
-![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="650" zoomable="yes"}
+![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="500" zoomable="yes"}
 
 The _Brand and compliance check_ panel displays validation and compliance information for each section of the variant:
 
@@ -49,11 +49,11 @@ See [Improve brand alignment](#improve-brand-alignment) to learn how to improve 
 
 In the _Brand and compliance check_ panel you can toggle which guideline and compliance checks are performed. Click the _Compliance type_ icon (levels icon) at the top of the panel to toggle on or off:
 
-* **[!DNL Brand]**Performs the checks associated with [!DNL Brand] guidelines
-* **Channel-specific platform**—Performs the checks associated with the channel-specific platform, such as Meta.
+* **[!DNL Brand]**—Performs the checks associated with [!DNL Brand] guidelines
+* **Channel-specific platform**—Performs the checks associated with the channel-specific platform, such as Meta
 * **Accessibility**—Performs the checks associated with ADA accessibility compliance
 
-To **set the compliance type**, click to toggle off or on the available types and click **Apply**.
+To **set the compliance type** for which checks you want performed, click to toggle off or on the available types and click **Apply**.
 
 ## Improve brand alignment
 
@@ -61,7 +61,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 **To improve brand alignment for generated variants**:
 
-1. Click the **[!UICONTROL [!DNL Brand] and compliance check]** icon in the right action bar to see validation and compliance information for a single variant.
+1. Click the **[!UICONTROL [!DNL Brand] and compliance check]** icon in the right action bar to see validation and compliance information for a single variant in the _Brand and compliance check_ panel.
 
    You can see a summary of the _Failed_ and _Passed_ checks to see which sections and guidelines need improvement.
 
@@ -69,7 +69,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
    >
    > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
-1. and click to fix guidelines that are not currently compliant.
+1. Click to fix guidelines that are not currently compliant.
 1. Click to expand and inspect each failed check in available sections such as _Headline_ and _Brand voice_.
 
    Use the reasoning noted for each failed check to inform any revisions to variant sections to achieve the strongest alignment to your brand.
@@ -77,6 +77,8 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility compliance standards.
 
    The brand validation process runs again. If the revised items pass validation, a green banner appears at the bottom of the canvas to confirm "Brand guideline score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand and compliance check_ icon for the revised variant also shows your progress.
+
+   ![[!DNL Brand] guideline score updated](/help/assets/score-updated.png){width="650" zoomable="yes"}
 
 1. Continue revising sections to ensure the entire variant passes validation and compliance checks. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas.
 

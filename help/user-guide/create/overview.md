@@ -83,7 +83,7 @@ To create AI-generated content, enter a [descriptive prompt](/help/user-guide/ef
 
 ### Brand validation
 
-GenStudio for Performance Marketing conducts brand validation on various aspects of a brand's identity (as defined in [guidelines](/help/user-guide/guidelines/overview.md)). [Brand validation](/help/user-guide/guidelines/brand-validation.md) information is available for any generated content, indicating its compliance with brand guidelines and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio for Performance Marketing conducts brand validation and compliance checks on each variant to ensure it meets the utmost in [!DNL Brand], platform, and compliance standards. [Brand validation](/help/user-guide/guidelines/brand-validation.md) information is available for any generated content, indicating its compliance with brand guidelines, channel-specific platform guidelines, ADA accessibility compliance guidelines, and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
 
 ### Reviews and approvals
 

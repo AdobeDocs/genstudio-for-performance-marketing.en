@@ -69,7 +69,7 @@ By default, four variations—all fueled by the prompt, guidelines, and content 
 
 Generated content loads progressively—as each section of the email experiences are generated they appear in the Canvas. See [Email experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
-## Revise generated emails
+## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit email sections or delete a variant from the set of generated emails.
 
@@ -92,21 +92,13 @@ When revising and preparing email experiences, you can [toggle between previews 
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation_ panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity and compliance standards, leverage the power of the [_Brand and compliance check panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). This panel displays comprehensive brand, platform, and compliance validation details and illuminates improvement areas.
 
-**To verify brand alignment**:
+**To perform [!DNL Brand], platform, and compliance checks on a variant**:
 
-1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-
-   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
-
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
-
-1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
-
-   ![Brand validation panel](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
-
-1. [Manually revise emails](#revise-generated-emails) to ensure your emails are closely aligned with your brand.
+1. Click the _Brand and compliance check_ panel in the right action bar to open the [_Brand and compliance checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). You can see details of the sections and guidelines that need improvement.
+1. See a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with your brand and pass platform guidelines and compliance checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
