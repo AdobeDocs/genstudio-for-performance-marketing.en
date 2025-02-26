@@ -20,7 +20,7 @@ The _[!UICONTROL Experiences]_ table is organized using [!UICONTROL Ad names]. C
 
 An _experience_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
 
-Select an experience (ad name) and view the performance metrics, text attributes, and placements associated with each ad. In the details view, you can analyze an experience's metrics based on its ad placement and marketing efforts within a specified date range.
+Select an experience and view the performance metrics, text attributes, and placements associated with each ad. In the details view, you can analyze an experience's metrics based on its ad placement and marketing efforts within a specified date range.
 
 The details view includes a metrics overall ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
 
@@ -71,11 +71,15 @@ The following table provides definitions and insights for key digital marketing 
 
 ## Placement performance
 
-In the _Experience details_ view, the top three metrics reflect the overall performance of the selected experience. However, the _Performance by placement_ section shows the detailed metrics for each ad placement. The following table provides definitions for placement performance metrics:
+In the _Experience details_ view, the top three metrics reflect the overall performance of the selected experience. However, the _Performance by placement_ section shows the detailed metrics for each ad placement. Use the right and left arrows to navigate through the different ad placements.
 
-| Metric                 | Definition                    | Calculation |
+The following table provides definitions for ad placement performance metrics:
+
+| Metric                 | Definition                    | Insight     |
 | ---------------------- | ----------------------------- | ----------- |
-| **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks in the ad placement of the experience. | `clicks` divided by `impressions` |
-| **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent on this ad placement to achieve a specific customer action, such as a purchase or subscription. | total amount `spent` divided by the number of customer actions completed |
-| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an experience placement. | total amount `spent` divided by `clicks` |
-| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time. | |
+| **[!UICONTROL CTR]**<br>_Click-through rate_ | The percentage (%) of impressions for a single ad placement that resulted in clicks.<p>**Calculation**:`clicks` divided by `impressions`<p>This metric helps determine the effectiveness of the ad placement in engaging the audience. | A high CTR indicates that the ad placement is relevant and compelling to the audience, leading to more interactions. |
+| **[!UICONTROL CPA]**<br>_Cost per Action_ | The average cost spent on a single ad placement to achieve a desired customer action, such as a purchase or subscription.<p>**Calculation**: total amount `spent` divided by the number of customer actions completed<p>This metric helps evaluate the cost-efficiency of the ad placement in driving valuable actions. | A lower CPA suggests that the ad placement is effective in converting audience interactions into desired actions at a lower cost. |
+| **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
+| **[!UICONTROL Spend]** | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire experience. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
+
+{style="table-layout:fixed"}
