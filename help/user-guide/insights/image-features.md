@@ -13,7 +13,7 @@ Determining the _image style_ serves as a foundation for identifying other image
 
 If the image style is identified as a `photograph`, the AI analyzes additional traits for `camera settings`, `camera proximity`, and `Photography genres`. These traits are specific to photographs and provide deeper insights into the image's composition and quality. See [28 types of photography styles](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html) in Adobe's _Learn photography_ and learn about popular types of photography and foundational terminology.
 
-If the image style is identified as a `sketch` or a `digital cartoon`, a different sets of characteristics may be relevant. This hierarchical approach ensures that the analysis is contextually accurate and tailored to the specific type of image being examined.
+If the image style is identified as a `sketch` or a `digital cartoon`, a different set of characteristics may be relevant. This hierarchical approach ensures that the analysis is contextually accurate and tailored to the specific type of image being examined.
 
 ## Search image features
 
