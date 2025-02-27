@@ -10,6 +10,8 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.03.13 {#latest}
 
+Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+
 ## Earlier release notes
 
 +++Notes from 2025.02.13
