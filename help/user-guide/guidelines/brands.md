@@ -26,6 +26,8 @@ Deleted [!DNL brands] are archived for 30 days and can be recovered within that 
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
+Some channel guidelines, abstracted from [channel-specific platform standards and ADA compliance standards](/help/user-guide/guidelines/overview.md#compliance), are pre-populated as default values.
+
 ![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
@@ -136,6 +138,6 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ## Brand validation
 
-In GenStudio for Performance Marketing, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
+In GenStudio for Performance Marketing, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity and other compliance concerns.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).

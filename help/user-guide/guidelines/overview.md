@@ -51,7 +51,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ### Compliance
 
-Adobe GenStudio for Performance Marketing integrates external compliance checks in addition to the user-defined guidelines:
+Adobe GenStudio for Performance Marketing integrates external compliance checks—channel platform guidelines and ADA compliance—in addition to the user-defined guidelines:
 
 * **ADA compliance**: Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure compliance with web accessibility features and provide equitable access to all users.
 * **Platform compliance**: Vital for adhering to the specific guidelines of each platform—such as Meta or LinkedIn—and following industry best practices. These are default guidelines present in the system and pre-populated in [!DNL Brand guidelines].

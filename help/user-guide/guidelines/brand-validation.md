@@ -35,9 +35,9 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 The _Brand and compliance check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the _Brand and compliance check_ icon for a variant. This panel provides detailed brand validation and compliance information and illuminates opportunities for improvement for each variant section.
 
-![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="500" zoomable="yes"}
+![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
 
-The _Brand and compliance check_ panel displays validation and compliance information for each section of the variant:
+The _Brand and compliance check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for each section of the variant:
 
 * Representation of the _[!DNL Brand] and compliance check_ information for [!DNL Brand], platform guidelines, and accessibility compliance
 * _Failed_ section displaying the number of failed guidelines and detailed information about each guideline needing revision
@@ -76,7 +76,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility compliance standards.
 
-   The brand validation process runs again. If the revised items pass validation, a green banner appears at the bottom of the canvas to confirm "Brand guideline score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand and compliance check_ icon for the revised variant also shows your progress.
+   The brand validation process runs again. If the revised items pass validation, a green banner appears at the bottom of the Canvas to confirm "Brand guideline score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand and compliance check_ icon for the revised variant also shows your progress.
 
    ![[!DNL Brand] guideline score updated](/help/assets/score-updated.png){width="650" zoomable="yes"}
 
