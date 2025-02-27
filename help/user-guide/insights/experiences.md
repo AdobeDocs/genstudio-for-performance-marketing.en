@@ -10,7 +10,7 @@ The [!DNL Insights] _[!UICONTROL Experiences]_ view shows a list of experiences 
 
 {{connect-insights}}
 
-The _[!UICONTROL Experiences]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Campaign] lists to filter the ad names in the table.
+The _[!UICONTROL Experiences]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Campaign] lists to filter the ad names in the table. Click **Reset** to clear all filter selections.
 
 ![Experiences filter and table](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 
@@ -67,7 +67,7 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost for every one thousand ad impressions for the experience placement.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Use to monitor spending on experiences that result in valuable customer actions. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an experience placement.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
-| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL Spend]**       | The amount spent from the Campaign budget over a given period of time to place this ad Experience. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
 
 ## Placement performance
 
@@ -81,5 +81,3 @@ The following table provides definitions for ad placement performance metrics:
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | The average cost spent on a single ad placement to achieve a desired customer action, such as a purchase or subscription.<p>**Calculation**: total amount `spent` divided by the number of customer actions completed<p>This metric helps evaluate the cost-efficiency of the ad placement in driving valuable actions. | A lower CPA suggests that the ad placement is effective in converting audience interactions into desired actions at a lower cost. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
 | **[!UICONTROL Spend]** | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire experience. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
-
-{style="table-layout:fixed"}
