@@ -2,20 +2,29 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-02-13
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.2.13 {#latest}
+## 2025.03.13 {#latest}
 
 Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
 
 ## Earlier release notes
 
-+++Notes from 2025.1.16
+++Notes from 2025.02.13
+
+### Landing page improvements for [!DNL Create]
+
+The [!DNL Create] landing page in GenStudio for Performance Marketing includes UI improvements that enhance the user experience. The _Recent work_ section is refined and configured with the list view as the default view. Padding and other visual improvements streamline the look and feel of the [!DNL Create] Canvas.
+
+### Insights export to CSV
+
+You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
+
++++Notes from 2025.01.16
 
 ### Integration with Adobe Workfront Proof
 
@@ -23,7 +32,7 @@ Customize your email template with image links. See [Customize a template: Link 
 
 The GenStudio for Performance Marketing and Adobe Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content.
 
-Beta programs provide a way to help shape product development and determine general availability readiness. Contact Etienne Bosch (etienneb@adobe.com) for information about the GenStudio for Performance Marketing/Workfront Proof integration Beta program.
+Beta programs provide a way to help shape product development and determine general availability readiness.
 
 ### Generate new Calls to Action
 

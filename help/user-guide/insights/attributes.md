@@ -8,11 +8,15 @@ exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
 
 The [!DNL Insights] _[!UICONTROL Attributes]_ view shows a list of attributes used in ad campaigns for the selected channel account.
 
+{{connect-insights}}
+
 The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute] name. You can toggle between the list types using the **[!UICONTROL Images]** button and the **[!UICONTROL Video]** button. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Attribute category] to filter the attributes in the table. The following example shows a list of attributes in the `Lighting Condition` category.
+The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Attribute category] to filter the attributes in the table. The following example shows a list of attributes in the `Lighting Condition` category. Click **Reset** to clear all filter selections.
 
 ![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Attribute details
 
@@ -26,11 +30,17 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 ## Categories
 
-GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. For example, the _image orientation_ category has a `landscape`, `portrait`, or `square` value.
+An attribute category is a classification group that organizes related attributes that share a common characteristic. These categories help streamline the discovery, identification, and understanding of specific attributes by providing greater context and facilitating their application and use.
 
-You cannot edit tags that are detected and automatically applied.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study [images](image-features.md), [videos](video-features.md), and text and apply [!UICONTROL Asset attributes] based on a probability of correctness.
 
-See [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
+The detected attributes list for an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI. For example, the following illustration contains several detected image attributes, including multiple objects, foreground and background colors.
+
+![image asset attributes](/help/assets/category/asset-attributes.png "Image of Toucan includes multiple detected attributes"){width="300" zoomable="yes"}
+
+>[!INFO]
+>
+>You cannot edit tags that are detected and automatically applied.
 
 ## Attribute performance
 
@@ -50,4 +60,4 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost for every one-thousand ad impressions of an image or video with this attribute.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Helps to identify attributes that result in valuable customer actions. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click on images or videos with this attribute.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
-| **[!UICONTROL Spend]**       | The amount spent from the budget as it relates to attributes over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL Spend]**       | The amount spent from the budget as it relates to attributes over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
