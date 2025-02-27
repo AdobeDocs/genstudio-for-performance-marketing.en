@@ -5,6 +5,7 @@ feature: Insights, Attributes, Generative AI
 hide: yes
 hidefromtoc: yes
 recommendations: noDisplay, noCatalog
+exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
 ---
 # Text features
 

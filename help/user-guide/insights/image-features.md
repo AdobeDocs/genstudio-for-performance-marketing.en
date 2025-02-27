@@ -2,6 +2,7 @@
 title: Image features
 description: Learn about the image feature of attribute categories used in GenStudio for Performance Marketing.
 feature: Insights, Attributes, Generative AI
+exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
 ---
 # Image features
 
