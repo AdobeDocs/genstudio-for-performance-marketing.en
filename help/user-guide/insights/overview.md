@@ -32,7 +32,7 @@ The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default v
 
 ### Ads
 
-The [[!DNL Insights] _[!UICONTROL Ads]_ view](experiences.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
+The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
 
 ### Media
 
