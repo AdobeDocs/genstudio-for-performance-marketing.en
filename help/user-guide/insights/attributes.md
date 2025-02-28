@@ -22,11 +22,11 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 Attributes help to identify [media](assets.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
 
-In the attribute details view, you can see which experiences use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each experience.
+In the attribute details view, you can see which ads use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each ad.
 
 ![Attribute performance metrics](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing detects certain features and applies the appropriate attribute to media content or experience as a tag. See [Categories](#categories) for examples of these tags. To see all the attributes associated with an experience, click the settings (cog) icon above the right side of the table to select the **[!UICONTROL Attributes]** column.
+GenStudio for Performance Marketing detects certain features and applies the appropriate attribute to media content or ad as a tag. See [Categories](#categories) for examples of these tags. To see all the attributes associated with an ad, click the settings (cog) icon above the right side of the table to select the **[!UICONTROL Attributes]** column.
 
 ## Categories
 
