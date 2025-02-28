@@ -18,13 +18,13 @@ From the [!DNL Insights] dashboard, you can:
 
 ## Dashboard
 
-The [!DNL Insights] dashboard has a configurable table for each content type: [!UICONTROL Channels], [!UICONTROL Experiences], [!UICONTROL Assets], and [!UICONTROL Attributes].
+The [!DNL Insights] dashboard has a configurable table for each content type: [!UICONTROL Channels], [!UICONTROL Experiences], [!UICONTROL Media], and [!UICONTROL Attributes].
 
 ![[!DNL Insights] dashboard](/help/assets/insights-dashboard.png)
 
 Each view displays a corresponding table, which you can search by keyword, filtering, and date range. You can click the settings (cog) icon above the right side of the table to toggle the viewable column types. The _[!UICONTROL Summary]_ row may show totals or averages of a column.
 
-[!UICONTROL Experiences], [!UICONTROL Assets], and [!UICONTROL Attributes] include a gallery view that enables you to scan and sort assets using cards with an image or video thumbnail. There is an option to display one of three key metrics on each card: `Click-through rate`, `Cost per click`, and `Spend`.
+[!UICONTROL Experiences], [!UICONTROL Media], and [!UICONTROL Attributes] include a gallery view that enables you to scan and sort assets using cards with an image or video thumbnail. There is an option to display one of three key metrics on each card: `Click-through rate`, `Cost per click`, and `Spend`.
 
 ### Channels
 
@@ -34,18 +34,18 @@ The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default v
 
 The [[!DNL Insights] _[!UICONTROL Experiences]_ view](experiences.md) concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Experiences] view enables you to analyze an experience's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
 
-### Assets
+### Media
 
-The [[!DNL Insights] _[!UICONTROL Assets]_ view](assets.md) is designed to help you analyze the performance of assets. You can identify attributes of an asset that contribute to improving a selected metric, such as clicks or impressions.
+The [[!DNL Insights] _[!UICONTROL Media]_ view](assets.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
 
-Clicking on an asset provides further context about its performance across different experiences:
+Clicking on media content provides further context about its performance across different experiences:
 
-![Asset details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
+![Media details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
-In the asset details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
+In the media details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
 ### Attributes
 
-Content _attributes_ help to identify assets by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
+Media _attributes_ help to identify creative content by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
 
 The [[!DNL Insights] _[!UICONTROL Attributes]_ view](attributes.md) can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and can help you to highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.

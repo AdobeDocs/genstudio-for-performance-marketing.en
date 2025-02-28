@@ -28,7 +28,7 @@ The details view includes a metrics overall ad `click-through rate`, `cost per a
 
 ### Text attributes
 
-Below the experience preview is a list of [!UICONTROL Text attributes] associated with the ad. When assets and experiences are approved and stored in [!DNL Content], GenStudio for Performance Marketing generates tags based on their inherent features. See [Asset details](/help/user-guide/content/asset-details.md#system-metadata) for details about system metadata.
+Below the experience preview is a list of [!UICONTROL Text attributes] associated with the ad. When assets and experiences are approved and stored in [!DNL Content], GenStudio for Performance Marketing generates tags based on their inherent features. See [Media details](/help/user-guide/content/asset-details.md#system-metadata) for details about system metadata.
 
 ### Ad placements
 
@@ -59,8 +59,8 @@ The following table provides definitions and insights for key digital marketing 
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Experience name]** | A list of experiences for the connected channel account. Filter ads by selecting a campaign. | Sort the experience list by clicking on any of the key metrics. |
 | **[!UICONTROL Campaign]**  | A campaign is a set of experiences designed to achieve a specific objective. | When you filter the Experiences table by campaign, the summary metrics of all experiences for the campaign may be different than the campaign's summary row in the [!UICONTROL Channels] view. This discrepancy can occur if the channel source, such as Meta, and GenStudio use slightly different summary calculations. |
-| **[!UICONTROL Placements]** | A count of ad [placements](#ad-placements), locations where an experience appeared in the campaign. | Placements increase audience reach.<p>Ads that show zero placements and zero assets may indicate an [unsupported ad type](#unsupported-placements).</p> |
-| **[!UICONTROL Assets]** | The number of assets used in the ad or experience. | The count in the Experiences table may be different than the count in the Experience details view. This discrepancy can occur if the channel source, such as Meta, and GenStudio use slightly different summary calculations. |
+| **[!UICONTROL Placements]** | A count of ad [placements](#ad-placements), locations where an experience appeared in the campaign. | Placements increase audience reach.<p>Ads that show zero placements and zero media may indicate an [unsupported ad type](#unsupported-placements).</p> |
+| **[!UICONTROL Media]** | The number of assets used in the ad or experience. | The count in the Experiences table may be different than the count in the Experience details view. This discrepancy can occur if the channel source, such as Meta, and GenStudio use slightly different summary calculations. |
 | **[!UICONTROL Impressions]** | A count of each time the ad placement or experience loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider it in relation with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | The number of times users interact with a clickable element, such as a link or a call-to-action button, in an experience placement. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks on the experience placement within a campaign.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |

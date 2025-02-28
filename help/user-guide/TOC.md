@@ -58,7 +58,7 @@ feature: Generative AI
   + [Connect channel account](insights/connect-channel.md)
   + [Channels](insights/channels.md)
   + [Experiences](insights/experiences.md)
-  + [Assets](insights/assets.md)
+  + [Media](insights/media.md)
   + [Attributes](insights/attributes.md)
   + Attribute categories {#categories}
     + [Image features](insights/image-features.md)
