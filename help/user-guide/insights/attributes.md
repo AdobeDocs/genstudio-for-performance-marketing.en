@@ -20,7 +20,7 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 ## Attribute details
 
-Attributes help to identify [media](assets.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
+Attributes help to identify [media](media.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
 
 In the attribute details view, you can see which ads use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each ad.
 

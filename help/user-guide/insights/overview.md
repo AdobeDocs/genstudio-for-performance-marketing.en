@@ -36,7 +36,7 @@ The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating
 
 ### Media
 
-The [[!DNL Insights] _[!UICONTROL Media]_ view](assets.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
+The [[!DNL Insights] _[!UICONTROL Media]_ view](media.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
 
 Clicking on media content provides further context about its performance across different ads and ad placements:
 
