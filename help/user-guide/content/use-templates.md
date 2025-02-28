@@ -88,7 +88,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Banner and Display ads, and Meta ads.
+The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Banner and Display ad, and Meta ads.
 
 ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
@@ -119,7 +119,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   - **Banner and Display ads**: requires Dimensions
+   - **Banner and Display ad**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 

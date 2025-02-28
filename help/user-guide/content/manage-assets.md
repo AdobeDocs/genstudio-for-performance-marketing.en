@@ -140,7 +140,7 @@ You can export an approved experience for activation in a format compatible with
 1. In the _Export for activation_ popup, select one of the available formats:
 
    - Email: `HTML`, `CSV`
-   - Meta, Banner, and Display ads: `HTML`, `JPEG`, `PNG`
+   - Meta, Banner, and Display ad: `HTML`, `JPEG`, `PNG`
 
 See [Activation](/help/user-guide/activation/overview.md).
 
