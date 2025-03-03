@@ -27,7 +27,7 @@ The _[!DNL Brand] and compliance check_ displays the:
 
 ![[!DNL Brand] and compliance check](/help/assets/brand-compliance-check.png){width="450" zoomable="yes"}
 
-Click the percentage to see how compliant the variant is. The scores will auto-update as you make edits to the variants. You can _View and fix issues_ to ensure further compliancy.
+Click the percentage to see how compliant the variant is. The scores auto-update as you make edits to the variants. You can _View and fix issues_ to ensure further compliancy.
 
 See [Improve brand alignment](#improve-brand-alignment).
 
@@ -53,7 +53,7 @@ In the _Brand and compliance check_ panel you can toggle which guideline and com
 * **Channel-specific platform**—Performs the checks associated with the channel-specific platform, such as Meta
 * **Accessibility**—Performs the checks associated with ADA accessibility compliance
 
-To **set the compliance type** for which checks you want performed, click to toggle off or on the available types and click **Apply**.
+To **set the compliance type** for the checks you want performed, click to toggle off or on the available types and click **Apply**.
 
 ## Improve brand alignment
 
@@ -72,7 +72,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 1. Click to fix guidelines that are not currently compliant.
 1. Click to expand and inspect each failed check in available sections such as _Headline_ and _Brand voice_.
 
-   Use the reasoning noted for each failed check to inform any revisions to variant sections to achieve the strongest alignment to your brand.
+   Use the reasoning noted for each failed check to inform variant revisions.
 
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility compliance standards.
 

@@ -60,7 +60,7 @@ The following table shows each channel section, channels for which it is availab
 
 #### Default channel guidelines
 
-The following default channel guidelines for [!DNL Brands]—based on industry best practices and individual platform specifications—are applied per channel.
+The following default channel guidelines for [!DNL Brands] are applied per channel, based on industry best practices and individual platform specifications.
 
 >[!BEGINTABS]
 

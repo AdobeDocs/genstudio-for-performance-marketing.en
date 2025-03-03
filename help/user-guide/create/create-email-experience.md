@@ -48,9 +48,9 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
-   > **NOTE**
-   > If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
-   > ![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
+   >[!NOTE]
+   >If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
+   >![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 When you are finished adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
@@ -96,11 +96,10 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 **To perform [!DNL Brand], platform, and compliance checks on a variant**:
 
-1. Click the _Brand and compliance check_ panel in the right action bar to open the [_Brand and compliance checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). You can see details of the sections and guidelines that need improvement.
+1. Click the _Brand and compliance check_ panel in the right action bar to open the [_Brand and compliance checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). View a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
 
    ![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="4 00" zoomable="yes"}
 
-1. See a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
 1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with your brand and pass platform guidelines and compliance checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).

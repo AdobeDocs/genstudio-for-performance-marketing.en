@@ -8,7 +8,7 @@ exl-id: 577c627b-0895-4958-a883-3133b4a3efde
 
 GenStudio for Performance Marketing guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio for Performance Marketing, allowing users to establish brand guidelines that capture the essence of a brand's identity.
 
-The following guidelines help ensure any AI-generated content is tailored to align with brand identify and compliance specifications, enabling effective personalization of content:
+The following guidelines help ensure that any AI-generated content is tailored to align with brand identity and compliance specifications, enabling effective personalization of content:
 
 * [Default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) for [!DNL Brands] based on industry best practices and individual platform specifications 
 * User-defined guidelines
@@ -30,7 +30,7 @@ GenStudio for Performance Marketing guidelines:
 * Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#brand-validation)
-* Implements ADA and individual platform text guidelines compliance for generated variants
+* Implements ADA and platform compliance for generated variants
 
 By incorporating brand, product, and persona data into GenStudio for Performance Marketing, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
 

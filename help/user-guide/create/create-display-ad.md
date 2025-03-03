@@ -89,11 +89,10 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 **To perform [!DNL Brand], platform, and compliance checks on a variant**:
 
-1. Click the _Brand and compliance check_ panel in the right action bar to open the [_Brand and compliance checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). You can see details of the sections and guidelines that need improvement.
+1. Click the _Brand and compliance check_ panel in the right action bar to open the [_Brand and compliance checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). View a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
 
    ![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
 
-1. See a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
 1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with your brand and pass platform guidelines and compliance checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
