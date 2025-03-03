@@ -13,7 +13,7 @@ With Adobe GenStudio for Performance Marketing, you can leverage generative AI t
 
 When generating LinkedIn experiences, four variations are created and shown in the Canvas.
 
-Editable sections of an email experience include:
+Editable sections of a LinkedIn experience include:
 
 * Headline
 * Introductory text
@@ -33,7 +33,7 @@ When you click **[!UICONTROL Generate]**, a loading indicator appears at the bot
 Each field and section of the LinkedIn experiences are progressively loaded in this sequence:
 
 1. Primary text for all variations
-1. Calls-to-action and associated URLs
+1. Call-to-action and associated URLs
 1. Headlines
 1. On-image text
 1. Brand validation
@@ -42,6 +42,6 @@ Each field and section of the LinkedIn experiences are progressively loaded in t
 
 ## Character counts
 
-After you generate a set of Meta variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
+After you generate a set of LinkedIn variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
 
 ![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
