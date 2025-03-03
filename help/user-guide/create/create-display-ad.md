@@ -93,7 +93,7 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 
    ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
 
-1. Click **[!UICONTROL Review]** to get the details of the sections and guidelines that need improvement.
+1. Click **[!UICONTROL Review]** for a list of the details of the sections and guidelines that need improvement.
 
    You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
