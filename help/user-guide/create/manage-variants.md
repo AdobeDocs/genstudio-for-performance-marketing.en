@@ -149,7 +149,7 @@ You can add or swap images in generated variants right from the Canvas.
 
 ## Add image link
 
-Similar to adding or swapping images in generated variants, you can also add a link to images. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
+Similar to adding or swapping images in generated variants, you can add a link to images. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
 
 **To add an image link in a variant**:
 
