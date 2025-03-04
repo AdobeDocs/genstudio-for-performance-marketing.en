@@ -1,29 +1,30 @@
 ---
-title: Overview of Activation
+title: Overview of Activate
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
-feature: Assets, Approval, Experiences
+feature: Assets, Activation, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
-# Adobe GenStudio for Performance Marketing Activation
+# Adobe GenStudio for Performance Marketing Activate
 
-_Activation_ is the process of making Adobe GenStudio for Performance Marketing-generated assets and experiences available for delivery through your select channels and Adobe Experience Cloud products. You can easily export approved content from GenStudio for Performance Marketing in the optimal formats for the third-party applications you included in [!DNL Products].
+GenStudio for Performance Marketing [!DNL Activate] provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of making an ad experience available for delivery to designated channels and Adobe Experience Cloud products. Once delivered from GenStudio for Performance Marketing to the specified ad channel management service, such as Meta Ads Manager, experiences can then be distributed in their intended markets.
 
-The GenStudio for Performance Marketing activate feature is natively integrated into Adobe's experience delivery products: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo, and Target.
+Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing. 
 
-**To activate an approved asset**:
+Activate displays a product tile for each channel. This tile identifies the paid media channel, lists the number of successful ad activations that has occurred in the past 30 days, and provides an entry point for managing activations and creating a new activation.
 
-1. Select the asset from [!DNL Content].
+An existing connection to paid media channel accounts must be set up before you can activate an experience. 
 
-1. Click the **[!UICONTROL Download]** (down arrow) icon above the _Details_ view.
+## Activate use cases
 
-   The asset is downloaded as a ZIP file to your local _Downloads_ folder.
+* Create an activation
 
-**To activate an approved experience**:
+* Manage activations
 
-1. Select the experience from [!DNL Content] > [!DNL Experiences].
+## Capabilities
 
-1. Click the **[!UICONTROL Export for activation]** button on the experience's Details view. GenStudio for Performance Marketing displays the **[!UICONTROL Export for activation]** popup and provides two download formats: CSV and HTML. (Alternatively, you can access the *[!UICONTROL Export for activation]** button from the _More options_ menu (represented by `...`)).
+* Select ad assets
 
-1. Select your preferred download format by clicking the **[!UICONTROL Export CSV]** or **[!UICONTROL Export HTML]** button on the popup.
+* Identify ad text
 
-   The export process creates a ZIP package in your local _Downloads_ folder. This folder name is the same as the experience name.
+* Review and activate your experience to an ad channel
+
