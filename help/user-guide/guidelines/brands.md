@@ -80,6 +80,19 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
+### Logos
+
+[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during brand creation or from the individual [!DNL Brand] view.
+
+Each uploaded logo includes the following details:
+- File type
+- File size
+- Resolution
+
+### Colors
+
+Manage colors within individual [!DNL brands] to ensure consistent and accessible text styling. [!DNL Brand] colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
+
 ## Brand validation
 
 In GenStudio for Performance Marketing, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
