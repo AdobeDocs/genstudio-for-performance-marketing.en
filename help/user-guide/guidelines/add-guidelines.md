@@ -18,7 +18,7 @@ Adding guidelines to GenStudio for Performance Marketing is an important step in
 
 ## Add [!DNL Brands]
 
-To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
+To add a [!DNL Brand], [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
@@ -35,7 +35,7 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 **To upload brand documents**:
 
 1. Select the **[!UICONTROL Add brand]** button.
-1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guide.
+1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guideline documents.
 
    You can attach up to three PDF or DOC files.
 
@@ -69,9 +69,9 @@ You can manually add brand details, instead of uploading existing brand document
 
 1, Optionally, click **[!UICONTROL Add category]** in any of the guidelines views to add a custom guidelines category, such as Photos or Illustrations (for Image guidelines).
 
-To see your created [!DNL Brands], click the back arrow near the top of the _Brand_ panel to navigate back to the _[!DNL Brands]_ home.
+To see your created [!DNL Brands], click the back arrow near the top of the _[!UICONTROL Brands]_ panel to navigate back to the _[!UICONTROL Brands]_ home.
 
-You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
+You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
 ### Publish brand
 
@@ -84,16 +84,16 @@ In the _[!DNL Brands]_ view, your draft and published [!DNL Brands] view as tile
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 1. Click to open an existing [!Brand] draft.
 1. Click the **[!UICONTROL Publish]** button (available for drafts only).
-1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
+1. In the _Publish brand_ popup, verify who has access to view and use the published [!DNL Brand].
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
 
-   The popup confirms the brand is published—"{Brand} is now ready".
+   The popup confirms the [!DNL brand] is published—"{Brand} is now ready".
 
 1. Click **[!UICONTROL Done]** to exit the popup.
 
-The brand shows a green dot and "Published" adjacent to the brand name, and a **[!UICONTROL Edit brand]** button appears in place of the **[!UICONTROL Publish]** button.
+The [!DNL brand] shows a green dot and "Published" adjacent to the name, and a **[!UICONTROL Edit [!DNL brand]]** button appears in place of the **[!UICONTROL Publish]** button.
 
-**To unpublish a published brand**, click to open it and click **[!UICONTROL Unpublish]** from the actions menu in the top right.
+**To unpublish a published [!DNL brand]**, click to open it and click **[!UICONTROL Unpublish]** from the actions menu in the top right.
 
 The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) and [_[!DNL Content]_](/help/user-guide/content/overview.md).
 

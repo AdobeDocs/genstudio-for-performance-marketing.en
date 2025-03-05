@@ -14,13 +14,13 @@ GenStudio for Performance Marketing uses the wealth of brand information from yo
 
 After adding brand guidelines to GenStudio for Performance Marketing, you can [manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) and [publish](/help/user-guide/guidelines/add-guidelines.md#publish-brand) them. Publishing makes them available for your team to use in asset generation.
 
-[!DNL Brands] can be in either a _Unpublished_ or _Published_ state. New [!DNL brands] start as _Unpublished_.
+[!DNL Brands] can be in either a _Unpublished_ or _Published_ state. New [!DNL Brands] start as _Unpublished_.
 
-You must [publish a brand](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
+You must [publish a [!DNL Brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
 
-Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Manage brands](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
+Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL Brands] can be used to create and validate content. See [Manage [!DNL Brands]](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
-Deleted [!DNL brands] are archived for 30 days and can be recovered within that period.
+Deleted [!DNL Brands] are archived for 30 days and can be recovered within that period.
 
 ## [!DNL Brands] guidelines
 
@@ -95,7 +95,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### Logos
 
-[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during brand creation or from the individual [!DNL Brand] view.
+[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_.
 
 Each uploaded logo includes the following details:
 - File type
@@ -104,7 +104,7 @@ Each uploaded logo includes the following details:
 
 ### Colors
 
-Manage colors within individual [!DNL Brands] to ensure consistent and accessible text styling. [!DNL Brand] colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
+Manage colors within individual [!DNL Brands] to ensure consistent and accessible text styling. Colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
 
 ![Brand colors](/help/assets/colors.png){width="600" zoomable="yes"}
 
