@@ -30,7 +30,7 @@ The following guidelines sections detail each guidelines category, examples guid
 
 ### Brand voice guidelines
 
-The following table shows each category of brand voice guideline and guideline examples.
+The following table shows each category of brand voice guidelines and guideline examples.
 
 | Guideline category | Description | Best practices |
 | ------------------| :---------- | :---------- |
@@ -38,6 +38,21 @@ The following table shows each category of brand voice guideline and guideline e
 | Brand values        | Principles that drive brand culture, customer experience, and business strategies | Use descriptive words to convey brand's mission, vision, and audience needs. <br>_Examples_: "authenticity", "inspiring", "progressive"<br><br>Be concise (3-6 guidelines) and focus on core brand values/themes. |
 | Editorial guidelines   | Communication guidelines defining best practices for crafting brand messaging | Use positive phrasing (5-10 guidelines) to establish a strong foundation.<br>_Examples_: "Use simple, accessible language" instead of "Avoid using jargon"<br><br>Provide clear and actionable guidance. <br>_Examples_: "Keep sentences under 20 words" instead of "Be concise"<br><br>Reflect your brand's style, such as using specific syntax preferences. <br>_Examples_: "Use an em dash instead of a colon", "Use sentence case"<br><br>Craft precise guidelines that maintain consistency across outputs. |
 | Editorial restrictions  | Communication guidelines defining what to avoid in brand messaging | Use direct negative phrasing (5-10 guidelines) to specify what should be avoided. <br>_Example_: "Avoid using..."<br><br>Provide clear and actionable guidance. <br>_Example_: "Avoid rhetorical questions" |
+
+### Image guidelines
+
+The following table shows each category of image guidelines and associated values. You must [establish a category](add-guidelines.md#add-brands), such as 'General art guidelines' or 'Product photography,' in order to apply the image guidelines.
+
+| Guideline category | Description | Values |
+| ------------------| :---------- | :---------- |
+| Description       | General information for the specific category of image guideline added, such as "Product photography" or "General art guidelines" | Extracted from guidelines documents and manually configurable <br><br>_Example for General art guideline_: "Guidelines that apply to images that are not photographs, such as illustrations, and 3D renders" |
+| Content type       | Available content types for an image | _Art_ or _Photo_ |
+| Composition      | Details regarding the placement of objects, camera, and photography techniques | Extracted from guidelines documents and manually configurable |
+| Environment    | Details regarding the environment, such as background elements in the image | _Example_: "Prefer to use a sunny environment" |
+| Color    | Details regarding color family, color temperature, primary/secondary/tertiary colors, hue, saturation, contrast | Extracted from guidelines documents and manually configurable<br><br>_Examples_: "Ensure product is the main focus with minimal distractions", "Vibrant colors" |
+| Lighting    |    General or specific details regarding the lighting | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Place a ring light in front of the person" |
+| Mood    | Describes the feeling of an image | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Images must always depict positive, joyous themes"|
+| Restrictions    | Things to avoid regardless of other guidelines | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Avoid shooting photos in cloudy environment", "Avoid negative themes", "Colors cannot be washed out" |
 
 ### Channel guidelines
 

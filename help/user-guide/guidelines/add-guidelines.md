@@ -60,6 +60,9 @@ You can manually add brand details, instead of uploading existing brand document
       ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
    - [_Image guidelines_](brands.md#image-guidelines)
+
+      Image guideline categories are extracted from guidelines documents and manually configurable. Click **[!UICONTROL Add category]** to add guideline categories such as "General art guidelines" or "Product photography".
+
    - [_Channel guidelines_](brands.md#channel-guidelines)
    - [_Logos_](brands.md#logos)
    - [_Colors_](brands.md#colors)
