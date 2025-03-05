@@ -11,6 +11,3 @@ Errors may occur during the activation process. These errors are typically encou
 
 * preparing your experience for activation
 * publishing your experience to its designated paid channel ad manager
-
-
-

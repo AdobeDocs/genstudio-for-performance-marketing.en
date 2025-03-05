@@ -53,6 +53,9 @@ feature: Generative AI
   + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
   + [Activation overview](activation/overview.md)
+  + [Create an activation](create-activations.m)
+  + [Create a Meta ad activation](activate-meta-ad.md)
+  + [Troubleshooting](troubleshooting.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Connect channel account](insights/connect-channel.md)
@@ -64,3 +67,6 @@ feature: Generative AI
   + [Data management](insights/data-management.md)
 + [GenStudio Academy - Hidden](genstudioacademy.md)
 + [Test markdown - Hidden](test-markdown.md)
+
+
+[def]: activate-meta-ad.md
