@@ -225,10 +225,11 @@ The following is a basic example of an HTML template for an email that contains 
 <body>{{ pre_header }}
     <div class="container">
         <h1>{{ headline }}</h1>
-        <p><img alt="{{ headline }}"
+        <p><a href="{{ link }}">
+           <img alt="{{ headline }}"
                 src="{{ image }}"
                 width="600" height="600"
-                border="0"/></p>
+                border="0"/></a></p>
         <p>{{ body }}</p>
     </div>
 </body>
@@ -241,7 +242,7 @@ The following is a basic example of an HTML template for an email that contains 
 
 The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
 
-```html {line-numbers="true" highlight="33"}
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -269,20 +270,18 @@ The following is the same HTML template in the example above, but with two more 
 <body>{{ pre_header }}
     <div class="container">
         <h1>{{ headline }}</h1>
-        <p><img alt="{{ headline }}"
-                src="{{ image }}"
-                width="600" height="600"
-                border="0"/></p>
         <p>{{ body }}</p>
-    <!-- Pod1 -->
+        <!-- Pod1 -->
         <div class="pod">
             <h2>{{ pod1_header }}</h2>
+            <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod1_body }}</p>
         </div>
         <!-- End of Pod1 -->
-    <!-- Pod2 -->
+        <!-- Pod2 -->
         <div class="pod">
             <h2>{{ pod2_header }}</h2>
+            <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod2_body }}</p>
         </div>
         <!-- End of Pod2 -->
