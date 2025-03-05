@@ -16,7 +16,7 @@ Adding guidelines to GenStudio for Performance Marketing is an important step in
 
 {{in-academy}}
 
-## Add [!DNL Brands]
+## Add Brands
 
 To add a [!DNL Brand], [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
@@ -79,10 +79,10 @@ Before publishing a [!DNL Brand] draft, click through all the guidelines section
 
 In the _[!DNL Brands]_ view, your draft and published [!DNL Brands] view as tiles. A _Published_ badge and the last time the brand was published is visible.
 
-**To publish a [!DNL Brand] draft**:
+**To publish a Brand draft**:
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-1. Click to open an existing [!Brand] draft.
+1. Click to open an existing [!DNL Brand] draft.
 1. Click the **[!UICONTROL Publish]** button (available for drafts only).
 1. In the _Publish brand_ popup, verify who has access to view and use the published [!DNL Brand].
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
@@ -97,7 +97,7 @@ The [!DNL brand] shows a green dot and "Published" adjacent to the name, and a *
 
 The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) and [_[!DNL Content]_](/help/user-guide/content/overview.md).
 
-### Manage [!DNL Brands]
+### Manage Brands
 
 In the _[!DNL Brands]_ home, you can click to open an already-created brand to manage or publish it.
 
@@ -184,9 +184,9 @@ Click into _Messaging preferences_ and enter messaging details for the [!DNL pro
 
 In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to edit or review it, or **delete a product** from the list:
 
-* Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
-* Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
-* Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
+- Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
+- Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
+- Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
 
 ## Add [!DNL Personas]
 
@@ -257,6 +257,6 @@ You can manually add persona details, instead of uploading existing persona docu
 
 In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to edit or review it, or **delete a persona** from the list:
 
-* Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
-* Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.
-* Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
+- Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
+- Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.
+- Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
