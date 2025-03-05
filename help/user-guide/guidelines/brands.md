@@ -26,8 +26,6 @@ Deleted [!DNL brands] are archived for 30 days and can be recovered within that 
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
-![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
-
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
 
 ### Brand voice guidelines
@@ -91,7 +89,9 @@ Each uploaded logo includes the following details:
 
 ### Colors
 
-Manage colors within individual [!DNL brands] to ensure consistent and accessible text styling. [!DNL Brand] colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
+Manage colors within individual [!DNL Brands] to ensure consistent and accessible text styling. [!DNL Brand] colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
+
+![Brand colors](/help/assets/colors.png){width="600" zoomable="yes"}
 
 ## Brand validation
 

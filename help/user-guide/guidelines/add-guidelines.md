@@ -34,7 +34,7 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 **To upload brand documents**:
 
-1. Select the **[!UICONTROL Add brand]** button and choose **Use brand guidelines**.
+1. Select the **[!UICONTROL Add brand]** button.
 1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guide.
 
    You can attach up to three PDF or DOC files.
@@ -51,50 +51,48 @@ You can manually add brand details, instead of uploading existing brand document
 
 **To manually add a brand**:
 
-1. Select the **[!UICONTROL Add brand]** button and choose **[!UICONTROL Manually add brand]**.
+1. Select the **[!UICONTROL Add brand]** button.
+1. Give your brand a new and click **[!UICONTROL Add brand]**.
+1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections:
+   - _When to use this brand_
+   - [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines)
 
-   You can populate various optional guidelines and imagery to build out your brand.
+      ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
-1. Add information about your brand in the _About_ section.
-1. Enter [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines).
+   - [_Image guidelines_](brands.md#image-guidelines)
+   - [_Channel guidelines_](brands.md#channel-guidelines)
+   - [_Logos_](brands.md#logos)
+   - [_Colors_](brands.md#colors)
 
-   ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="650" zoomable="yes"}
-
-1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
-1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
-
-   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category, such as Photos or Illustrations.
-
-1. Click into the _New brand_ title and enter a descriptive brand name.
+1, Optionally, click **[!UICONTROL Add category]** in any of the guidelines views to add a custom guidelines category, such as Photos or Illustrations (for Image guidelines).
 
 To see your created [!DNL Brands], click the back arrow near the top of the _Brand_ panel to navigate back to the _[!DNL Brands]_ home.
 
-You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio for Performance Marketing, you must publish it.
+You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
 ### Publish brand
 
-Before publishing your brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
+Before publishing a [!DNL Brand] draft, click through all the guidelines sections to review all the populated information. Make changes to the brand guidelines as needed.
 
-**To publish a brand guidelines draft**:
+In the _[!DNL Brands]_ view, your draft and published [!DNL Brands] view as tiles. A _Published_ badge and the last time the brand was published is visible.
+
+**To publish a [!DNL Brand] draft**:
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-
-   A _Published_ badge and the last date the brand was published is visible for all brands that are currently published.
-
-1. Click to open an unpublished brand. If the brand is not published, a **[!UICONTROL Publish]** button is visible.
+1. Click to open an existing [!Brand] draft.
+1. Click the **[!UICONTROL Publish]** button (available for drafts only).
 1. In the _Publish brand_ popup, verify who has access to view and use the published brand.
-1. Select **[!UICONTROL Publish]**.
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
 
-   The popup confirms the brand is published—"New brand is now ready".
+   The popup confirms the brand is published—"{Brand} is now ready".
 
 1. Click **[!UICONTROL Done]** to exit the popup.
 
-The brand shows a green dot and "Published", and a **[!UICONTROL Publish]** button appears.
+The brand shows a green dot and "Published" adjacent to the brand name, and a **[!UICONTROL Edit brand]** button appears in place of the **[!UICONTROL Publish]** button.
 
-**To unpublish a published brand**, click to open it and click **[!UICONTROL Unpublish]**.
+**To unpublish a published brand**, click to open it and click **[!UICONTROL Unpublish]** from the actions menu in the top right.
 
-The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) or [_[!DNL Content]_](/help/user-guide/content/overview.md).
+The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) and [_[!DNL Content]_](/help/user-guide/content/overview.md).
 
 ### Manage [!DNL Brands]
 
@@ -105,8 +103,8 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 **To modify a brand** in the [!DNL Brands] view:
 
 1. In **[!DNL Brands]**, click to open a defined brand.
-1. To view individual details or modify brand guidelines, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
-1. To rename an existing brand, select **[!UICONTROL Rename]** from the _[!DNL Brands]_ action menu.
+1. To view individual details or modify guidelines, click [**[!UICONTROL Brand voice guidelines]**](brands.md#brand-voice-guidelines), [**[!UICONTROL Image guidelines]**](brands.md#image-guidelines), [**[!UICONTROL Channel guidelines]**](brands.md#channel-guidelines), [**[!UICONTROL Logos]**](brands.md#logos), or [**[!DNL Colors]**](brands.md#colors) at the top.
+1. To rename an existing brand, click into the title and enter a new title.
 1. To duplicate an existing brand, select **[!UICONTROL Duplicate]** from the _[!DNL Brands]_ action menu.
    1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
 
@@ -114,8 +112,6 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
-
-You can also manage brands in the [!DNL Brands] view from the _[!DNL Brands]_ action menu (three dots).
 
 ## Add [!DNL Products]
 
