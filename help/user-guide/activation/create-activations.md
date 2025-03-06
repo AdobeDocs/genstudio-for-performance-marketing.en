@@ -33,7 +33,7 @@ Once an experience is live on its target ad channel, _[!DNL Insights]_ can track
 
 Each paid media channel has its own activation workflow. Select the paid channel for activation guidelines:
 
-[Meta ads (Facebook and Instagram)](activate-meta-ad.md)
+[Meta](activate-meta-ad.md)
 
 ## More help on this topic
 

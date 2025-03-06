@@ -26,7 +26,7 @@ _[!DNL Activate]_ facilitates fine-tuning an ad experience for a specific ad pla
 
 ### Select approved assets for an ad experience
 
-Search for and select approved visual assets from Content, or upload assets from Dropbox or OneDrive. Assets can be uploaded in the aspect ratios your preferred ad placement requires.
+Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. Assets can be uploaded in the aspect ratios your preferred ad placement requires.
 
 ### Prepare an ad experience for activation to a specific paid channel
 
