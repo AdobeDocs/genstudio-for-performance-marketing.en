@@ -1,7 +1,7 @@
 ---
 title: Manage activations
 description: Learn how to manage activated experiences with Adobe Genstudio for Performance Marketing.
-feature: Activation, Experiences
+feature: Experiences
 ---
 # Manage activations
 

@@ -1,7 +1,7 @@
 ---
 title: Create activations
 description: Learn how to activate ad experiences with Adobe Genstudio for Performance Marketing.
-feature: Activation, Experiences
+feature: Experiences
 ---
 # Create an activation
 

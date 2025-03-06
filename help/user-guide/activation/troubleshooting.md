@@ -1,7 +1,6 @@
 ---
 title: Torubleshooting activations
 description: Learn how to troubleshoot activations in Adobe Experience Cloud and third-party applications.
-feature: Troubleshooting, Activation
 ---
 # Troubleshooting
 

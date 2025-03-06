@@ -1,7 +1,7 @@
 ---
 title: Activate Meta ad
 description: Learn how to activate a Meta ad experience.
-feature: Activation, Experiences
+feature: Experiences
 ---
 # Activate a Meta ad
 
