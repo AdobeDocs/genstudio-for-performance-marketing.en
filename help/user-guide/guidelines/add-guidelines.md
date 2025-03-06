@@ -77,7 +77,11 @@ You do not have to [publish](#publish-brand) your [!DNL Brand] to make the infor
 
 Before publishing a [!DNL Brand] draft, click through all the guidelines sections to review all the populated information. Make changes to the brand guidelines as needed.
 
-In the _[!DNL Brands]_ view, your draft and published [!DNL Brands] view as tiles. A _Published_ badge and the last time the brand was published is visible.
+In _[!DNL Brands]_, any draft or published [!DNL Brands] appear as tiles. A status badge–_Published_ or _Draft_—and the last time the brand was modified is displayed at the bottom of each tile.
+
+>[!TIP]
+>
+>If you want to see only brands you created, select **[!UICONTROL Created by you]** from the [!DNL Brands] filter (funnel icon).
 
 **To publish a Brand draft**:
 
@@ -93,7 +97,7 @@ In the _[!DNL Brands]_ view, your draft and published [!DNL Brands] view as tile
 
 The [!DNL brand] shows a green dot and "Published" adjacent to the name, and a **[!UICONTROL Edit [!DNL brand]]** button appears in place of the **[!UICONTROL Publish]** button.
 
-**To unpublish a published [!DNL brand]**, click to open it and click **[!UICONTROL Unpublish]** from the actions menu in the top right.
+**To unpublish a published [!DNL brand]**, click the brand to open it and click **[!UICONTROL Unpublish]** from the actions menu (three dots icon).
 
 The published brand is now available for use in [_[!DNL Create]_](/help/user-guide/create/overview.md) and [_[!DNL Content]_](/help/user-guide/content/overview.md).
 
