@@ -52,8 +52,11 @@ You can manually add brand details, instead of uploading existing brand document
 **To manually add a brand**:
 
 1. Select the **[!UICONTROL Add brand]** button.
-1. Give your brand a new and click **[!UICONTROL Add brand]**.
+1. Give your brand a name and click **[!UICONTROL Add brand]**.
 1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections (tab views across the top). Use the _View examples_ tooltip to inform your additions.
+
+   ![Brands](/help/assets/brands.png){width="600" zoomable="yes"}
+
    - _When to use this brand_: Click **[!UICONTROL Add]** (or click into the text field to change existing text) and enter overview and usage information about the brand.
    - [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines): Add applicable information in each guidelines field.
 
@@ -63,6 +66,8 @@ You can manually add brand details, instead of uploading existing brand document
    - [_Channel guidelines_](brands.md#channel-guidelines): Click into each available channel and add appropriate guidelines.
    - [_Logos_](brands.md#logos): Click **[!UICONTROL Add logo]** to drag-and-drop or browse to upload a logo.
    - [_Colors_](brands.md#colors): Click **[!UICONTROL Add color]** to use a hex or RGB color code, or the color picker, to add individual colors.
+
+      ![Brand colors](/help/assets/colors.png){width="600" zoomable="yes"}
 
 To see your created [!DNL Brands], click the back arrow near the top of the _[!UICONTROL Brands]_ panel to navigate back to the _[!UICONTROL Brands]_ home.
 
