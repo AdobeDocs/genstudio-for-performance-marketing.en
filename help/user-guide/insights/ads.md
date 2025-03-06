@@ -18,7 +18,7 @@ The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the
 
 ## Ad details
 
-Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
+Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
 
 ![Ad details with metrics and ad placements](/help/assets/insights-experience-details.png){zoomable="yes"}
 
