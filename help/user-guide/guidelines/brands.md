@@ -97,17 +97,21 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 [!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_.
 
-Each uploaded logo includes the following details:
+Each uploaded logo includes the following details within the logo tile:
 
 - File type
 - File size
 - Resolution
+
+From the actions menu (three dots) for a color, you can **[!UICONTROL Download]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
 
 ### Colors
 
 Manage colors within individual [!DNL Brands] to ensure consistent and accessible text styling. Colors can be chosen or defined by hex or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex/RGB code to a human-readable name.
 
 ![Brand colors](/help/assets/colors.png){width="600" zoomable="yes"}
+
+From the actions menu (three dots) for a color, you can **[!UICONTROL Edit]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
 
 ## Brand validation
 

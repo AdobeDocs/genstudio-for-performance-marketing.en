@@ -53,21 +53,16 @@ You can manually add brand details, instead of uploading existing brand document
 
 1. Select the **[!UICONTROL Add brand]** button.
 1. Give your brand a new and click **[!UICONTROL Add brand]**.
-1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections:
-   - _When to use this brand_
-   - [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines)
+1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections (tab views across the top). Use the _View examples_ tooltip to inform your additions.
+   - _When to use this brand_: Click **[!UICONTROL Add]** (or click into the text field to change existing text) and enter overview and usage information about the brand.
+   - [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines): Add applicable information in each guidelines field.
 
       ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
-   - [_Image guidelines_](brands.md#image-guidelines)
-
-      Image guideline categories are extracted from guidelines documents and manually configurable. Click **[!UICONTROL Add category]** to add guideline categories such as "General art guidelines" or "Product photography".
-
-   - [_Channel guidelines_](brands.md#channel-guidelines)
-   - [_Logos_](brands.md#logos)
-   - [_Colors_](brands.md#colors)
-
-1, Optionally, click **[!UICONTROL Add category]** in any of the guidelines views to add a custom guidelines category, such as Photos or Illustrations (for Image guidelines).
+   - [_Image guidelines_](brands.md#image-guidelines): Click **[!UICONTROL Add category]** to add guideline categories such as "General art guidelines" or "Product photography". Populate guidelines into each added category.
+   - [_Channel guidelines_](brands.md#channel-guidelines): Click into each available channel and add appropriate guidelines.
+   - [_Logos_](brands.md#logos): Click **[!UICONTROL Add logo]** to drag-and-drop or browse to upload a logo.
+   - [_Colors_](brands.md#colors): Click **[!UICONTROL Add color]** to use a hex or RGB color code, or the color picker, to add individual colors.
 
 To see your created [!DNL Brands], click the back arrow near the top of the _[!UICONTROL Brands]_ panel to navigate back to the _[!UICONTROL Brands]_ home.
 
