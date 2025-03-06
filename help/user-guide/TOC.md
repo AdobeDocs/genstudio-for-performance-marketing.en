@@ -57,8 +57,8 @@ feature: Generative AI
   + [Insights overview](insights/overview.md)
   + [Connect channel account](insights/connect-channel.md)
   + [Channels](insights/channels.md)
-  + [Experiences](insights/experiences.md)
-  + [Assets](insights/assets.md)
+  + [Ads and ad placement](insights/ads.md)
+  + [Media](insights/media.md)
   + [Attributes](insights/attributes.md)
   + Attribute categories {#categories}
     + [Image features](insights/image-features.md)
