@@ -5,12 +5,12 @@ feature: Activation, Experiences
 ---
 # Manage activations
 
-Adobe GenStudio for Performance Marketing _[!DNL Activate]_  offers a centralized view of each ad channel's activation status, including successful, unsuccessful, and pending activations. The _Activated Experiences_ view displays all activations for the connected channel ad account.
+Adobe GenStudio for Performance Marketing _[!DNL Activate]_  offers a centralized view of each ad channel's activation status, including successful, unsuccessful, and pending activations. The _Activated Experiences_ view displays all activations for one connected channel ad account.
 
 From the _Activated experiences_ view, you can:
 
-* View all activated experiences by channel
-* View details for individual experiences
+* View activated experiences by channel
+* View details of individual activations
 
 ## View activated experiences
 
@@ -30,7 +30,7 @@ The following table lists the attributes that define each experience.
 | Ad name          | Name of the ad                                                                                        |
 | Publish date     | Date that the ad experience was successfully published. Uses month-day-year format         |
 | Published by     | Name of the GenStudio for Performance Marketing user who activated the experience          |
-| Regions          | Geographic region in which the experience will be launched     |
+| Regions          | Geographic region in which the experience is launched     |
 | Status           | Successful, unsuccessful, pending     |
 
 ## View activation details
@@ -39,9 +39,17 @@ The _Activated experiences_ view lists all successful, unsuccessful, and pending
 
 **To view experience details**:
 
-From the _Activated experiences_ view, click the name of an activation. If needed, use Search (magnifying glass) or scroll the experience list to find an activation by experience name.
+From the _Activated experiences_ view, click on an activation. If needed, use **[!UICONTROL Search]** (magnifying glass) or scroll the experience list to find an activation by experience name. Clicking on an experience displays a view of the activated experience.
 
+### Activated experience view
 
-### Activations details
+The read-only _Activation details_ view captures the defining details of an activated experience after it has been published to its paid channel. This view includes information derived from both GenStudio for Performance Marketing and the ad channel.
 
-Each activated experience is characterized by these attributes:
+* **Publication time and date**: Time and time that the ad was published from the ad channel manager
+* **Ad ID**: ID assigned by the paid channel and used for tracking
+* **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
+* **Channel setup**: The paid channel accounts used to activate the ad experience
+
+## More help on this topic
+
+[Create an activation](create-activations.md)

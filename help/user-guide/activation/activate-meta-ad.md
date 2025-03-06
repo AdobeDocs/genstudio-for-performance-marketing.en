@@ -1,20 +1,18 @@
 ---
 title: Activate Meta ad
 description: Learn how to activate a Meta ad experience.
-feature: Activate, Experiences
+feature: Activation, Experiences
 ---
 # Activate a Meta ad
 
 Adobe GenStudio for Performance Marketing supports the activation of Meta ads to Instagram and Facebook. The Activate a Meta ad workflow follows the same general steps described in [Create an activation](create-activations.md), but supports fine-tuning your approved experiences for Meta channel placements.
-
-See [Create activation](create-activations.md) for general guidelines on creating activations.
 
 **To activate a Meta ad**:
 
 Here are the general steps for activating a Meta ad experience:
 
 * Set up your Meta Ads Manager accounts.
-* Prepare your ad experience in the _Creative setup_ panel.
+* Prepare your ad experience in the _Creative setup_ view.
 * Confirm your Meta account setup.
 * Preview and activate your ad from [Meta Ads Manager](https://www.facebook.com/business/tools/ads-manager/help).
 
@@ -31,25 +29,25 @@ You must have permission to post content to Meta Ads Manager.
 
 ## Step 2: Connect GenStudio for Performance Marketing with your Meta accounts
 
-Data connectors enable the flow of data between marketing tools and GenStudio for Performance Marketing. You must connect your Meta accounts to GenStudio for Performance Marketing before your organization can activate experiences.
+Data connectors enable the flow of data between marketing tools and GenStudio for Performance Marketing. Connect your Meta accounts to GenStudio for Performance Marketing before your organization can activate experiences.
 
 Before you begin, confirm that GenStudio for Performance Marketing has permission to sync data and activate in Meta Ads Manager.
 
 **To connect GenStudio for Performance Marketing with your Meta accounts**:
 
-1. From _Settings_, click **[!UICONTROL Connect]** on the Meta tile. The _Meta ads account_ panel opens.
+1. From _Settings_, click **[!UICONTROL Connect]** on the Meta tile. The _Meta ads account_ view opens.
 
 1. Select **[!UICONTROL Allow pop-ups]** from your browser, if prompted.
 
 1. Select one or more of your ad accounts to connect, then click **[!UICONTROL Select]**.
 
-After syncing has completed, you can view the added accounts. The more data being synced, the longer the syncing process.
+After syncing has completed, you can view the added accounts. Large amounts of data take longer to sync.
 
 ## Step 3: Prepare your experience for activation
 
 You must be a GenStudio system manager or editor to activate an ad experience.
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta product tile. The _Creative setup_ panel opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta product tile. The _Creative setup_ view opens.
 
 1. Assign a name to your experience. You can use this name to search for this experience in the _Activated experiences_ table.
 
@@ -59,21 +57,21 @@ Use the _Media_ section to select at least one image asset to include in your ex
 
 **To upload an asset from Content**:
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. The _Creative setup_ popup opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. The _Creative setup_ view opens.
 
 1. Click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**.
 
-1. Select the experience for upload. An _Activate Meta ad_ panel opens. At least one asset must be uploaded.
+1. Select the experience for upload. An _Activate Meta ad_ page opens. At least one asset must be uploaded. If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
 
 **To upload an asset**:
 
-You can import up to six static images from either OneDrive or Dropbox. You must select an aspect ratio for each image you upload.
+You can import up to six static images from either OneDrive or Dropbox. Select an aspect ratio for each image you upload.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. A popup opens, displaying a choice of selecting an experience from [!DNL Content] or uploading one from a device.
 
-1. Click **[!UICONTROL Upload from device]**. Finder on your desktop opens.
+1. Click **[!UICONTROL Upload from device]**. The finder feature on your desktop opens.
 
-1. Select the experience for upload. An _Activate Meta ad_ panel for this experience opens. At least one asset must be uploaded.
+1. Select the experience for upload. An _Activate Meta ad_ page for this experience opens. At least one asset must be uploaded.
 
 **Select aspect ratios for your images**:
 
@@ -107,15 +105,15 @@ Experience details are saved as metadata and aid users when searching for an exp
 | Products   | Products associated with your organization and identified in GenStudio for Performance Marketing|
 | Personas   | Personas associated with your organization and identified in GenStudio for Performance Marketing|
 | Timeframe   | The quarter, season, year, or other organizationally defined unit of time during which the ad experience is active |
-| Region   | Geographic region in which the experience will be launched |
+| Region   | Geographic region in which the experience is launched |
 | Language   | Languages for which the ad experience is used |
-| Keywords   | User-defined keywords that faciliate the search and categorization of the ad experience |
+| Keywords   | User-defined keywords that facilitate the search and categorization of the ad experience |
 
 After assembling your creative, click **[!UICONTROL Next]** to confirm your Meta setup.
 
 ## Step 4: Confirm Meta account setup
 
-After preparing your creative, you must confirm your Meta account information and assign a tracking ID to the ad experience. The _Meta ad setup_ panel is populated with options that are derived from the configured Meta accounts.
+After preparing your creative, you must confirm your Meta account information and assign a tracking ID to the ad experience. The _Meta ad setup_ view is populated with options that are derived from the configured Meta accounts.
 
 | Detail     | Description |
 |------------|-------------|
@@ -140,3 +138,7 @@ Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associat
 ## Log in to Meta Ads Manager to complete activation
 
 After your activation has completed, you must log into Meta Ads Manager to review your ad experience and complete activation.
+
+## More help on this topic
+
+[Create an activation](create-activations.md)

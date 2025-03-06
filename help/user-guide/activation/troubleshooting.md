@@ -1,7 +1,7 @@
 ---
 title: Torubleshooting activations
 description: Learn how to troubleshoot activations in Adobe Experience Cloud and third-party applications.
-feature: Troubleshooting, Activation, Experiences
+feature: Troubleshooting, Activation
 ---
 # Troubleshooting
 
@@ -9,5 +9,11 @@ Activating an ad experience involves assembling your experience in Adobe GenStud
 
 Errors may occur during the activation process. These errors are typically encountered during these two activation phases:
 
-* preparing your experience for activation
-* publishing your experience to its designated paid channel ad manager
+* Preparing your experience for activation
+* Publishing your experience to its designated paid channel ad managers
+
+## More help on this topic
+
+[Create an activation](create-activations.md)
+
+[Manage activations](manage-activations.md)

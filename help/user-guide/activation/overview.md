@@ -10,20 +10,34 @@ GenStudio for Performance Marketing _[!DNL Activate]_ provides a central locatio
 
 Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
 
-[!DNL Activate] displays a product tile for each channel. This tile identifies the paid media channel, lists the number of successful ad activations that has occurred in the past 30 days, and provides an entry point for managing activations and creating a new activation.
+[!DNL Activate] displays a product tile for each channel. This tile identifies the paid media channel and lists the number of successful ad activations that has occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
 
 An existing connection to paid media channel accounts must be set up before you can activate an experience.
 
-## Activate use cases
+## [!DNL Activate] use cases
 
 * [Create an activation](create-activations.md)
 
 * [Manage activations](manage-activations.md)
 
-## Capabilities
+## [!DNL Activate] capabilities
 
-* Select ad assets
+_[!DNL Activate]_ facilitates fine-tuning an ad experience for a specific ad placement.
 
-* Identify ad text
+### Select approved assets for an ad experience
 
-* Review and activate your experience to an ad channel
+Search for and select approved visual assets from Content, or upload assets from Dropbox or OneDrive. Assets can be uploaded in the aspect ratios your preferred ad placement requires.
+
+### Prepare an ad experience for activation to a specific paid channel
+
+The _Creative setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+
+### Preview and activate your experience to an ad channel
+
+Confirm the paid channel accounts, ad sets, and marketing campaigns associated with this ad activation. When you are satisfied with your ad experience, click **[!UICONTROL Publish]** to push the experience and its associated metadata to the paid ad channel.
+
+## More help on this topic
+
+[Create an activation](create-activations.md)
+
+[Manage activations](manage-activations.md)
