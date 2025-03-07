@@ -151,7 +151,7 @@ Each template type, such as email or Meta ad, has channel-specific constraints o
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
-- `pre-header`
+- `pre_header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
@@ -275,14 +275,14 @@ The following is the same HTML template in the example above, but with two more 
         <p>{{ body }}</p>
         <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_header }}</h2>
+            <h2>{{ pod1_headline }}</h2>
             <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod1_body }}</p>
         </div>
         <!-- End of Pod1 -->
         <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_header }}</h2>
+            <h2>{{ pod2_headline }}</h2>
             <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod2_body }}</p>
         </div>
@@ -339,9 +339,9 @@ The following is a basic example of a Meta ad template. The head contains inline
 <body>
 <div class="ad-container">
     <img src="{{ image }}" alt="Ad Image" class="ad-image">
-    <div class="ad-headline">"{{ headline }}"</div>
-    <div class="ad-body">"{{ body }}"</div>
-    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+    <div class="ad-headline">{{ headline }}</div>
+    <div class="ad-body">{{ body }}</div>
+    <a href="{{ link }}" class="ad-cta">{{ CTA }}</a>
 </div>
 </body>
 </html>
