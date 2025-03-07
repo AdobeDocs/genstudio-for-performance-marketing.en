@@ -172,6 +172,8 @@ Example Preview for an email template:
 
 ![Preview fields detected](/help/assets/template-detected-fields.png)
 
+See Template code editor.
+
 ### Control preview
 
 You can control the visibility of special content by using Built-in Helpers (special expressions in the [!DNL Handlebars] template language that perform certain actions). For example, you can add a conditional statement that adds tracking parameters to links in the exported template while keeping the preview links clean.
