@@ -16,7 +16,7 @@ The template code editor is designed to help you verify and refine your template
 
 The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStudio for Performance Marketing recognizes in your template. Review the list, and you can scroll through the HTML code to look at the formation of your template. Use the Find and Replace form (Windows `CTRL`+`F` or macOS `CMD`+`F`) to search for specific strings in the code.
 
-![Code editor view](/help/assets/template-detected-fields.png "Check detected fields")
+![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){zoomable="yes"}
 
 ### Insert a missing field
 
@@ -28,10 +28,10 @@ TBD—Give an example
 
 If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field does not conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix.
 
-![Code editor view with error](/help/assets/template-editor-invalid.png "Invalid template")
+![Code editor view with error](/help/assets/template-editor-invalid.png "Invalid template"){zoomable="yes"}
 
 Find the `_image` field in the template code editor, and update the name as advised:
 
-![Code editor view with error](/help/assets/template-editor-valid.png "Corrected template")
+![Code editor view with error](/help/assets/template-editor-valid.png "Corrected template"){zoomable="yes"}
 
-The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you are satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue processing your template.
+The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you are satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).

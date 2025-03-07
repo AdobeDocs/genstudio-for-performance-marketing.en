@@ -108,7 +108,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
    >[!TIP]
    >

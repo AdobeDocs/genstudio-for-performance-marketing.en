@@ -170,9 +170,9 @@ When you [upload a template](use-templates.md#upload-a-template), GenStudio for 
 
 Example Preview for an email template:
 
-![Preview fields detected](/help/assets/template-detected-fields.png)
+![Preview fields detected](/help/assets/template-detected-fields.png "Check detected fields"){zoomable="yes"}
 
-See Template code editor.
+See [Template code editor](/help/user-guide/content/code-editor.md).
 
 ### Control preview
 
