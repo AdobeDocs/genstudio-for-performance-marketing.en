@@ -5,7 +5,9 @@ feature: Experiences
 ---
 # Activate a Meta ad
 
-Adobe GenStudio for Performance Marketing supports the activation of Meta ads to Instagram and Facebook. The Activate a Meta ad workflow follows the same general steps described in [Create an activation](create-activations.md), but supports fine-tuning your approved experiences for Meta channel placements.
+Adobe GenStudio for Performance Marketing supports the activation of Meta ads to Instagram and Facebook. The Activate a Meta ad workflow follows the same general steps described in [Create an activation](create-activations.md), but supports fine-tuning your approved experiences for Meta.
+
+After activating your Meta experience in GenStudio for Performance Marketing, use Meta Ads Manager to fine-tune the experience for specific Meta ad placements 
 
 **To activate a Meta ad**:
 
@@ -14,7 +16,7 @@ Here are the general steps for activating a Meta ad experience:
 * Set up your Meta Ads Manager accounts.
 * Prepare your ad experience in the _Creative setup_ view.
 * Confirm your Meta account setup.
-* Preview and activate your ad from [Meta Ads Manager](https://www.facebook.com/business/tools/ads-manager/help).
+* Preview and activate your ad from Meta Ads Manager.
 
 ## Step 1: Set up your Meta accounts
 
@@ -41,11 +43,11 @@ Before you begin, confirm that GenStudio for Performance Marketing has permissio
 
 1. Select one or more of your ad accounts to connect, then click **[!UICONTROL Select]**.
 
-After syncing has completed, you can view the added accounts. Large amounts of data take longer to sync.
+After the sync has completed, you can view the added accounts. Large amounts of data take longer to sync.
 
 ## Step 3: Prepare your experience for activation
 
-You must be a GenStudio system manager or editor to activate an ad experience.
+Only GenStudio system managers and editors can activate an ad experience.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta product tile. The _Creative setup_ view opens.
 
@@ -65,7 +67,7 @@ Use the _Media_ section to select at least one image asset to include in your ex
 
 **To upload an asset**:
 
-You can import up to six static images from either OneDrive or Dropbox. Select an aspect ratio for each image you upload.
+You can import up to six static images from either OneDrive or Dropbox. Select an aspect ratio for each image that you upload.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. A popup opens, displaying a choice of selecting an experience from [!DNL Content] or uploading one from a device.
 
@@ -75,22 +77,22 @@ You can import up to six static images from either OneDrive or Dropbox. Select a
 
 **Select aspect ratios for your images**:
 
-Ad placements are assigned specific aspect ratios for visual assets in a creative. The _Placement_ menu displays the supported ad placements for Facebook posts or Instagram stories, organized by aspect ratio. GenStudio for Performance Marketing supports up to six aspect ratios. Select a specific channel placement.
+You can assign specific aspect ratios for visual assets in a creative. The _Placement_ menu displays the supported ad placements for Facebook posts or Instagram stories, organized by aspect ratio. GenStudio for Performance Marketing supports up to six aspect ratios. Select a specific channel placement.
 
 ### Add ad text
 
-Add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text.
+Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text.
 
-| Field     | Required | Character limit (max) |
-|——————|——————|—————————————————|
-| Ad name  | yes |500 |
-| Primary text | yes* | 500 |
-| Headline   | yes* | 255 |
-| Description   | no| 125 |
-| Call to action   | yes | drop-down menu options only |
-| Display URL   | no | 1000 |
-| Website URL   | yes | 1000 |
-| Image   | at least one required |
+| Field           | Required                  | Character limit (max)           |
+|-----------------|---------------------------|---------------------------------|
+| Ad name         | yes                       | 500                             |
+| Primary text    | yes*                      | 500                             |
+| Headline        | yes*                      | 255                             |
+| Description     | no                        | 125                             |
+| Call to action  | yes                       | drop-down menu options only     |
+| Display URL     | no                        | 1000                            |
+| Website URL     | yes                       | 1000                            |
+| Image           | at least one required     |                                 |
 
 * Required by GenStudio for Performance Marketing, not Meta.
 
@@ -118,26 +120,26 @@ After preparing your creative, you must confirm your Meta account information an
 | Detail     | Description |
 |------------|-------------|
 | Accounts   | Meta accounts that have been connected to GenStudio for Performance Marketing |
-| Facebook page   | Address for the Facebook page where the experience will be published |
+| Facebook page   | Facebook page where the experience is published |
 | Instagram account   | Instagram accounts that have been connected to GenStudio for Performance Marketing|
 | Campaigns    | Meta campaigns to which the ad experience belongs |
-| Ad sets   |Meta ad sets to which the ad experience to be activated belongs  |
+| Ad sets   |Meta ad sets to which the activated ad experience belongs. The settings determine the final placements of the ad. |
 
 ### Tracking ID
 
-Tracking IDs provide a mechanism for collecting metrics that are linked to the experience performance. You can either accept the default tracking ID for this activation or override the default value and assign a custom ID that follows your organization's ID conventions.
+Tracking IDs (ad name) provide a mechanism for collecting metrics that are linked to the experience performance. Enter the ad name in this field.
 
 ## Step 5: Preview and activate your ad
 
-You can preview the ad in specific aspect ratios placements and Meta placements from the _Activate details_ view right panel. Use the dropdown menu to select a specific channel placement and aspect ratio to preview.
+You can preview the ad in specific aspect ratios placements from the _Activate details_ view right panel. Use the dropdown menu to select a specific channel placement and aspect ratio to view. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
 **To complete activation of your ad experience**:
 
-Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associated metadata is pushed directly into the selected Meta Ads Manager ad set. From Meta Ads Manager, you can manage the final steps of deploying the ad experience and Meta campaign.
+Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associated metadata are pushed directly into the selected Meta Ads Manager ad set. From Meta Ads Manager, you can manage the final steps of deploying the ad experience and Meta campaign.
 
 ## Log in to Meta Ads Manager to complete activation
 
-After your activation has completed, you must log into Meta Ads Manager to review your ad experience and complete activation.
+After your activation has completed, you must log into Meta Ads Manager to review your ad experience and finalize publication to specific Meta channels.
 
 ## More help on this topic
 

@@ -23,9 +23,9 @@ Activating an experience to any paid channel has three core phases:
 
 **Connect GenStudio for Performance Marketing to your target channel**. Connecting your channel accounts to GenStudio for Performance Marketing is a prerequisite to activation.
  
-**Prepare your experience for activation**. Preparation includes selecting the media assets in the appropriate aspect ratio for your specific ad placement, assigning text to call-to-action elements and body copy, and adding informative metadata that aids users in searching for the experience after activation. Each ad channel placement specifies valid aspect ratios for visual assets included in the placement. 
+**Prepare your experience for activation**. Preparation includes selecting the media assets in the appropriate aspect ratio for your specific ad placement and assigning text to call-to-action elements and body copy. You can also add informative metadata that aids users in searching for the experience after activation. Each ad channel placement specifies valid aspect ratios for visual assets included in the placement. 
 
-**Review and publish your experience to the target channel**.  Use the preview panel in the create activation workflow to assess your choice of ad placement and text elements before finalizing your activation. Your final pre-publication review occurs in the destination channel's ad management app. For example, after activating a Meta ad experience in GenStudio for Performance Marketing, you must log into Meta Ads Manager, review your ad experience one last time, then publish to its designated placement.
+**Review and publish your experience to the target channel**.  Use the _Preview_ panel in the _[!DNL Create]_ activation workflow to assess your choice of ad placement and text elements before finalizing your activation. Your final pre-publication review occurs in the destination channel's ad management app. For example, after activating a Meta ad experience in GenStudio for Performance Marketing, you must log into Meta Ads Manager, review your ad experience, then select its specific attributes before publishing it.
 
 Once an experience is live on its target ad channel, _[!DNL Insights]_ can track and analyze its performance data.
 

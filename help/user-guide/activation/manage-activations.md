@@ -31,7 +31,7 @@ The following table lists the attributes that define each experience.
 | Publish date     | Date that the ad experience was successfully published. Uses month-day-year format         |
 | Published by     | Name of the GenStudio for Performance Marketing user who activated the experience          |
 | Regions          | Geographic region in which the experience is launched     |
-| Status           | Successful, unsuccessful, pending     |
+| Status           | Failed, Published, Publishing    |
 
 ## View activation details
 
@@ -46,7 +46,7 @@ From the _Activated experiences_ view, click on an activation. If needed, use **
 The read-only _Activation details_ view captures the defining details of an activated experience after it has been published to its paid channel. This view includes information derived from both GenStudio for Performance Marketing and the ad channel.
 
 * **Publication time and date**: Time and time that the ad was published from the ad channel manager
-* **Ad ID**: ID assigned by the paid channel and used for tracking
+* **Ad ID**: ID assigned by the paid channel and used for tracking. Click the **[!UICONTROL Open]** button adjacent to this field to view the published ad in Meta Ads Manager. 
 * **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
 * **Channel setup**: The paid channel accounts used to activate the ad experience
 
