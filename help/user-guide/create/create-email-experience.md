@@ -79,7 +79,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [manually edit an email](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the editable text fields (such as the subject line, header, or body copy) and edit as needed
 * **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click **[!UICONTROL Select/swap from content]**.
+* **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [delete an email](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
 

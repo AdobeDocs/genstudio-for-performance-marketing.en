@@ -133,19 +133,15 @@ You can add or swap images in generated variants right from the Canvas.
 
 **To add or swap images in a variant**:
 
-1. After generating a set of variants, click an image asset.
+1. After generating a set of variants, click an image asset (or the image asset area if an image does not currently exist).
+1. Click the **[!UICONTROL Swap from content]** icon.
+1. Use the filters and search function in the GenStudio assets [!DNL Content] view to further narrow your search results.
 
-   If the variant does not currently have a placed image asset, click the image asset area.
+   You can also use images available in connected Adobe Experience Manager (AEM) Assets Content Hub repositories by selecting that repository from the [**[!UICONTROL Location]** menu](/help/user-guide/content/manage-assets.md#location).
 
-1. Click the image swap icon.
-1. To select an image asset already published to [!DNL Content]:
-   1. Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
-   1. Click **[!UICONTROL Use]**
-1. To upload an image asset:
-   1. Click **[!UICONTROL Upload New Image]** to browse your files and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox.
-   1. Click **[!UICONTROL Add Assets]**.
+1. Click to select an image and click **[!UICONTROL Use]**.
 
-   The images are added or swapped into the applicable variant.
+   The image is added or swapped into the applicable variant.
 
 ## Add image link
 
