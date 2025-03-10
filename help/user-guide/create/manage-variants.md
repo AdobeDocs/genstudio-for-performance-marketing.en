@@ -137,6 +137,7 @@ You can add or swap images in generated variants right from the Canvas.
 
    If the variant does not currently have a placed image asset, click the image asset area.
 
+1. Click the image swap icon.
 1. To select an image asset already published to [!DNL Content]:
    1. Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
    1. Click **[!UICONTROL Use]**
@@ -145,6 +146,22 @@ You can add or swap images in generated variants right from the Canvas.
    1. Click **[!UICONTROL Add Assets]**.
 
    The images are added or swapped into the applicable variant.
+
+## Add image link
+
+Similar to adding or swapping images in generated variants, you can add a link to images. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
+
+**To add an image link in a variant**:
+
+1. After generating a set of variants, click an image asset.
+
+   If the variant does not currently have a placed image asset, click the image asset area.
+
+1. Click the link icon.
+1. Click **[!UICONTROL Remove link]** to remove the existing default link.
+1. Add a link in the text field and click **[!UICONTROL Apply]**.
+
+   The defined link is applied to all images in the variant set.
 
 ## Preview for device
 
