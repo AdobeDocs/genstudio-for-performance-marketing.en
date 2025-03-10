@@ -162,7 +162,8 @@ For example, an email template can include up to three sections; therefore, you 
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
-See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
+
 
 ## Template preview
 
