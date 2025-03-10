@@ -35,20 +35,21 @@ The following table lists the field names recognized by GenStudio for Performanc
 
 | Field              | Role                      | Channel template                   |
 | ------------------ | ------------------------- | ---------------------------------- |
-| `{{pre_header}}`   | Pre header                | email                              |
-| `{{headline}}`     | Headline                  | email <br>Meta ad <br>Banner and Display ad |
+| `{{pre_header}}`   | Preheader                 | email                              |
+| `{{headline}}`     | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
 | `{{body}}`         | Body copy                 | email <br>Meta ad <br>Banner and Display ad |
-| `{{cta}}`          | Call to action            | email <br>Meta ad <br>Banner and Display ad |
-| `{{image}}`        | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad   |
-| `{{on_image_text}}`| On image text             | Meta ad                                     |
+| `{{cta}}`          | Call to action            | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{image}}`        | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad  |
+| `{{on_image_text}}`| On image text             | Meta ad <br>LinkedIn ad                          |
 | `{{link}}`         | Call to action on image<br>See [Link on image](#link-on-image). | email |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
 - **Email template** does not require you to identify the `subject` field
-- **Meta ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
+- **Meta ad template** does not require you to identify the `headline`, `body`, and `CTA` fields
 - **Banner and Display ad template** does not require you to identify the `CTA` field
+- **LinkedIn templates** do not require you to identify the `headline` and `CTA` fields
 
 >[!WARNING]
 >

@@ -41,19 +41,19 @@ The following is a list of elements that are used in templates and some details 
 
   - First content the recipient sees
   - Should be compelling to catch interest
-  - Used in Meta ad templates
+  - Used in Meta ad and LinkedIn ad templates
 
 - **Body**
 
   - Main content area where the primary message is conveyed
   - Capable of including text, images, and other media
-  - Used in email and Meta ad templates
+  - Used in email and Meta ad and LinkedIn ad templates
 
 - **CTA**
 
   - Call-to-action button uses a phrase and a link
   - Encourages the recipient to take a specific action such as clicking a link or making a purchase
-  - Used in email and Meta ad templates
+  - Used in email and Meta ad and LinkedIn ad templates
 
 - **Images**
 
@@ -61,7 +61,7 @@ The following is a list of elements that are used in templates and some details 
   - Break up text
   - Support the message
   - Should be high-quality and eye-catching
-  - Used in email and Meta ad templates
+  - Used in email, Meta ad and LinkedIn ad templates
 
 - **Footer**
 
