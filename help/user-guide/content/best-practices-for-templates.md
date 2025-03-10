@@ -110,7 +110,7 @@ Follow these design best practices when customizing Meta ad templates to work wi
 For Meta ads, the `headline`, `body`, and `CTA` fields are automatically generated. Use content placeholders for the following fields:
 
 - `image` (selected from Content JPEG, PNG, or GIF)
-- `on-image-text`
+- `on_image_text`
 - `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
@@ -167,7 +167,7 @@ Follow these design best practices when customizing LinkedIn ad templates to wor
    - Only one section can be used, generating a single set of template elements.
 - Maximum image size of 5 MB
 - Maximum headline 70 characters
-- Maximum body 150 characters
+- Maximum introductory text 150 characters
 
 **Supported aspect ratios**:
 
@@ -194,10 +194,15 @@ Follow these design best practices when customizing LinkedIn ad templates to wor
 
 **Recognized field names**:
 
-For LinkedIn ads, the `headline`, `body`, and `CTA` fields are automatically generated. Use content placeholders for the following fields:
+For LinkedIn ads, the `headline` and `CTA` fields are automatically generated. Use content placeholders for the following fields:
 
 - `image` (selected from Content JPEG, PNG, or GIF)
-- `on-image-text`
+- `introductory_text`
+- `on_image_text`
+- `on_image_subtext1`
+- `on_image_subtext2`
+
+
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 

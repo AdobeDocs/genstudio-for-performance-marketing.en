@@ -33,16 +33,19 @@ For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to i
 
 The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
 
-| Field              | Role                      | Channel template                   |
-| ------------------ | ------------------------- | ---------------------------------- |
-| `{{pre_header}}`   | Preheader                 | email                              |
-| `{{headline}}`     | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
-| `{{body}}`         | Body copy                 | email <br>Meta ad <br>Banner and Display ad |
-| `{{cta}}`          | Call to action            | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
-| `{{image}}`        | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad  |
-| `{{on_image_text}}`| On image text             | Meta ad <br>LinkedIn ad                          |
-| `{{link}}`         | Call to action on image<br>See [Link on image](#link-on-image). | email |
-| `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad |
+| Field                   | Role                      | Channel template                                 |
+| ----------------------- | ------------------------- | ------------------------------------------------ |
+| `{{pre_header}}`        | Preheader                 | email                                            |
+| `{{headline}}`          | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{introductory_text}}` | Introductory text         | LinkedIn ad                                      |
+| `{{body}}`              | Body copy                 | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{cta}}`               | Call to action            | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{image}}`             | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{on_image_text}}`     | On image text             | Meta ad <br>LinkedIn ad                          |
+| `{{on_image_subtext1}}` | On image subtext          | LinkedIn ad                                      |
+| `{{on_image_subtext2}}` | On image subtext          | LinkedIn ad                                      |
+| `{{link}}`              | Call to action on image<br>See [Link on image](#link-on-image). | email      |
+| `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -92,12 +95,12 @@ GenStudio for Performance Marketing can provide variant calls-to-action phrases,
 You can customize your email template to allow creatives to add a link to an image. Similar to the CTA link, use the following guidance to apply a `link` placeholder to an image tag:
 
 ```html
-<a href="{{ link }}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
 ```
 
 In this example:
 
-- `{{ link }}` is a placeholder for the actual URL.
+- `{{link}}` is a placeholder for the actual URL.
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
 - `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
 
@@ -211,7 +214,7 @@ If the source changes after creating the initial preview, use the [refresh](/hel
 
 +++Example: Email template with one section
 
-The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
+The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre_header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
 
 ```html {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
