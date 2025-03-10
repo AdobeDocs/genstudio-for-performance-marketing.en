@@ -6,14 +6,14 @@ exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
 ---
 # Brand validation
 
-In GenStudio for Performance Marketing, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity, ADA compliance, and individual channel platform guidance.
+In GenStudio for Performance Marketing, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity, ADA standards, and individual channel platform guidance.
 
 GenStudio for Performance Marketing conducts brand validation on various aspects, including:
 
 * Defined or default [!DNL Brand], [!DNL Persona], and [!DNL Product] guidelines
 * Channel-specific platform guidelines
 * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
-* American with Disabilities Act (ADA) compliance standards
+* American with Disabilities Act (ADA) standards
 
 ## [!DNL Brand] and accessibility check
 
@@ -25,17 +25,17 @@ The _[!DNL Brand] and accessibility check_ displays the:
 * `Pass` or `Fail` result for the platform specific guidelines, such as Meta
 * `Pass` or `Fail` result for ADA accessibility standards
 
-![[!DNL Brand] and compliance check](/help/assets/brand-compliance-check.png){width="450" zoomable="yes"}
+![[!DNL Brand] and accessibility check](/help/assets/brand-compliance-check.png){width="450" zoomable="yes"}
 
 Click the percentage to see how compliant the variant is. The scores auto-update as you make edits to the variants. You can _View and fix issues_ to ensure further compliancy.
 
 See [Improve brand alignment](#improve-brand-alignment).
 
-## Brand and compliance check panel
+## Brand and accessibility check panel
 
-The _Brand and accessibility check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the _Brand and accessibility check_ icon for a variant. This panel provides detailed brand validation and accessibility standards compliance information and illuminates opportunities for improvement for each variant section.
+The _Brand and accessibility check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the _Brand and accessibility check_ icon for a variant. This panel provides detailed brand validation and accessibility standards information and illuminates opportunities for improvement for each variant section.
 
-![[!DNL Brand] and compliance check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
+![[!DNL Brand] and accessibility check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
 
 The _Brand and accessibility check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for each section of the variant:
 
@@ -74,7 +74,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    Use the reasoning noted for each failed check to inform variant revisions.
 
-1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility compliance standards.
+1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility standards.
 
    The brand validation process runs again. If the revised items pass validation, a green banner appears at the bottom of the Canvas to confirm "Brand guideline score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand and accessibility check_ icon for the revised variant also shows your progress.
 

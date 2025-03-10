@@ -85,11 +85,11 @@ To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedb
 
 ## Verify brand alignment
 
-To optimize the generated variants and ensure strict adherence to brand identity and accessibility standards, leverage the power of the [_Brand and accessibility check panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). This panel displays comprehensive brand, platform, and accessibility validation details and illuminates improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity and accessibility standards, leverage the power of the [_Brand and accessibility check panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check-panel). This panel displays comprehensive brand, platform, and accessibility validation details and illuminates improvement areas.
 
-**To perform [!DNL Brand], platform, and compliance checks on a variant**:
+**To perform [!DNL Brand], platform, and accessibility checks on a variant**:
 
-1. Click the _Brand and accessibility check_ panel in the right action bar to open the [_Brand and accessibility checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-compliance-check-panel). View a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
+1. Click the _Brand and accessibility check_ panel in the right action bar to open the [_Brand and accessibility checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check-panel). View a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
 
    ![[!DNL Brand] and accessibility check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
 

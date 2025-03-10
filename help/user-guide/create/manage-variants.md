@@ -170,7 +170,7 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
 ## Brand validation per variant
 
-Use the _[!DNL Brand] and compliance check panel_ to maintain consistent brand identity, [ADA accessibility compliance, platform guidelines](/help/user-guide/guidelines/overview.md#compliance), and alignment of variants.
+Use the _[!DNL Brand] and accessibility check panel_ to maintain consistent brand identity, [ADA accessibility standards, platform guidelines](/help/user-guide/guidelines/overview.md#compliance), and alignment of variants.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
 
