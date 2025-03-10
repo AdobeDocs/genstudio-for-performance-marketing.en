@@ -8,11 +8,11 @@ exl-id: 577c627b-0895-4958-a883-3133b4a3efde
 
 GenStudio for Performance Marketing guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio for Performance Marketing, allowing users to establish brand guidelines that capture the essence of a brand's identity.
 
-The following guidelines help ensure that any AI-generated content is tailored to align with brand identity and compliance specifications, enabling effective personalization of content:
+The following guidelines help ensure that any AI-generated content is tailored to align with brand identity and accessibility specifications, enabling effective personalization of content:
 
 * [Default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) for [!DNL Brands] based on industry best practices and individual platform specifications 
 * User-defined guidelines
-* [Americans with Disabilities Act (ADA) compliance guidelines](#compliance)
+* [Americans with Disabilities Act (ADA) accessibility guidelines](#compliance)
 
 The default and user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
 
@@ -30,7 +30,7 @@ GenStudio for Performance Marketing guidelines:
 * Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#brand-validation)
-* Implements ADA and platform compliance for generated variants
+* Implements ADA and platform accessibility for generated variants
 
 By incorporating brand, product, and persona data into GenStudio for Performance Marketing, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
 
@@ -51,7 +51,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ### Compliance
 
-Adobe GenStudio for Performance Marketing integrates external compliance checks—channel platform guidelines and ADA compliance—in addition to the user-defined guidelines:
+Adobe GenStudio for Performance Marketing integrates external compliance checks—channel platform guidelines and ADA accessibility addition to the user-defined guidelines:
 
-* **ADA compliance**: Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure compliance with web accessibility features and provide equitable access to all users.
+* **ADA accessibility**: Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users.
 * **Platform compliance**: Vital for adhering to the specific guidelines of each platform—such as Meta or LinkedIn—and following industry best practices. These are default guidelines present in the system and pre-populated in [!DNL Brand guidelines].
