@@ -18,8 +18,6 @@ The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStu
 
 ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="600" zoomable="yes"}
 
-### Insert a missing field
-
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names).
 
 ### Make a correction
