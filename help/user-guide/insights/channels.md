@@ -8,15 +8,15 @@ exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 
 The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for the connected channel ad account.
 
->[!TIP]
->
->GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect channel account](connect-channel.md).
+{{connect-insights}}
 
 The _[!UICONTROL Channels]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Status], and [!UICONTROL Objective] lists to filter the campaigns in the table.
 
 ![Channels filter and table](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-When you select a campaign, the [[!UICONTROL Experiences] tab](experiences.md) opens to a list of ad names associated with that campaign, which allows you to identify which experiences have contributed to its overall success.
+{{$include /help/_includes/download-insights.md}}
+
+When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
 ## Objectives
 
@@ -31,7 +31,7 @@ At the time that you created a campaign with Meta ads, you may have selected an 
 
 ## Channel performance
 
-Depending on your performance goals, Insights metrics can help you evaluate whether you are achieving your objective.
+Depending on your performance goals, [!DNL Insights] metrics can help you evaluate whether you are achieving your objective.
 
 For example, if awareness is your objective, then an increase in the rate of `impressions` may indicate that you are expanding your reach. To understand if that is achieving your objective, you could look at metrics that indicate your content is engaging, such as `clicks` or `video plays`. How effectively is your audience interacting with your content?
 

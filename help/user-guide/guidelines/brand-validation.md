@@ -28,7 +28,12 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 ## Brand validation panel
 
-The _Brand validation_ panel opens on the right side of the Canvas when clicked from the top menu bar _or_ from the _Brand guidelines check_ icon for a variant. This panel provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
+The _Brand validation_ panel is available, upon open, on the right side of the Canvas. This panel provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
+
+**Use one of the following methods to access the _Brand validation_ panel**:
+
+* Click the _Brand validation_ icon from the action bar on the right
+* Click the _Brand guidelines check_ icon for a variant and click **[!UICONTROL Review]**
 
 ![[!DNL Brand] validation panel](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
 

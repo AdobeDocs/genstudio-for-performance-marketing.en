@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudio User Guide
-description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to quickly create on-brand assets, generate variations, and optimize experiences.
+description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to create on-brand assets, generate variations, and optimize experiences.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
 # Adobe GenStudio for Performance Marketing User Guide
@@ -8,13 +8,6 @@ exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 Adobe GenStudio for Performance Marketing is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies.
 
 By leveraging Adobe AI technology, GenStudio for Performance Marketing provides a comprehensive suite of tools that simplify the complexities of content creation and management so that creatives can focus on innovation.
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 ## Explore capabilities
 
@@ -94,7 +87,7 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 <td valign="top">
    <div>
       <a href="/help/user-guide/guidelines/add-guidelines.md">
-      <img alt="Add guidelines" src="../assets/card-create-assets.png">
+      <img alt="Add guidelines" src="../assets/card-guidelines.png">
       <strong>Add guidelines</strong>
       </a>
    </div>

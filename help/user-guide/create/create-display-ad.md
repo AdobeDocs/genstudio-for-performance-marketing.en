@@ -73,6 +73,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [manually edit a display ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the display ad sections or fields (such as the subject line, header, or body copy) and edit as needed.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the available options to rephrase, shorten, lengthen, or generate new text.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
+* **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over the image, click the crop icon that appears, and adjust the image size and placement. Click **[!UICONTROL Apply]**.
 
@@ -90,7 +91,13 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 
 **To verify brand alignment**:
 
-1. Click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). You can see details of the fragments and guidelines that need improvement.
+1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
+
+   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+
+1. Click **[!UICONTROL Review]** for a list of the details of the sections and guidelines that need improvement.
+
+   You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise ads](#revise-generated-display-ads) to ensure your emails are closely aligned with your brand.
@@ -99,7 +106,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
-Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible as an icon on the right action bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 **To obtain reviews and approvals**:
 
