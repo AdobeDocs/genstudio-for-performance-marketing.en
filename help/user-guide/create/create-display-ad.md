@@ -90,7 +90,13 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 
 **To verify brand alignment**:
 
-1. Click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). You can see details of the fragments and guidelines that need improvement.
+1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
+
+   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+
+1. Click **[!UICONTROL Review]** for a list of the details of the sections and guidelines that need improvement.
+
+   You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise ads](#revise-generated-display-ads) to ensure your emails are closely aligned with your brand.
@@ -99,7 +105,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
-Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible as an icon on the right action bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 **To obtain reviews and approvals**:
 
