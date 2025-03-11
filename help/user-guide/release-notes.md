@@ -2,14 +2,25 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-02-13
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.2.13 {#latest}
+## 2025.03.13 {#latest}
+
+### Templates
+
+The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
+
+![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
+
+Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+
+## Earlier release notes
+
++++Notes from 2025.02.13
 
 ### Landing page improvements for [!DNL Create]
 
@@ -17,11 +28,11 @@ The [!DNL Create] landing page in GenStudio for Performance Marketing includes U
 
 ### Insights export to CSV
 
-You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to easily export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
+You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
 
-## Earlier release notes
++++
 
-+++Notes from 2025.1.16
++++Notes from 2025.01.16
 
 ### Integration with Adobe Workfront Proof
 

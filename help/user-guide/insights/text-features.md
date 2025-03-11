@@ -11,7 +11,7 @@ exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
 
 Text features include counts for certain text elements, such as words, sentences, emojis, and classifications for semantics, emotion, and tone that are used for analysis with [!DNL Insights]. Text may also receive a readability score.
 
-GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study text and apply [!UICONTROL Asset attributes] based on the associated text tones and marketing narrative. The process validates the input text to ensure it contains alphanumeric characters, removing extra white spaces and non-printable characters, and truncating the text to the maximum allowed 1500 words. Before applying detected attribute tags, the AI predicts the prevalent tone.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study text and apply [!UICONTROL Media attributes] based on the associated text tones and marketing narrative. The process validates the input text to ensure it contains alphanumeric characters, removing extra white spaces and non-printable characters, and truncating the text to the maximum allowed 1500 words. Before applying detected attribute tags, the AI predicts the prevalent tone.
 
 ## Tone of voice
 
@@ -47,7 +47,7 @@ Other secondary values for tone include: `Enthusiastic`, `Assertive`, `Humorous/
 
 ## Narrative
 
-The narrative attributes help you to identify assets that communicate the values, purpose, or identity that resonates with your target audience.
+The narrative attributes help you to identify media that communicate the values, purpose, or identity that resonates with your target audience.
 
 | Narrative         | Description | Example |
 | ----------------- | ----------- | ------- |

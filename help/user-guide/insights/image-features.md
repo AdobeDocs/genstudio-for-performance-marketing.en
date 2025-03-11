@@ -32,7 +32,7 @@ If the image style is identified as a `sketch` or a `digital cartoon`, a differe
 
 1. The _Attribute details_ page lists all the images with this attribute.
 
-The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
+The following table lists the image feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for media content is not exhaustive. Media that contains a rich set of features may be limited to the three most dominant features identified by the AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

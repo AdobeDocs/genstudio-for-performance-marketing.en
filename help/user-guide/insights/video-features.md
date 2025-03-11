@@ -30,7 +30,7 @@ Audio detection in GenStudio for Performance Marketing involves analyzing the au
 
 1. Toggle the **unmute** (located in the lower-left corner of a video preview) button and listen to the audio of the video preview.
 
-The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for an asset is not exhaustive. Assets that contain a rich set of features may be limited to the three most dominant features identified by the AI.
+The following table lists the video feature categories recognized by the GenStudio for Performance Marketing AI. The detected attributes list for an media content is not exhaustive. Media that contains a rich set of features may be limited to the three most dominant features identified by the AI.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
