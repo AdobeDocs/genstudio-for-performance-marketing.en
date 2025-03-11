@@ -74,15 +74,15 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
 ## Step 2: Create an App Builder app
 
-You can use a sample app to jump-start your add-on creation. See the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository to view and select example apps.
+You can use a example app to jump-start your add-on creation. See the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository to view and select example apps.
 
 **To create an App Builder app from an existing app**
 
-1. Download a sample app from the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository.
+1. Download a example app from the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository.
 
 1. From the AIO environment of your App Builder project, select **[!UICONTROL Download All]** to download your project details.
 
-1. Open your sample app locally in your preferred IDE.
+1. Open your example app locally in your preferred IDE.
 
 1. Run this command with the downloaded JSON: 
 
