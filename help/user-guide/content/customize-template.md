@@ -11,7 +11,6 @@ You can customize a template for use in GenStudio for Performance Marketing by i
 
 The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _[!DNL Handlebars]_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-
 Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 >[!TIP]
@@ -43,6 +42,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{on_image_text}}`| On image text          | Meta ad                          |
 | `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
+| `{{link}}`         | Call to action on image | email                           |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -59,26 +59,6 @@ There is a limit of 20 fields when uploading a template to GenStudio for Perform
 >[!TIP]
 >
 >You can verify your template using the [template preview](#template-preview) in GenStudio for Performance Marketing.
-
-#### Brand logo field name
-
-At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
-
-**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
-
-```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
-```
-
-**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
-
-```handlebars
-{{#if brand_logo}}
-    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-    {{else}}
-    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-{{/if}}
-```
 
 #### Manual field names
 
@@ -118,6 +98,26 @@ GenStudio for Performance Marketing understands that `pod1_headline` is more clo
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
 
+### Brand logo field name
+
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
+
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
+```
+
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
+
+```handlebars
+{{#if brand_logo}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
+```
+
 ### Calls to action
 
 A Call to action (CTA) includes a phrase and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ capabilities to work properly during the variant generation process, you must include placeholders for the link and the phrase in your template.
@@ -143,6 +143,20 @@ Use the following guidance to set up CTA placeholders:
    ```
 
 GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action).
+
+### Link on image
+
+You can customize your email template to allow creatives to add a link to an image. Similar to the CTA link, use the following guidance to apply a `link` placeholder to an image tag:
+
+```html
+<a href="{{ link }}"><img src="image-source.jpg" alt="description"></a>
+```
+
+In this example:
+
+- `{{ link }}` is a placeholder for the actual URL.
+- `src="image-source.jpg"` should be replaced with the actual image source URL.
+- `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
 
 ## Template preview
 
