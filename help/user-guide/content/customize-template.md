@@ -39,7 +39,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{headline}}`     | Headline                  | email <br>Meta ad <br>Display ad   |
 | `{{body}}`         | Body copy                 | email <br>Meta ad <br>Display ad   |
 | `{{cta}}`          | Call to action            | email <br>Meta ad <br>Display ad   |
-| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad   |
+| `{{image}}`        | Image—select from [!DNL Content] | email <br>Meta ad <br>Display ad   |
 | `{{on_image_text}}`| On image text             | Meta ad                            |
 | `{{link}}`         | Call to action on image<br>See [Link on image](#link-on-image). | email |
 | `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad |

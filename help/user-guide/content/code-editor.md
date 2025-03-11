@@ -14,11 +14,11 @@ The template code editor is designed to help you verify and refine your template
 
 ## Check detected fields
 
-The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStudio for Performance Marketing recognizes in your template. Review the list, and you can scroll through the HTML code to look at the formation of your template. Use the Find and Replace form (Windows `CTRL`+`F` or macOS `CMD`+`F`) to search for specific strings in the code.
+The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStudio for Performance Marketing recognizes in your template. Review the list, and you can scroll through the HTML code to look at the formation of your template.
 
 ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="600" zoomable="yes"}
 
-If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names).
+If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
 ### Make a correction
 
