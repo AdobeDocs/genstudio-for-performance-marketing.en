@@ -117,8 +117,6 @@ See [Content placeholders](customize-template.md#content-placeholders) to unders
 
 >[!TAB Banner & Display ad]
 
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
 Follow these design best practices when customizing Banner and Display ad templates to work with GenStudio for Performance Marketing:
 
 - Use Adobe or Google fonts
@@ -159,6 +157,8 @@ See [Content placeholders](customize-template.md#content-placeholders) to unders
 
 >[!TAB LinkedIn ad]
 
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
 Follow these design best practices when customizing LinkedIn ad templates to work with GenStudio for Performance Marketing:
 
 **Constraints**:
@@ -171,7 +171,7 @@ Follow these design best practices when customizing LinkedIn ad templates to wor
 
 **Supported aspect ratios**:
 
-- Square 1:1 
+- Square 1:1
   - desktop or mobile
   - Min: 360 x 360 pixels
   - Max: 4320 x 4320 pixels
@@ -199,10 +199,7 @@ For LinkedIn ads, the `headline` and `CTA` fields are automatically generated. U
 - `image` (selected from Content JPEG, PNG, or GIF)
 - `introductory_text`
 - `on_image_text`
-- `on_image_subtext1`
-- `on_image_subtext2`
-
-
+- `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
