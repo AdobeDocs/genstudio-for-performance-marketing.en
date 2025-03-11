@@ -24,21 +24,17 @@ A template is a set of instructions defined with HTML and inline CSS that can be
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
-- **Preheader** (Email)— A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened.
-
-- **Header** (Email)— The top section of the email that the recipient sees when opening the email sets the tone and provides context for the included content.
-
-- **Headline** (Meta ad, LinkedIn)— The first content that the recipient sees should be compelling to catch interest.
-
-- **Body** (Email, Meta ad, LinkedIn)— The main content area where the primary message is conveyed. It can include text, images, and other media.
-
-- **CTA** (Email, Meta ad, LinkedIn)— A call-to-action button that uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.
-
-- **Images** (Email, Meta ad, LinkedIn)— Enhance visual appeal, break up text, and support the message. They should be high-quality and eye-catching.
-
-- **Footer** (Email)— The bottom section of the email that contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.
-
-- **Text Overlay** (Meta ad)— Text placed on an image to support and enhance the headline and body content.
+| **Element**          | **Channel**                              | **Description**                                                                                                                                              |
+|----------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
+| **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
+| **Headline**         | Meta ad, Banner and Display ad, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
+| **Introductory text**| LinkedIn                                 | The primary message is conveyed in the introductory text. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation.          |
+| **Body**             | Email, Meta ad, Banner and Display ad    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience.                                                    |
+| **CTA**              | Email, Meta ad, Banner and Display ad, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
+| **Images**           | Email, Meta ad, Banner and Display ad, LinkedIn | Enhance visual appeal, break up text, and support the message. They should be high-quality and eye-catching.                                                   |
+| **Footer**           | Email                                    | The bottom section of the email contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.            |
+| **Text Overlay**     | Meta ad                                  | Text placed on an image to support and enhance the headline and body content.                                                                                  |
 
 >[!TIP]
 >
