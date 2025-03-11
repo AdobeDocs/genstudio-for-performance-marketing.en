@@ -2,6 +2,7 @@
 title: LinkedIn experiences
 description: Learn about LinkedIn experiences in Adobe GenStudio for Performance Marketing.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
 ---
