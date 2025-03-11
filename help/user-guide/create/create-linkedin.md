@@ -4,6 +4,7 @@ description: Learn how to create brand-compliant LinkedIn experiences with Adobe
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
+badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 recommendations: noDisplay
 ---
 # Create a LinkedIn experience
