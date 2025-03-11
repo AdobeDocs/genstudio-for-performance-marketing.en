@@ -14,9 +14,10 @@ With [!DNL Create], you can generate content for the following channels:
 
 * [Emails](email-experiences.md)
 * [Meta ads](meta-experiences.md)
+* [LinkedIn ads](linkedin-experiences.md)
 * [Display ads](display-ad-experiences.md)
 
-Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Campaigns](/help/user-guide/campaigns/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
@@ -39,6 +40,16 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
       <div>
          <a href="/help/user-guide/create/create-meta-ad.md">
          <strong>Create a Meta ad experience</strong>
+         </a>
+      </div>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="/help/user-guide/create/create-linkedin.md">
+      <img alt="Create a LinkedIn ad experience" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+      </a>
+      <div>
+         <a href="/help/user-guide/create/create-linkedin.md">
+         <strong>Create a LinkedIn ad experience</strong>
          </a>
       </div>
    </td>

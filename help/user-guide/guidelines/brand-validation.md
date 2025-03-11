@@ -72,6 +72,8 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    See a summary of how many brand guidelines met brand validation or need more attention.
 
+      If no [!DNL Brand] is defined during generation, a _Select a brand_ dialog appears prompting you to select a [!DNL Brand]. Once a [!DNL Brand] is defined, validation can occur.
+
 1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the _Brand validation_ icon in top menu bar to open the _Brand validation_ panel.
 
    See all sections and brand guidelines that need your attention.
@@ -83,7 +85,6 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 1. Click through each guideline that needs attention, using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
 
 1. Use the reasoning noted for each guideline to inform any revisions to variant sections to achieve the strongest alignment to your brand.
-
 
 1. After making necessary revisions, click **[!UICONTROL Check again]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity.
 
