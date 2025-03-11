@@ -20,7 +20,7 @@ Adding guidelines to GenStudio for Performance Marketing is an important step in
 
 To add a [!DNL Brand], [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
-In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
+In the left navigation area, click **[!DNL Brands]** from the _Shared_ list. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 >[!TIP]
 >
@@ -35,15 +35,17 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 **To upload brand documents**:
 
 1. Select the **[!UICONTROL Add brand]** button.
-1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guideline documents.
+1. Choose **[!UICONTROL Upload PDFs]** and enter a brand name in the _Choose a way to add your brand_ popup.
+1. Select **[!UICONTROL Continue]**.
+1. Browse and attach or drag in your brand guidelines documents to the _[!UICONTROL Add your brand]_ popup.
 
-   You can attach up to three PDF or DOC files.
+   You can attach up to five PDF files for a maximum of 500 MB.
 
 1. Select **[!UICONTROL Add brand]**.
 
-Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as each guideline from your brand documents is assembled.
+    Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as each guideline from your brand documents is assembled.
 
-A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
+The view for your new brand opens, showing the brand guidelines details extracted from your documents. A popup notifies you _"Your brand is ready to review"_ and reminds you to review the extracted content and make any necessary edits.
 
 ### Manually add brand
 
@@ -52,12 +54,18 @@ You can manually add brand details, instead of uploading existing brand document
 **To manually add a brand**:
 
 1. Select the **[!UICONTROL Add brand]** button.
-1. Give your brand a name and click **[!UICONTROL Add brand]**.
-1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections (tab views across the top). Use the _View examples_ tooltip to inform your additions.
+1. Choose **[!UICONTROL Upload manually]** and enter a brand name in the _Choose a way to add your brand_ popup.
+1. Select **[!UICONTROL Add brand]**.
+
+   A new blank brand is created and displayed.
+
+1. Populate various brand info, guidelines, and imagery to build out your brand in the appropriate sections (tab views across the top).
+
+   You can add guidelines directly from your new brand's homepage view _or_ you can add them in the individual tabbed sections (which include informative _View examples_ tooltips to guide you) at the top.
 
    ![Brands](/help/assets/brands.png){width="600" zoomable="yes"}
 
-   - _When to use this brand_: Click **[!UICONTROL Add]** (or click into the text field to change existing text) and enter overview and usage information about the brand.
+   - _When to use this brand_: Click **[!UICONTROL Add]** (or click into the text field to change existing text) and enter overview and usage information about the brand. Click **[!UICONTROL Save changes]**.
    - [_[!DNL Brand] voice guidelines_](brands.md#brand-voice-guidelines): Add applicable information in each guidelines field.
 
       ![Add [!DNL Brand] voice guidelines ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
@@ -120,83 +128,11 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
    1. Customize the duplicated brand and then [publish it](#publish-brand) to make it available for use.
 1. To delete a brand, select **[!UICONTROL Delete]** from the [!DNL Brands] action menu.
 
-## Add [!DNL Products]
-
-To add a product, [upload a product guide](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
-
-In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
-
-![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
-
-You can add [!DNL Products] in GenStudio for Performance Marketing to specify individual product focus areas when creating content.
-
-See [[!DNL Products]](products.md).
-
-### Upload a product
-
-You can upload product documents to populate new products.
-
-See [[!DNL Products]](/help/user-guide/guidelines/products.md).
-
-**To upload product documents**:
-
-1. Select the **[!UICONTROL Add product]** button and choose **Upload PDFs**.
-1. Click **[!UICONTROL Continue]**.
-1. In the _Add your product_ popup, attach or drag in your product document.
-
-   You can attach up to five PDF files with a maximum of 500 MG combined.
-
-1. Select **[!UICONTROL Add products]**.
-
-   Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your products.
-
-   A popup appears showing the progress of the product extraction from your documents.
-
-1. In the _Building products_ popup, delete extracted products you do not want to use or rename products as desired.
-1. If a product is missing, click **[!UICONTROL Add name]** and enter the name of the missing product.
-1. Click **[!UICONTROL Confirm]**.
-
-   A popup reminds you to verify and review the extracted products.
-
-### Manually add product
-
-You can manually add product details, instead of uploading existing product documents, to populate a new [product](products.md) in GenStudio for Performance Marketing.
-
-**To manually add a product**:
-
-1. Select the **[!UICONTROL Add brand]** button and choose **[!UICONTROL Add manually]**.
-1. Click **[!UICONTROL Continue]**.
-
-   You can populate various optional guidelines and imagery to build out your product.
-
-1. Click **[!UICONTROL New product name]** and enter a name for the [!DNL Product].
-1. Click into _Description_ and enter a description of this [!DNL product].
-1. Click into _Value proposition_ and enter details about the product's value.
-Click into _Messaging preferences_ and enter messaging details for the [!DNL product].
-1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
-   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
-   1. Choose an image from the gallery in the _Gallery_ tab.
-   1. Click **[!UICONTROL Use image]**.
-1. To edit the cover image, hover over the cover and from the Cover actions menu select **[!UICONTROL Edit cover]**.
-   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
-   1. Choose an image from the gallery in the _Gallery_ tab and click **[!UICONTROL Use image]**.
-   1. To reposition the cover image click **[!UICONTROL Reposition]**, drag the image into the desired position, and click **[!UICONTROL Save]**.
-
-   To see your created [!DNL products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
-
-### Manage [!DNL Products]
-
-In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to edit or review it, or **delete a product** from the list:
-
-- Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
-- Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
-- Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
-
 ## Add [!DNL Personas]
 
 To add a persona, [upload a persona guide](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
 
-In the left navigation area, click **[!DNL Personas]**. In the _[!DNL Personas]_ panel, select **Add persona**.
+In the left navigation area, click **[!DNL Personas]** from the _Shared_ list. In the _[!DNL Personas]_ panel, select **Add Persona**.
 
 You can add a [!DNL Persona] in GenStudio for Performance Marketing to help target the content you create to your ideal audience.
 
@@ -208,25 +144,18 @@ You can upload your own persona documents to populate new personas.
 
 See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
-**To upload persona documents**:
+1. Select the **[!UICONTROL Add persona]** button.
+1. Choose **[!UICONTROL Upload files]** and enter a persona name in the _Choose a way to add your persona_ popup.
+1. Select **[!UICONTROL Continue]**.
+1. Browse and attach or drag in your persona guidelines documents to the _[!UICONTROL Add your persona]_ popup.
 
-1. Select the **[!UICONTROL Add persona]** button and choose **Upload PDFs**.
-1. Click **[!UICONTROL Continue]**.
-1. In the _Add your persona_ popup, attach or drag in your persona document.
-
-   You can attach up to five PDF files with a maximum of 500 MG combined.
+   You can attach up to five PDF or DOC files for a maximum of 500 MB.
 
 1. Select **[!UICONTROL Add personas]**.
 
-   Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your personas.
+    Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your persona. As each guideline from your persona documents is assembled, you will see details such as persona voice, channel, and image guidelines populate.
 
-   A popup appears showing the progress of the persona extraction from your documents.
-
-1. In the _Building personas_ popup that appears, delete extracted personas you do not want to use or rename personas as desired.
-1. If a persona is missing, click **[!UICONTROL Add name]** and enter the name of the missing persona.
-1. Click **[!UICONTROL Confirm]**.
-
-   After extraction is complete, a popup reminds you to verify and review the extracted personas.
+   The view for your new persona opens, showing the persona guidelines details extracted from your documents. A popup notifies you _"Your persona is ready to review"_ and reminds you to review the extracted content and make any necessary edits.
 
 ### Manually add persona
 
@@ -239,21 +168,23 @@ You can manually add persona details, instead of uploading existing persona docu
 
    You can populate various optional guidelines and imagery to build out your persona.
 
+1. Click **[!UICONTROL New persona name]** and enter a name for the [!DNL Persona].
 1. Add information about your [!DNL Persona] in the _Description_ section.
 
    ![Add a [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"}
 
-1. Click **[!UICONTROL New persona name]** and enter a name for the [!DNL Persona].
 1. Click into _Description_ and enter a description of this [!DNL Persona].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].
-1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
-   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
-   1. Choose an image from the gallery in the _Gallery_ tab.
+1. To edit the thumbnail, hover over the image thumbnail and from the actions menu select **[!UICONTROL Edit thumbnail]**.
+   1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
+
+      You can also delete or crop an existing thumbnail image in the _Upload_ tab.
+
    1. Click **[!UICONTROL Use image]**.
-1. To edit the cover image, hover over the cover and from the Cover actions menu select **[!UICONTROL Edit cover]**.
-   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
-   1. Choose an image from the gallery in the _Gallery_ tab and click **[!UICONTROL Use image]**.
-   1. To reposition the cover image click **[!UICONTROL Reposition]**, drag the image into the desired position, and click **[!UICONTROL Save]**.
+1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
+   1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
+   1. Click **[!UICONTROL Use image]**.
+   1. To reposition the cover image click **[!UICONTROL Reposition]** from the action menu, drag the image into the desired position, and click **[!UICONTROL Save]**.
 
    To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ view to navigate back to the _[!DNL Personas]_ home.
 
@@ -264,3 +195,71 @@ In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to
 - Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
 - Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.
 - Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
+
+## Add [!DNL Products]
+
+To add a product, [upload a product guide](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
+
+In the left navigation area, click **[!DNL Products]** from the _Shared_ list. In the _[!DNL Products]_ panel, select **Add product**.
+
+![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
+
+You can include a [!DNL Product] in GenStudio for Performance Marketing to better tailor the content you create for a specific product.
+
+See [[!DNL Products]](products.md).
+
+### Upload a product
+
+You can upload your own product documents to populate new products.
+
+See [[!DNL Products]](/help/user-guide/guidelines/products.md).
+
+1. Select the **[!UICONTROL Add product]** button.
+1. Choose **[!UICONTROL Upload files]** and enter a product name in the _Choose a way to add your product_ popup.
+1. Select **[!UICONTROL Continue]**.
+1. Browse and attach or drag in your product guidelines documents to the _[!UICONTROL Add your product]_ popup.
+
+   You can attach up to five PDF or DOC files for a maximum of 500 MB.
+
+1. Select **[!UICONTROL Add products]**.
+
+   Using Adobe's generative AI technology, GenStudio for Performance Marketing analyzes your uploaded documents to construct your product profile. As each guideline from your product documents is processed, you'll see information such as product descriptions, value propositions, and messaging preferences populate.
+
+   The view for your new product opens, showing the product guidelines details extracted from your documents. A popup notifies you _"Your product is ready to review"_ and reminds you to review the extracted content and make any necessary edits.
+
+### Manually add product
+
+You can manually add product details, instead of uploading existing product documents, to populate a new [products](products.md).
+
+**To manually add a product**:
+
+1. Select the **[!UICONTROL Add product]** button and choose **[!UICONTROL Add manually]**.
+1. Click **[!UICONTROL Continue]**.
+
+   You can populate various optional information to build out your product.
+
+1. Click **[!UICONTROL New product name]** and enter a name for the [!DNL product].
+1. Add information about your [!DNL product] in the _Description_ section.
+1. Click into _Description_ and enter a description of this [!DNL Product].
+1. Click into _Value proposition_ and enter value proposition details to correctly position your [!DNL Product].
+1. Click into _Messaging preferences_ and enter messaging details for the [!DNL product].
+1. To edit the thumbnail, hover over the image thumbnail and from the actions menu select **[!UICONTROL Edit thumbnail]**.
+   1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
+
+      You can also delete or crop an existing thumbnail image in the _Upload_ tab.
+
+   1. Click **[!UICONTROL Use image]**.
+1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
+   1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
+   1. Click **[!UICONTROL Use image]**.
+   1. To reposition the cover image click **[!UICONTROL Reposition]** from the action menu, drag the image into the desired position, and click **[!UICONTROL Save]**.
+
+   To see your created [!DNL Products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
+
+### Manage [!DNL Products]
+
+In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to edit or review it, or **delete a product** from the list:
+
+- Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
+- Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
+- Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
