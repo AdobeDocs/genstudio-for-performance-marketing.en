@@ -8,7 +8,7 @@ exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-GenStudio for Performance Marketing uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
+GenStudio for Performance Marketing uses the wealth of brand information from your [!DNL Brand], partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 ## Manage [!DNL Brands]
 
@@ -26,7 +26,7 @@ Deleted [!DNL brands] are archived for 30 days and can be recovered within that 
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
-Some channel guidelines, abstracted from [channel-specific platform standards and ADA accessibility standards](/help/user-guide/guidelines/overview.md#compliance), are pre-populated as default values.
+Some channel guidelines, abstracted from [platform guidelines and ADA accessibility standards](/help/user-guide/guidelines/overview.md#compliance), are pre-populated as default values.
 
 ![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
 
