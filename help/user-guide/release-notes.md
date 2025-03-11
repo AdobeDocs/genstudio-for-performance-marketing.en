@@ -10,6 +10,12 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.03.13 {#latest}
 
+### Templates
+
+The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
+
+![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
+
 Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
 
 ## Earlier release notes

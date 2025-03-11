@@ -47,6 +47,7 @@ feature: Generative AI
   + Templates {#templates}
     + [Work with templates](content/use-templates.md)
     + [Customize a template](content/customize-template.md)
+    + [Template code editor](content/code-editor.md)
     + [Create accessible templates](content/accessibility-for-templates.md)
     + [Best practices for templates](content/best-practices-for-templates.md)
 + Campaigns {#campaigns}

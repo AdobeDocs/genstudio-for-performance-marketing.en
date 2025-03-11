@@ -19,30 +19,30 @@ Once your template is ready, you can [upload it to GenStudio for Performance Mar
 
 ## Content placeholders
 
-GenStudio for Performance Marketing recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a recognized field name.
+GenStudio for Performance Marketing recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a [recognized field name](#recognized-field-names).
 
-Within the head or body of a template, you can use the [!DNL Handlebars] syntax as a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets the content placeholders based on the [recognized _field_ name](#recognized-field-names).
+Within the head or body of an HTML template, you can use the [!DNL Handlebars] syntax to insert a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets the content placeholders based on the [recognized _field_ name](#recognized-field-names).
 
-For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to indicate where the headline of the email should be placed:
+For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to indicate where the headline of the email should be placed. GenStudio recognizes this field, generates a relevant headline based on your guidelines and prompt criteria, and inserts the headline in this location:
 
 ```handlebars
-<div>{{headline}}</div>
+<div>{{ headline }}</div>
 ```
 
 ### Recognized field names
 
-The following table lists the field names recognized by GenStudio for Performance Marketing for population into templates. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate content.
+The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
 
-| Field              | Role                   | Channel template                 |
-| ------------------ | ---------------------- | -------------------------------- |
-| `{{pre_header}}`   | Pre header             | email                            |
-| `{{headline}}`     | Headline               | email <br>Meta ad <br>Display ad |
-| `{{body}}`         | Body copy              | email <br>Meta ad <br>Display ad |
-| `{{cta}}`          | Call to action         | email <br>Meta ad <br>Display ad |
-| `{{on_image_text}}`| On image text          | Meta ad                          |
-| `{{image}}`        | Image—select from Content | email <br>Meta ad <br>Display ad |
-| `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
-| `{{link}}`         | Call to action on image | email                           |
+| Field              | Role                      | Channel template                   |
+| ------------------ | ------------------------- | ---------------------------------- |
+| `{{pre_header}}`   | Pre header                | email                              |
+| `{{headline}}`     | Headline                  | email <br>Meta ad <br>Display ad   |
+| `{{body}}`         | Body copy                 | email <br>Meta ad <br>Display ad   |
+| `{{cta}}`          | Call to action            | email <br>Meta ad <br>Display ad   |
+| `{{image}}`        | Image—select from [!DNL Content] | email <br>Meta ad <br>Display ad   |
+| `{{on_image_text}}`| On image text             | Meta ad                            |
+| `{{link}}`         | Call to action on image<br>See [Link on image](#link-on-image). | email |
+| `{{brand_logo}}`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad |
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -59,64 +59,6 @@ There is a limit of 20 fields when uploading a template to GenStudio for Perform
 >[!TIP]
 >
 >You can verify your template using the [template preview](#template-preview) in GenStudio for Performance Marketing.
-
-#### Manual field names
-
-All other field names are treated as manually populated fields.
-
-To create an editable section, add double brackets around the section name:
-
-```handlebars
-{{customVariable}}
-```
-
-### Sections or groups
-
-_Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
-
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`). For example, the following headline and body belongs to the `pod1` section:
-
-- `pod1_headline`
-- `pod1_body`
-
-Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
-
-Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
-
-For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
-
-- `pre-header`
-- `pod1_headline`
-- `pod1_body`
-- `pod2_headline`
-- `pod2_body`
-- `pod3_headline`
-- `pod3_body`
-- `cta`
-
-GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
-
-See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
-
-### Brand logo field name
-
-At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
-
-**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
-
-```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
-```
-
-**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
-
-```handlebars
-{{#if brand_logo}}
-    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-    {{else}}
-    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-{{/if}}
-```
 
 ### Calls to action
 
@@ -158,13 +100,80 @@ In this example:
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
 - `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
 
+### Brand logo field name
+
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
+
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
+```
+
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
+
+```html
+{{#if brand_logo}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
+```
+
+### Manual field names
+
+All other field names are treated as manually populated fields. For example, you may want to reserve a section for footer content.
+
+To create an editable section, add double brackets around the section name:
+
+```html
+<tbody>
+    <tr>
+        <td>
+            <p><span class="s1">{{ footerLegal }}</span></p>
+        </td>
+    </tr>
+</tbody>
+```
+
+## Sections or groups
+
+_Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`). For example, the following headline and body belongs to the `pod1` section:
+
+- `pod1_headline`
+- `pod1_body`
+
+Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
+
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
+
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
+
+- `pre_header`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
+
+GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
+
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
+
+
 ## Template preview
 
 When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketing scans the HTML file for recognized fields. Use the preview to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with the [recognized field names](#recognized-field-names).
 
 Example Preview for an email template:
 
-![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
+![Preview fields detected](/help/assets/template-detected-fields.png "Check detected fields"){zoomable="yes"}
+
+See [Template code editor](/help/user-guide/content/code-editor.md).
 
 ### Control preview
 
@@ -180,7 +189,7 @@ The `_genStudio.browser` value is set when rendering a template, and the `genStu
 
 Another example may be to prevent the use of tracking codes when previewing a template in GenStudio for Performance Marketing. The following example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
 
-```handlebars
+```html
 <a class="button" {{#if _genStudio.browser }}
    href="{{ link }}"{{/if}}{{#if _genStudio.export }}
    href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
@@ -203,7 +212,7 @@ If the source changes after creating the initial preview, use the [refresh](/hel
 
 The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
 
-```handlebars {line-numbers="true" highlight="13"}
+```html {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
 <html>
 <head>
@@ -219,10 +228,11 @@ The following is a basic example of an HTML template for an email that contains 
 <body>{{ pre_header }}
     <div class="container">
         <h1>{{ headline }}</h1>
-        <p><img alt="{{ headline }}"
+        <p><a href="{{ link }}">
+           <img alt="{{ headline }}"
                 src="{{ image }}"
                 width="600" height="600"
-                border="0"/></p>
+                border="0"/></a></p>
         <p>{{ body }}</p>
     </div>
 </body>
@@ -235,7 +245,7 @@ The following is a basic example of an HTML template for an email that contains 
 
 The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
 
-```handlebars {line-numbers="true" highlight="33"}
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -263,20 +273,18 @@ The following is the same HTML template in the example above, but with two more 
 <body>{{ pre_header }}
     <div class="container">
         <h1>{{ headline }}</h1>
-        <p><img alt="{{ headline }}"
-                src="{{ image }}"
-                width="600" height="600"
-                border="0"/></p>
         <p>{{ body }}</p>
-    <!-- Pod1 -->
+        <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_header }}</h2>
+            <h2>{{ pod1_headline }}</h2>
+            <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod1_body }}</p>
         </div>
         <!-- End of Pod1 -->
-    <!-- Pod2 -->
+        <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_header }}</h2>
+            <h2>{{ pod2_headline }}</h2>
+            <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
             <p>{{ pod2_body }}</p>
         </div>
         <!-- End of Pod2 -->
@@ -291,7 +299,7 @@ The following is the same HTML template in the example above, but with two more 
 
 The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders) using a prefix.
 
-```handlebars {line-numbers="true" highlight="33"}
+```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
 <html>
 <head>
@@ -332,9 +340,9 @@ The following is a basic example of a Meta ad template. The head contains inline
 <body>
 <div class="ad-container">
     <img src="{{ image }}" alt="Ad Image" class="ad-image">
-    <div class="ad-headline">"{{ headline }}"</div>
-    <div class="ad-body">"{{ body }}"</div>
-    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+    <div class="ad-headline">{{ headline }}</div>
+    <div class="ad-body">{{ body }}</div>
+    <a href="{{ link }}" class="ad-cta">{{ CTA }}</a>
 </div>
 </body>
 </html>
