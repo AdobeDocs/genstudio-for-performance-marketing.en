@@ -13,9 +13,10 @@ role: Developer
 + Get started {#get-started}
   + [Introduction](intro.md)
 + App development {#apps}
-  + Create {#create}
-  + Publish {#publish}
-  + Install {#install}
-  + Test {#test}
+  + [Create an App Builder Project and App Builder app](create.md)
+  + [Develop and deploy your app](develop-deploy.md)
+  + [Distribute your app](distribute.md)
+  + [Install your app](install.md)
+  + [Review and approve your app](review.md)
 + Extensions {#extensions}
   + UI Extensions {#ui}
