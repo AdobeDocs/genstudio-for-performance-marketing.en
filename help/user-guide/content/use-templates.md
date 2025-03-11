@@ -20,7 +20,7 @@ By following these steps, you can create professional and effective templates th
 
 ## Template elements
 
-A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience. Template elements provide the structure for content creation.
+A template is a set of instructions defined with HTML and inline CSS that can be used to produce an email, social ad, or display ad experience. Template elements provide the structure for content creation.
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
@@ -88,7 +88,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, display ads, and Meta ads.
+The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Banner and Display ad, and Meta ads.
 
 ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
@@ -121,7 +121,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   - **Display ads**: requires Dimensions
+   - **Banner and Display ad**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 
