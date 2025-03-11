@@ -1,6 +1,6 @@
 ---
 title: Develop and deploy your app
-description: Develop and deploy your custom extension.
+description: Develop and deploy your custom add-on.
 ---
 
 # Develop and deploy your app
@@ -11,7 +11,7 @@ description: Develop and deploy your custom extension.
 
 * npm (packaged with Node.js)
 
-* Adobe I/O CLI. To install, enter `npm install -g @adobe/aio-cli`
+* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`
  
 ## Create a new App Builder App from a reference app
 
@@ -19,11 +19,11 @@ description: Develop and deploy your custom extension.
 
 1. Clone the repository that contains your reference app.
 
-1. Authenticate with Adobe I/O. Enter:
+1. Authenticate with the Adobe Developer command-line interface. Enter:
 
    `aio login` 
 
-1. Navigate to the environment of the App Builder Project you want to deploy your app to. Enter:
+1. Navigate to the environment of the App Builder Project in which you want to deploy your app. Enter:
 
    `aio app use <path-to-downloaded-project-details>`
 
@@ -33,13 +33,13 @@ description: Develop and deploy your custom extension.
 
 You are now ready to add your custom code.
 
-## Guidelines on writing extension code
+## Guidelines on writing add-on code
 
-You define your extension code in the `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. Use these two files to define the appearance and behavior of the dialog that is triggered by the specified action.
+You define your add-on code in the `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the add-on.
 
-* `AdditionalContextDialog.tsx`: User clicks on the Add-On extension in the prompt drawer in [!DNL Create].
+* `AdditionalContextDialog.tsx`: User clicks on Add-on in the prompt drawer in [!DNL Create].
 
-* `RightPanel.tsx`: User clicks on the validation extension in the right panel in [!DNL Create] in an experience draft.
+* `RightPanel.tsx`: User clicks on the validation add-on in the right panel in [!DNL Create] in an experience draft.
 
 ## Step 1: Run and deploy the app
 
@@ -49,19 +49,17 @@ Running your app can provide valuable debugging information.
 
 To run your app, enter `aio app run`.
 
-This command runs the app in `localhost`. It does not produce significant output because this app is successfully issues. To see the your app in GenStudio for Performance Marketing, you must deploy the product.
+This command runs the app in `localhost`. It does not produce significant output because this app is successfully issues. To see the app in GenStudio for Performance Marketing, you must deploy the product.
 
 **To deploy the app**:
 
-1. To deploy in this app in production, first enter this command to change to the workspace you want to deploy in:
+1. To deploy this app in production, first navigate to the deployment workspace. Enter:
 
    `aio app use -w Production`
 
 1. Enter: 
 
    `aio app deploy`
-
-add sample output
 
 **To force re-deployment**:
 
@@ -72,13 +70,17 @@ Enter:
 `aio app build --force-build`
 `aio app deploy --force-deploy`
 
+To build and deploy at the same time, enter:
+
+`aio app deploy --force-build --force-deploy` 
+
 After deploying the app, you can view it in your instance of GenStudio for Performance Marketing by adding this query parameter to the GenStudio for Performance Marketing URL:
 
 `https://experience.adobe.com/? ext=<deployed-url>#/@my-org/genstudio/create`
 
-## Step 2: Package your extension
+## Step 2: Package the add-on
 
-Package your extension so that other organizations can install it. If this is a private extension, you can skip this step and directly run and deploy your extension.   
+Package your add-on so that other organizations can install it. If you are creating a private add-on, skip this step and directly run and deploy your add-on.   
 
 **To create a package**:
 
@@ -86,6 +88,6 @@ Package your extension so that other organizations can install it. If this is a 
 
    `aio app pack`
 
-1. Save the command output in a location that you can easily access when publishing the app publicly. See [Distribute your extension](distribute.md).
+1. Save the command output in a location that you can easily access when publishing the app publicly. See [Distribute your app](distribute.md).
 
-You can now distribute your app. See [Distribute your extension](distribute.md).
+You can now distribute your add-on. See [Distribute your app](distribute.md).

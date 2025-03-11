@@ -1,14 +1,14 @@
 ---
 title: Create an App Builder app to extend GenStudio for Performance Marketing
-description: Start building extensible applications for GenStudio for Performance Marketing.
+description: Start building add-ons for GenStudio for Performance Marketing.
 ---
-# Create an App builder Project and and App Builder app
+# Create an App Builder Project and App Builder app
 
-Developers extending Adobe GenStudio for Performance Marketing's native capabilities use Adobe App Builder to create, submit, and deploy their extensible apps.
+Developers extending Adobe GenStudio for Performance Marketing's native capabilities use Adobe App Builder to create, submit, and deploy their extensible apps, or add-ons.
 
 ## App Builder app structure
 
-Genstudio for Performance Marketing extensible applications are App Builder apps. App Builder apps and consequently, Genstudio for Performance Marketing apps, contain the same basic components.
+Genstudio for Performance Marketing add-ons are App Builder apps. App Builder apps and consequently, add-ons, contain the same basic components.
 
 ### Build and configuration files
 
@@ -19,8 +19,8 @@ Genstudio for Performance Marketing extensible applications are App Builder apps
 * App Builder config files: 
 
   * `app.config.yaml`, `ext.config.yaml`, `.aio`, `.env`. (Do not commit the `.env` file to source control.)
-  * `ext.config.yaml`: config file for the extension
-  * `app.config.yaml`: config file for the app (includes defining your app as a Genstudio for Performance Marketing extension)
+  * `ext.config.yaml`: configuration file for the add-on
+  * `app.config.yaml`: configuration file for the add-on (includes defining your app as a Genstudio for Performance Marketing add-on)
 
 ### Source code
 
@@ -40,13 +40,13 @@ Genstudio for Performance Marketing extensible applications are App Builder apps
  
 ### Additional components
 
-* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) loads and shows the extension.
+* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) loads and shows the add-on.
 
 * `App.tsx`: Main app component that defines routing to other components.
 
 * `AdditionalContextDialog.tsx`: Dialog component for displaying additional context add-ons.
 
-* `RightPanel.tsx`: Dialog component for a validation extension.
+* `RightPanel.tsx`: Dialog component for a validation add-on.
 
 * `Helper` components: Include `ClaimsChecker` and `Spinner`.
 
@@ -56,9 +56,9 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
 ### Prerequisites
 
-* Provision GenStudio for Performance Marketing in the IMS org in which you are developing the custom extension. 
+* Provision GenStudio for Performance Marketing in the IMS org in which you are developing the custom add-on. 
 
-* Install AIO CLI  globally. Use this command: ` npm install -g @adobe/aio-cli`
+* Install AIO CLI globally. Use this command: ` npm install -g @adobe/aio-cli`
 
 * Install Nodejs v20
 
@@ -74,15 +74,15 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
 ## Step 2: Create an App Builder app
 
-You can use a sample extension to jump-start your extension creation. See the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository to view and select example extensions.
+You can use a sample app to jump-start your add-on creation. See the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository to view and select example apps.
 
 **To create an App Builder app from an existing app**
 
-1. Download a sample extension from the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository.
+1. Download a sample app from the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository.
 
 1. From the AIO environment of your App Builder project, select **[!UICONTROL Download All]** to download your project details.
 
-1. Open your sample extension locally in your preferred IDE.
+1. Open your sample app locally in your preferred IDE.
 
 1. Run this command with the downloaded JSON: 
 
