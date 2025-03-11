@@ -24,55 +24,21 @@ A template is a set of instructions defined with HTML and inline CSS that can be
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
-- **Preheader**
+- **Preheader** (Email)— A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened.
 
-  - Acts as a secondary subject line in an email, enhancing the main subject line
-  - Between 40-50 characters
-  - Visible in the inbox alongside the subject before the email is opened
-  - Used in email templates
+- **Header** (Email)— The top section of the email that the recipient sees when opening the email sets the tone and provides context for the included content.
 
-- **Header**
+- **Headline** (Meta ad, LinkedIn)— The first content that the recipient sees should be compelling to catch interest.
 
-  - Top section of the email that the recipient sees when opening the email
-  - Sets the tone and provides context for the included content
-  - Used in email templates
+- **Body** (Email, Meta ad, LinkedIn)— The main content area where the primary message is conveyed. It can include text, images, and other media.
 
-- **Headline**
+- **CTA** (Email, Meta ad, LinkedIn)— A call-to-action button that uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.
 
-  - First content the recipient sees
-  - Should be compelling to catch interest
-  - Used in Meta ad and LinkedIn ad templates
+- **Images** (Email, Meta ad, LinkedIn)— Enhance visual appeal, break up text, and support the message. They should be high-quality and eye-catching.
 
-- **Body**
+- **Footer** (Email)— The bottom section of the email that contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.
 
-  - Main content area where the primary message is conveyed
-  - Capable of including text, images, and other media
-  - Used in email and Meta ad and LinkedIn ad templates
-
-- **CTA**
-
-  - Call-to-action button uses a phrase and a link
-  - Encourages the recipient to take a specific action such as clicking a link or making a purchase
-  - Used in email and Meta ad and LinkedIn ad templates
-
-- **Images**
-
-  - Enhances visual appeal
-  - Break up text
-  - Support the message
-  - Should be high-quality and eye-catching
-  - Used in email, Meta ad and LinkedIn ad templates
-
-- **Footer**
-
-  - Bottom section that contains additional content such as contact details, social media links, disclaimers, and unsubscribe options
-  - Used in email templates
-
-- **Text Overlay**
-
-  - Text on an image
-  - Use to support and enhance the headline and body
-  - Used in Meta ad templates
+- **Text Overlay** (Meta ad)— Text placed on an image to support and enhance the headline and body content.
 
 >[!TIP]
 >
