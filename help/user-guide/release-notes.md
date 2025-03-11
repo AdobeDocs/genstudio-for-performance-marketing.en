@@ -10,6 +10,12 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.03.13 {#latest}
 
+### LinkedIn integration
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Added support for creating LinkedIn experiences. See the [LinkedIn ad](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+
 ### Templates
 
 The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
