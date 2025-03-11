@@ -240,9 +240,6 @@ You can manually add product details, instead of uploading existing product docu
 
 1. Click **[!UICONTROL New product name]** and enter a name for the [!DNL product].
 1. Add information about your [!DNL product] in the _Description_ section.
-
-   ![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
-
 1. Click into _Description_ and enter a description of this [!DNL Product].
 1. Click into _Value proposition_ and enter value proposition details to correctly position your [!DNL Product].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL product].
