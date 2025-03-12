@@ -8,7 +8,9 @@ exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
 
 GenStudio for Performance Marketing [!DNL Create] leverages the power of Adobe GenAI to empower marketers and distributed teams to create high-performing, on-brand experiences.
 
-![Create dashboard](/help/assets/create.png){width="600" zoomable="yes"}
+![Create home](/help/assets/create-home.png){width="600" zoomable="yes"}
+
+The [!DNL Create] home is organized into channel sections—_Owned media_, _Paid media_, and _Content_—and a _Recents_ section that displays all your recent drafts and published content. Each channel section enables the creation of content for that specific set of channels. For instance, go to the _Owned media_ section to begin creating an email or banner.
 
 With [!DNL Create], you can generate content for the following channels:
 
