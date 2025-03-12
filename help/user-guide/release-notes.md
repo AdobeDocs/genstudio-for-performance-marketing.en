@@ -10,6 +10,20 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.03.13 {#latest}
 
+### Create LinkedIn experiences
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Added support for [creating LinkedIn experiences](/help/user-guide/create/create-linkedin.md). See the [LinkedIn ad](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+
+### Create banner experiences
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Added support for [creating banner experiences](/help/user-guide/create/create-banner-experiences.md). See the [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+
+### Compliance
+
 ### Templates
 
 The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
@@ -17,6 +31,15 @@ The new [Template code editor](/help/user-guide/content/code-editor.md) helps yo
 ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
 
 Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+
+### Fixes and enhancements
+
+* Enabled functionality for [default channel](/help/user-guide/guidelines/brands.md#channel-guidelines), [image](/help/user-guide/guidelines/brands.md#image-guidelines), [logo](/help/user-guide/guidelines/brands.md#logos), and [color](/help/user-guide/guidelines/brands.md#colors) guidelines for [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
+* Added ability to [add links to images](/help/user-guide/create/manage-variants.md#add-image-link) within a variant.
+* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar. This maximizes space on the Canvas and improves user experience.
+* Improved the flow for [uploading or manually adding a brand](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Added ability to [add or swap image assets within a variant](/help/user-guide/create/manage-variants.md#swap-image) on the Canvas.
+* Improved user experience and visibility of channel categories on the Create home by separating them into Owned media, Paid media, and Content sections.
 
 ## Earlier release notes
 
@@ -50,7 +73,7 @@ You can now generate new call-to-action (CTA) phrases when managing variants. Us
 
 * Character counts are now displayed in all generated and manual fields of display ads. See _Character counts_ in [Meta experiences](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
 
-* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in[!DNL Create]. <!-- GS-7614 -->
+* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in [!DNL Create]. <!-- GS-7614 -->
 
 * Content editors can now edit asset, experience, and template metadata. <!-- GS-4905 -->
 
