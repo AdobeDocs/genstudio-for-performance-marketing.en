@@ -42,11 +42,11 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 * **Content generation** in [[!DNL Create]](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
 * [**Brand validation**](#brand-validation), which happens as part of the content creation process
 
-## Brand validation
+## Content checks
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
 
-GenStudio for Performance Marketing conducts brand validation and content checks, including ADA accessibility standards and platform standards, and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
+GenStudio for Performance Marketing conducts brand validation and content checks, including ADA accessibility standards and platform standards, and provides a checklist for generated content to highlight improvement areas to better align with your brand identity and other applied standards.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -54,7 +54,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 Adobe GenStudio for Performance Marketing integrates external platform guidance and ADA accessibility standards along with user-defined guidelines to perform brand validation and content checks across all variants.
 
-These cumulative checks include:
+These cumulative compliance checks include:
 
 * **ADA accessibility**—Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users. GenStudio for Performance Marketing currently references ADA Level A accessibility standards.
 * **Platform compliance**: Vital for adhering to the specific guidelines of each platform—such as Meta or LinkedIn—and following industry best practices. These are default guidelines present in the system and pre-populated in [[!DNL Brand] guidelines].

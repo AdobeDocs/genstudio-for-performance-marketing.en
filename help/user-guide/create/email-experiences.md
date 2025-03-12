@@ -48,7 +48,7 @@ Each field and section of email experiences are progressively loaded in this seq
 1. Pre-headers
 1. Headlines, email body (for single section emails), and calls-to-action
 1. Email body for subsequent sections (for multi-section emails)
-1. Brand validation process occurs and the [_Brand and accessibility check_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check) populates for each variant.
+1. Brand validation process occurs and the [_Content check_ summary](/help/user-guide/guidelines/brand-validation.md#content-check-summary) populates for each variant.
 
 ## Character counts
 

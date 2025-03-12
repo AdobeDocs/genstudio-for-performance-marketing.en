@@ -49,7 +49,7 @@ Each field and section of the Meta ad experiences are progressively loaded in th
 1. Calls-to-action and associated URLs
 1. Headlines
 1. On-image text
-1. The brand validation process occurs and the [_Brand and accessibility check_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check) populates for each variant.
+1. Brand validation process occurs and the [_Content check_ summary](/help/user-guide/guidelines/brand-validation.md#content-check-summary) populates for each variant.
 
 ## Character counts
 

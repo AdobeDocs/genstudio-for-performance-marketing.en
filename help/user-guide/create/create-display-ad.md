@@ -83,17 +83,17 @@ When revising and preparing email experiences, you can toggle between previews f
 
 To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
-## Verify brand alignment
+## Verify content check alignment
 
-To optimize the generated variants and ensure strict adherence to brand identity and accessibility standards, leverage the power of the [_Brand and accessibility check panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check-panel). This panel displays comprehensive brand, platform, and accessibility validation details and illuminates improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
 
-**To perform [!DNL Brand], platform, and accessibility checks on a variant**:
+**To perform content checks on a variant**:
 
-1. Click the _Brand and accessibility check_ panel in the right action bar to open the [_Brand and accessibility checks panel_](/help/user-guide/guidelines/brand-validation.md#brand-and-accessibility-check-panel). View a summary of the *Failed* and *Passed* checks to see which sections and guidelines need improvement.
+1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   ![[!DNL Brand] and accessibility check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/brand-validation-compliance.png){height="4 00" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with your brand and pass platform guidelines and accessibility checks.
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
