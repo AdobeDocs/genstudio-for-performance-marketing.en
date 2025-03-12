@@ -74,7 +74,7 @@ You can use an example app to jump-start your add-on creation.
 
   `aio app '/path/to/your/downloaded/app-builder/project/details/config.json'`
 
-  ## Prerequisites
+## Prerequisites
  
 * Node.js (version 20.x or higher)
 
