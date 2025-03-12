@@ -1,10 +1,10 @@
 ---
 title: Install your app
-description: Install your extensible applications.
+description: Install your App Builder app, or add-on.
 ---
 # Install your app
 
-Installation for both private and public apps requires listing on [Adobe Exchange](https://exchange.adobe.com/), a portal that lists and provides access to approved add-ons for Adobe Experience Cloud applications. Only [distributed add-ons](distribute.md) can be installed.
+Installation requires listing on [Adobe Exchange](https://exchange.adobe.com/), a portal that lists and provides access to approved add-ons for Adobe Experience Cloud applications. Only [distributed add-ons](distribute.md) can be installed.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Installation for both private and public apps requires listing on [Adobe Exchang
 
 1. Click **[!UICONTROL Manage your app]** to continue installation. Adobe Exchange adds the app to the list of applications, but you cannot install or use the add-on until your system manager approves. Clicking this button alerts your system manager that their approval is required. 
 
-After the system manager has approved the add-on, Adobe Exchange lists the add-on as an approved app. Private add-on installation is now complete.
+After the system manager has approved the add-on, Adobe Exchange lists the add-on as an approved app.
 
 **To complete installation for a public app**:
 
@@ -35,3 +35,5 @@ To install a public add-on, perform this additional step:
 1. Select _Deploy_ from the more options (...) menu.
 
 After a brief interval, your app is available in the Adobe Exchange listing.
+
+[Review your app](review.md) as an add-on in GenStudio for Perforamnce Marketing.

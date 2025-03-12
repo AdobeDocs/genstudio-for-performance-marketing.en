@@ -1,14 +1,14 @@
 ---
-title: Create an App Builder app to extend GenStudio for Performance Marketing
-description: Start building add-ons for GenStudio for Performance Marketing.
+title: Create an App Builder Project to extend GenStudio for Performance Marketing
+description: Create an App Builder Project for your app, or add-on.
 ---
-# Create an App Builder Project and App Builder app
+# Create an App Builder Project
 
-Developers extending Adobe GenStudio for Performance Marketing's native capabilities use Adobe App Builder to create, submit, and deploy their extensible apps, or add-ons.
+Developers extending Adobe GenStudio for Performance Marketing's native capabilities use Adobe App Builder to create, submit, and deploy their extensible apps, or _add-ons_.
 
 ## App Builder app structure
 
-Genstudio for Performance Marketing add-ons are App Builder apps. App Builder apps and consequently, add-ons, contain the same basic components.
+Genstudio for Performance Marketing add-ons are App Builder apps. App Builder apps and add-ons contain the same basic components.
 
 ### Build and configuration files
 
@@ -19,7 +19,9 @@ Genstudio for Performance Marketing add-ons are App Builder apps. App Builder ap
 * App Builder config files: 
 
   * `app.config.yaml`, `ext.config.yaml`, `.aio`, `.env`. (Do not commit the `.env` file to source control.)
+
   * `ext.config.yaml`: configuration file for the add-on
+
   * `app.config.yaml`: configuration file for the add-on (includes defining your app as a Genstudio for Performance Marketing add-on)
 
 ### Source code
@@ -58,9 +60,9 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
 * Provision GenStudio for Performance Marketing in the IMS org in which you are developing the custom add-on. 
 
-* Install AIO CLI globally. Use this command: ` npm install -g @adobe/aio-cli`
+* Install the App Builder command-line interface globally. Use this command: ` npm install -g @adobe/aio-cli`
 
-* Install Nodejs v20
+* Install Nodejs (version 20 or higher)
 
 **To create a new Project**:
 
@@ -72,20 +74,4 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
    If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. If the org is correct, you do not yet have access to App Builder. Confirm that you have followed the process in How to Get Access to App Builder.
 
-## Step 2: Create an App Builder app
-
-You can use a example app to jump-start your add-on creation. See the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository to view and select example apps.
-
-**To create an App Builder app from an existing app**
-
-1. Download a example app from the [GenStudio UIX Examples](https://git.corp.adobe.com/GenStudio/genstudio-uix-examples) repository.
-
-1. From the AIO environment of your App Builder project, select **[!UICONTROL Download All]** to download your project details.
-
-1. Open your example app locally in your preferred IDE.
-
-1. Run this command with the downloaded JSON: 
-
-   `aio app use '/Users/your_name/Downloads/206CornsilkCrow-257324-Production.json'`
-
-You are now ready to [develop and deploy your app](develop-deploy.md).
+You are now ready to [create and develop your app](create-app.md).

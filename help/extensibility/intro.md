@@ -1,21 +1,22 @@
 ---
 title: Get started
-description: Start building extensible applications with the GenStudio UI SDK.
+description: Start building add-ons, or App Builder apps that extend GenStudio for Performance Marketing.
 ---
 # Get started building extensible apps
 
-GenStudio for Performance Marketing extensibility framework provides tools for organizations to incorporate their own claims compliance protocols into GenStudio for Performance Marketing content creation workflow and validation. With this toolset, developers can create custom apps, or add_ons, which are 
+GenStudio for Performance Marketing add-on framework provides tools for organizations to incorporate their own claims compliance protocols into GenStudio for Performance Marketing content creation workflow and validation. With this toolset, developers can create custom apps, or add_ons.
 
 ## Overview
 
-This guide describes the process of creating add-ons, or custom apps, to customize and enhance GenStudio for Performance Marketing core AI-driven content creation capabilities. 
+This guide describes the process of creating add-ons to customize and enhance GenStudio for Performance Marketing core AI-driven content creation capabilities. 
 
 Developers of extensible apps for GenStudio for Performance Marketing use the standard Adobe Experience Cloud app development toolset, Adobe App Builder framework, to develop and deploy custom apps, or add-ons.
 
 Add-on creation in this ecosystem includes these high level tasks:
 
-* [Create an App Builder Project and App Builder app](create.md)
-* [Develop and deploy your app](develop-deploy.md)
+* [Create an App Builder Project](create.md)
+* [Create and develop an App Builder app](create-app.md)
+* [Deploy your app](develop-deploy.md)
 * [Distribute your app](distribute.md)
 * [Install your app](install.md)
 * [Review and approve your app](review.md)
@@ -38,10 +39,7 @@ GenStudio for Performance Marketing
 
 ### Environment
 
-Provision GenStudio for Performance Marketing App Builder in the IMS org in which you are developing the add-on. Adobe App Builder is enabled by default in your deployment of GenStudio for Performance Marketing.
+Adobe App Builder is enabled by default in the same IMS org where GenStudio for Performance Marketing has been provisioned. 
 
 After setting up your environment, you can [create an App Builder project](create.md) and create your app.
 
-## More help on this topic
-
-[Create an app](create.md)
