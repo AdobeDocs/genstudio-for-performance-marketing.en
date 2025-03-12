@@ -46,7 +46,7 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
 
-GenStudio for Performance Marketing conducts brand validation and content checks, including ADA accessibility standards and platform standards, and provides a checklist for generated content to highlight improvement areas to better align with your brand identity and other applied standards.
+GenStudio for Performance Marketing conducts brand validation and content checks, including ADA accessibility standards and platform standards, and provides a checklist for generated content to highlight improvement areas.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

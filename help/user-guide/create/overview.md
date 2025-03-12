@@ -105,7 +105,7 @@ To create AI-generated content, enter a [descriptive prompt](/help/user-guide/ef
 
 ### Content checks
 
-GenStudio for Performance Marketing conducts [content checks](/help/user-guide/guidelines/brand-validation.md#content-check-panel) against [brand guidelines](/help/user-guide/guidelines/brands.md), platform guidelines, and [accessibility standards](/help/user-guide/guidelines/overview.md#compliance) on each variant to ensure it meets the utmost in [!DNL Brand], platform, and accessibility standards. [Content check](/help/user-guide/guidelines/brand-validation.md#content-check-summary) information is available for any generated content, indicating its compliance with conmprehensive content checks and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio for Performance Marketing conducts [content checks](/help/user-guide/guidelines/brand-validation.md#content-check-panel) against [brand guidelines](/help/user-guide/guidelines/brands.md), platform guidelines, and [accessibility standards](/help/user-guide/guidelines/overview.md#compliance) on each variant to ensure it meets the utmost in [!DNL Brand], platform, and accessibility standards. [Content check](/help/user-guide/guidelines/brand-validation.md#content-check-summary) information is available for any generated content, indicating its compliance with comprehensive content checks and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
 
 ### Reviews and approvals
 

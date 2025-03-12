@@ -61,7 +61,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 **To improve brand alignment for generated variants**:
 
-1. Click the _Content check_ panel icon in the right action bar to see validation and accessibility information for a single variant in the _Content check_ panel.
+1. Click the _Content check_ panel icon in the right action bar to see validation and accessibility information for a single variant.
 
    You can see a summary of the _Needs review_ and _Passed_ checks to see which sections and guidelines need improvement.
 
@@ -72,7 +72,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 1. Click to fix guidelines that are not currently compliant.
 1. Click to expand and inspect each check that needs review in available sections such as _Headline_ and _Brand voice_.
 
-   Use the reasoning noted for each check that needs review to inform variant revisions.
+   Use the reasoning provided for each check to guide you in revising the variants.
 
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility standards.
 
