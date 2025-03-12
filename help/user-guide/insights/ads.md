@@ -10,7 +10,7 @@ The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connecte
 
 {{connect-insights}}
 
-The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Campaign] lists to filter the ad names in the table. Click **Reset** to clear all filter selections.
+The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
 
 ![Ads filter and table](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 
