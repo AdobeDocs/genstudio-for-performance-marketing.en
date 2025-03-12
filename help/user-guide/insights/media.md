@@ -10,7 +10,7 @@ The [!DNL Insights] _[!UICONTROL Media]_ view shows a list of media used in ads 
 
 {{connect-insights}}
 
-The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Click **Reset** to clear all filter selections.
+The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
 
 ![Media filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
 
