@@ -16,7 +16,7 @@ The _[!UICONTROL Channels]_ table is organized using the channel-based ad campai
 
 {{$include /help/_includes/download-insights.md}}
 
-When you select a campaign, the [[!UICONTROL Experiences] tab](experiences.md) opens to a list of ad names associated with that campaign, which allows you to identify which experiences have contributed to its overall success.
+When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
 ## Objectives
 
@@ -31,7 +31,7 @@ At the time that you created a campaign with Meta ads, you may have selected an 
 
 ## Channel performance
 
-Depending on your performance goals, Insights metrics can help you evaluate whether you are achieving your objective.
+Depending on your performance goals, [!DNL Insights] metrics can help you evaluate whether you are achieving your objective.
 
 For example, if awareness is your objective, then an increase in the rate of `impressions` may indicate that you are expanding your reach. To understand if that is achieving your objective, you could look at metrics that indicate your content is engaging, such as `clicks` or `video plays`. How effectively is your audience interacting with your content?
 

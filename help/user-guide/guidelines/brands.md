@@ -10,17 +10,17 @@ A brand distinguishes an organization, product, service or concept from others. 
 
 GenStudio for Performance Marketing uses the wealth of brand information from your [!DNL Brand], partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
-## Manage [!DNL Brands]
+## Manage Brands
 
 After adding brand guidelines to GenStudio for Performance Marketing, you can [manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) and [publish](/help/user-guide/guidelines/add-guidelines.md#publish-brand) them. Publishing makes them available for your team to use in asset generation.
 
-[!DNL Brands] can be in either a _Unpublished_ or _Published_ state. New [!DNL brands] start as _Unpublished_.
+[!DNL Brands] can be in either a _Unpublished_ or _Published_ state. New [!DNL Brands] start as _Unpublished_.
 
-You must [publish a brand](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
+You must [publish a [!DNL Brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
 
 Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
-Deleted [!DNL brands] are archived for 30 days and can be recovered within that period.
+Deleted [!DNL Brands] are archived for 30 days and can be recovered within that period.
 
 ## [!DNL Brands] guidelines
 
@@ -34,14 +34,29 @@ The following guidelines sections detail each guidelines category, examples guid
 
 ### Brand voice guidelines
 
-The following table shows each category of brand voice guideline and guideline examples.
+The following table shows each category of brand voice guidelines and guideline examples.
 
 | Guideline category | Description | Best practices |
 | ------------------| :---------- | :---------- |
-| Tone of voice       | Brand's personality as expressed through written communication | Use descriptive words to clearly convey brand's emotion and tone. <br>_Examples_: "genuine", "playful"<br><br>Be concise (3-6 guidelines) and focus on key brand voice attributes.<br><br>Select words/phrases that are consistent across communication channels to build coherent brand identity. |
-| Brand values        | Principles that drive brand culture, customer experience, and business strategies | Use descriptive words to convey brand's mission, vision, and audience needs. <br>_Examples_: "authenticity", "inspiring", "progressive"<br><br>Be concise (3-6 guidelines) and focus on core brand values/themes. |
-| Editorial guidelines   | Communication guidelines defining best practices for crafting brand messaging | Use positive phrasing (5-10 guidelines) to establish a strong foundation.<br>_Examples_: "Use simple, accessible language" instead of "Avoid using jargon"<br><br>Provide clear and actionable guidance. <br>_Examples_: "Keep sentences under 20 words" instead of "Be concise"<br><br>Reflect your brand's style, such as using specific syntax preferences. <br>_Examples_: "Use an em dash instead of a colon", "Use sentence case"<br><br>Craft precise guidelines that maintain consistency across outputs. |
-| Editorial restrictions  | Communication guidelines defining what to avoid in brand messaging | Use direct negative phrasing (5-10 guidelines) to specify what should be avoided. <br>_Example_: "Avoid using..."<br><br>Provide clear and actionable guidance. <br>_Example_: "Avoid rhetorical questions" |
+| [!UICONTROL Tone of voice]       | Brand's personality as expressed through written communication | Use descriptive words to clearly convey brand's emotion and tone. <br>_Examples_: "genuine", "playful"<br><br>Be concise (3-6 guidelines) and focus on key brand voice attributes.<br><br>Select words/phrases that are consistent across communication channels to build coherent brand identity. |
+| [!UICONTROL Brand values]        | Principles that drive brand culture, customer experience, and business strategies | Use descriptive words to convey brand's mission, vision, and audience needs. <br>_Examples_: "authenticity", "inspiring", "progressive"<br><br>Be concise (3-6 guidelines) and focus on core brand values/themes. |
+| [!UICONTROL Editorial guidelines]   | Communication guidelines defining best practices for crafting brand messaging | Use positive phrasing (5-10 guidelines) to establish a strong foundation.<br>_Examples_: "Use simple, accessible language" instead of "Avoid using jargon"<br><br>Provide clear and actionable guidance. <br>_Examples_: "Keep sentences under 20 words" instead of "Be concise"<br><br>Reflect your brand's style, such as using specific syntax preferences. <br>_Examples_: "Use an em dash instead of a colon", "Use sentence case"<br><br>Craft precise guidelines that maintain consistency across outputs. |
+| [!UICONTROL Editorial restrictions]  | Communication guidelines defining what to avoid in brand messaging | Use direct negative phrasing (5-10 guidelines) to specify what should be avoided. <br>_Example_: "Avoid using..."<br><br>Provide clear and actionable guidance. <br>_Example_: "Avoid rhetorical questions" |
+
+### Image guidelines
+
+The following table shows each category of image guidelines and associated values. You must [establish a category](add-guidelines.md#add-brands), such as 'General art guidelines' or 'Product photography,' in order to apply the image guidelines.
+
+| Guideline category | Description | Values |
+| ------------------| :---------- | :---------- |
+| [!UICONTROL Description]       | General information for the specific category of image guideline added, such as "Product photography" or "General art guidelines" | Extracted from guidelines documents and manually configurable <br><br>_Example for General art guideline_: "Guidelines that apply to images that are not photographs, such as illustrations, and 3D renders" |
+| [!UICONTROL Content type]       | Available content types for an image | _Art_ or _Photo_ |
+| Composition      | Details regarding the placement of objects, camera, and photography techniques | Extracted from guidelines documents and manually configurable |
+| [!UICONTROL Environment]    | Details regarding the environment, such as background elements in the image | _Example_: "Prefer to use a sunny environment" |
+| [!UICONTROL Color]    | Details regarding color family, color temperature, primary/secondary/tertiary colors, hue, saturation, contrast | Extracted from guidelines documents and manually configurable<br><br>_Examples_: "Ensure product is the main focus with minimal distractions", "Vibrant colors" |
+| [!UICONTROL Lighting]    |    General or specific details regarding the lighting | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Place a ring light in front of the person" |
+| [!UICONTROL Mood]    | Describes the feeling of an image | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Images must always depict positive, joyous themes"|
+| [!UICONTROL Restrictions]    | Things to avoid regardless of other guidelines | Extracted from guidelines documents and manually configurable<br><br>_Example_: "Avoid shooting photos in cloudy environment", "Avoid negative themes", "Colors cannot be washed out" |
 
 ### Channel guidelines
 
@@ -140,6 +155,26 @@ You can create your own categories, like Photos, Product, or Illustration imager
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
+
+### Logos
+
+[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos (not to exceed 1GB per file) for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_.
+
+Each uploaded logo includes the following details within the logo tile:
+
+- File type
+- File size
+- Resolution
+
+From the actions menu (three dots) for a color, you can **[!UICONTROL Download]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
+
+### Colors
+
+Manage colors within individual [!DNL Brands] to ensure consistent and accessible text styling. Choose or define colors by a hex code or RGB code, and only solid colors are supported (opacity is not supported). You can add unlimited colors, view them in a gallery format, and rename them from hex or RGB code to a human-readable name.
+
+![Brand colors](/help/assets/colors.png){width="600" zoomable="yes"}
+
+From the actions menu (three dots) for a color, you can **[!UICONTROL Edit]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
 
 ## Brand validation
 

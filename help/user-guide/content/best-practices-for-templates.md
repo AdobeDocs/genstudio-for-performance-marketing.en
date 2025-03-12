@@ -115,11 +115,11 @@ For Meta ads, the `headline`, `body`, and `CTA` fields are automatically generat
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
->[!TAB Display ad]
+>[!TAB Banner & Display ad]
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-Follow these design best practices when customizing display ad templates to work with GenStudio for Performance Marketing:
+Follow these design best practices when customizing Banner and Display ad templates to work with GenStudio for Performance Marketing:
 
 - Use Adobe or Google fonts
 - Prepare assets that display well in slim dimensions

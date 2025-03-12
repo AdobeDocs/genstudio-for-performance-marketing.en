@@ -36,7 +36,7 @@ Some asset metadata is automatically collected when an asset is uploaded, such a
 
 When you store an approved asset in [!DNL Content], GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the asset and apply tags based on the asset features. For example, a picture of a cat may result in attribute tags like `pet photography` or `cat`, and color tags that identify dominant colors in the picture. You cannot edit tags that are detected and automatically applied.
 
-See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
+See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attributes.md#categories) for detailed lists of image, video, and text features.
 
 ### Generated content metadata
 
@@ -69,7 +69,7 @@ The following table details the metadata (asset details) that you can define whe
 | [!DNL Brands]  | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
 | [!DNL Products]| [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
 | [!DNL Personas]| [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
-| Channels       | Platforms for distributing certain content types, such as email and display ads |
+| Channels       | Platforms for distributing certain content types, such as email and Banner and Display ad |
 | [!UICONTROL Timeframe] | Time frame for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
 | Region         | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
 | Language       | Languages for which the asset is used. Example: `Spanish` |

@@ -20,7 +20,7 @@ By following these steps, you can create professional and effective templates th
 
 ## Template elements
 
-A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience. Template elements provide the structure for content creation.
+A template is a set of instructions defined with HTML and inline CSS that can be used to produce an email, social ad, or display ad experience. Template elements provide the structure for content creation.
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
@@ -88,7 +88,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, display ads, and Meta ads.
+The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Banner and Display ad, and Meta ads.
 
 ![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
@@ -104,22 +104,24 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Review discovered fields]_ pane, review the detected fields. Verify that you are using the correct template and that all the details are as expected. Click **[!UICONTROL Next]**.
+1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file.
+   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
+
+1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
 1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   - **Display ads**: requires Dimensions
+   - **Banner and Display ad**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 
