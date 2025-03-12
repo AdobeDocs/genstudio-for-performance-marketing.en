@@ -68,8 +68,8 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 **To revise generated variants**:
 
-* **To [edit the display ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit a display ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the banner sections or fields (such as the headline or CTA) and edit as needed.
+* **To [edit the banner draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
+* **To [manually edit a banner](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the banner sections or fields (such as the headline or CTA) and edit as needed.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
@@ -112,7 +112,7 @@ Use the _Approvals_ panel, accessible as an icon on the right action bar of the 
 1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted banner experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
-1. Edit the drafts per review comments and [publish your display ad experiences](#publish-and-export-experience).
+1. Edit the drafts per review comments and [publish your banner experiences](#publish-and-export-experience).
 
 See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 
