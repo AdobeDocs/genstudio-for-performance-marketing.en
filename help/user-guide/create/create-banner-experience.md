@@ -50,7 +50,7 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 ## Enter a prompt
 
-Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it iss essential to craft prompts that are detailed and descriptive.
+Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it is essential to craft prompts that are detailed and descriptive.
 
 ![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
@@ -100,7 +100,7 @@ To optimize the generated banners and ensure comprehensive brand-alignment, leve
    You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
 1. Toggle through each banner to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise ads](#revise-generated-display-ads) to ensure your banners are closely aligned with your brand.
+1. [Manually revise ads](#revise-generated-banners) to ensure your banners are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -121,13 +121,13 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 
 To make the generated banners available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new banner experience(s)**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
+1. **To publish your new banner experiences**, click **[!UICONTROL Publish]** in the top toolbar, or within the approvals flow.
    1. Select _[!UICONTROL [!DNL Campaigns]]_ and add _[!UICONTROL More details]_ if desired.
    1. Click **[!UICONTROL Publish]**.
 
       ![Publish a banner](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
-1. **To export your new banner experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
+1. **To export your new banners**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—HTML and images, PNG, or JPG—and click **[!UICONTROL Export]**.
 
       Exported HTML should be placed within a predefined web property, like a template or `div` container. Without these set dimensions, images may appear distorted when viewed independently.
