@@ -96,7 +96,7 @@ You can use an example app to jump-start your add-on creation.
 
    `aio app use <path-to-downloaded-project-details>`
 
-1. Install dependencies. Enter:
+1. Install dependencies:
 
    `npm install`
 
@@ -112,38 +112,18 @@ You define your add-on code in either or both `AdditionalContextDialog.tsx` and 
 
 You are now ready to [Deploy your app](develop-deploy.md).
 
-## Tips for development
+## Development tips
 
-Consider the following optional practices to facilitate your app development.
+Maintaining your development environment can help you avoid errors during app development and deployment. 
 
-### Confirm development toolset components
+### Upgrade Dependencies
 
-Use the `aio info` command to confirm that your development environment includes all required libraries and development tools. The `aio info` command flags the presence or absence of libraries (for example, the Adobe command line interface). It also identifies issues with proxy settings. To install the Adobe command-line interface, use `npm install -g @adobe/aio-cli`.
+If you are using an older version of a sample app, consider upgrading dependencies by re-installing dependencies:
 
-### Set appropriate LOG levels for debugging
+```
+rm -rf node_modules package-lock.json && npm i
+``` 
 
-Set `LOG_LEVEL=debug aio app deploy` at the command line to view logs. If you use proxy servers, confirm that your proxy can reach the following resources:
- 
-* `adobeio-static.net`
-  
-* `adobeioruntime.net`
- 
-* `addons.adobe.com`
-  
-* `adobe-addons.com` 
+### Upgrade the GenStudio UIX SDK
 
-* `adobe-runtime.com`
-  
-* `adobeio-static.net`
-  
-* `adobeioruntime.net`
-  
-* `adobe.io`
-
-### Delete package-lock.json 
-
-Older sample apps may include older artifacts that may result in errors. If you are using an older sample app, consider deleting the `package-lock.json` in the root app folder before rebuilding. Perform a clean installation with `npm ci`. This command can confirm that your app does not reference any internal Adobe potentially contained in the `package-lock.json` file of the sample app.
-
-### Certificate issues
-
-The `self-signed certificate in certificate chain` message suggests an issue with your certificate.  If you receive this message, use `NODE_TLS_REJECT_UNAUTHORIZED=0 aio app deploy --force-deploy` instead of `aio app deploy --force-deploy`. 
+Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [Genstudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
