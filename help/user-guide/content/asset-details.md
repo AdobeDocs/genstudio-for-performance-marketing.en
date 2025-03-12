@@ -36,7 +36,7 @@ Some asset metadata is automatically collected when an asset is uploaded, such a
 
 When you store an approved asset in [!DNL Content], GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study the asset and apply tags based on the asset features. For example, a picture of a cat may result in attribute tags like `pet photography` or `cat`, and color tags that identify dominant colors in the picture. You cannot edit tags that are detected and automatically applied.
 
-See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attribute-category.md) for detailed lists of image, video, and text features.
+See [!DNL Insights] [Attribute categories](/help/user-guide/insights/attributes.md#categories) for detailed lists of image, video, and text features.
 
 ### Generated content metadata
 
@@ -50,11 +50,11 @@ When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets)
 
 **To edit the user-defined metadata**:
 
-1. In _[!DNL Content]_, select an asset, experience, or template.
+1. In _[!DNL Content]_, select an asset, experience, or template. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
-1. Click **[!UICONTROL Edit details]** (pencil) to edit asset metadata.
+1. Click **[!UICONTROL Edit details]** (pencil) to edit asset, experience, or template metadata.
 
    The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
@@ -85,8 +85,8 @@ The [!UICONTROL Generative Context] section shows what information was used to g
 
 Information may include:
 
-- `Brand`, `Product`, and `Persona` parameters
-- `Subject line` and `Pre Header` for email experiences
+- `Brand`, `Product`, and `Persona` parameters selected during the [!DNL Create] process
+- `Subject line` and `Preheader` for email experiences
 - `Headline` and `Body` for Meta ads
 
 ## History

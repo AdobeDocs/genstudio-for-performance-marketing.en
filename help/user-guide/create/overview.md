@@ -95,9 +95,11 @@ After you are done generating content variations, send your drafts for approval 
 
 ### Drafts
 
-In the _Recent work_ section of [!DNL Create], access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md).
+In the _Recent work_ section of [!DNL Create], access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md) or exporting for use.
 
-Drafts in progress are automatically saved. When you navigate back to the [!DNL Create] home, the _Recent work_ section is updated with your most recent drafts. For each draft, you can see whether it has been _Approved_ or is still in _Draft_ form.
+Drafts in progress are automatically saved. When you navigate back to the [!DNL Create] home, the _Recent work_ section is updated with your most recent drafts. Each draft in this section displays a status, such as _Draft_ or _Approved_.
+
+Click the sorting icons (grid or table) to display _Recent work_ items in either a grid or table view.
 
 ### Manage variants
 

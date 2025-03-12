@@ -9,7 +9,7 @@ exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 
 You can customize a template for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content.
 
-The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+The next few sections explain how to adapt your HTML templates for GenStudio for Performance Marketing by using the _[!DNL Handlebars]_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [What is [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
 
 Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
@@ -101,7 +101,9 @@ Use a prefix of your choice in the field name to indicate that a field is part o
 
 Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
 
-An email template can include up to three sections. For example, the following list has three headline and body sections:
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
+
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
 - `pre-header`
 - `pod1_headline`
@@ -115,6 +117,32 @@ An email template can include up to three sections. For example, the following l
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in an email.
+
+### Calls to action
+
+A Call to action (CTA) includes a phrase and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ capabilities to work properly during the variant generation process, you must include placeholders for the link and the phrase in your template.
+
+Use the following guidance to set up CTA placeholders:
+
+- CTA rephrase is available and link is editable
+
+   ```html
+   <a class="button" href="{{pod1_link}}" >{{cta}}</a>
+   ```
+
+- CTA rephrase is available, but link is **not** editable because actual link is provided in the template
+
+   ```html
+   <a align="center" href="https://link">{{cta}}</a>
+   ```
+
+- CTA link is editable, but rephrase is **not** available because phrase is provided in the template
+
+   ```html
+   <a class="button" href="{{pod1_link}}" >Register now</a>
+   ```
+
+GenStudio for Performance Marketing can provide variant calls-to-action phrases, too. See [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action).
 
 ## Template preview
 
@@ -147,13 +175,13 @@ Another example may be to prevent the use of tracking codes when previewing a te
 
 ## Static content
 
-Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketing. When GenStudio for Performance Marketing generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+Email and Meta templates often link to images and CSS files hosted on other domains. When GenStudio for Performance Marketing generates thumbnails for template previews or the experiences derived from them, it validates the content source and embeds a copy for preview purposes.
 
-To ensure that these resources are available during the thumbnail generation process, consider two options:
+External files are temporarily embedded only for the purpose of creating the template preview, which ensures that the preview accurately reflects the content as it appears at the time of creation. These external files are **not** stored permanently in GenStudio for Performance Marketing. After the template preview is created, GenStudio for Performance Marketing continues to reference the original source link provided in the template.
 
-1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketing to access and include the resources.
+### Refresh content
 
-1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
+If the source changes after creating the initial preview, use the [refresh](/help/user-guide/content/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.
 
 ## Template examples
 

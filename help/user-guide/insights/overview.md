@@ -14,9 +14,7 @@ From the [!DNL Insights] dashboard, you can:
 - **Optimize low-performing content**: Find content that is not performing well and use the integrated generative AI to create variations immediately, potentially improving its effectiveness without starting from scratch.
 - **Revitalize high-performing content**: Take successful content and tweak it to refresh the experience for the audience or adapt hero content for use in new campaigns, potentially extending its lifecycle and performance.
 
->[!TIP]
->
->See the [Connect channel account](connect-channel.md) for steps to enable GenStudio for Performance Marketing to receive data from your current marketing campaigns, assets, and experiences.
+{{connect-insights}}
 
 ## Dashboard
 

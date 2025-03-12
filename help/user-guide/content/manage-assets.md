@@ -8,10 +8,9 @@ exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 
 Adobe GenStudio for Performance Marketing [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
-## Content gallery
+## [!DNL Content] gallery
 
 The gallery shows an inventory of approved assets, experiences, or templates depending on the selected view. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu, where you can select from many categories to filter the content shown in the gallery. In the _[!UICONTROL Assets]_ view, click the search (magnifying glass) icon to use a keyword to find an asset.
-
 
 The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
 
@@ -21,9 +20,10 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
-There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attribute-category.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign. Or you can filter content based on your username or the name of a team member:
 
-When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
+- **[!UICONTROL Uploaded by]** filter limits the _[!UICONTROL Assets]_ list to show only the assets uploaded by you or a specific person.
+- **[!UICONTROL Created by]** filter limits the _[!UICONTROL Experiences]_ list to show only the experiences created by you or a specific person.
 
 **To search for content to reuse**:
 
@@ -61,6 +61,8 @@ The AEM repository is read-only, which means that you can access the content but
 
 {{note-aem-assets}}
 
+An AEM repository may enforce certain licensing requirements, such as asset expiration. These assets may not be available for use in [!DNL Create] workflows. Expired assets may need to be renewed or replaced to maintain the continuity of your projects. Consult your [!DNL AEM Assets Content Hub] administrator for assistance with these assets.
+
 ## Assets management
 
 In [!UICONTROL Content], you can easily store, retrieve, and manage your digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, you can ensure that your assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
@@ -73,10 +75,9 @@ The following table lists the management tasks available for assets, experiences
 | [Create experience](/help/user-guide/create/overview.md)  |        |             |     ✓     |
 | [Edit in Adobe Express](#edit-in-express)                 |   ✓    |             |           |
 | [Export for Activation](#export-for-activation)           |        |     ✓       |           |
+| [Refresh](/help/user-guide/content/use-templates.md#refresh-template) |   |      |     ✓     |
 | [Download](#download-assets)                              |   ✓    |             |     ✓     |
 | [Delete](#delete-assets)                                  |   ✓    |     ✓       |     ✓     |
-
-<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Add assets
 
@@ -110,7 +111,7 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 **To download an asset**:
 
-1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
+1. In _[!DNL Content]_, select an asset or template. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, click the **[!UICONTROL Download]** icon (arrow pointing down) in the upper right.
 
@@ -120,7 +121,7 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 **To delete an asset**:
 
-1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
+1. In _[!DNL Content]_, select an asset, experience, or template. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, click **[!UICONTROL Delete]** (trash can) in the upper right.
 

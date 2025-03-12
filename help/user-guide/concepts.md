@@ -30,6 +30,48 @@ GenStudio for Performance Marketing leverages Adobe's generative AI platform, wh
 
 GenStudio for Performance Marketing uses the GPT series of third-party LLMs through Azure OpenAI.<!-- Claude, and Gemini models. -->
 
+## [!DNL Generative Actions]
+
+_[!DNL Generative Actions]_, as defined in the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html), are the units quantifying the use of generative AI features within GenStudio for Performance Marketing.
+
+<!-- Add example about usage mode?
+Where users check how many generative actions they have left
+How they re-up their genactions
+If genactions roll over month to month or not -->
+
+### Rates
+
+You receive a default allotment of [!DNL Generative Actions] as outlined in the [GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
+
+>[!NOTE]
+>
+>Usage rates may vary. Plans are subject to change. See the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) for updated rate information.
+
+The following functions consume [!DNL Generative Actions] at the specified rate.
+
+| Function                 | Generative actions rate |
+| -----------------------  | ------------------ |
+| Create email             | 5 per generation  |
+| Create paid media ads    | 5 per generation  |
+| Create display ads       | 5 per generation  |
+| Regenerate sections      | 1 per generation  |
+
+<!-- | Generate on-brand images | 1 per prompt  |
+| Translation              | 1 per prompt  |
+| Video: ADLS              | 1 per prompt  |
+| Video: TTS + Avatar      | 1 per prompt  | -->
+
+[!DNL Generative Actions] _are not_ consumed when:
+
+* Using [brand validation](/help/user-guide/guidelines/brand-validation.md) during variant generation
+* Extracting information from [uploaded guidelines](/help/user-guide/guidelines/add-guidelines.md)
+* Manually [re-checking variants](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* Digital assets are automatically tagged with attributes ([[!DNL Insights]](/help/user-guide/insights/overview.md))
+
+>[!TIP]
+>
+>If you exceed your entitlement of [!DNL Generative Actions], you may purchase more directly from your account representative.
+
 ## Data governance
 
 When working with AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Adobe thoroughly tests content generation technology from multiple perspectives, performs comprehensive ethics reviews, and implements effective mitigation plans to prevent harmful content from emerging in outputs.

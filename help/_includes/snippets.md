@@ -1,5 +1,11 @@
 # GenStudio for Performance Marketing snippets
 
+## Connect insights {#connect-insights}
+
+>[!TIP]
+>
+>GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect channel account](/help/user-guide/insights/connect-channel.md).
+
 ## Note AEM Assets {#note-aem-assets}
 
 >[!INFO]
