@@ -99,7 +99,7 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
    You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise ads](#revise-generated-display-ads) to ensure your emails are closely aligned with your brand.
+1. [Manually revise ads](#revise-generated-display-ads) to ensure your display ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -109,7 +109,7 @@ Use the Approvals panel, accessible as an icon on the right action bar of the Ca
 
 **To obtain reviews and approvals**:
 
-1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
+1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted display ad experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
 1. Edit the drafts per review comments and [publish your display ad experiences](#publish-and-export-experience).
