@@ -37,9 +37,7 @@ Each field and section of the LinkedIn experiences are progressively loaded in t
 1. Call-to-action and associated URLs
 1. Headlines
 1. On-image text
-1. Brand validation
-
-   The brand validation process occurs and the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) populates for each variant.
+1. Brand validation process occurs and the [_Content check_ summary](/help/user-guide/guidelines/brand-validation.md#content-check-summary) populates for each variant.
 
 ## Character counts
 

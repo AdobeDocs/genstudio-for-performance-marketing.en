@@ -25,7 +25,7 @@ The _Content check_ summary displays the:
 * `Pass` or `Fail` result for the platform guidelines, such as Meta or LinkedIn
 * `Pass` or `Fail` result for ADA accessibility standards
 
-![Content check summary](/help/assets/brand-compliance-check.png){width="450" zoomable="yes"}
+![Content check summary](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
 Click the percentage to see how compliant the variant is. The scores auto-update as you make edits to the variants. You can click _View and fix issues_ to ensure further compliancy.
 
@@ -35,7 +35,7 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 The _Content check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the [_Content check_ summary icon](#content-check-summary) for a variant. This panel provides detailed brand validation. platform guidelines, and accessibility standards information and illuminates opportunities for improvement for each variant section.
 
-![Content check panel](/help/assets/brand-validation-compliance.png){height="400" zoomable="yes"}
+![Content check panel](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
 
 The _Content check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for each section of the variant:
 
@@ -77,8 +77,6 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility standards.
 
    The content check process runs again. If the revised items pass validation, a green banner appears at the bottom of the Canvas to confirm the score was updated. If there was no change after a re-check, the banner confirms there was no change to the score. The percentage in the _Content check_ summary icon for the revised variant also shows your progress.
-
-   ![Content check score updated](/help/assets/score-updated.png){width="650" zoomable="yes"}
 
 1. Continue revising sections to ensure the entire variant passes validation and accessibility checks. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas.
 
