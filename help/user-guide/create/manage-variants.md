@@ -183,9 +183,9 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
 ## Brand validation per variant
 
-Use the _[!UICONTROL Brand guidelines check]_ and the _[!UICONTROL Brand validation panel]_ to maintain consistent brand identity and alignment of variants.
+Use the _Content check_ panel to maintain consistent brand identity, [ADA accessibility standards, platform guidelines](/help/user-guide/guidelines/overview.md#content-checks), and alignment of variants.
 
-See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Generation feedback
 

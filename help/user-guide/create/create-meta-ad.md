@@ -73,9 +73,9 @@ When generating a Meta ad, you can choose between Facebook or Instagram ads.
 
 Toggle the Meta ads channel option—between **Facebook** and **Instagram**—in the right menu bar (Facebook and Instagram icons) to see and manage variants for each channel.
 
-When [revising the Meta ads](#revise-generated-meta-ads), you can change the aspect ratio of Facebook and Instagram ads.
+When [revising the Meta ads](#revise-generated-variants), you can change the aspect ratio of Facebook and Instagram ads.
 
-## Revise generated Meta ads
+## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
 
@@ -96,21 +96,17 @@ header, or body copy) and edit as needed.
 
 To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
-## Verify brand alignment
+## Verify content check alignment
 
-To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation_ panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
 
-**To verify brand alignment**:
+**To perform content checks on a variant**:
 
-1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-1. Click **[!UICONTROL Review]** to get the details of the sections and guidelines that need improvement.
+1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
+   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-   ![Brand validation panel](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
-
-1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise ads](#revise-generated-meta-ads) to ensure your ads are closely aligned with your brand.
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
