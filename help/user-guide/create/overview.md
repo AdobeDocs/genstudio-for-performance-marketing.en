@@ -66,7 +66,7 @@ Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—
    </td>
    <td align="center" valign="top" width="100">
       <a href="/help/user-guide/create/create-banner-experience.md">
-      <img alt="Create a banner experience" src="../../assets/icons/icon-search.svg" width="35">
+      <img alt="Create a banner experience" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <div>
          <a href="/help/user-guide/create/create-banner-experience.md">
