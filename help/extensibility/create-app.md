@@ -111,3 +111,39 @@ You define your add-on code in either or both `AdditionalContextDialog.tsx` and 
 * `RightPanel.tsx`: User clicks on the validation add-on in the right panel in [!DNL Create] in an experience draft. Define this component if you plan to use the Right Panel (experience validation) Add-on.
 
 You are now ready to [Deploy your app](develop-deploy.md).
+
+## Tips for development
+
+Consider the following optional practices to facilitate your app development.
+
+### Confirm development toolset components
+
+Use the `aio info` command to confirm that your development environment includes all required libraries and development tools. The `aio info` command flags the presence or absence of libraries (for example, the Adobe command line interface). It also identifies issues with proxy settings. To install the Adobe command-line interface, use `npm install -g @adobe/aio-cli`.
+
+### Set appropriate LOG levels for debugging
+
+Set `LOG_LEVEL=debug aio app deploy` at the command line to view logs. If you use proxy servers, confirm that your proxy can reach the following resources:
+ 
+* `adobeio-static.net`
+  
+* `adobeioruntime.net`
+ 
+* `addons.adobe.com`
+  
+* `adobe-addons.com` 
+
+* `adobe-runtime.com`
+  
+* `adobeio-static.net`
+  
+* `adobeioruntime.net`
+  
+* `adobe.io`
+
+### Delete package-lock.json 
+
+Older sample apps may include older artifacts that may result in errors. If you are using an older sample app, consider deleting the `package-lock.json` in the root app folder before rebuilding. Perform a clean installation with `npm ci`. This command can confirm that your app does not reference any internal Adobe potentially contained in the `package-lock.json` file of the sample app.
+
+### Certificate issues
+
+The `self-signed certificate in certificate chain` message suggests an issue with your certificate.  If you receive this message, use `NODE_TLS_REJECT_UNAUTHORIZED=0 aio app deploy --force-deploy` instead of `aio app deploy --force-deploy`. 
