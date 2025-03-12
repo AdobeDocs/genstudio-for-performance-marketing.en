@@ -38,6 +38,7 @@ Genstudio for Performance Marketing add-ons are App Builder apps. App Builder ap
                 - index.css
                 - utils.ts
         - index.html
+
 ```
  
 ### Additional components
@@ -72,6 +73,6 @@ Creating your Project relies on access to App Builder and the [Adobe Developer C
 
 1. From _Quick Start_, click **[!UICONTROL Create new project]**, then select **[!UICONTROL Create project from template]**. The _Create a New Project from Template_ panel opens. 
 
-   If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. If the org is correct, you do not yet have access to App Builder. Confirm that you have followed the process in How to Get Access to App Builder.
+If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. If the org is correct, you do not yet have access to App Builder. Confirm that you have followed the process in How to Get Access to App Builder.
 
 You are now ready to [create and develop your app](create-app.md).
