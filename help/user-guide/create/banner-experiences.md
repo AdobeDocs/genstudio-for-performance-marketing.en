@@ -5,7 +5,6 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
-exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
 ---
 # Banner experiences
 
