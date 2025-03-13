@@ -85,13 +85,11 @@ You can use an example app to jump-start creation of your Add-on.
 1. Open your example app locally in your preferred Integrated Development Environment (IDE).
 
 1. Authenticate with the Adobe Developer command-line interface:
-
   ```bash
   aio login
   ```
 
 1. Download your JSON file, then create your app:
-
   ```bash
   aio app use '/path/to/your/downloaded/app-builder/project/details/config.json'
   ```
