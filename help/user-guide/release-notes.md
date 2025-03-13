@@ -28,20 +28,23 @@ As part of the brand validation process, [compliance standards](/help/user-guide
 
 ### Templates
 
-The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
+* **Template code editor**—The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
 
-![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
+  ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
 
-Customize your email template with image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+* **Links on image**—Customize your email template by enabling image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+* **AJO and Marketo templates**—Upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. See [Work with templates from AJO and Marketo](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+
 
 ### Fixes and enhancements
 
 * Enabled functionality for [default channel](/help/user-guide/guidelines/brands.md#channel-guidelines), [image](/help/user-guide/guidelines/brands.md#image-guidelines), [logo](/help/user-guide/guidelines/brands.md#logos), and [color](/help/user-guide/guidelines/brands.md#colors) guidelines for [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 * Added ability to [add links to images](/help/user-guide/create/manage-variants.md#add-image-link) within a variant.
-* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar to maximize space on the Canvas and improve user experience.
+* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar to maximize space on the Canvas and improve the user experience.
 * Simplified the flow for [uploading or manually adding a brand](/help/user-guide/guidelines/add-guidelines.md#add-brands).
 * Introduced the ability to [add or swap image assets within a variant](/help/user-guide/create/manage-variants.md#swap-image) on the Canvas.
 * Improved user experience and visibility of channel categories [on the Create home](/help/user-guide/create/overview.md) by separating them into Owned media, Paid media, and Content sections.
+* Improved filtering in [!DNL Insights] table and gallery views.
 
 ## Earlier release notes
 
