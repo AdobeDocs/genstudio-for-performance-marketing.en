@@ -115,16 +115,21 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
 
-## Templates from AJO
+## Templates from AJO and Marketo
 
-You can upload a template that you created in Adobe Journey Optimizer (AJO) and customize it for use in GenStudio for Performance Marketing [!DNL Create] workflows. GenStudio for Performance Marketing detects application-specific patterns for AJO fields, such as `{{profile.*}}`, and ignores them, preserving the original form for continued use in AJO. You do not need to make any changes to the AJO syntax.
+You can upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. GenStudio for Performance Marketing detects application-specific patterns and ignores them, preserving the original form for continued use in AJO or Marketo. You do not need to make any changes to the original AJO or Marketo syntax.
+
+Recognized application patterns include:
+
+- **AJO**: `{{profile.*}}`, `{{context.*}}`
+- **Marketo**: `{{my.*}}`, `{{lead.*}}`, `{{system.*}}`
 
 >[!BEGINSHADEBOX]
 
 **Prerequisites**
 
-- AJO and GenStudio for Performance Marketing must belong to the same IMS Org for integration
-- Users in AJO must have the "Collaborator" role (the lowest level) or higher
+- The application (AJO, Marketo) and GenStudio for Performance Marketing must belong to the same IMS Org for integration
+- Users must have the "Collaborator" role (the lowest level) or higher
 
 >[!ENDSHADEBOX]
 
