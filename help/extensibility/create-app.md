@@ -12,7 +12,7 @@ Developers extending Adobe GenStudio for Performance Marketing's native capabili
 
 * npm (packaged with Node.js)
 
-* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`
+* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`.
 
 ## App structure
 
@@ -108,5 +108,6 @@ Maintaining your development environment can help you avoid app development and 
 
 ```
 rm -rf node_modules package-lock.json && npm i
-``` 
+```
+
 * Upgrade the GenStudio UIX SDK. Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [Genstudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
