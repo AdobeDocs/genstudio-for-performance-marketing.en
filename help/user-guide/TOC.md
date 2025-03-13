@@ -56,7 +56,7 @@ feature: Generative AI
   + [Create an activation](activation/create-activations.md)
   + [Create a Meta ad activation](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
-  + [Troubleshooting](activation/troubleshooting.md)
+  + [Optimize an activation](activation/troubleshooting.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Connect channel account](insights/connect-channel.md)

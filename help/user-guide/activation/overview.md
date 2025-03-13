@@ -36,8 +36,3 @@ The _Creative setup_ page consolidates the tools that you need to select the vis
 
 Confirm the paid channel accounts, ad sets, and Meta campaigns associated with this ad activation. The _Preview_ panel lets you view ad experiences in different placements before you finalize it. (When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.) When you are satisfied with your ad experience, click **[!UICONTROL Publish]** to push the experience and its associated metadata to the paid ad channel.
 
-## More help on this topic
-
-[Create an activation](create-activations.md)
-
-[Manage activations](manage-activations.md)

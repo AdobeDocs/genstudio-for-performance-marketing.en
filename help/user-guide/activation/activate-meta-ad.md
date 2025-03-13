@@ -141,6 +141,3 @@ Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associat
 
 After your activation has completed, you must log into Meta Ads Manager to review your ad experience and finalize publication to specific Meta channels.
 
-## More help on this topic
-
-[Create an activation](create-activations.md)

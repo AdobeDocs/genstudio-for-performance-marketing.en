@@ -1,5 +1,5 @@
 ---
-title: Create activations
+title: Create an activation
 description: Learn how to activate ad experiences with Adobe Genstudio for Performance Marketing.
 feature: Experiences
 ---
@@ -34,7 +34,3 @@ Once an experience is live on its target ad channel, _[!DNL Insights]_ can track
 Each paid media channel has its own activation workflow. Select the paid channel for activation guidelines:
 
 [Meta](activate-meta-ad.md)
-
-## More help on this topic
-
-[Activate a Meta ad](activate-meta-ad.md)

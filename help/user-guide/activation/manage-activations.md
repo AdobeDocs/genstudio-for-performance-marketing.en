@@ -50,6 +50,3 @@ The read-only _Activation details_ view captures the defining details of an acti
 * **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
 * **Channel setup**: The paid channel accounts used to activate the ad experience
 
-## More help on this topic
-
-[Create an activation](create-activations.md)
