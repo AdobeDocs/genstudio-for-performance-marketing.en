@@ -24,6 +24,8 @@ Added support for [creating banner experiences](/help/user-guide/create/create-b
 
 ### Compliance
 
+As part of the brand validation process, [compliance standards](/help/user-guide/guidelines/overview.md) have been introduced in [Content checks](/help/user-guide/guidelines/brand-validation.md). These checks review each variant in an experience against Brand, Product, and Persona guidelines, platform guidelines (such as for Meta), ethical considerations, and ADA standards. This process provides a comprehensive summary of the guidelines and standards that need revision for better compliance.
+
 ### Templates
 
 The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
@@ -36,10 +38,10 @@ Customize your email template with image links. See [Customize a template: Link 
 
 * Enabled functionality for [default channel](/help/user-guide/guidelines/brands.md#channel-guidelines), [image](/help/user-guide/guidelines/brands.md#image-guidelines), [logo](/help/user-guide/guidelines/brands.md#logos), and [color](/help/user-guide/guidelines/brands.md#colors) guidelines for [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 * Added ability to [add links to images](/help/user-guide/create/manage-variants.md#add-image-link) within a variant.
-* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar. This maximizes space on the Canvas and improves user experience.
-* Improved the flow for [uploading or manually adding a brand](/help/user-guide/guidelines/add-guidelines.md#add-brands).
-* Added ability to [add or swap image assets within a variant](/help/user-guide/create/manage-variants.md#swap-image) on the Canvas.
-* Improved user experience and visibility of channel categories on the Create home by separating them into Owned media, Paid media, and Content sections.
+* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar to maximize space on the Canvas and improve user experience.
+* Simplified the flow for [uploading or manually adding a brand](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Introduced the ability to [add or swap image assets within a variant](/help/user-guide/create/manage-variants.md#swap-image) on the Canvas.
+* Improved user experience and visibility of channel categories [on the Create home](/help/user-guide/create/overview.md) by separating them into Owned media, Paid media, and Content sections.
 
 ## Earlier release notes
 
