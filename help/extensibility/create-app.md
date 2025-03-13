@@ -84,11 +84,7 @@ You can use an example app to jump-start creation of your Add-on.
 
 1. Download an example app from the [GenStudio UIX Examples](https://github.com/adobe/genstudio-uix-examples) repository.
 
-1. From the App Builder Project workspace on [Adobe Developer Console](https://developer.adobe.com/console/), select **[!UICONTROL Download All]** to download Project details. Alternatively, [download workspace details](https://github.com/adobe/aio-cli?tab=readme-ov-file#aio-console-workspace-download-destination).
-
-```bash
-aio console workspace download [DESTINATION]
-```
+1. From the App Builder Project workspace on [Adobe Developer Console](https://developer.adobe.com/console/), select **[!UICONTROL Download All]** to download Project details.
 
 1. Open your example app locally in your preferred Integrated Development Environment (IDE).
 
@@ -101,7 +97,7 @@ aio login
 1. Download your JSON file, then create your app:
 
 ```bash
-aio app '/path/to/your/downloaded/app-builder/project/details/config.json'
+aio app use '/path/to/your/downloaded/app-builder/project/details/config.json'
 ```
 
 ## Add custom code to your Add-on

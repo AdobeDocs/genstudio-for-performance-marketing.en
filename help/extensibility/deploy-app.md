@@ -7,9 +7,6 @@ description: Deploy your App Builder app, or Add-on, for GenStudio for Performan
  
 Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.
 
->[!NOTE]
->
->Forcing build and deployment overwrites your existing deployment. Thoroughly test your app in a test environment first.
 
 **To run the app**:
 
@@ -34,6 +31,10 @@ aio app deploy
 ```
 
 **To force re-deployment**:
+
+>[!NOTE]
+>
+>Forcing build and deployment overwrites your existing deployment. Thoroughly test your app in a test environment first.
 
 ```bash
 aio app build --force-build
