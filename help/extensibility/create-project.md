@@ -8,7 +8,7 @@ Developers extending Adobe GenStudio for Performance Marketing's native capabili
 
 >[!BEGINSHADEBOX]
 
-You must have access to App Builder and the [Adobe Developer Console](https://developer.adobe.com/developer-console/) to create a project for your app. See [Create a new Project on Developer Console](https://developer.adobe.com/app-builder/docs/getting_started/first_app #2-create-a-new-project-on-developer-console).
+You must have access to App Builder and the [Adobe Developer Console](https://developer.adobe.com/developer-console/) to create a project for your app. See [Create a  Project on Developer Console](https://developer.adobe.com/app-builder/docs/getting_started/first_app#2-create-a-new-project-on-developer-console).
 
 >[!ENDSHADEBOX] 
 
