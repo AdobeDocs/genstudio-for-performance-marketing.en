@@ -20,7 +20,7 @@ Developers extending GenStudio for Performance Marketing's native capabilities u
 
 ## App structure
 
-Genstudio for Performance Marketing Add-ons are App Builder apps and contain the same basic components as other App Builder apps.
+GenStudio for Performance Marketing Add-ons are App Builder apps and contain the same basic components as other App Builder apps.
 
 ### Build and configuration files
 
@@ -40,7 +40,7 @@ Key components of App Builder apps include these build and configuration files. 
 
   * `app.config.yaml`  
   * `ext.config.yaml`: configuration file for the Add-on
-  * `app.config.yaml`: configuration file for the Add-on (includes defining your app as a Genstudio for Performance Marketing Add-on)
+  * `app.config.yaml`: configuration file for the Add-on (includes defining your app as a GenStudio for Performance Marketing Add-on)
   * `.aio`
   * `.env`: Do not commit the `.env` file to source control
 
@@ -62,7 +62,7 @@ Key components of App Builder apps include these build and configuration files. 
  
 ### Source code components
 
-* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) needs to load and display the Add-on.
+* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (GenStudio for Performance Marketing) needs to load and display the Add-on.
 
 * `App.tsx`: Main app component that defines routing to other components.
 
@@ -89,6 +89,7 @@ You can use an example app to jump-start creation of your Add-on.
    ```bash
    aio login
    ```
+
 1. Download your JSON file, then create your app:
 
    ```bash
@@ -115,4 +116,4 @@ Maintaining your development environment can help you avoid app development and 
    rm -rf node_modules package-lock.json && npm i
    ```
 
-* Upgrade the GenStudio UIX SDK. Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [Genstudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
+* Upgrade the GenStudio UIX SDK. Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [GenStudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
