@@ -6,8 +6,10 @@ description: Start building an app, or Add-on.
 
 Developers extending Adobe GenStudio for Performance Marketing's native capabilities use [Adobe App Builder](https://developer.adobe.com/app-builder/) to create, submit, and deploy their extensible apps, or Add-ons.
 
-## Prerequisites
- 
+>[!BEGINSHADEBOX]
+
+**Prerequisites**:
+
 * Node.js (version 20.x or higher)
 
 * npm (packaged with Node.js)
@@ -17,6 +19,8 @@ Developers extending Adobe GenStudio for Performance Marketing's native capabili
 ```bash
 npm install -g @adobe/aio-cli
 ```
+
+>[!ENDSHADEBOX] 
 
 ## App structure
 

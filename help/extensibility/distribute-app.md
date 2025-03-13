@@ -6,6 +6,20 @@ description: Distribute your app, or Add-on, for GenStudio for Performance Marke
 
 Distributing your app makes it available to members in your organization.
 
+>[!BEGINSHADEBOX]
+
+**Prerequisites**:
+
+Confirm that you have the following permissions:
+
+* Developer permissions in the org from which you submit the app for approval
+
+* System administrator permissions to approve the app
+
+Your App Builder app must be deployed in an App Builder Project.
+
+>[!ENDSHADEBOX] 
+
 Before distributing your Add-on, confirm that your App Builder app is deployed in an App Builder Project. You also need developer permissions in the org from which you submit the app for approval and system administrator permissions to approve the app.
 
 **To distribute your app**:
