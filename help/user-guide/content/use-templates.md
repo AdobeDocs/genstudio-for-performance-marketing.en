@@ -117,7 +117,7 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 ## Templates from AJO
 
-You can upload a template that you created in Adobe Journey Optimizer (AJO) and customize it for use in GenStudio for Performance Marketing [!DNL Create] workflows. GenStudio for Performance Marketing detects application-specific patterns for AJO fields or tagging, such as `{{profile.*}}`, and ignores them, preserving the original form for continued use in AJO. You do not need to make any changes to the AJO syntax.
+You can upload a template that you created in Adobe Journey Optimizer (AJO) and customize it for use in GenStudio for Performance Marketing [!DNL Create] workflows. GenStudio for Performance Marketing detects application-specific patterns for AJO fields, such as `{{profile.*}}`, and ignores them, preserving the original form for continued use in AJO. You do not need to make any changes to the AJO syntax.
 
 >[!BEGINSHADEBOX]
 
