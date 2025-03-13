@@ -20,7 +20,7 @@ Added support for [creating LinkedIn experiences](/help/user-guide/create/create
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-Added support for [creating banner experiences](/help/user-guide/create/create-banner-experiences.md). See the [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+Added support for [creating banner experiences](/help/user-guide/create/create-banner-experience.md). See the [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
 
 ### Compliance
 
