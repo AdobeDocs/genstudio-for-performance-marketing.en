@@ -3,7 +3,7 @@ title: Create an activation
 description: Learn how to activate ad experiences with Adobe Genstudio for Performance Marketing.
 feature: Experiences
 ---
-# Create an activation
+# Activation workflow
 
 The _[!DNL Activate]_ feature supports the activation of ad experiences in channel-specific formats. Although each paid channel is defined by unique placement requirements, all ad activations share the same high-level steps.
 
@@ -17,7 +17,7 @@ A GenStudio for Performance Marketing experience is a marketing campaign compone
 
 Creating an activation involves refining each of these ad components for a designated channel placement and marketing campaign. GenStudio for Performance Marketing supports activating one experience to one paid channel.
 
-## Activation workflow
+## Activation workflow phases
 
 Activating an experience to any paid channel has three core phases:
 
@@ -33,4 +33,4 @@ Once an experience is live on its target ad channel, _[!DNL Insights]_ can track
 
 Each paid media channel has its own activation workflow. Select the paid channel for activation guidelines:
 
-[Meta](activate-meta-ad.md)
+* [Meta](activate-meta-ad.md)

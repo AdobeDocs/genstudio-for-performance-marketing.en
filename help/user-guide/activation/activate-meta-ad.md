@@ -7,9 +7,7 @@ feature: Experiences
 
 Adobe GenStudio for Performance Marketing supports the activation of Meta ads to Instagram and Facebook. The Activate a Meta ad workflow follows the same general steps described in [Create an activation](create-activations.md), but supports fine-tuning your approved experiences for Meta.
 
-After activating your Meta experience in GenStudio for Performance Marketing, use Meta Ads Manager to fine-tune the experience for specific Meta ad placements 
-
-**To activate a Meta ad**:
+After activating your Meta experience in GenStudio for Performance Marketing, use Meta Ads Manager to fine-tune the experience for specific Meta ad placements. 
 
 Here are the general steps for activating a Meta ad experience:
 
@@ -29,7 +27,7 @@ Before launching an activation, confirm that your connected Meta ad accounts inc
 
 You must have permission to post content to Meta Ads Manager.
 
-## Step 2: Connect GenStudio for Performance Marketing with your Meta accounts
+## Step 2: Connect to your Meta accounts
 
 Data connectors enable the flow of data between marketing tools and GenStudio for Performance Marketing. Connect your Meta accounts to GenStudio for Performance Marketing before your organization can activate experiences.
 
@@ -37,7 +35,7 @@ Before you begin, confirm that GenStudio for Performance Marketing has permissio
 
 **To connect GenStudio for Performance Marketing with your Meta accounts**:
 
-1. From _Settings_, click **[!UICONTROL Connect]** on the Meta tile. The _Meta ads account_ view opens.
+1. From _Settings_, click **[!UICONTROL Connect]** on the Meta Ads tile. The _Meta ads account_ view opens.
 
 1. Select **[!UICONTROL Allow pop-ups]** from your browser, if prompted.
 
@@ -63,7 +61,13 @@ Use the _Media_ section to select at least one image asset to include in your ex
 
 1. Click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**.
 
-1. Select the experience for upload. An _Activate Meta ad_ page opens. At least one asset must be uploaded. If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
+1. Select the experience for upload. An _Activate Meta ad_ page opens. 
+
+1. Select at least one asset for upload. Use the filter on the left to identify assets. 
+
+1. Click Use to include the selected asset in your creative. 
+
+If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
 
 **To upload an asset**:
 
@@ -86,15 +90,15 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 | Field           | Required                  | Character limit (max)           |
 |-----------------|---------------------------|---------------------------------|
 | Ad name         | yes                       | 500                             |
-| Primary text    | yes*                      | 500                             |
-| Headline        | yes*                      | 255                             |
+| Primary text    | yes                      | 500                             |
+| Headline        | yes                      | 255                             |
 | Description     | no                        | 125                             |
 | Call to action  | yes                       | drop-down menu options only     |
 | Display URL     | no                        | 1000                            |
 | Website URL     | yes                       | 1000                            |
 | Image           | at least one required     |                                 |
 
-* Required by GenStudio for Performance Marketing, not Meta.
+_Primary text_ and _headline_ are required by GenStudio for Performance Marketing only, not Meta.
 
 ### Assign metadata
 
