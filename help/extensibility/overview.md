@@ -4,7 +4,7 @@ description: Start building Add-ons or App Builder apps that extend GenStudio fo
 ---
 # Get started building extensible apps
 
-GenStudio for Performance Marketing Add-on framework provides tools for organizations to incorporate their own claims compliance protocols into GenStudio for Performance Marketing content creation workflow and validation. With this toolset, developers can create custom apps, or Add_ons.
+GenStudio for Performance Marketing Add-on framework provides tools for organizations to incorporate their own claims compliance protocols into GenStudio for Performance Marketing content creation workflow and validation. With this toolset, developers can create custom apps, or Add-ons.
 
 ## Overview
 
@@ -12,7 +12,7 @@ This guide describes the process of creating Add-ons to customize and enhance Ge
 
 Developers of extensible apps for GenStudio for Performance Marketing use the standard Adobe Experience Cloud app development toolset framework to develop and deploy custom apps, or Add-ons. [Adobe App Builder](https://developer.adobe.com/app-builder/) is central to this development toolset. 
 
-Add-on creation includes these high level tasks:
+Add-on creation includes these high-level tasks:
 
 * [Create an App Builder Project](create-project.md)
 * [Create and develop an App Builder app](create-app.md)

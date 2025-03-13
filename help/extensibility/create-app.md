@@ -4,7 +4,7 @@ description: Start building an app, or Add-on.
 ---
 # Develop an App Builder app
 
-Developers extending Adobe GenStudio for Performance Marketing's native capabilities use [Adobe App Builder](https://developer.adobe.com/app-builder/) to create, submit, and deploy their extensible apps, or Add-ons.
+Developers extending GenStudio for Performance Marketing's native capabilities use [Adobe App Builder](https://developer.adobe.com/app-builder/) to create, submit, and deploy their extensible apps, or Add-ons.
 
 >[!BEGINSHADEBOX]
 
@@ -76,7 +76,7 @@ Key components of App Builder apps include these build and configuration files. 
 
 * `Helper` components: Includes `ClaimsChecker`.
 
-## Create an App Builder app
+## Create an App Builder app from an existing app
 
 You can use an example app to jump-start creation of your Add-on. 
 
@@ -98,7 +98,7 @@ aio console workspace download [DESTINATION]
 aio login
 ```
 
-1. Create your app with the downloaded JSON:
+1. Download your JSON file, then create your app:
 
 ```bash
 aio app '/path/to/your/downloaded/app-builder/project/details/config.json'
@@ -108,9 +108,9 @@ aio app '/path/to/your/downloaded/app-builder/project/details/config.json'
 
 You define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the Add-on.
 
-* `AdditionalContextDialog.tsx`: Define this component if you plan to use the Add Context Add-on. Users interact with this component when clicking on _Add-ons_ in the prompt drawer in [!DNL Create].
+* `AdditionalContextDialog.tsx`: Define this component if you plan to use the _Add Context_ Add-on. Users interact with this component when clicking on _Add-ons_ in the prompt drawer in [!DNL Create].
 
-* `RightPanel.tsx`: Define this component if you plan to use the Right Panel (experience validation) Add-on. Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft. 
+* `RightPanel.tsx`: Define this component if you plan to use the _Right Panel_ Add-on (experience validation). Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft. 
 
 You are now ready to [Deploy your app](deploy-app.md)
 

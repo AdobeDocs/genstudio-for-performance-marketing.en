@@ -6,7 +6,11 @@ description: Create an App Builder Project for your app, or Add-on.
 
 Developers extending Adobe GenStudio for Performance Marketing's native capabilities launch Add-on development by creating an [Adobe App Builder](https://developer.adobe.com/app-builder/) Project.
 
-You must have access to App Builder and the [Adobe Developer Console](https://developer.adobe.com/developer-console/) to create a project for your app. See [Create a new Project on Developer Console](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-create-a-new-project-on-developer-console).
+>[!BEGINSHADEBOX]
+
+You must have access to App Builder and the [Adobe Developer Console](https://developer.adobe.com/developer-console/) to create a project for your app. See [Create a new Project on Developer Console](https://developer.adobe.com/app-builder/docs/getting_started/first_app #2-create-a-new-project-on-developer-console).
+
+>[!ENDSHADEBOX] 
 
 **To create a new Project from a template**:
 
@@ -18,6 +22,6 @@ You must have access to App Builder and the [Adobe Developer Console](https://de
 
 1. Select _App Builder_ from template options.
 
-If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. Confirm that you have followed the process in [How to Get Access to App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/). If the org is correct, App Builder is not enabled. Please contact Adobe.
+If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. Confirm that you have followed the process in [How to Get Access to App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/). If your IMS org is correct, App Builder is not enabled. Please contact Adobe as described in [How to Get Access to App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/).
 
 You are now ready to [develop your app](create-app.md).

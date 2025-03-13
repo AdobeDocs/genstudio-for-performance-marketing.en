@@ -5,9 +5,7 @@ description: Deploy your App Builder app, or Add-on, for GenStudio for Performan
 
 # Deploy your app
  
-Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. 
-
-You can force build and deployment of a deployed your app without re-submitting it for approval.
+Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.
 
 >[!NOTE]
 >
@@ -23,7 +21,7 @@ aio app run
 
 **To deploy the app**:
 
-1. To deploy this app, first navigate to the deployment workspace. For example, to navigate to the Production workspace:
+1. Navigate to your Deployment workspace. For example, to navigate to the Production workspace:
 
 ```bash
 aio app use -w Production
@@ -45,7 +43,7 @@ aio app build --force-build
 aio app deploy --force-deploy
 ```
 
-To build and deploy at the same time: 
+**To build and deploy at the same time**: 
 
 ```bash
 aio app deploy --force-build --force-deploy

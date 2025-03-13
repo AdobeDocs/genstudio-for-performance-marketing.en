@@ -12,7 +12,7 @@ Distributing your app makes it available to members in your organization.
 
 Confirm that you have the following permissions:
 
-* Developer permissions in the org from which you submit the app for approval
+* Developer permissions in the organization from which you submit the app for approval
 
 * System administrator permissions to approve the app
 
@@ -20,11 +20,9 @@ Your App Builder app must be deployed in an App Builder Project.
 
 >[!ENDSHADEBOX] 
 
-Before distributing your Add-on, confirm that your App Builder app is deployed in an App Builder Project. You also need developer permissions in the org from which you submit the app for approval and system administrator permissions to approve the app.
-
 **To distribute your app**:
 
-1. From the [Adobe Developer Console](https://developer.adobe.com/console/), select the org, Project, and workspace where the app is deployed.
+1. From the [Adobe Developer Console](https://developer.adobe.com/console/), select the organization, project, and workspace where the app is deployed.
 
 1. Select **[!UICONTROL Approval]** from the _Workspace overview_ area. The _App Approval_ pane opens. 
 
@@ -32,7 +30,7 @@ Before distributing your Add-on, confirm that your App Builder app is deployed i
 
 1. When you have completed all fields, click **[!UICONTROL Submit]**. 
 
-1. Log in to [Adobe Exchange](https://exchange.adobe.com/) using the same Adobe ID that you used to log into Developer Console. If you do not have system administrator permissions in this org, request approval from an org system administrator. 
+1. Log in to [Adobe Exchange](https://exchange.adobe.com/) using the same Adobe ID that you used to log into Developer Console. If you do not have system administrator permissions in this organization, request approval from an organization system administrator. 
 
 1. Select **[!UICONTROL Manage]** > **[!UICONTROL App Builder applications]** to access a request to review the app. 
 
