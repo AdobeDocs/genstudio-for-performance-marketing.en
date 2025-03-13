@@ -11,11 +11,10 @@ role: Developer
 
 + [Extensibility Guide](home.md)
 + Get started {#get-started}
-  + [Introduction](intro.md)
+  + [Overview](overview.md)
 + App development {#apps}
-  + Create {#create}
-  + Publish {#publish}
-  + Install {#install}
-  + Test {#test}
-+ Extensions {#extensions}
+  + [Create an App Builder Project](create-project.md)
+  + [Develop an App Builder app](create-app.md)
+  + [Deploy your app](deploy-app.md)
+  + [Distribute your app](distribute-app.md)
   + UI Extensions {#ui}
