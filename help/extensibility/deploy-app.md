@@ -20,15 +20,15 @@ aio app run
 
 1. Navigate to your Deployment workspace. For example, to navigate to the Production workspace:
 
-  ```bash
-  aio app use -w Production
-  ```
+   ```bash
+   aio app use -w Production
+   ```
 
 1. Deploy the app:
 
-  ```bash
-aio app deploy
-```
+   ```bash
+   aio app deploy
+   ```
 
 **To force re-deployment**:
 
@@ -36,19 +36,19 @@ aio app deploy
 >
 >Forcing build and deployment overwrites your existing deployment. Thoroughly test your app in a test environment first.
 
-  ```bash
-  aio app build --force-build
-  ```
+   ```bash
+   aio app build --force-build
+   ```
 
-  ```bash
-  aio app deploy --force-deploy
-  ```
+   ```bash
+   aio app deploy --force-deploy
+   ```
 
 **To build and deploy at the same time**: 
 
-  ```bash
-  aio app deploy --force-build --force-deploy
-  ```
+   ```bash
+   aio app deploy --force-build --force-deploy
+   ```
   
 **To view the app**:
 
