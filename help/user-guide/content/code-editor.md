@@ -24,6 +24,6 @@ If you notice that a field is missing from the list, search your template code a
 
 If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field does not conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
 
-![Correct invalid template](/help/assets/animation/template-code-editor.gif)
+![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
 The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you are satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).

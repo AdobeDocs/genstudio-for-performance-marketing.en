@@ -12,7 +12,7 @@ The [!DNL Insights] _[!UICONTROL Media]_ view shows a list of media used in ads 
 
 The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
 
-![Media filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
+![Media filter and table](/help/assets/insights-media-filter.png){zoomable="yes"}
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -25,9 +25,9 @@ The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a me
 
 ## Media details
 
-In the _Media details_ view, you can see which ads use the selected media. Details include total media performance, user-defined attributes, and AI-detected features associated with the media.
+In the _Media details_ view, you can see which ads use the selected media. Details include total media performance, Ads using the media, user-defined attributes, and AI-detected features associated with the media.
 
-![Media details](/help/assets/insights-asset-details.png){zoomable="yes"}
+![Media details](/help/assets/insights-media-details.png){zoomable="yes"}
 
 ## Media performance
 
