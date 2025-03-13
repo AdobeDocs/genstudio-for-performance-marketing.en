@@ -24,55 +24,17 @@ A template is a set of instructions defined with HTML and inline CSS that can be
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
-- **Preheader**
-
-  - Acts as a secondary subject line in an email, enhancing the main subject line
-  - Between 40-50 characters
-  - Visible in the inbox alongside the subject before the email is opened
-  - Used in email templates
-
-- **Header**
-
-  - Top section of the email that the recipient sees when opening the email
-  - Sets the tone and provides context for the included content
-  - Used in email templates
-
-- **Headline**
-
-  - First content the recipient sees
-  - Should be compelling to catch interest
-  - Used in Meta ad templates
-
-- **Body**
-
-  - Main content area where the primary message is conveyed
-  - Capable of including text, images, and other media
-  - Used in email and Meta ad templates
-
-- **CTA**
-
-  - Call-to-action button uses a phrase and a link
-  - Encourages the recipient to take a specific action such as clicking a link or making a purchase
-  - Used in email and Meta ad templates
-
-- **Images**
-
-  - Enhances visual appeal
-  - Break up text
-  - Support the message
-  - Should be high-quality and eye-catching
-  - Used in email and Meta ad templates
-
-- **Footer**
-
-  - Bottom section that contains additional content such as contact details, social media links, disclaimers, and unsubscribe options
-  - Used in email templates
-
-- **Text Overlay**
-
-  - Text on an image
-  - Use to support and enhance the headline and body
-  - Used in Meta ad templates
+| **Element**          | **Channel**                              | **Description**                                                                                                                                              |
+|----------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
+| **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
+| **Headline**         | Meta ad, Banner and Display ads, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
+| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
+| **Body**             | Email, Meta ad, Banner and Display ads    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
+| **CTA**              | Email, Meta ad, Banner and Display ads, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
+| **Images**           | Email, Meta ad, Banner and Display ads, LinkedIn | Enhance visual appeal, break up text, and support the message. Images should be high-quality and eye-catching.                                                   |
+| **Footer**           | Email                                    | The bottom section of the email contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.            |
+| **Text Overlay**     | Meta ad                                  | Text placed on an image to support and enhance the headline and body content.                                                                                  |
 
 >[!TIP]
 >

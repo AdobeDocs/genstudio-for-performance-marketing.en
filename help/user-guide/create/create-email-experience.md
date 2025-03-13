@@ -50,9 +50,9 @@ If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL P
    * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
->[!NOTE]
->If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
->![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
+   >[!NOTE]
+   >If your email template has multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section. You can only add visual assets to multi-section emails from [!DNL Content]—you cannot drag and drop or upload assets from your local source.
+   >![Add content and parameters for each email section](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 When you are finished adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
@@ -71,7 +71,7 @@ By default, four variations—all fueled by the prompt, guidelines, and content 
 
 Generated content loads progressively—as each section of the email experiences are generated they appear in the Canvas. See [Email experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
-## Revise generated emails
+## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit email sections or delete a variant from the set of generated emails.
 
@@ -93,25 +93,17 @@ To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedb
 
 When revising and preparing email experiences, you can [toggle between previews for desktop and mobile views](/help/user-guide/create/manage-variants.md#preview-for-device) to ensure coherence and visual appeal of draft variants.
 
-## Verify brand alignment
+## Verify content check alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation_ panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
 
-**To verify brand alignment**:
+**To perform content checks on a variant**:
 
-1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
+1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   ![Brand guidelines check](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. Click **[!UICONTROL Review]** to get the details of the sections and guidelines that need improvement.
-
-   You can also open the panel by clicking the [_Brand validation panel_ icon](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) in the right action bar.
-
-1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
-
-   ![Brand validation panel](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
-
-1. [Manually revise emails](#revise-generated-emails) to ensure your emails are closely aligned with your brand.
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

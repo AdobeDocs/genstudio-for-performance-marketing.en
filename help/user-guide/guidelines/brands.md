@@ -8,7 +8,7 @@ exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-GenStudio for Performance Marketing uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
+GenStudio for Performance Marketing uses the wealth of brand information from your [!DNL Brand], partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 ## Manage Brands
 
@@ -18,13 +18,17 @@ After adding brand guidelines to GenStudio for Performance Marketing, you can [m
 
 You must [publish a [!DNL Brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) to make it available for asset generation by your team.
 
-Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL Brands] can be used to create and validate content. See [Manage [!DNL Brands]](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
+Published brands can be edited (changes are immediately available), duplicated, or unpublished. Only published [!DNL brands] can be used to create and validate content. See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
 Deleted [!DNL Brands] are archived for 30 days and can be recovered within that period.
 
 ## [!DNL Brands] guidelines
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
+
+Some channel guidelines, abstracted from [platform guidelines and ADA accessibility standards](/help/user-guide/guidelines/overview.md#compliance), are pre-populated as default values.
+
+![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
 
@@ -62,12 +66,69 @@ The following table shows each channel section, channels for which it is availab
 
 | Sections | Channels | Description | Best practices |
 | ------------------| --------- | --------- | -------- |
-| [!UICONTROL General]   | email, social ads | A second subject line or email preview text | Define overall tone/emotion to be consistent throughout email (2-5 guidelines).<br>_Examples_: "Maintain a friendly and approachable tone", "Avoid overly formal language"<br><br> |
-| [!UICONTROL Subject]    | email | A compelling and interesting title to summarize the content of an email | Provide specific guidance (2-5 guidelines) on tone, length, etc. Add previously successful subject lines in _Examples_ section for better quality output.<br>_Example_: "Align subject with email body" |
-| [!UICONTROL Preheader]        | email | A second subject line or email preview text |  Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful preheaders in the _Examples_ section for better quality output.<br>_Example_: "Limit to 60-80 characters" |
-| [!UICONTROL Headline]          | email, social ads, display ads | A title or phrase to grab the reader's attention | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful headlines in _Examples_ section for better quality output.<br>_Examples_: "Use punchy statements to grab attention" |
-| [!UICONTROL Body]              | email, social ads, display ads | Marketing content that includes message, links, and images | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Limit to 80-100 characters", "Avoid excessive acronyms" |
-| [!UICONTROL CTA]               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Do not use end punctuation"|
+| General   | email, Meta, display ads | A second subject line or email preview text | Define overall tone/emotion to be consistent throughout email (2-5 guidelines).<br>_Examples_: "Maintain a friendly and approachable tone", "Avoid overly formal language"<br><br> |
+| Subject    | email | A compelling and interesting title to summarize the content of an email | Provide specific guidance (2-5 guidelines) on tone, length, etc. Add previously successful subject lines in _Examples_ section for better quality output.<br>_Example_: "Align subject with email body" |
+| Preheader        | email | A second subject line or email preview text |  Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful preheaders in the _Examples_ section for better quality output.<br>_Example_: "Limit to 60-80 characters" |
+| Headline          | email, Meta, display ads, LinkedIn | A title or phrase to grab the reader's attention | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful headlines in _Examples_ section for better quality output.<br>_Examples_: "Use punchy statements to grab attention" |
+| Sub-headline          | email, Display ads | A second or third title or phrase to grab reader's attention | Provide specific guidance (2-5 guidelines) that define tone, ideal length, etc. Add previously successful sub-headlines in _Examples_ section for better quality output.<br>_Examples_: "Use punchy statements to grab attention" |
+| Description          | LinkedIn | Descriptive phrases that define overall tone-emotion | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful descriptions in _Examples_ section for better quality output.<br>_Examples_: "Maintain a friendly and approachable tone" |
+| Body              | email, Meta, display ads, LinkedIn | Marketing content that includes message, links, and images | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Limit to 80-100 characters", "Avoid excessive acronyms" |
+| On-image text    | Meta, LinkedIn | Specific guidance on the tone, ideal length, etc. fo text that appears on top of images | Provide specific guidance (1-2 sentences) on tone, ideal length, etc. Add previously successful text to _Examples_ section for better quality output.<br>_Examples_: "Focus on the moment"|
+| Call-to-action (CTA)        | email, Meta, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful CTAs to _Examples_ section for better quality output.<br>_Examples_: "Do not use end punctuation"|
+
+#### Default channel guidelines
+
+The following default channel guidelines for [!DNL Brands] are applied per channel, based on industry best practices and individual platform specifications.
+
+>[!BEGINTABS]
+
+>[!TAB Email]
+
+| Section   | Default guideline                |
+|-----------|-------------------------------|
+| Subject   | Limit to 2 lines or less      |
+| Preheader | Limit to 2 lines or less      |
+| Headline  | Limit to 8 words or less      |
+| Body      | Limit to 3-4 lines            |
+| CTA       | Limit to 2 words or less      |
+
+>[!TAB Paid social]
+
+| Section   | Default guideline                |
+|-----------|-------------------------------|
+| Headline  | Limit to 40 characters or less|
+| Body      | Limit to 125 characters or less|
+
+>[!TAB Display ads]
+
+| Section   | Default guideline                |
+|-----------|-------------------------------|
+| Headline  | Limit to 6 words or less      |
+| Body      | Limit to 6 words or less      |
+| CTA       | Limit to 2 words or less      |
+
+>[!TAB Meta]
+
+| Section       | Default guideline                |
+|---------------|-------------------------------|
+| Headline      | Limit to 40 characters or less|
+| Body          | Limit to 125 characters or less|
+| On-image text | Limit to 5-6 words            |
+
+>[!TAB LinkedIn]
+
+| Section            | Default guideline                                |
+|--------------------|-----------------------------------------------|
+| Headline           | Limit to 70 characters or less to avoid truncation|
+| Headline           | Limit to 200 characters              |
+| Description        | Limit to 100 characters to avoid truncation|
+| Description        | Limit to 300 characters           |
+| Introductory text  | Limit to 150 characters to avoid truncation|
+| Introductory text  | Limit to 600 characters      |
+| Introductory text  | Maximum of four emojis                        |
+| Ad name            | Limit to 255 characters or less               |
+
+>[!ENDTABS]
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -115,6 +176,6 @@ From the actions menu (three dots) for a color, you can **[!UICONTROL Edit]**, *
 
 ## Brand validation
 
-In GenStudio for Performance Marketing, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
+In GenStudio for Performance Marketing, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity and accessibility concerns.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
