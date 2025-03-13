@@ -12,11 +12,15 @@ Developers extending Adobe GenStudio for Performance Marketing's native capabili
 
 * npm (packaged with Node.js)
 
-* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`.
+* Adobe Developer command-line interface (CLI). To install:
+
+```bash
+npm install -g @adobe/aio-cli
+```
 
 ## App structure
 
-Genstudio for Performance Marketing Add-ons are App Builder apps containing the same basic components.
+Genstudio for Performance Marketing Add-ons are App Builder apps and contain the same basic components as other App Builder apps.
 
 ### Build and configuration files
 
@@ -34,10 +38,10 @@ Key components of App Builder apps include these build and configuration files. 
 
 * App Builder config files: 
 
-  * `app.config.yaml`,  
+  * `app.config.yaml`  
   * `ext.config.yaml`: configuration file for the Add-on
   * `app.config.yaml`: configuration file for the Add-on (includes defining your app as a Genstudio for Performance Marketing Add-on)
-  *  `.aio`
+  * `.aio`
   * `.env`: Do not commit the `.env` file to source control
 
 ### Source code
@@ -58,7 +62,7 @@ Key components of App Builder apps include these build and configuration files. 
  
 ### Source code components
 
-* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) loads and displays the Add-on.
+* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) needs to load and display the Add-on.
 
 * `App.tsx`: Main app component that defines routing to other components.
 
@@ -78,25 +82,31 @@ You can use an example app to jump-start creation of your Add-on.
 
 1. From the App Builder Project workspace on [Adobe Developer Console](https://developer.adobe.com/console/), select **[!UICONTROL Download All]** to download Project details. Alternatively, [download workspace details](https://github.com/adobe/aio-cli?tab=readme-ov-file#aio-console-workspace-download-destination).
 
-  `aio console workspace download [DESTINATION]`
+```bash
+aio console workspace download [DESTINATION]
+```
 
 1. Open your example app locally in your preferred Integrated Development Environment (IDE).
 
 1. Authenticate with the Adobe Developer command-line interface:
 
-  `aio login` 
+```bash
+aio login
+```
 
-1. Create your app with the downloaded JSON: 
+1. Create your app with the downloaded JSON:
 
-  `aio app '/path/to/your/downloaded/app-builder/project/details/config.json'`
+```bash
+aio app '/path/to/your/downloaded/app-builder/project/details/config.json'
+```
 
 ## Add custom code to your Add-on
 
 You define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the Add-on.
 
-* `AdditionalContextDialog.tsx`: User clicks on Add-on in the prompt drawer in [!DNL Create]. Define this component if you plan to use the Add Context Add-on.
+* `AdditionalContextDialog.tsx`: Define this component if you plan to use the Add Context Add-on. Users interact with this component when clicking on _Add-ons_ in the prompt drawer in [!DNL Create].
 
-* `RightPanel.tsx`: User clicks on the validation Add-on in the right panel in [!DNL Create] in an experience draft. Define this component if you plan to use the Right Panel (experience validation) Add-on.
+* `RightPanel.tsx`: Define this component if you plan to use the Right Panel (experience validation) Add-on. Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft. 
 
 You are now ready to [Deploy your app](deploy-app.md)
 
@@ -104,9 +114,9 @@ You are now ready to [Deploy your app](deploy-app.md)
 
 Maintaining your development environment can help you avoid app development and deployment errors: 
 
-* If you are using an older version of a sample app, upgrade dependencies by re-installing them:
+* If you are using an older version of a sample app, upgrade the dependencies by re-installing them:
 
-```
+```bash
 rm -rf node_modules package-lock.json && npm i
 ```
 

@@ -20,4 +20,4 @@ You must have access to App Builder and the [Adobe Developer Console](https://de
 
 If you do not see the **[!UICONTROL Create project from template]** option, confirm that you have selected the correct IMS org. Confirm that you have followed the process in [How to Get Access to App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/). If the org is correct, App Builder is not enabled. Please contact Adobe.
 
-You are now ready to [create and develop your app](create-app.md).
+You are now ready to [develop your app](create-app.md).

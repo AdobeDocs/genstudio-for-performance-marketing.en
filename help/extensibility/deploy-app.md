@@ -5,7 +5,7 @@ description: Deploy your App Builder app, or Add-on, for GenStudio for Performan
 
 # Deploy your app
  
-Running your app can provide valuable information about your app before deploying it. Running provides a preliminary snapshot of how your Add-on works before deploying it. This view can provide valuable information for debugging. 
+Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. 
 
 You can force build and deployment of a deployed your app without re-submitting it for approval.
 
@@ -15,29 +15,41 @@ You can force build and deployment of a deployed your app without re-submitting 
 
 **To run the app**:
 
-This command runs the app in `https://localhost:9080`:
+Run the app in `https://localhost:9080`:
 
-`aio app run`. 
+```bash
+aio app run
+``` 
 
 **To deploy the app**:
 
 1. To deploy this app, first navigate to the deployment workspace. For example, to navigate to the Production workspace:
 
-   `aio app use -w Production`
+```bash
+aio app use -w Production
+```
 
 1. Deploy the app:
 
-   `aio app deploy`
+```bash
+aio app deploy
+```
 
 **To force re-deployment**:
 
-`aio app build --force-build` 
+```bash
+aio app build --force-build
+```
 
-`aio app deploy --force-deploy`
+```bash
+aio app deploy --force-deploy
+```
 
 To build and deploy at the same time: 
 
-`aio app deploy --force-build --force-deploy`
+```bash
+aio app deploy --force-build --force-deploy
+```
 
 **To view the app**:
 
@@ -47,4 +59,4 @@ After deployment, you can view the app in GenStudio for Performance Marketing by
 
 If you are satisfied with your Add-on, you are ready to distribute it without the `query` parameter.
 
-You can now [distribute your app](distribute-app.md)
+You can now [distribute your app](distribute-app.md).
