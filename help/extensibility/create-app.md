@@ -14,11 +14,7 @@ Developers extending GenStudio for Performance Marketing's native capabilities u
 
 * npm (packaged with Node.js)
 
-* Adobe Developer command-line interface (CLI). To install:
-
-```bash
-npm install -g @adobe/aio-cli
-```
+* Adobe Developer command-line interface (CLI). To install: `npm install -g @adobe/aio-cli`
 
 >[!ENDSHADEBOX] 
 
@@ -90,15 +86,15 @@ You can use an example app to jump-start creation of your Add-on.
 
 1. Authenticate with the Adobe Developer command-line interface:
 
-```bash
-aio login
-```
+  ```bash
+  aio login
+  ```
 
 1. Download your JSON file, then create your app:
 
-```bash
-aio app use '/path/to/your/downloaded/app-builder/project/details/config.json'
-```
+  ```bash
+  aio app use '/path/to/your/downloaded/app-builder/project/details/config.json'
+  ```
 
 ## Add custom code to your Add-on
 
@@ -116,8 +112,8 @@ Maintaining your development environment can help you avoid app development and 
 
 * If you are using an older version of a sample app, upgrade the dependencies by re-installing them:
 
-```bash
-rm -rf node_modules package-lock.json && npm i
-```
+  ```bash
+  rm -rf node_modules package-lock.json && npm i
+  ```
 
 * Upgrade the GenStudio UIX SDK. Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [Genstudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
