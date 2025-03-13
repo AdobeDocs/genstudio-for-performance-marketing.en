@@ -24,7 +24,7 @@ Added support for [creating banner experiences](/help/user-guide/create/create-b
 
 ### Compliance
 
-As part of the brand validation process, [compliance standards](/help/user-guide/guidelines/overview.md) have been introduced in [Content checks](/help/user-guide/guidelines/brand-validation.md). These checks review each variant in an experience against Brand, Product, and Persona guidelines, platform guidelines (such as for Meta), ethical considerations, and ADA standards. This process provides a comprehensive summary of the guidelines and standards that need revision for better compliance.
+As part of the brand validation process, [compliance standards](/help/user-guide/guidelines/overview.md) have been introduced in [Content checks](/help/user-guide/guidelines/brand-validation.md). These checks review each variant in an experience against [!DNL Brand], [!DNL Product], and [!DNL Persona] guidelines, platform guidelines (such as for Meta), ethical considerations, and ADA standards. This process provides a comprehensive summary of the guidelines and standards that need revision for better compliance.
 
 ### Templates
 
