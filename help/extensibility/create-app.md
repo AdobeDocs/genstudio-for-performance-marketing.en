@@ -1,18 +1,26 @@
 ---
 title: Create an App Builder app to extend GenStudio for Performance Marketing
-description: Start building an app, or add-on.
+description: Start building an app, or Add-on.
 ---
-# Create and develop an App Builder app
+# Develop an App Builder app
 
-Developers extending Adobe GenStudio for Performance Marketing's native capabilities use [Adobe App Builder](https://developer.adobe.com/app-builder/) to create, submit, and deploy their extensible apps, or add-ons.
+Developers extending Adobe GenStudio for Performance Marketing's native capabilities use [Adobe App Builder](https://developer.adobe.com/app-builder/) to create, submit, and deploy their extensible apps, or Add-ons.
+
+## Prerequisites
+ 
+* Node.js (version 20.x or higher)
+
+* npm (packaged with Node.js)
+
+* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`
 
 ## App structure
 
-Genstudio for Performance Marketing add-ons are App Builder apps containing the same basic components.
+Genstudio for Performance Marketing Add-ons are App Builder apps containing the same basic components.
 
 ### Build and configuration files
 
-App Builder apps contain these build and configuration files:
+Key components of App Builder apps include these build and configuration files. This list in not inclusive of all build and configuration files.
 
 * `README.md`: Includes general information about the app.
 
@@ -27,8 +35,8 @@ App Builder apps contain these build and configuration files:
 * App Builder config files: 
 
   * `app.config.yaml`,  
-  * `ext.config.yaml`: configuration file for the add-on
-  * `app.config.yaml`: configuration file for the add-on (includes defining your app as a Genstudio for Performance Marketing add-on)
+  * `ext.config.yaml`: configuration file for the Add-on
+  * `app.config.yaml`: configuration file for the Add-on (includes defining your app as a Genstudio for Performance Marketing Add-on)
   *  `.aio`
   * `.env`: Do not commit the `.env` file to source control
 
@@ -48,29 +56,21 @@ App Builder apps contain these build and configuration files:
         - index.html
 ```
  
-### Additional components
+### Source code components
 
-* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) loads and displays the add-on.
+* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (Genstudio for Performance Marketing) loads and displays the Add-on.
 
 * `App.tsx`: Main app component that defines routing to other components.
 
-* `AdditionalContextDialog.tsx`: Dialog component for displaying additional context add-ons.
+* `AdditionalContextDialog.tsx`: Dialog component for displaying additional context Add-ons.
 
-* `RightPanel.tsx`: Dialog component for a validation add-on.
+* `RightPanel.tsx`: Dialog component for a validation Add-on.
 
-* `Helper` components: Include `ClaimsChecker` and `Spinner`.
+* `Helper` components: Includes `ClaimsChecker`.
 
-## Prerequisites
- 
-* Node.js (version 20.x or higher)
+## Create an App Builder app
 
-* npm (packaged with Node.js)
-
-* Adobe Developer command-line interface (CLI). To install, enter `npm install -g @adobe/aio-cli`
-
-## Step 1: Create an App Builder app
-
-You can use an example app to jump-start creation of your add-on. 
+You can use an example app to jump-start creation of your Add-on. 
 
 **To create an App Builder app from an existing app**:
 
@@ -90,35 +90,15 @@ You can use an example app to jump-start creation of your add-on.
 
   `aio app '/path/to/your/downloaded/app-builder/project/details/config.json'`
 
-## Create a new App Builder App from an existing app
+## Add custom code to your Add-on
 
-**To create a new app from an existing app**:
+You define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the Add-on.
 
-1. Clone the repository that contains your existing app.
+* `AdditionalContextDialog.tsx`: User clicks on Add-on in the prompt drawer in [!DNL Create]. Define this component if you plan to use the Add Context Add-on.
 
-1. Authenticate with the Adobe Developer command-line interface:
+* `RightPanel.tsx`: User clicks on the validation Add-on in the right panel in [!DNL Create] in an experience draft. Define this component if you plan to use the Right Panel (experience validation) Add-on.
 
-   `aio login` 
-
-1. Navigate to the environment of the App Builder Project in which you want to deploy your app:
-
-   `aio app use <path-to-downloaded-project-details>`
-
-1. Install dependencies:
-
-   `npm install`
-
-You are now ready to add your custom code.
-
-## Add custom code to your add-on
-
-You define your add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the add-on.
-
-* `AdditionalContextDialog.tsx`: User clicks on Add-on in the prompt drawer in [!DNL Create]. Define this component if you plan to use the Add Context add-on.
-
-* `RightPanel.tsx`: User clicks on the validation add-on in the right panel in [!DNL Create] in an experience draft. Define this component if you plan to use the Right Panel (experience validation) Add-on.
-
-You are now ready to [Deploy your app](develop-deploy.md).
+You are now ready to [Deploy your app](deploy-app.md)
 
 ## Best practices for app development
 
