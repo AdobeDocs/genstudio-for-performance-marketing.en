@@ -50,7 +50,7 @@ Each field and section of email experiences are progressively loaded in this seq
 1. Email body for subsequent sections (for multi-section emails)
 1. Brand validation
 
-   The brand validation process occurs and the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) populates for each variant.
+   Brand validation and content check process occurs and the [_Content check_ summary](/help/user-guide/guidelines/brand-validation.md#content-check-summary) populates for each variant.
 
 ## Character counts
 
