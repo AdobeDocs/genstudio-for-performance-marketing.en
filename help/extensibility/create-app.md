@@ -1,6 +1,7 @@
 ---
 title: Create an App Builder app to extend GenStudio for Performance Marketing
 description: Start building an app, or Add-on.
+exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
 ---
 # Develop an App Builder app
 

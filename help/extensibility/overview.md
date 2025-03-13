@@ -1,6 +1,7 @@
 ---
 title: Get started
 description: Start building Add-ons or App Builder apps that extend GenStudio for Performance Marketing.
+exl-id: 755f1a40-add5-43e3-bf54-eaec36ef1e9a
 ---
 # Get started building extensible apps
 

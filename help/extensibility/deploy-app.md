@@ -1,8 +1,8 @@
 ---
 title: Deploy your App Builder app
 description: Deploy your App Builder app, or Add-on, for GenStudio for Performance Marketing.
+exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 ---
-
 # Deploy your app
  
 Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.

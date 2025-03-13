@@ -1,6 +1,7 @@
 ---
 title: Distribute your app
 description: Distribute your app, or Add-on, for GenStudio for Performance Marketing.
+exl-id: 4935356b-08df-402c-b1a2-b89627afc188
 ---
 # Distribute your app
 
