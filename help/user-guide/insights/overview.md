@@ -40,7 +40,7 @@ The [[!DNL Insights] _[!UICONTROL Media]_ view](media.md) is designed to help yo
 
 Clicking on media content provides further context about its performance across different ads and ad placements:
 
-![Media details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
+![Media details](/help/assets/insights-media-details.png){width="600" zoomable="yes"}
 
 In the media details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 

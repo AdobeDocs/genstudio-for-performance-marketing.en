@@ -12,7 +12,7 @@ The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connecte
 
 The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
 
-![Ads filter and table](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -20,7 +20,7 @@ The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the
 
 Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
 
-![Ad details with metrics and ad placements](/help/assets/insights-experience-details.png){zoomable="yes"}
+![Ad details with metrics and ad placements](/help/assets/insights-ad-details.png){zoomable="yes"}
 
 ### Text attributes
 
