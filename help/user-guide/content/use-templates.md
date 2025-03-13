@@ -114,3 +114,23 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
 1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
+
+## Templates from AJO and Marketo
+
+You can upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. GenStudio for Performance Marketing detects application-specific patterns and ignores them, preserving the original form for continued use in AJO or Marketo. You do not need to make any changes to the original AJO or Marketo syntax.
+
+Recognized application patterns include:
+
+- **AJO**: `{{profile.*}}`, `{{context.*}}`
+- **Marketo**: `{{my.*}}`, `{{lead.*}}`, `{{system.*}}`
+
+>[!BEGINSHADEBOX]
+
+**Prerequisites**
+
+- The application (AJO, Marketo) and GenStudio for Performance Marketing must belong to the same IMS Org for integration
+- Users must have the "Collaborator" role (the lowest level) or higher
+
+>[!ENDSHADEBOX]
+
+Next, [customize your template](/help/user-guide/content/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.
