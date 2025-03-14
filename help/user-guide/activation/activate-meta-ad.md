@@ -57,7 +57,7 @@ Use the _Media_ section to select at least one image asset to include in your ex
 
 **To upload an asset from Content**:
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. The _Creative setup_ view opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta Ads tile. The _Creative setup_ view opens.
 
 1. Click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**.
 
