@@ -22,6 +22,8 @@ With [!DNL Create], you can generate content for the following channels:
 
 Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Campaigns](/help/user-guide/campaigns/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
+Editors and system managers have full access to [!DNL Create]. See [User roles and permissions](/help/user-guide/user-roles.md) for detailed role access information.
+
 ## [!DNL Create] use cases
 
 <table style="table-layout:fixed">
