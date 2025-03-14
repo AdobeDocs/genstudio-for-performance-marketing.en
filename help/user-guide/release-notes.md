@@ -26,6 +26,10 @@ Added support for [creating banner experiences](/help/user-guide/create/create-b
 
 As part of the brand validation process, [compliance standards](/help/user-guide/guidelines/overview.md) have been introduced in [Content checks](/help/user-guide/guidelines/brand-validation.md). These checks review each variant in an experience against [!DNL Brand], [!DNL Product], and [!DNL Persona] guidelines, platform guidelines (such as for Meta), ethical considerations, and ADA standards. This process provides a comprehensive summary of the guidelines and standards that need revision for better compliance.
 
+### Extensibility
+
+The new GenStudio for Performance Marketing [extensibility framework](/help/extensibility/overview.md) provides tools for organizations to incorporate their own claims compliance protocols into content creation workflow and validation through Add-ons, or extensible applications.
+
 ### Templates
 
 * **Template code editor**—The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
