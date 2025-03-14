@@ -52,7 +52,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
-![Content template list](/help/assets/content-templates-filter.png){width="650" zoomable="yes"}
+![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
 ### Add a template
 
