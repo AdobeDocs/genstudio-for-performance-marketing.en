@@ -12,9 +12,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content] simplifies and enhances
 
 The gallery shows an inventory of approved assets, experiences, or templates depending on the selected view. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu, where you can select from many categories to filter the content shown in the gallery. In the _[!UICONTROL Assets]_ view, click the search (magnifying glass) icon to use a keyword to find an asset.
 
-The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
+The following shows a search on the term `space` in the [!UICONTROL Assets] gallery:
 
-![Assets view with search on dog](/help/assets/content-assets.png)
+![Assets view with search on space](/help/assets/content-assets-filter.png "Searching for assets with space attribute")
 
 ### Search content
 
@@ -51,7 +51,7 @@ By default, assets that you add to [!DNL Content] through the [!DNL Create] proc
 
 The **[!UICONTROL Location]** list above the _[!UICONTROL Assets]_ gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) [!DNL Assets Content Hub] repositories.
 
-![Location list of repositories](../../assets/content-location-selection.png){width="350"}
+![Location list of repositories](/help/assets/content-location-selection.png "Select a content repository"){width="350"}
 
 When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
 
@@ -83,7 +83,7 @@ The following table lists the management tasks available for assets, experiences
 
 When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
 
-![Location field](../../assets/content-location.png){width="350"}
+![Location field](/help/assets/content-location.png "Location field"){width="350"}
 
 **To add one or more assets**:
 
@@ -140,7 +140,7 @@ You can export an approved experience for activation in a format compatible with
 1. In the _Export for activation_ popup, select one of the available formats:
 
    - Email: `HTML`, `CSV`
-   - Meta and display ads: `HTML`, `JPEG`, `PNG`
+   - Meta, Banner, and Display ad: `HTML`, `JPEG`, `PNG`
 
 See [Activation](/help/user-guide/activation/overview.md).
 

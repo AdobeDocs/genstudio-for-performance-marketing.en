@@ -69,7 +69,7 @@ The following table details the metadata (asset details) that you can define whe
 | [!DNL Brands]  | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketing and published for use |
 | [!DNL Products]| [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketing for use |
 | [!DNL Personas]| [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketing for use |
-| Channels       | Platforms for distributing certain content types, such as email and display ads |
+| Channels       | Platforms for distributing certain content types, such as email and Banner and Display ad |
 | [!UICONTROL Timeframe] | Time frame for which the asset is used, such as quarter, season, year, etc. Example: `Winter 2023` |
 | Region         | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
 | Language       | Languages for which the asset is used. Example: `Spanish` |

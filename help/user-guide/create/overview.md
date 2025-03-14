@@ -8,15 +8,19 @@ exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
 
 GenStudio for Performance Marketing [!DNL Create] leverages the power of Adobe GenAI to empower marketers and distributed teams to create high-performing, on-brand experiences.
 
-![Create dashboard](/help/assets/create.png){width="600" zoomable="yes"}
+![Create home](/help/assets/create-home.png){width="600" zoomable="yes"}
+
+The [!DNL Create] home is organized into channel sections—_Owned media_, _Paid media_, and _Content_—and a _Recents_ section that displays all your recent drafts and published content. Each channel section enables the creation of content for that specific set of channels. For instance, go to the _Owned media_ section to begin creating an email or banner.
 
 With [!DNL Create], you can generate content for the following channels:
 
 * [Emails](email-experiences.md)
 * [Meta ads](meta-experiences.md)
+* [LinkedIn ads](linkedin-experiences.md)
 * [Display ads](display-ad-experiences.md)
+* [Banners](banner-experiences.md)
 
-Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Campaigns](/help/user-guide/campaigns/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 Editors and system managers have full access to [!DNL Create]. See [User roles and permissions](/help/user-guide/user-roles.md) for detailed role access information.
 
@@ -45,12 +49,32 @@ Editors and system managers have full access to [!DNL Create]. See [User roles a
       </div>
    </td>
    <td align="center" valign="top" width="100">
+      <a href="/help/user-guide/create/create-linkedin.md">
+      <img alt="Create a LinkedIn ad experience" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+      </a>
+      <div>
+         <a href="/help/user-guide/create/create-linkedin.md">
+         <strong>Create a LinkedIn ad experience</strong>
+         </a>
+      </div>
+   </td>
+   <td align="center" valign="top" width="100">
       <a href="/help/user-guide/create/create-display-ad.md">
       <img alt="Create a display ad experience" src="../../assets/icons/icon-addTemplate.svg" width="35">
       </a>
       <div>
          <a href="/help/user-guide/create/create-display-ad.md">
          <strong>Create a display ad experience</strong>
+         </a>
+      </div>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="/help/user-guide/create/create-banner-experience.md">
+      <img alt="Create a banner experience" src="../../assets/icons/icon-search.png" width="35">
+      </a>
+      <div>
+         <a href="/help/user-guide/create/create-banner-experience.md">
+         <strong>Create a banner experience</strong>
          </a>
       </div>
    </td>
@@ -83,9 +107,9 @@ Content—uploaded or added image assets—in _Parameters_ are used in generated
 
 To create AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt drawer and click **[!UICONTROL Generate]**.
 
-### Brand validation
+### Content checks
 
-GenStudio for Performance Marketing conducts brand validation on various aspects of a brand's identity (as defined in [guidelines](/help/user-guide/guidelines/overview.md)). [Brand validation](/help/user-guide/guidelines/brand-validation.md) information is available for any generated content, indicating its compliance with brand guidelines and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio for Performance Marketing conducts [content checks](/help/user-guide/guidelines/brand-validation.md#content-check-panel) against [brand guidelines](/help/user-guide/guidelines/brands.md), platform guidelines, and [accessibility standards](/help/user-guide/guidelines/overview.md#compliance) on each variant to ensure it meets the utmost in [!DNL Brand], platform, and accessibility standards. [Content check](/help/user-guide/guidelines/brand-validation.md#content-check-summary) information is available for any generated content, indicating its compliance with comprehensive content checks and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
 
 ### Reviews and approvals
 
