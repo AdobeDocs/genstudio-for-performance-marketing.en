@@ -30,7 +30,7 @@ If you need to activate multiple Meta Ads, create a separate Dynamic Creative Ad
 
 * **Match the number of applied rules with the amount specified by the platform**
 
-Paid channels expect the number of applied rules to precisely match their specified format.  If necessary, adjust the number of rules to match the value that the platform specifies. Sample error: _The Ad AssetFeed has X target rule(s) for format: name of format, but exactly X target rule for this format is expected. (100)_
+Paid channels expect the number of applied rules to match their specified format.  If necessary, adjust the number of rules to match the value that the platform specifies. Sample error: _The Ad AssetFeed has X target rule(s) for format: name of format, but exactly X target rule for this format is expected. (100)_
 
 * **Choose a call-to-action (CTA) that is compatible with your ad set objective**
 

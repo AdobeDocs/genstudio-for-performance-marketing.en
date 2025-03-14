@@ -26,7 +26,7 @@ The following table lists the attributes that define each experience.
 
 Use **[!UICONTROL Search]** (magnifying glass) or scroll the experience list to find an activation by experience name.
 
-Click on the activation opens a focused view of activation details.
+Click on the activation to open a focused view of activation details.
 
 ## Details view
 
@@ -37,4 +37,4 @@ From the _Activated experiences_ view, click on an activation. The read-only _Ac
 * **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
 * **Channel setup**: The paid channel accounts used to activate the ad experience
 
-The Details view of a failed activations includes the reason for failure.
+The _Details_ view of a failed activation includes the reason for failure.

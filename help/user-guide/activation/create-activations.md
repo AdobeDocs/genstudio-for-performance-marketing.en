@@ -29,6 +29,6 @@ Once an experience is live on its target ad channel, _[!DNL Insights]_ can track
 
 ## Supported channels
 
-Each paid media channel has its own activation workflow. Select the paid channel for activation guidelines:
+Each paid media channel has a unique activation workflow. Select the paid channel for activation guidelines:
 
 * [Meta](activate-meta-ad.md)
