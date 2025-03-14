@@ -5,6 +5,7 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
+exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
 ---
 # LinkedIn experiences
 

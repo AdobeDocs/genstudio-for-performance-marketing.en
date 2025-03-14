@@ -6,6 +6,7 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 role: User
 level: Beginner
 recommendations: noDisplay
+exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
 ---
 # Create a banner experience
 
