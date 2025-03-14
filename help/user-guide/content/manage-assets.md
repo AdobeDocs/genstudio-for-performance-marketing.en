@@ -12,9 +12,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content] simplifies and enhances
 
 The gallery shows an inventory of approved assets, experiences, or templates depending on the selected view. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu, where you can select from many categories to filter the content shown in the gallery. In the _[!UICONTROL Assets]_ view, click the search (magnifying glass) icon to use a keyword to find an asset.
 
-The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
+The following shows a search on the term `space` in the [!UICONTROL Assets] gallery:
 
-![Assets view with search on dog](/help/assets/content-assets.png)
+![Assets view with search on dog](/help/assets/content-assets-filter.png)
 
 ### Search content
 
