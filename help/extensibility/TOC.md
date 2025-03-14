@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe GenStudio for Performance Marketing Extensibility Guide
 breadcrumb-title: Extensibility Guide
-user-guide-description: Explore the capabilities of GenStudio for Performance Marketing and build extensible applications with the GenStudio UI SDK.
+user-guide-description: Explore the capabilities of Adobe GenStudio for Performance Marketing extensibility framework.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer

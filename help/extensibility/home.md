@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudio Extensibility Guide
-description: Explore the capabilities of GenStudio for Performance Marketing extensibility framework.
+description: Explore the capabilities of Adobe GenStudio for Performance Marketing UI SDK and learn how to build extensible applications.
 exl-id: 4eca9e83-a109-431e-bfaa-9a6f7682e56f
 ---
 # Adobe GenStudio for Performance Marketing Extensibility Guide
