@@ -7,7 +7,7 @@ feature: Experiences
 
 _[!DNL Activate]_ supports the activation of _ad experiences_ in channel-specific formats.
 
-A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is tailored to a specific audience on a paid ad channel. Ad experiences contain three main components:
+A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is tailored to a specific audience on a paid ad channel or email. Ad experiences contain three main components:
 
 * **Media assets**: Media assets are the images (GIFs, PNG, JPEG) included in your ad experience. Activation currently supports static images.
 * **Text**: Text comprises all forms of copy that are included in your ad, including headlines, body text, and call-to-action elements.
