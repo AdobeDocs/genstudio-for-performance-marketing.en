@@ -9,7 +9,7 @@ _[!DNL Activate]_  offers a centralized view of each ad channel's activation sta
 
 Activated experiences are organized by ad channel. From _[!DNL Activate]_, click **[!UICONTROL View]** on the channel tile. The _Activated experiences_ view for the selected channel opens. Experiences are listed by experience name and ordered by activation date. If your organization has not activated experiences for that channel, the product tile does not include the **[!UICONTROL View]** button.
 
-### Activated experience view
+## Activated experience view
 
 Activations are listed by experience name in descending chronological order (most recent listed first).
 
@@ -28,7 +28,7 @@ Use **[!UICONTROL Search]** (magnifying glass) or scroll the experience list to 
 
 Click on the activation opens a focused view of activation details.
 
-### Details view
+## Details view
 
 From the _Activated experiences_ view, click on an activation. The read-only _Activation details_ view captures the defining details of an activated experience, including failed activations. This view includes information derived from both GenStudio for Performance Marketing and the ad channel.
 
