@@ -35,7 +35,6 @@ As part of the brand validation process, [compliance standards](/help/user-guide
 * **Links on image**—Customize your email template by enabling image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
 * **AJO and Marketo templates**—Upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. See [Work with templates from AJO and Marketo](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
 
-
 ### Fixes and enhancements
 
 * Enabled functionality for [default channel](/help/user-guide/guidelines/brands.md#channel-guidelines), [image](/help/user-guide/guidelines/brands.md#image-guidelines), [logo](/help/user-guide/guidelines/brands.md#logos), and [color](/help/user-guide/guidelines/brands.md#colors) guidelines for [[!DNL Brands]](/help/user-guide/guidelines/brands.md).

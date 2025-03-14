@@ -1,6 +1,6 @@
 ---
 title: Connect channel account
-description: Connect a channel account to monitor your Adobe GenStudio for Performance Marketing marketing campaigns and media performance.
+description: Connect a channel account to monitor your Adobe GenStudio for Performance Marketing campaigns and media performance.
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
