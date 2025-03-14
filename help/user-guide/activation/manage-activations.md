@@ -14,7 +14,7 @@ From the _Activated experiences_ view, you can:
 
 ## View activated experiences by channel
 
-Activated experiences are organized by ad channel. From _[!DNL Activate]_, click **[!UICONTROL Manage]** on the channel tile. The _Activated experiences_ view for the selected channel opens. Experiences are listed by experience name and ordered by activation date. If your organization has not activated experiences for that channel, the product tile does not include a **[!UICONTROL View]** option.
+Activated experiences are organized by ad channel. From _[!DNL Activate]_, click **[!UICONTROL Manage]** on the channel tile. The _Activated experiences_ view for the selected channel opens. Experiences are listed by experience name and ordered by activation date. If your organization has not activated experiences for that channel, the product tile does not include a**[!UICONTROL View]** button.
 
 ### Activated experiences view
 

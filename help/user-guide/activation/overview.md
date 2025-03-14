@@ -12,7 +12,7 @@ Content editors and system managers can publish experiences whose assets are eit
 
 [!DNL Activate] displays a product tile for each channel. This tile identifies the paid media channel and lists the number of successful ad activations that has occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
 
-An existing connection to paid media channel accounts must be set up before you can activate an experience.
+Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
 
 ## [!DNL Activate] use cases
 
@@ -24,15 +24,14 @@ An existing connection to paid media channel accounts must be set up before you 
 
 _[!DNL Activate]_ facilitates the preparation of ad experience for distribution to its target paid channels.
 
-### Select approved assets for an ad experience
-
-Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
-
-### Prepare an ad experience for activation to a specific paid channel
+### Prepare for activation
 
 The _Creative setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+
+### Select assets for ad experience
+
+Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
 
 ### Preview and activate your experience to an ad channel
 
 Confirm the paid channel accounts, ad sets, and Meta campaigns associated with this ad activation. The _Preview_ panel lets you view ad experiences in different placements before you finalize it. (When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.) When you are satisfied with your ad experience, click **[!UICONTROL Publish]** to push the experience and its associated metadata to the paid ad channel.
-
