@@ -13,7 +13,7 @@ Activating a Meta ad follows the [same general steps](create-activations.md) req
 
 ## Step 1: Set up your Meta accounts
 
-Before launching an activation, [log in to Meta](https://www.facebook.com/login.php) to access your Meta Ads Manager account. Confirm that your connected Meta ad accounts include:
+Before launching an activation, [log in to Meta](https://adsmanager.facebook.com/) to access your Meta Ads Manager account. Confirm that your connected Meta ad accounts include:
 
 * Facebook page
 * Meta campaign
@@ -160,4 +160,4 @@ Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associat
 
 ## Log in to Meta Ads Manager to complete activation
 
-After your activation completes, you must log in to Meta Ads Manager. From Meta Ads Manager, you can review your ad experience and finalize publication to specific Meta channels.
+After your activation completes, you must log in to Meta Ads Manager. From [Meta Ads Manager](https://adsmanager.facebook.com/), you can review your ad experience and finalize publication to specific Meta channels.
