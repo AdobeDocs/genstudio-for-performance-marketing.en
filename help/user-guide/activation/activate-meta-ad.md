@@ -40,19 +40,18 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 GenStudio system managers and editors can activate ad experiences.
 
+**To prepare your experience for activation**:
+
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta product tile. The _Creative setup_ view opens.
 
+   The Creative setup page provides a central location for preparing your Meta ad activation. Preparing your ad includes these three tasks: 
+
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
+1. Select media assets. You can use assets from Content or upload external assets (for example, from OneDrive or Dropbox).
+1. [Add text](#add-ad-text).
+1. [Add metadata](#assign-metadata).
 
-The Creative setup page provides a central location for preparing your Meta ad activation. Preparing your ad includes these three tasks: 
-
-* Step 1: Select media assets. You can use assets from Content or upload external assets (for example, from OneDrive or Dropbox)
-
-* Step 2: Add text. 
-
-* Step 3: Add metadata
-
-The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
+   The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
 ### Select your media assets
 
@@ -152,6 +151,6 @@ The _Review_ page displays your ad experience as assembled in the _Creative setu
 
 Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associated metadata are pushed directly into the selected Meta Ads Manager ad set. Experiences are delivered to Meta Ads Manager inactivated. From Meta Ads Manager, you can manage the final steps of deploying the ad experience and Meta campaign.
 
-## Log in to Meta Ads Manager to complete activation
+### Log in to Meta Ads Manager to complete activation
 
 After your activation completes, you must log in to Meta Ads Manager. From [Meta Ads Manager](https://adsmanager.facebook.com/), you can review your ad experience and finalize publication to specific Meta channels.
