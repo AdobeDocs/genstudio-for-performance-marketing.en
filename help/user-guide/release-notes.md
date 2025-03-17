@@ -12,7 +12,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ### Activate Meta ads
 
-Marketers can now [publish ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing directly into Meta Ads Manager.  [!DNL Activate] supports detailed Meta ad previews before deployment. Meta ads published through [!DNL Activate] are automatically pulled into the [!DNL Insights] once live, enabling users to track and report on ad performance.
+Marketers can now [publish ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing into Meta Ads Manager. [!DNL Activate] supports detailed Meta ad previews before deployment. Meta ads published through [!DNL Activate] are automatically pulled into the [!DNL Insights] once live, enabling users to track and report on ad performance.
 
 ### Create LinkedIn experiences
 
