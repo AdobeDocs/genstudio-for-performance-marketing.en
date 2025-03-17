@@ -53,8 +53,8 @@ feature: Generative AI
   + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
   + [Activation overview](activation/overview.md)
-  + [Activation workflow](activation/create-activations.md)
-  + [Create a Meta ad activation](activation/activate-meta-ad.md)
+  + [Activation workflow](activation/activation-workflow.md)
+  + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)
 + Insights {#insights}

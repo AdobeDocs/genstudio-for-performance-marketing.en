@@ -1,5 +1,5 @@
 ---
-title: Activate Meta ad
+title: Activate a Meta ad
 description: Learn how to activate a Meta ad experience.
 feature: Experiences
 ---
@@ -9,7 +9,7 @@ Adobe GenStudio for Performance Marketing supports the activation of Meta ads, o
 
 You can [create a Meta experience](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
 
-Activating a Meta ad follows the [same general steps](create-activations.md) required to activate to other paid channels. It supports preparing your ad experiences for Meta's specific requirements. After your Meta experience, or creative, is complete in GenStudio for Performance Marketing, use Meta Ads Manager to fine-tune the experience for specific Meta ad placements before final publication.
+Activating a Meta ad follows the [same general steps](create-activations.md) required to activate to other paid channels. The activation process supports preparing your ad experiences for Meta's specific requirements. After you activate a Meta experience, or creative, in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
 
 ## Step 1: Set up your Meta accounts
 
@@ -24,7 +24,7 @@ You must have permission to post content to Meta Ads Manager.
 
 ## Step 2: Connect to your Meta accounts
 
-Data connectors enable the flow of data between marketing tools and GenStudio for Performance Marketing. A GenStudio system manager must connect your Meta accounts to GenStudio for Performance Marketing before your organization can activate experiences. 
+Before your organization can activate experiences, a GenStudio system manager needs to connect your Meta accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio and external marketing tools like Meta, enabling the activation processes.
 
 **To connect GenStudio for Performance Marketing with your Meta accounts**:
 
@@ -44,9 +44,23 @@ GenStudio system managers and editors can activate ad experiences.
 
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 
-### Select your media assets
+The Creative setup page provides a central location for preparing your Meta ad activation. Preparing your ad includes these three tasks: 
+
+* Step 1: Select media assets. You can use assets from Content or upload external assets (for example, from OneDrive or Dropbox)
+
+* Step 2: Add text. 
+
+* Step 3: Add metadata
+
+
+
+### Step 1: Select your media assets
 
 Use the _Media_ section to select at least one image asset to include in your experience. Ad placements are associated with supported image aspect ratios, which are listed as options in the _Placements_ drop-down menu.
+
+#### Preview ad placements
+
+The _Preview panel_ on the _Creative_ setup page lets you interactively view your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
 #### Aspect ratios
 
@@ -94,11 +108,7 @@ You can upload up to six static images external to the _[!DNL Content]_ gallery 
 
 1. When you have uploaded your assets and assigned details, click **[!UICONTROL Add Assets]** on the bottom right.
 
-#### Preview ad placements
-
-The _Preview panel_ on the _Creative_ setup page lets you interactively view your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
-
-### Add ad text
+### Step 2: Add ad text
 
 Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text.
 
@@ -115,7 +125,7 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 
 _Primary text_ and _headline_ are required by GenStudio for Performance Marketing only, not Meta.
 
-### Assign metadata
+### Step 3: Assign metadata
 
 Experience details are saved as metadata and aid users when searching for an experience. Those details boost the experience's visibility in [!DNL Content]. Use these optional, user-defined details to identify the experience's purpose and the context, or campaigns, in which it is deployed.
 

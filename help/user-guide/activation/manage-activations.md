@@ -17,12 +17,12 @@ The following table lists the attributes that define each experience.
 
 | Attribute        | Value                                                                                       |
 |------------------|---------------------------------------------------------------------------------------------|
-| Experience name  | Name of the experience in GenStudio for Performance Marketing. This name identifies the experience in _[!DNL Content]_ |
+| Experience name  | Name of the experience in GenStudio for Performance Marketing<br>This name identifies the experience in _[!DNL Content]_ |
 | Ad name          | Name of the ad in the ad channel                                                           |
-| Publish date     | Date that the ad experience was successfully published. Uses month-day-year format         |
+| Publish date     | Date that the ad experience was successfully published<br>Uses month-day-year format         |
 | Published by     | Name of the GenStudio for Performance Marketing user who activated the experience          |
 | Regions          | Geographic region in which the experience is launched     |
-| Status           | Status of the selected ad experience. Values include Failed, Published, and Publishing    |
+| Status           | Status of the selected ad experience<br>Values include Failed, Published, and Publishing    |
 
 Use **[!UICONTROL Search]** (magnifying glass) or scroll the experience list to find an activation by experience name.
 
