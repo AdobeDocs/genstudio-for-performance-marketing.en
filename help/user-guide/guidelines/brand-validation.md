@@ -10,9 +10,9 @@ In GenStudio for Performance Marketing, brand validation is an essential compone
 
 GenStudio for Performance Marketing conducts brand validation and other content checks on various aspects, including:
 
-* Defined or default [!DNL Brand], [!DNL Persona], and [!DNL Product] guidelines
+* Defined or default [!DNL Brand] guidelines
 * Platform guidelines
-* Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * American with Disabilities Act (ADA) standards
 
 ## Content check summary
