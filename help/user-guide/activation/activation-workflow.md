@@ -9,8 +9,11 @@ _[!DNL Activate]_ supports the activation of ad experiences in channel-specific 
 
 A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is tailored to a specific audience on a paid ad channel or email. Ad experiences contain three main components:
 
-* **Media assets**: Media assets are the images (GIFs, PNG, JPEG) included in your ad experience. Activation currently supports static images.
+* **Media assets**: Media assets are the images (GIFs, PNG, JPEG) included in your ad experience. Activation currently supports static images. 
+Selecting an image asset for your ad experience requires choosing an appropriate aspect ratio. Aspect ratios define the proportional relationship between an image's width and height, and they are crucial for the effectiveness of ad placements. Paid media channels carefully specify valid aspect ratios for each ad placement on their platform. When adding image assets to your activation, you must select the aspect ratio based on the final ad placements for your experience. File types are restricted to JPEG, PNG, and GIF.
+
 * **Text**: Text comprises all forms of copy that are included in your ad, including headlines, body text, and call-to-action elements.
+
 * **Metadata**: User-defined attributes that you can assign to content. Metadata enhances performance analysis, filtering, and tracking. It is typically not visible to users.
 
 Creating an activation involves refining each of these ad components for a designated channel placement and marketing campaign. GenStudio for Performance Marketing supports activating one experience to one paid channel.

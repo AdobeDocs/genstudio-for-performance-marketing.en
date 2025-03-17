@@ -9,7 +9,7 @@ Adobe GenStudio for Performance Marketing supports the activation of Meta ads, o
 
 You can [create a Meta experience](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
 
-Activating a Meta ad follows the [same general steps](create-activations.md) required to activate to other paid channels. The activation process supports preparing your ad experiences for Meta's specific requirements. After you activate a Meta experience, or creative, in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
+Activating a Meta ad follows the [same general steps](create-activations.md) required for activation to other paid channels. The activation process supports preparing your ad experiences for Meta's specific requirements. After you activate a Meta experience, or creative, in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
 
 ## Step 1: Set up your Meta accounts
 
@@ -52,31 +52,17 @@ The Creative setup page provides a central location for preparing your Meta ad a
 
 * Step 3: Add metadata
 
+The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
+### Select your media assets
 
-### Step 1: Select your media assets
+Use the _Media_ section to select at least one image asset to include in your experience. Ad placements are associated with supported image aspect ratios, which are listed as options in the _Placements_ drop-down menu. This menu displays the supported ad placements for Facebook posts or Instagram stories, organized by aspect ratio.
 
-Use the _Media_ section to select at least one image asset to include in your experience. Ad placements are associated with supported image aspect ratios, which are listed as options in the _Placements_ drop-down menu.
-
-#### Preview ad placements
-
-The _Preview panel_ on the _Creative_ setup page lets you interactively view your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
-
-#### Aspect ratios
-
-Selecting an image asset for your ad experience, or creative, requires choosing an appropriate aspect ratio. Aspect ratios define the proportional relationship between an image's width and height, and they are crucial for the effectiveness of ad placements. Paid media channels carefully specify valid aspect ratios for each ad placement on their platform.
-
-The _Creative setup_ > _Placement_ menu displays the supported ad placements for Facebook posts or Instagram stories, organized by aspect ratio.
-
-When adding image assets to your activation, you must select the aspect ratio based on the final ad placements for your experience. File types are restricted to JPEG, PNG, and GIF.
-
-After you have added assets to your experience, the _Creative setup_ _Media_ area displays the image by default with a 1:1 aspect ratio. Alternative aspect ratios include the values that the paid ad channel supports. They are grouped by vertical and horizontal orientation. GenStudio for Performance Marketing supports the inclusion of up to six aspect ratios per activated experience.
-
-#### Upload from Content
-
-_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_  gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options. 
+After upload, assets are saved to _[!DNL Content]_. The _Media_ area displays the image by default with a 1:1 aspect ratio. Alternative aspect ratios include only the values supported by the paid ad channel. They are grouped by vertical and horizontal orientation. GenStudio for Performance Marketing supports the inclusion of up to six aspect ratios per activated experience.
 
 **To upload an asset from Content**:
+
+_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options. 
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta Ads tile. The _Creative setup_ view opens.
 
@@ -88,11 +74,9 @@ _[!DNL Content]_ provides a central view for your organization's approved assets
 
 If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
 
-#### Upload an external asset
-
-You can upload up to six static images external to the _[!DNL Content]_ gallery from either Microsoft OneDrive or Dropbox. Select an aspect ratio for each image that you upload. After upload, assets are saved to _[!DNL Content]_.
-
 **To upload an external asset**:
+
+You can upload up to six static images external to the _[!DNL Content]_ gallery from either Microsoft OneDrive or Dropbox.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. The _Creative setup_ window opens.
 
@@ -108,7 +92,7 @@ You can upload up to six static images external to the _[!DNL Content]_ gallery 
 
 1. When you have uploaded your assets and assigned details, click **[!UICONTROL Add Assets]** on the bottom right.
 
-### Step 2: Add ad text
+### Add ad text
 
 Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text.
 
@@ -125,7 +109,7 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 
 _Primary text_ and _headline_ are required by GenStudio for Performance Marketing only, not Meta.
 
-### Step 3: Assign metadata
+### Assign metadata
 
 Experience details are saved as metadata and aid users when searching for an experience. Those details boost the experience's visibility in [!DNL Content]. Use these optional, user-defined details to identify the experience's purpose and the context, or campaigns, in which it is deployed.
 
