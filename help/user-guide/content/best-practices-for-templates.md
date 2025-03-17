@@ -66,7 +66,7 @@ For email, the `subject` field is automatically included. Use content placeholde
 - `headline`
 - `body`
 - `cta`
-- `image` (selected from Content)
+- `image` (selected from Content JPEG, PNG, or GIF)
 - `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
@@ -109,17 +109,15 @@ Follow these design best practices when customizing Meta ad templates to work wi
 
 For Meta ads, the `headline`, `body`, and `CTA` fields are automatically generated. Use content placeholders for the following fields:
 
-- `image` (selected from Content)
-- `on-image-text`
+- `image` (selected from Content JPEG, PNG, or GIF)
+- `on_image_text`
 - `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
->[!TAB Display ad]
+>[!TAB Banner & Display ad]
 
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-Follow these design best practices when customizing display ad templates to work with GenStudio for Performance Marketing:
+Follow these design best practices when customizing Banner and Display ad templates to work with GenStudio for Performance Marketing:
 
 - Use Adobe or Google fonts
 - Prepare assets that display well in slim dimensions
@@ -153,7 +151,55 @@ Use content placeholders for the following fields:
 - `headline`
 - `body`
 - `cta`
-- `image` (selected from Content)
+- `image` (selected from Content JPEG, PNG, or GIF)
+
+See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
+
+>[!TAB LinkedIn ad]
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Follow these design best practices when customizing LinkedIn ad templates to work with GenStudio for Performance Marketing:
+
+**Constraints**:
+
+- Use of [sections](customize-template.md#sections-or-groups):
+   - Only one section can be used, generating a single set of template elements.
+- Maximum image size of 5 MB
+- Maximum headline 70 characters
+- Maximum introductory text 150 characters
+
+**Supported aspect ratios**:
+
+- Square 1:1
+  - desktop or mobile
+  - Min: 360 x 360 pixels
+  - Max: 4320 x 4320 pixels
+- Horizontal 1.91:1
+  - desktop
+  - Min: 640 x 360 pixels
+  - Max: 7680 x 4320 pixels
+- Vertical 1:1.91
+  - mobile
+  - Min: 360 x 640 pixels
+  - Max: 2430 x 4320 pixels
+- Verticle 2.3
+  - mobile
+  - Min: 360 x 640 pixels
+  - Max: 2430 x 4320 pixels
+- Verticle 4.5 (recommended)
+  - mobile
+  - Min: 360 x 640 pixels
+  - Max: 2430 x 4320 pixels
+
+**Recognized field names**:
+
+For LinkedIn ads, the `headline` and `CTA` fields are automatically generated. Use content placeholders for the following fields:
+
+- `image` (selected from Content JPEG, PNG, or GIF)
+- `introductory_text`
+- `on_image_text`
+- `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 

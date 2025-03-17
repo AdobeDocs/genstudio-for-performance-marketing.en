@@ -2,14 +2,72 @@
 title: Adobe GenStudio for Performance Marketing release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-01-16
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.1.16 {#latest}
+## 2025.03.13 {#latest}
+
+### Activate Meta ads
+
+Marketers can now [publish ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing into Meta Ads Manager. [!DNL Activate] supports detailed Meta ad previews before deployment. Meta ads published through [!DNL Activate] are automatically pulled into the [!DNL Insights] once live, enabling users to track and report on ad performance.
+
+### Create LinkedIn experiences
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Added support for [creating LinkedIn experiences](/help/user-guide/create/create-linkedin.md). See the [LinkedIn ad](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+
+### Create banner experiences
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Added support for [creating banner experiences](/help/user-guide/create/create-banner-experience.md). See the [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+
+### Compliance
+
+As part of the brand validation process, [compliance standards](/help/user-guide/guidelines/overview.md) have been introduced in [Content checks](/help/user-guide/guidelines/brand-validation.md). These checks review each variant in an experience against [!DNL Brand] guidelines, platform guidelines (such as for Meta), and ADA standards. This process provides a comprehensive summary of the guidelines and standards that need revision for better compliance.
+
+### Extensibility
+
+The new GenStudio for Performance Marketing [extensibility framework](/help/extensibility/overview.md) provides tools for organizations to incorporate their own claims compliance protocols into content creation workflow and validation through Add-ons, or extensible applications.
+
+### Templates
+
+* **Template code editor**—The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
+
+  ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
+
+* **Links on image**—Customize your email template by enabling image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
+* **AJO and Marketo templates**—Upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. See [Work with templates from AJO and Marketo](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+
+### Fixes and enhancements
+
+* Enabled functionality for [default channel](/help/user-guide/guidelines/brands.md#channel-guidelines), [image](/help/user-guide/guidelines/brands.md#image-guidelines), [logo](/help/user-guide/guidelines/brands.md#logos), and [color](/help/user-guide/guidelines/brands.md#colors) guidelines for [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
+* Added ability to [add links to images](/help/user-guide/create/manage-variants.md#add-image-link) within a variant.
+* Shifted the [Content check](/help/user-guide/guidelines/brand-validation.md) and Review and approval functionality to the new right action bar to maximize space on the Canvas and improve the user experience.
+* Simplified the flow for [uploading or manually adding a brand](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Introduced the ability to [add or swap image assets within a variant](/help/user-guide/create/manage-variants.md#swap-image) on the Canvas.
+* Improved user experience and visibility of channel categories [on the Create home](/help/user-guide/create/overview.md) by separating them into Owned media, Paid media, and Content sections.
+* Improved filtering in [!DNL Insights] table and gallery views.
+
+## Earlier release notes
+
++++Notes from 2025.02.13
+
+### Landing page improvements for [!DNL Create]
+
+The [!DNL Create] landing page in GenStudio for Performance Marketing includes UI improvements that enhance the user experience. The _Recent work_ section is refined and configured with the list view as the default view. Padding and other visual improvements streamline the look and feel of the [!DNL Create] Canvas.
+
+### Insights export to CSV
+
+You can now download the viewable table from any [!DNL Insights] view into a CSV file. This feature allows you to export and analyze data from various [!DNL Insights] views, facilitating data analysis and reporting options.
+
++++
+
++++Notes from 2025.01.16
 
 ### Integration with Adobe Workfront Proof
 
@@ -17,21 +75,17 @@ This release information details the latest updates to the GenStudio for Perform
 
 The GenStudio for Performance Marketing and Adobe Workfront Proof integration Beta program launches this month. Workfront Proof boosts the content creation and activation lifecycle with approval templates, multi-stage workflows, and annotations. GenStudio for Performance Marketing users with Workfront Proof entitlements can use Proof's advanced capabilities within GenStudio for Performance Marketing to review and comment on GenStudio-generated content.
 
-Beta programs provide a way to help shape product development and determine general availability readiness. Contact Etienne Bosch (etienneb@adobe.com) for information about the GenStudio for Performance Marketing/Workfront Proof integration Beta program.
+Beta programs provide a way to help shape product development and determine general availability readiness.
 
 ### Generate new Calls to Action
 
 You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/content/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
-The following preview shows the CTA character count, new options, and a rephrase-and-replace example:
-
-![CTA rephrase in action](/help/assets/animation/rephrase-cta.gif "CTA rephrase"){width="250" zoomable="yes"}
-
 ### Fixes and enhancements
 
 * Character counts are now displayed in all generated and manual fields of display ads. See _Character counts_ in [Meta experiences](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
 
-* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in[!DNL Create]. <!-- GS-7614 -->
+* _Collaborators_ can now view assets but not create, edit, or delete these assets. Previously, collaborator entitlements were not enforced as expected in [!DNL Create]. <!-- GS-7614 -->
 
 * Content editors can now edit asset, experience, and template metadata. <!-- GS-4905 -->
 
@@ -53,7 +107,7 @@ The following preview shows the CTA character count, new options, and a rephrase
 
 * The **[!UICONTROL Back]** button now returns users to either the previous page or the [!DNL Create] landing page as expected. <!-- GS-8622 -->
 
-## Earlier release notes
++++
 
 +++Notes from 2024.12.12
 

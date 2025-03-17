@@ -2,7 +2,6 @@
 title: Create a display ad experience
 description: Learn how to create display ad experiences in Adobe [!DNL GenStudio] for Performance Marketing.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
-badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
 recommendations: noDisplay
@@ -30,6 +29,8 @@ To create a display ad experience, use an available template to provide the fram
 ## Add parameters
 
 Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer supercharges the content generation process and is an integral preparatory step for generating a display ad experience.
+
+If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to your variants. You can change them if desired.
 
 **To add parameters and assets**:
 
@@ -63,7 +64,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
-## Revise generated display ads
+## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit display ad sections and text fields, or delete a generated variant.
 
@@ -71,7 +72,9 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 * **To [edit the display ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit a display ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the display ad sections or fields (such as the subject line, header, or body copy) and edit as needed.
-* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the available options to rephrase, shorten, lengthen, or generate new text.
+* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
+* **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
+* **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over the image, click the crop icon that appears, and adjust the image size and placement. Click **[!UICONTROL Apply]**.
 
@@ -83,26 +86,27 @@ When revising and preparing email experiences, you can toggle between previews f
 
 To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
-## Verify brand alignment
+## Verify content check alignment
 
-To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), which displays comprehensive brand validation details and illuminates improvement areas.
+To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
 
-**To verify brand alignment**:
+**To perform content checks on a variant**:
 
-1. Click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). You can see details of the fragments and guidelines that need improvement.
+1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise ads](#revise-generated-display-ads) to ensure your emails are closely aligned with your brand.
+   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
-Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible as an icon on the right action bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 **To obtain reviews and approvals**:
 
-1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
+1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted display ad experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
 1. Edit the drafts per review comments and [publish your display ad experiences](#publish-and-export-experience).

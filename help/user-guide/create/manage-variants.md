@@ -133,18 +133,31 @@ You can add or swap images in generated variants right from the Canvas.
 
 **To add or swap images in a variant**:
 
+1. After generating a set of variants, click an image asset (or the image asset area if an image does not currently exist).
+1. Click the **[!UICONTROL Swap from content]** icon.
+1. Use the filters and search function in the GenStudio assets [!DNL Content] view to further narrow your search results.
+
+   You can also use images available in connected Adobe Experience Manager (AEM) Assets Content Hub repositories by selecting that repository from the [**[!UICONTROL Location]** menu](/help/user-guide/content/manage-assets.md#location).
+
+1. Click to select an image and click **[!UICONTROL Use]**.
+
+   The image is added or swapped into the applicable variant.
+
+## Add image link
+
+Similar to adding or swapping images in generated variants, you can add a link to images. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
+
+**To add an image link in a variant**:
+
 1. After generating a set of variants, click an image asset.
 
    If the variant does not currently have a placed image asset, click the image asset area.
 
-1. To select an image asset already published to [!DNL Content]:
-   1. Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
-   1. Click **[!UICONTROL Use]**
-1. To upload an image asset:
-   1. Click **[!UICONTROL Upload New Image]** to browse your files and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox.
-   1. Click **[!UICONTROL Add Assets]**.
+1. Click the link icon.
+1. Click **[!UICONTROL Remove link]** to remove the existing default link.
+1. Add a link in the text field and click **[!UICONTROL Apply]**.
 
-   The images are added or swapped into the applicable variant.
+   The defined link is applied to all images in the variant set.
 
 ## Preview for device
 
@@ -170,9 +183,9 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
 ## Brand validation per variant
 
-Use the _[!UICONTROL Brand guidelines check]_ and the _[!UICONTROL Brand validation panel]_ to maintain consistent brand identity and alignment of variants.
+Use the _Content check_ panel to maintain consistent brand identity, [ADA accessibility standards, platform guidelines](/help/user-guide/guidelines/overview.md#content-checks), and alignment of variants.
 
-See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Generation feedback
 

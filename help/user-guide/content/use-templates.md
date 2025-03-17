@@ -20,59 +20,21 @@ By following these steps, you can create professional and effective templates th
 
 ## Template elements
 
-A template is a set of instructions defined with HTML and inline CSS that can be used to produce an Email, social ad, or a display ad experience. Template elements provide the structure for content creation.
+A template is a set of instructions defined with HTML and inline CSS that can be used to produce an email, social ad, or display ad experience. Template elements provide the structure for content creation.
 
 The following is a list of elements that are used in templates and some details about their characteristics:
 
-- **Preheader**
-
-  - Acts as a secondary subject line in an email, enhancing the main subject line
-  - Between 40-50 characters
-  - Visible in the inbox alongside the subject before the email is opened
-  - Used in email templates
-
-- **Header**
-
-  - Top section of the email that the recipient sees when opening the email
-  - Sets the tone and provides context for the included content
-  - Used in email templates
-
-- **Headline**
-
-  - First content the recipient sees
-  - Should be compelling to catch interest
-  - Used in Meta ad templates
-
-- **Body**
-
-  - Main content area where the primary message is conveyed
-  - Capable of including text, images, and other media
-  - Used in email and Meta ad templates
-
-- **CTA**
-
-  - Call-to-action button uses a phrase and a link
-  - Encourages the recipient to take a specific action such as clicking a link or making a purchase
-  - Used in email and Meta ad templates
-
-- **Images**
-
-  - Enhances visual appeal
-  - Break up text
-  - Support the message
-  - Should be high-quality and eye-catching
-  - Used in email and Meta ad templates
-
-- **Footer**
-
-  - Bottom section that contains additional content such as contact details, social media links, disclaimers, and unsubscribe options
-  - Used in email templates
-
-- **Text Overlay**
-
-  - Text on an image
-  - Use to support and enhance the headline and body
-  - Used in Meta ad templates
+| **Element**          | **Channel**                              | **Description**                                                                                                                                              |
+|----------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
+| **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
+| **Headline**         | Meta ad, Banner and Display ads, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
+| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
+| **Body**             | Email, Meta ad, Banner and Display ads    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
+| **CTA**              | Email, Meta ad, Banner and Display ads, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
+| **Images**           | Email, Meta ad, Banner and Display ads, LinkedIn | Enhance visual appeal, break up text, and support the message. Images should be high-quality and eye-catching.                                                   |
+| **Footer**           | Email                                    | The bottom section of the email contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.            |
+| **Text Overlay**     | Meta ad                                  | Text placed on an image to support and enhance the headline and body content.                                                                                  |
 
 >[!TIP]
 >
@@ -88,9 +50,9 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The [!DNL Templates] gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, display ads, and Meta ads.
+The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
-![Content template list](/help/assets/content-templates.png){width="650" zoomable="yes"}
+![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
 ### Add a template
 
@@ -104,22 +66,24 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Review discovered fields]_ pane, review the detected fields. Verify that you are using the correct template and that all the details are as expected. Click **[!UICONTROL Next]**.
+1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file.
+   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
+
+1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
 1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
-   - **Display ads**: requires Dimensions
+   - **Banner and Display ad**: requires Dimensions
 
 1. Add as many details as you can to improve template identification in searches and filtering.
 
@@ -150,3 +114,23 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
 1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
+
+## Templates from AJO and Marketo
+
+You can upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. GenStudio for Performance Marketing detects application-specific patterns and ignores them, preserving the original form for continued use in AJO or Marketo. You do not need to make any changes to the original AJO or Marketo syntax.
+
+Recognized application patterns include:
+
+- **AJO**: `{{profile.*}}`, `{{context.*}}`
+- **Marketo**: `{{my.*}}`, `{{lead.*}}`, `{{system.*}}`
+
+>[!BEGINSHADEBOX]
+
+**Prerequisites**
+
+- The application (AJO, Marketo) and GenStudio for Performance Marketing must belong to the same IMS Org for integration
+- Users must have the "Collaborator" role (the lowest level) or higher
+
+>[!ENDSHADEBOX]
+
+Next, [customize your template](/help/user-guide/content/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.
