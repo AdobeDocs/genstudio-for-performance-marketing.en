@@ -1,7 +1,7 @@
 ---
 title: Overview of GenStudio for Performance Marketing [!DNL Create]
 description: Quickly generate high-performing, on-brand content with generative AI in Adobe GenStudio for Performance Marketing [!DNL Create].
-feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
 ---
 # GenStudio for Performance Marketing [!DNL Create]
