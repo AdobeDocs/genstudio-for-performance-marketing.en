@@ -25,19 +25,7 @@ Setting up the key building blocks of your organization's brand identity is an e
 
 #### Prepare your guideline documents
 
-Comprehensive and focused [[!DNL Brands]](./guidelines/brands.md), [[!DNL Products]](./guidelines/products.md), and [[!DNL Personas]](./guidelines/personas.md) guidelines define core aspects of your organization's marketing campaigns. GenStudio for Performance Marketing extracts information from these guidelines to begin building your brand.
-
-Follow these best practices when preparing guidelines:
-
-* Use specific language.
-
-* Include the best examples that you can find of the style and tone you want campaign assets to embody.
-
-* Avoid redundancy. You might be tempted to repeat a directive multiple times, but redundancy in your guidelines does not help the underlying LLM capture and implement your brand guidelines.
-
-* Identify elements that you want the LLM to exclude during content generation (for example, exclamation points in text).
-
-You can upload guideline documents or consult them as you manually enter information into GenStudio for Performance Marketing. See [Add guidelines](./guidelines/overview.md) for guidance on uploading or entering this information.
+Comprehensive and focused [[!DNL Brands]](./guidelines/brands.md), [[!DNL Products]](./guidelines/products.md), and [[!DNL Personas]](./guidelines/personas.md) guidelines define core aspects of your organization's marketing campaigns. GenStudio for Performance Marketing extracts information from these guidelines to begin building your brand. You can upload guideline documents or consult them as you manually enter information into GenStudio for Performance Marketing. See [Add guidelines](./guidelines/overview.md) for guidance on uploading or entering this information.
 
 #### Revise guidelines
 
@@ -47,7 +35,7 @@ A GenStudio system manager can prepare the product's underlying generative AI fr
 
 System administrators must complete additional set-up tasks before collaborators can edit or create [!DNL Brands]. Adobe system administrators carry out these tasks in the Adobe Admin Console:
 
-* Create a new user group that includes all user who need edit and create [!DNL Brands] entitlements.
+* Create a new user group that includes all users who need to edit and create [!DNL Brands] entitlements.
 
 * Create a new project in the Adobe Admin Console.
 
