@@ -5,7 +5,11 @@ exl-id: 4935356b-08df-402c-b1a2-b89627afc188
 ---
 # Distribute your app
 
-Distributing your app makes it available to members in your organization.
+Distributing your Add-on makes it available for use by your organization and potentially other organizations.
+
+Private distribution restricts the deployment of your Add-on to the organization identified by the IMS org for which you developed your Add-on. Public distribution makes the Add-on available as an app on the Adobe Exchange. Your distribution workflow depends on whether your Add-on is intended for public or private distribution.
+
+This topic discusses private distribution. [Public Distribution](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) in the _App Builder_ developer documentation describes how to make your app available for any Adobe organization.
 
 >[!BEGINSHADEBOX]
 
@@ -21,7 +25,9 @@ Your App Builder app must be deployed in an App Builder Project.
 
 >[!ENDSHADEBOX] 
 
-**To distribute your app**:
+**To distribute your app privately**:
+
+Private distribution makes your app available only to members of your organization.
 
 1. From the [Adobe Developer Console](https://developer.adobe.com/console/), select the organization, project, and workspace where the app is deployed.
 
