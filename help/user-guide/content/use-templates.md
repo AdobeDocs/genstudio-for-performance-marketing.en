@@ -1,7 +1,7 @@
 ---
 title: Work with Templates
 description: Discover how to use templates effectively to streamline your creative process in Adobe GenStudio for Performance Marketing.
-feature: Templates, Content
+feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 ---
 # Work with Templates

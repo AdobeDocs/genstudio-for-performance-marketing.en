@@ -1,7 +1,7 @@
 ---
 title: Overview of Adobe GenStudio for Performance Marketing [!DNL Content]
 description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
-feature: Attributes, Content, Templates
+feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
 ---
 # Adobe GenStudio for Performance Marketing [!DNL Content]
