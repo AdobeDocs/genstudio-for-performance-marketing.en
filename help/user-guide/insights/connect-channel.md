@@ -31,11 +31,11 @@ GenStudio for Performance Marketing retains channel data for 13 months. This ret
 
 >[!ENDSHADEBOX]
 
-**To connect a Meta ads account in GenStudio for Performance Marketing**:
+**To connect a Meta ads account**:
 
-1. In _[!DNL Insights]_, if you have never connected an account, click **[!UICONTROL Connect a channel account]** in the banner.
+1. If it is your first time connecting an account in _[!DNL Insights]_, click **[!UICONTROL Connect a channel account]** in the banner.
 
-   Otherwise select the ellipsis (...) in the lower left and click **[!UICONTROL Settings]**.
+   Alternatively, select the ellipsis (...) in the lower left and click **[!UICONTROL Settings]**.
 
 1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Meta Ads_ card.
 
