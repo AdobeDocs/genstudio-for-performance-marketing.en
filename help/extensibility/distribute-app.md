@@ -9,7 +9,7 @@ Distributing your Add-on makes it available for use by your organization and pot
 
 Private distribution restricts the deployment of your Add-on to the organization identified by the IMS org for which you developed your Add-on. Public distribution makes the Add-on available as an app on the Adobe Exchange. Your distribution workflow depends on whether your Add-on is intended for public or private distribution.
 
-This topic discusses private distribution. [Public Distribution](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) describes how to make your app available for any Adobe organization.
+This topic discusses private distribution. [Public Distribution](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) in the _App Builder_ developer documentation describes how to make your app available for any Adobe organization.
 
 >[!BEGINSHADEBOX]
 
