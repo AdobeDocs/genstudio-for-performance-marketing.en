@@ -1,7 +1,7 @@
 ---
 title: Overview of [!DNL Brands], [!DNL Products], and [!DNL Personas]
 description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio for Performance Marketing to create a comprehensive brand profile that includes all aspects of a brand's representation.
-feature: Guidelines, Brands Service, Personas Service, Products Service
+feature: Brands Service, Personas Service, Products Service, Brand Personalization, Product Personalization, Personas Personalization, Variant Generation
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
 ---
 # GenStudio for Performance Marketing guidelines
