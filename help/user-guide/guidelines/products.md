@@ -1,7 +1,7 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Products]
 description: GenStudio for Performance Marketing [!DNL Products] incorporates all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
-feature: Product Personalization, Products Service, Brands Service, Variant Generation
+feature: Product Personalization, Brand Personalization, Variant Generation, Generative AI
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
 ---
 # GenStudio for Performance Marketing [!DNL Products]

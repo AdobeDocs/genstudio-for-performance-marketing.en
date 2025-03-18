@@ -1,7 +1,7 @@
 ---
 title: Manage variants
 description: Customize and enhance generated variants and assets to suit your digital marketing needs.
-feature: Content, Assets, Experiences
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
 ---
 # Manage variants

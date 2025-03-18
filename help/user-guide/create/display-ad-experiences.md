@@ -1,7 +1,7 @@
 ---
 title: Display ad experiences
 description: Learn about display ad experiences in Adobe GenStudio for Performance Marketing.
-feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf

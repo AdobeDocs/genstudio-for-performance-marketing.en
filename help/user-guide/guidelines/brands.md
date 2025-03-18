@@ -1,7 +1,7 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content.
-feature: Brand Personalization, Brands Service, Variant Generation
+feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 ---
 # GenStudio for Performance Marketing [!DNL Brands]

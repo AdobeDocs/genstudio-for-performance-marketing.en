@@ -1,7 +1,7 @@
 ---
 title: Brand validation in Adobe GenStudio for Performance Marketing
 description: Learn how the built-in brand validation system works in GenStudio for Performance Marketing.
-feature: Brands Service, Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review
+feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
 ---
 # Brand validation

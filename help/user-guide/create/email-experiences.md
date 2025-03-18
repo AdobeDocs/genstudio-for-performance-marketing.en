@@ -1,7 +1,7 @@
 ---
 title: Email experiences
 description: Learn about email experiences in Adobe GenStudio for Performance Marketing.
-feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
