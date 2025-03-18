@@ -1,29 +1,37 @@
 ---
-title: Overview of Activation
+title: Overview of Activate
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
-feature: Assets, Approval, Experiences
+feature: Assets, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
-# Adobe GenStudio for Performance Marketing Activation
+# Adobe GenStudio for Performance Marketing Activate
 
-_Activation_ is the process of making Adobe GenStudio for Performance Marketing-generated assets and experiences available for delivery through your select channels and Adobe Experience Cloud products. You can easily export approved content from GenStudio for Performance Marketing in the optimal formats for the third-party applications you included in [!DNL Products].
+GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of delivering ad experience to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
 
-The GenStudio for Performance Marketing activate feature is natively integrated into Adobe's experience delivery products: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo, and Target.
+Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
 
-**To activate an approved asset**:
+[!DNL Activate] displays a product tile for each channel. This tile identifies the paid media channel and lists the number of successful ad activations that has occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
 
-1. Select the asset from [!DNL Content].
+Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
 
-1. Click the **[!UICONTROL Download]** (down arrow) icon above the _Details_ view.
+## [!DNL Activate] use cases
 
-   The asset is downloaded as a ZIP file to your local _Downloads_ folder.
+* [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
 
-**To activate an approved experience**:
+* [Manage activations](manage-activations.md). _[!DNL Activate]_ provides an overview of all activated experiences. You can also view the details of individual activations.
 
-1. Select the experience from [!DNL Content] > [!DNL Experiences].
+## [!DNL Activate] capabilities
 
-1. Click the **[!UICONTROL Export for activation]** button on the experience's Details view. GenStudio for Performance Marketing displays the **[!UICONTROL Export for activation]** popup and provides two download formats: CSV and HTML. (Alternatively, you can access the *[!UICONTROL Export for activation]** button from the _More options_ menu (represented by `...`)).
+_[!DNL Activate]_ facilitates the preparation of ad experience for distribution to its target paid channels.
 
-1. Select your preferred download format by clicking the **[!UICONTROL Export CSV]** or **[!UICONTROL Export HTML]** button on the popup.
+### Prepare for activation
 
-   The export process creates a ZIP package in your local _Downloads_ folder. This folder name is the same as the experience name.
+The _Creative setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+
+### Select assets for ad experience
+
+Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can also upload assets directly from your device. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
+
+### Preview and activate your experience to an ad channel
+
+Confirm the paid channel accounts, ad sets, and Meta campaigns associated with this ad activation. The _Preview_ panel lets you view ad experiences in different placements before you finalize it. (When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.) When you are satisfied with your ad experience, click **[!UICONTROL Publish]** to push the experience and its associated metadata to the paid ad channel.
