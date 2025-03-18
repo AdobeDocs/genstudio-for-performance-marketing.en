@@ -1,7 +1,7 @@
 ---
 title: Asset details
 description: Adobe GenStudio for Performance Marketing stores approved content with rich metadata for searchability and performance tracking.
-feature: Attributes, Assets
+feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
 ---
 # Asset details
