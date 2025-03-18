@@ -1,7 +1,7 @@
 ---
 title: Manage assets and experiences
 description: Simplify and enhance the management of brand-approved assets for use and reuse in your digital marketing journey.
-feature: Content, Assets, Experiences
+feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 ---
 # Manage assets and experiences
