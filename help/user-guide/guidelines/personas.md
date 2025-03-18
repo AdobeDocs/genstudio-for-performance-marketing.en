@@ -1,7 +1,7 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Personas]
 description: GenStudio for Performance Marketing [!DNL Personas] are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
-feature: Persona Personalization, Brand Personalization, Variant Generation, Generative AI
+feature: Persona Personalization, Variant Generation, Generative AI
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
 ---
 # GenStudio for Performance Marketing [!DNL Personas]
