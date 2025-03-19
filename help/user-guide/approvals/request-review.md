@@ -17,6 +17,8 @@ After you generate your content variants, you can request review and approval.
 
 1. Click the **[!UICONTROL Send for approver]** button on the top menu bar of the Canvas. The _Send for approval_ pop-up opens and identifies the draft for which you are requesting a review. If you generate multiple variants, the entire Canvas is sent for review.
 
+1. Confirm that the draft title is descriptive, informative, and focuses approvers on the review objective. Select the _Title_ field to change the draft title if needed. Changing the title here also changes the underlying draft experience title.
+
 1. Select the approver or approvers that you would like to request a review from. As you begin typing, the **[!UICONTROL Approver]** field auto-completes the approver user name from the list of users with GenStudio for Performance Marketing view and approve permissions. The **[!UICONTROL Send]** button is activated after you have entered at least one approver name.
 
 1. Click **[!UICONTROL Send]**. Clicking this button triggers in-product and email notifications that alert each designated approver that they have content to review.
