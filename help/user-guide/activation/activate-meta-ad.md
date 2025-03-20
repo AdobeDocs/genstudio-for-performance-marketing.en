@@ -1,7 +1,7 @@
 ---
 title: Activate a Meta ad
 description: Learn how to activate a Meta ad experience.
-feature: Ad Activation
+feature: Ad Activation, Workflow
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
 ---
 # Activate a Meta ad
