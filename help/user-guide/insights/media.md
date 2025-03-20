@@ -1,7 +1,7 @@
 ---
 title: Media overview
 description: Learn how to evaluate media performance in Adobe GenStudio for Performance Marketing.
-feature: Insights, Assets
+feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
 ---
 # Media overview
