@@ -1,7 +1,7 @@
 ---
 title: Create a Meta ad experience
 description: Learn how to create on-brand Meta ad experiences—for Facebook or Instagram—with Adobe GenStudio for Performance Marketing.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay

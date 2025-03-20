@@ -2,7 +2,7 @@
 title: Customize a Template
 description: Learn how to personalize and optimize your template for Adobe GenStudio for Performance Marketing.
 level: Intermediate
-feature: Templates, Content
+feature: Media Templates, Content Generation
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
 # Customize a template

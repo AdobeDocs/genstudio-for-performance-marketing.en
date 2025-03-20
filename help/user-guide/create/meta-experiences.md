@@ -1,7 +1,7 @@
 ---
 title: Meta experiences
 description: Learn all about Meta experiences in Adobe GenStudio for Performance Marketing.
-feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14

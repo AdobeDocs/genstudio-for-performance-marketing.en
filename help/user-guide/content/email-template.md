@@ -2,8 +2,9 @@
 title: Prepare an email template for Adobe GenStudio for Performance Marketing
 description: Learn how to build a custom email template for Adobe GenStudio for Performance Marketing.
 level: Intermediate
+feature: Media Templates
 hidefromtoc: yes
-feature: Templates, Content
+recommendations: noCatalog
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
 ---
 # Prepare email template for Adobe GenStudio for Performance Marketing
