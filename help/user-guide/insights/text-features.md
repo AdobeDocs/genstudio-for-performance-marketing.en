@@ -26,15 +26,16 @@ The following table lists the tonal values recognized by the GenStudio for Perfo
 
 | Tone           | Description                                      | Example                                                   |
 | -------------- | ------------------------------------------------ | --------------------------------------------------------- |
-| Enthusiastic   | Showing intense and eager enjoyment, interest, or approval. | `This is an amazing opportunity you can't miss!` |
 | Assertive      | Confident and forceful in expression.            | `You need to act now to secure this deal!`                |
+| Direct         | Straightforward and to the point.                | `Don't miss the chance!`                                  |
+| Empathetic     | Showing understanding and sensitivity.           | `We understand your needs, and this is perfect for you.`  |
+| Enthusiastic   | Showing intense and eager enjoyment, interest, or approval. | `This is an amazing opportunity you can't miss!` |
 | Humorous/Witty | Light-hearted and clever.                        | `Why wait? Grab this deal before it's gone!`              |
 | Inspirational  | Encouraging and uplifting.                       | `Believe in yourself and seize this opportunity!`         |
-| Empathetic     | Showing understanding and sensitivity.           | `We understand your needs, and this is perfect for you.`  |
+| Poetic         | Artistic and expressive.                         | `Embrace the dawn of a new opportunity.`                  |
+| Quantitative   | Based on numerical data.                         | `99% of users loved this offer, and you will too.`        |
 | Sensory        | Engaging the senses.                             | `Feel the excitement with this incredible offer!`         |
 | Storytelling   | Narrating a story to convey a message.           | `Once upon a time, there was an offer you couldn't refuse.`|
-| Poetic         | Artistic and expressive.                         | `Embrace the dawn of a new opportunity.`                  |
-| Quantitative   | Based on numerical data.                         | `99% of users loved this offer, and you will too.` |
 
 ## Emotional appeal
 
@@ -88,7 +89,7 @@ Persuasion techniques are used to influence consumer behavior and drive desired 
 | Social impact         | Emphasizing the positive impact on society or the environment.              | `Your purchase helps plant a tree.`                       |
 | Social proof          | Using testimonials or user-generated content to build trust.                | `See why thousands of users love our product.`            |
 
-### Marketing Emotions
+### Marketing emotions
 
 Emotions are targeted in marketing messages to evoke specific feelings and responses from the audience, which may enhance engagement and connection with the brand. The following table lists the emotions recognized by the GenStudio for Performance Marketing AI.
 
