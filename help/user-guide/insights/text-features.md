@@ -52,7 +52,7 @@ GenStudio for Performance Marketing AI detects and distinguishes these character
 
 The narrative, or appeal factor, attributes help identify media that communicates the values, purpose, or identity that resonates with your target audience. The following table lists the narrative styles recognized by the GenStudio for Performance Marketing AI.
 
-| Appeal factors    | Description                                                           | Example                                    |
+| Appeal factor     | Description                                                           | Example                                    |
 | ----------------- | --------------------------------------------------------------------- | ------------------------------------------ |
 | Authenticity      | Genuine and real, often highlighting transparency and honesty.        | `A behind-the-scenes look at how our products are made.` |
 | Celebration       | Marking special occasions or achievements with joy and festivity.     | `Join us in celebrating our 10th anniversary with special offers!` |
