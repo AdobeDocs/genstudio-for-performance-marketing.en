@@ -2,6 +2,7 @@
 title: Connect to an [!DNL AEM Assets Content Hub] repository
 description: Learn how to connect Adobe GenStudio for Performance Marketing to an Adobe Experience Manager (AEM) [!DNL Content Hub] repository and leverage existing approved content.
 level: Experienced
+role: Admin, Data Engineer
 feature: Content Management
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
 ---
