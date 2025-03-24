@@ -1,7 +1,7 @@
 ---
 title: Ads and ad placement overview
 description: See an overview of customer engagement, budget, and expenditures for ads and ad placement performance in Adobe GenStudio for Performance Marketing.
-feature: Insights, Experiences, Attributes
+feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
 ---
 # Ads and ad placement overview
