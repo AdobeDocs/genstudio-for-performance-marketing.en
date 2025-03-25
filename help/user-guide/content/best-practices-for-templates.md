@@ -37,7 +37,7 @@ See [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guideline
 
 ## Follow channel-specific template guidelines
 
-Build templates that accommodate the layout and visual requirements for each channel. For the most part, there are some general guidelines that apply to any template. For example,
+When creating templates, ensure they meet the specific requirements of the intended channel. Build templates that accommodate the layout and visual requirements for each channel. There are general guidelines that apply to any template, such as:
 
 - Use clean and responsive HTML and inline CSS
 - Use Adobe or Google fonts
