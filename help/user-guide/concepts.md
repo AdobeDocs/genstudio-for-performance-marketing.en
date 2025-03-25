@@ -2,6 +2,7 @@
 title: Adobe GenStudio for Performance Marketing concepts
 description: Learn Adobe GenStudio for Performance Marketing concepts and terminology.
 feature: Workflow, Generative AI
+role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
 ---
 # Concepts
