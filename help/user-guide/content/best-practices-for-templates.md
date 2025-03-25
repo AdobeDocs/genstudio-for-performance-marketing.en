@@ -40,8 +40,8 @@ See [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guideline
 Build templates that accommodate the layout and visual requirements for each channel. For the most part, there are some general guidelines that apply to any template. For example,
 
 - Use clean and responsive HTML and inline CSS
-- Use the `<img>` tag instead of `background-image`
-- Use masking to improve text readability over background images
+- Use Adobe or Google fonts
+- Do **not** use JavaScript
 
 Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
@@ -88,6 +88,8 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Do **not** define viewport
 - Do **not** use JavaScript
 - Do **not** override an HTML element in the CSS
+- Use the `<img>` tag instead of `background-image`
+- Use masking to improve text readability over background images
 
 **Constraints**:
 

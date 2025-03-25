@@ -53,7 +53,7 @@ role: User
     + [Work with templates](content/use-templates.md)
     + [Customize a template](content/customize-template.md)
     + [Template code editor](content/code-editor.md)
-    + [Accessible templates](content/accessibility-for-templates.md)
+    + [Create accessible templates](content/accessibility-for-templates.md)
     + [Best practices for templates](content/best-practices-for-templates.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
