@@ -37,7 +37,13 @@ See [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guideline
 
 ## Follow channel-specific template guidelines
 
-Build templates that accommodate the layout and visual requirements for each channel. Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
+Build templates that accommodate the layout and visual requirements for each channel. For the most part, there are some general guidelines that apply to any template. For example,
+
+- Use clean and responsive HTML and inline CSS
+- Use the `<img>` tag instead of `background-image`
+- Use masking to improve text readability over background images
+
+Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
 >[!BEGINTABS]
 
@@ -79,20 +85,9 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Use 360 pixel width for column layouts
 - Use a minimum resolution of 1080 x 1080 pixels for images
 - Do **not** use relative font size
-- Do **not** define viewports
+- Do **not** define viewport
 - Do **not** use JavaScript
 - Do **not** override an HTML element in the CSS
-- Use the following settings for background images:
-
-   Add `object-fit: cover` value to `background-image` CSS class:
-
-   ```css
-   .background-image {
-     width: 100%;
-     height: 100%;
-     object-fit: cover;
-   }
-   ```
 
 **Constraints**:
 
@@ -147,11 +142,10 @@ Follow these design best practices when customizing Banner and Display ad templa
 
 **Recognized field names**:
 
-Use content placeholders for the following fields:
+For Banner and Display ads, the `CTA` field is automatically generated. Use content placeholders for the following fields:
 
 - `headline`
 - `body`
-- `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
@@ -184,21 +178,20 @@ Follow these design best practices when customizing LinkedIn ad templates to wor
   - mobile
   - Min: 360 x 640 pixels
   - Max: 2430 x 4320 pixels
-- Verticle 2.3
+- Vertical 2.3
   - mobile
   - Min: 360 x 640 pixels
   - Max: 2430 x 4320 pixels
-- Verticle 4.5 (recommended)
+- Vertical 4.5 (recommended)
   - mobile
   - Min: 360 x 640 pixels
   - Max: 2430 x 4320 pixels
 
 **Recognized field names**:
 
-For LinkedIn ads, the `headline` and `CTA` fields are automatically generated. Use content placeholders for the following fields:
+For LinkedIn ads, the `headline`, `introductory_text`, and `CTA` fields are automatically generated. Use content placeholders for the following fields:
 
 - `image` (selected from Content JPEG, PNG, or GIF)
-- `introductory_text`
 - `on_image_text`
 - `brand_logo`
 
