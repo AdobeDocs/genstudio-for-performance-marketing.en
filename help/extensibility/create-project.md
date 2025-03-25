@@ -1,6 +1,7 @@
 ---
 title: Create an App Builder Project to extend GenStudio for Performance Marketing
 description: Create an App Builder Project for your app, or Add-on.
+feature: Extensibility
 exl-id: 502b6dd5-68ac-4392-bba3-3ab8cd9eefc2
 ---
 # Create an App Builder Project
