@@ -2,7 +2,7 @@
 title: Connect channel account
 description: Connect a channel account to monitor your Adobe GenStudio for Performance Marketing campaigns and media performance.
 level: Intermediate
-feature: Insights, Channels
+feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
 # Connect channel ad account
@@ -31,11 +31,13 @@ GenStudio for Performance Marketing retains channel data for 13 months. This ret
 
 >[!ENDSHADEBOX]
 
-**To connect a Meta ads account in GenStudio for Performance Marketing**:
+**To connect a Meta ads account**:
 
-1. In _[!DNL Insights]_, click **[!UICONTROL Connect a channel account]** in the banner or click the **[!UICONTROL Add accounts]** button (person shape with plus sign) in the upper right corner.
+1. In _[!DNL Insights], if it is your first time connecting an account, click **[!UICONTROL Connect a channel account]** in the banner.
 
-   You may be directed to log in to Facebook. Facebook is the only available option at this time.
+   Alternatively, select the ellipsis (...) in the lower left and click **[!UICONTROL Settings]**.
+
+1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Meta Ads_ card.
 
 1. Log in to your Facebook account.
 
