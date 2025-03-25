@@ -1,7 +1,8 @@
 ---
 title: Overview of [!DNL Insights]
 description: Learn how to optimize ads based on real-time content performance metrics.
-feature: Attributes, Insights, Experiences, Assets, Channels
+level: Intermediate
+feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 ---
 # Adobe GenStudio for Performance Marketing [!DNL Insights]

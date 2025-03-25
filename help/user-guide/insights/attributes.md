@@ -1,7 +1,8 @@
 ---
 title: Attributes overview
 description: Learn how to evaluate the performance of specific attributes in Adobe GenStudio for Performance Marketing.
-feature: Insights, Attributes
+level: Intermediate
+feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
 ---
 # Attributes overview

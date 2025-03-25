@@ -1,7 +1,9 @@
 ---
 title: Write effective prompts
 description: Learn how to write effective prompts for Adobe GenStudio for Performance Marketing.
-feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
+role: User
+level: Beginner
+feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
 ---
 # Write effective prompts

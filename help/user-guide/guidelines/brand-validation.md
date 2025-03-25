@@ -35,7 +35,7 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 The _Content check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the [_Content check_ summary icon](#content-check-summary) for a variant. This panel provides detailed brand validation. platform guidelines, and accessibility standards information and illuminates opportunities for improvement for each variant section.
 
-![Content check panel](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+![Content check panel](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 The _Content check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for each section of the variant:
 

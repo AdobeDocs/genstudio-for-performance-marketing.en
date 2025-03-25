@@ -1,9 +1,9 @@
 ---
 title: Data management
 description: Learn about data ingestion and storage for [!DNL Insights] in GenStudio for Performance Marketing.
-feature: Insights
+feature: Reporting and Insights
 level: Experienced
-role: Admin
+role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
 ---

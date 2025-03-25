@@ -1,6 +1,8 @@
 ---
 title: Optimize your activation
 description: Learn how to optimize activations to third-party paid ad channels.
+level: Intermediate
+feature: Ad Activation, Workflow
 exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
 ---
 # Optimize activations

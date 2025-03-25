@@ -1,7 +1,8 @@
 ---
 title: Channels overview
 description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketing.
-feature: Insights, Channels, Campaigns
+level: Intermediate
+feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 ---
 # Channels overview
