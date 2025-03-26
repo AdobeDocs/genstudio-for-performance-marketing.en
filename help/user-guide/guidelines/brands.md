@@ -82,31 +82,6 @@ The following default channel guidelines for [!DNL Brands] are applied per chann
 
 >[!BEGINTABS]
 
->[!TAB Email]
-
-| Section   | Default guideline                |
-|-----------|-------------------------------|
-| Subject   | Limit to 2 lines or less      |
-| Preheader | Limit to 2 lines or less      |
-| Headline  | Limit to 8 words or less      |
-| Body      | Limit to 3-4 lines            |
-| CTA       | Limit to 2 words or less      |
-
->[!TAB Paid social]
-
-| Section   | Default guideline                |
-|-----------|-------------------------------|
-| Headline  | Limit to 40 characters or less|
-| Body      | Limit to 125 characters or less|
-
->[!TAB Display ads]
-
-| Section   | Default guideline                |
-|-----------|-------------------------------|
-| Headline  | Limit to 6 words or less      |
-| Body      | Limit to 6 words or less      |
-| CTA       | Limit to 2 words or less      |
-
 >[!TAB Meta]
 
 | Section       | Default guideline                |
