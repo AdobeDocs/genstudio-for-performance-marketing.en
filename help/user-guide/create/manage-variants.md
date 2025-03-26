@@ -32,23 +32,6 @@ You can edit the text fields in generated variants. Refine the text for your aud
 1. Enter new text.
 1. Click off the text field to save it.
 
-### Add alt text for images
-
-When you add content (images) during the creation process, you have the ability to define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
-
-**To add alt text to images in generated variants**:
-
-1. After generating a set of variants, click an image within an individual variant.
-1. Click the **[!UICONTROL Alt text]** button (icon of image and paper).
-1. To manually add alt text:
-   1. Click into the text box and add alt text.
-   1. Click **[!UICONTROL Apply]**.
-1. To generate alt text for the image:
-   1. Leave the text field empty and click **[!UICONTROL Generate]**.
-   1. Click **[!UICONTROL Generate]** again if you are not satisfied with the initial result.
-   1. Click **[!UICONTROL Apply]**.
-1. Complete the above process for any additional images in your variation set.
-
 ## Re-generate sections
 
 GenStudio for Performance Marketing has the built-in functionality to regenerate sections of generated variants. You can rephrase, shorten, or lengthen text, or add fresh prompts to generate new content.
@@ -175,6 +158,23 @@ Similar to adding or swapping images in generated variants, you can add a link t
 1. Add a link in the text field and click **[!UICONTROL Apply]**.
 
    The defined link is applied to all images in the variant set.
+
+## Add alt text for images
+
+When you add content (images) during the creation process, you have the ability to define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
+
+**To add alt text to images in generated variants**:
+
+1. After generating a set of variants, click an image within an individual variant.
+1. Click the **[!UICONTROL Alt text]** button (icon of image and paper).
+1. To manually add alt text:
+   1. Click into the text box and add alt text.
+   1. Click **[!UICONTROL Apply]**.
+1. To generate alt text for the image:
+   1. Leave the text field empty and click **[!UICONTROL Generate]**.
+   1. Click **[!UICONTROL Generate]** again if you are not satisfied with the initial result.
+   1. Click **[!UICONTROL Apply]**.
+1. Complete the above process for any additional images in your variation set.
 
 ## Preview for device
 
