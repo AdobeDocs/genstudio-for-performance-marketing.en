@@ -44,7 +44,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{image}}`             | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
 | `{{on_image_text}}`     | On image text             | Meta ad <br>LinkedIn ad                          |
 | `{{link}}`              | Call to action on image<br>See [Link on image](#link-on-image). | email      |
-| `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad |
+<!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
 GenStudio for Performance Marketing populates certain fields automatically in the following templates:
 
@@ -103,6 +103,7 @@ In this example:
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
 - `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
 
+<!-- this field does not work in Create canvas 2025/03
 ### Brand logo field name
 
 At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
@@ -122,6 +123,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
     <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 {{/if}}
 ```
+-->
 
 ### Manual field names
 
