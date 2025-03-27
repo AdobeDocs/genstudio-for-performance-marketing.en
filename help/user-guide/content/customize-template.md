@@ -1,9 +1,9 @@
 ---
 title: Customize a Template
-description: Learn how to personalize and optimize your template for Adobe GenStudio for Performance Marketing.
+description: Learn how to customize your HTML template using content placeholders recognized by Adobe GenStudio for Performance Marketing generative AI.
 level: Intermediate
 role: Developer
-feature: Media Templates, Content Generation
+feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
 # Customize a template
