@@ -33,7 +33,7 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 An attribute _category_ is a classification group that organizes related attributes that share a common characteristic. These categories help streamline the discovery, identification, and understanding of specific attributes by providing greater context and facilitating their application and use.
 
-GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study [images](image-features.md), [videos](video-features.md), and text and apply [!UICONTROL Media attributes] based on a probability of correctness.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study [images](image-features.md), [videos](video-features.md), and [text](text-features.md) and apply [!UICONTROL Media attributes] based on a probability of correctness.
 
 The detected attributes list for media content is not exhaustive. Media that contain a rich set of features may be limited to the three most dominant features identified by the AI. For example, the following illustration contains several detected image attributes, including multiple objects, foreground and background colors.
 
