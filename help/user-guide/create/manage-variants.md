@@ -161,7 +161,7 @@ Similar to adding or swapping images in generated variants, you can add a link t
 
 ## Add alt text for images
 
-When you add content (images) during the creation process, you have the ability to define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
+When you add content (images) during the creation process, you can define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
 
 **To add alt text to images in generated variants**:
 
@@ -174,7 +174,7 @@ When you add content (images) during the creation process, you have the ability 
    1. Leave the text field empty and click **[!UICONTROL Generate]**.
    1. Click **[!UICONTROL Generate]** again if you are not satisfied with the initial result.
    1. Click **[!UICONTROL Apply]**.
-1. Complete the above process for any additional images in your variation set.
+1. Repeat for each image in your variants set.
 
 ## Preview for device
 

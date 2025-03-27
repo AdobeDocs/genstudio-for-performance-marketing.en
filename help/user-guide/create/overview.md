@@ -120,11 +120,11 @@ After you are done generating content variations, send your drafts for approval 
 
 ### Drafts
 
-In the _Recents_ section of [!DNL Create], you can access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md) or exporting for use.
+In the _Recents_ section of [!DNL Create], you can access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md) or exporting for use. Click the options (three dots) icon to delete a draft.
 
-Drafts are automatically saved and shown in _Recents_ section of [!DNL Create] home. Each draft in this section displays a status, such as _Draft_ or _Approved_.
+Drafts are automatically saved and shown in the _Recents_ section of [!DNL Create] home. Each draft in this section displays a status, such as _Draft_ or _Approved_.
 
-Click the sorting icons (grid or table) to display _Recents_ items in either a grid or table view.
+Click the gallery view (grid) icon to display _Recents_ items in either a grid or table view.
 
 ### Manage variants
 
