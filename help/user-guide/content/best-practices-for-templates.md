@@ -74,7 +74,6 @@ For email, the `subject` field is automatically included. Use content placeholde
 - `body`
 - `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
-- `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
@@ -109,7 +108,6 @@ For Meta ads, the `headline`, `body`, and `CTA` fields are automatically generat
 
 - `image` (selected from Content JPEG, PNG, or GIF)
 - `on_image_text`
-- `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 
@@ -195,7 +193,6 @@ For LinkedIn ads, the `headline`, `introductory_text`, and `CTA` fields are auto
 
 - `image` (selected from Content JPEG, PNG, or GIF)
 - `on_image_text`
-- `brand_logo`
 
 See [Content placeholders](customize-template.md#content-placeholders) to understand more about using field names in templates.
 

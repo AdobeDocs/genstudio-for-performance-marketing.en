@@ -4,6 +4,7 @@ description: Learn how to connect Adobe GenStudio for Performance Marketing to a
 level: Experienced
 role: Admin, Data Engineer
 feature: Content Management
+recommendations: noDisplay
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
 ---
 # Connect to an [!DNL AEM Assets Content Hub] repository
