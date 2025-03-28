@@ -40,18 +40,18 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `{{headline}}`          | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
 | `{{introductory_text}}` | Introductory text         | LinkedIn ad                                      |
 | `{{body}}`              | Body copy                 | email <br>Meta ad <br>Banner and Display ad      |
-| `{{cta}}`               | Call to action            | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{cta}}`               | Call to action<br>See [Calls to action](#calls-to-action) | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
 | `{{image}}`             | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
-| `{{on_image_text}}`     | On image text             | Meta ad <br>LinkedIn ad                          |
+| `{{on_image_text}}`     | On image text<br>See [On image text](#on-image-text). | Meta ad <br>LinkedIn ad                          |
 | `{{link}}`              | Call to action on image<br>See [Link on image](#link-on-image). | email      |
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
-GenStudio for Performance Marketing populates certain fields automatically in the following templates:
+GenStudio for Performance Marketing generates certain fields automatically in the following templates:
 
 - **Email template** does not require you to identify the `subject` field
 - **Meta ad template** does not require you to identify the `headline`, `body`, and `CTA` fields
 - **Banner and Display ad template** does not require you to identify the `CTA` field
-- **LinkedIn ad templates** do not require you to identify the `headline`, `introductory_text`, and `CTA` fields
+- **LinkedIn ad template** does not require you to identify the `headline`, `introductory_text`, and `CTA` fields
 
 >[!WARNING]
 >
@@ -135,10 +135,18 @@ To create an editable section, add double brackets around the section name:
 <tbody>
     <tr>
         <td>
-            <p><span class="s1">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{ footerLegal }}</span></p>
         </td>
     </tr>
 </tbody>
+```
+
+## On image text
+
+The `{{ on_image_text }}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
 ```
 
 ## Sections or groups
@@ -175,7 +183,6 @@ For example, an email template can include up to three sections; therefore, you 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
-
 
 ## Template preview
 
