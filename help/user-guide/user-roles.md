@@ -2,7 +2,7 @@
 title: Adobe GenStudio for Performance Marketing user roles and permissions
 description: Learn about GenStudio for Performance Marketing user roles and permissions.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
 ---
