@@ -2,7 +2,7 @@
 title: Overview of Activate
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
 level: Beginner
-feature: Ad Activation, Workflow
+feature: Ad Activation
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
 # Adobe GenStudio for Performance Marketing Activate
