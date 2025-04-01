@@ -19,7 +19,7 @@ To create a display ad experience, use an available template to provide the fram
 
 **To choose a display ad template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Display ads]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_, click **[!UICONTROL Display ads]**.
 1. Use the search option, adjacent to _Filter_, to find a specific display ad template.
 1. In the _Select template_ view, click on a display ad template.
 1. Click **[!UICONTROL Use]**.
