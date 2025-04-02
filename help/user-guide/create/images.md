@@ -8,7 +8,7 @@ level: Beginner
 ---
 # Images
 
-Adobe GenStudio for Performance Marketing utilizes generative AI to enhance the [creation of various image types](/help/user-guide/create/create-banner-experience.md). With GenStudio for Performance Marketing, you can efficiently produce impactful image variations for marketing campaigns and beyond.
+Adobe GenStudio for Performance Marketing utilizes generative AI to enhance the [creation of images](/help/user-guide/create/create-banner-experience.md). With GenStudio for Performance Marketing, you can efficiently produce impactful image variations for marketing campaigns and beyond.
 
 In [!DNL Create], marketers can [generate high-quality images](/help/user-guide/create/create-images.md) that incorporate set guidelines, parameters, and a [thoughtfully crafted prompt](/help/user-guide/effective-prompts.md).
 
