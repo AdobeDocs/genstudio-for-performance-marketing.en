@@ -11,7 +11,7 @@ exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
 
 Adobe GenStudio for Performance Marketing enables you to harness generative AI to enhance the [creation of successful banner experiences](/help/user-guide/create/create-banner-experience.md).
 
-[!DNL Create] enables modern marketers to [craft cohesive banner experiences](/help/user-guide/create/create-banner-experience.md) by utilizing [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompts](/help/user-guide/effective-prompts.md).
+[!DNL Create] enables modern marketers to [craft cohesive banner experiences](/help/user-guide/create/create-banner-experience.md) by utilizing [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md).
 
 When generating banner experiences four variations are created and shown in the Canvas.
 
