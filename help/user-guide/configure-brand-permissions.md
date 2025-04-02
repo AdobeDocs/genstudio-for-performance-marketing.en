@@ -2,7 +2,7 @@
 title: Assign [!DNL Brand] permissions
 description: Learn about assigning entitlements for GenStudio for Performance Marketing [!DNL Brand] creators and editors.
 level: Intermediate
-feature: Brands Service, Generative AI
+feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
 ---
 # Assign [!DNL Brand] permissions

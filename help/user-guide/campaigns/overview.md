@@ -2,7 +2,7 @@
 title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn about centralized campaign planning and Campaign brief creation.
 level: Beginner
-feature: Campaign Planning, Campaign Brief, Workflow
+feature: Campaign Planning, Campaign Brief
 exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
 ---
 # Adobe GenStudio for Performance Marketing [!DNL Campaigns]

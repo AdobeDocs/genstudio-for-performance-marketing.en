@@ -3,7 +3,7 @@ title: Get started with Adobe GenStudio for Performance Marketing
 description: Learn how to get started with GenStudio for Performance Marketing to generate new brand-aligned marketing content.
 level: Beginner
 role: User
-feature: Media Templates, Brand Personalization, Persona Personalization, Product Personalization, Generative AI
+feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 ---
 # Get started with Adobe GenStudio for Performance Marketing
