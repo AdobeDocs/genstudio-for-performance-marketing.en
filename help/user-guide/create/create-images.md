@@ -79,7 +79,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
    ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+1. Revise image variants to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -89,7 +89,7 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
 **To create similar images**:
 
- In _[!DNL Create]_, click **[!UICONTROL Similar images]**.
+1. In _[!DNL Create]_, click **[!UICONTROL Similar images]**.
 1. Use the search option, adjacent to _Filter_, to find a specific image.
 
    To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
