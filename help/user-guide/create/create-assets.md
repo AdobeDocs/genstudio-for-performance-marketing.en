@@ -26,6 +26,8 @@ To create an on brand image, select an existing image saved in [!DNL Content]. S
 1. In _[!DNL Create]_, click **[!UICONTROL On brand image]**.
 1. Use the search option, adjacent to _Filter_, to find a specific image.
 
+      ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
+
    To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
 
 1. In the _Select image_ view, click on an image.
@@ -98,6 +100,8 @@ You can quickly generate images similar to a selected image within [!DNL Content
 1. Click **[!UICONTROL Use]**.
 
    The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
+
+   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"}
 
 ## Publish and export images
 

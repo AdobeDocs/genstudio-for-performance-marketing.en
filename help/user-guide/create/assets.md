@@ -14,6 +14,8 @@ In [!DNL Create], marketers can [generate high-quality images](/help/user-guide/
 
 When generating images, four variations are created and shown in the Canvas.
 
+![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"}
+
 <!-- See  [Follow channel-specific template guidelines](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported dimensions, recognized fields names, and more. -->
 
 ## On brand images
