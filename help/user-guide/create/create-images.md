@@ -15,7 +15,7 @@ To design an eye-catching and effective images, it is recommended that you [add 
 
 ## Generate on brand images
 
-On brand images are created using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent on-brand image variations.
+You can generate on brand images using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent on-brand image variations.
 
 ### Choose a reference image
 
@@ -25,6 +25,9 @@ To create an on brand image, select an existing image saved in [!DNL Content]. S
 
 1. In _[!DNL Create]_, click **[!UICONTROL On brand image]**.
 1. Use the search option, adjacent to _Filter_, to find a specific image.
+
+   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
+
 1. In the _Select image_ view, click on an image.
 1. Click **[!UICONTROL Use]**.
 
@@ -66,5 +69,45 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—fueled by the prompt, parameters, and content you added—are generated and shown in the Canvas.
 
+### Verify content check alignment
+
+To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
+
+**To perform content checks**:
+
+1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
+
+   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+
+1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
+
 ## Generate similar images
 
+You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
+
+**To create similar images**:
+
+ In _[!DNL Create]_, click **[!UICONTROL Similar images]**.
+1. Use the search option, adjacent to _Filter_, to find a specific image.
+
+   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
+
+1. In the _Select image_ view, click on an image.
+1. Click **[!UICONTROL Use]**.
+
+   The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
+
+## Publish and export images
+
+To make the generated on brand images or similar images available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
+
+1. **To publish your new images**, click **[!UICONTROL Publish]** in the top toolbar.
+   1. _[!UICONTROL Add details]_, such as _[!UICONTROL Campaigns]_ or _[!UICONTROL Channels]_, if desired.
+   1. Click **[!UICONTROL Publish]**.
+
+1. **To export your new images**, click **[!UICONTROL Export]** in the top toolbar.
+   1. Select the format—JPG or PNG—and click **[!UICONTROL Export]**.
+
+See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).
