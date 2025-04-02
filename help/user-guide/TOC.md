@@ -39,6 +39,7 @@ role: User
   + [Create a LinkedIn experience](create/create-linkedin.md)
   + [Create a display ad experience](create/create-display-ad.md)
   + [Create a banner experience](create/create-banner-experience.md)
+  + [Create an image](create/create-images.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)
