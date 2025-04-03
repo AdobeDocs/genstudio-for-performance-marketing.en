@@ -9,17 +9,28 @@ recommendations: noDisplay
 ---
 # Create images
 
-This tutorial demonstrates how to generate two types of images using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area)—[on-brand images](assets.md#on-brand-images) and [similar images](assets.md#similar-images).
+You can generate two types of images using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[[!DNL On brand images]](#on-brand-images)_ and _[[!DNL Similar images]](assets.md#similar-images)_.
 
-To design an eye-catching and effective images, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md) before you begin.
+To design an eye-catching and effective image, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md).
 
-## Generate on brand images
+## Image types
 
-You can generate on brand images using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent on-brand image variations.
+_[!DNL On brand images]_ and _[!DNL Similar images]_ incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
+
+![Generate Similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"}
+
+You can create the following image types:
+
+* _[!DNL On brand images]_—Generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
+* _[!DNL Similar images]_—Image assets created with strong similarity to an existing selected image available in [!DNL Content]. When generating similar images, GenStudio for Performance Marketing redesigns the selected image, giving slight variations on the content to provide variety and nuance.
+
+## Generate On brand images
+
+You can generate [!DNL On brand images] using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent on-brand image variations.
 
 ### Choose a reference image
 
-To create an on brand image, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported on brand image dimensions.
+To create an _[!DNL On brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported on brand image dimensions.
 
 **To choose a reference image**:
 
@@ -28,7 +39,7 @@ To create an on brand image, select an existing image saved in [!DNL Content]. S
 
       ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
 
-   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
+   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
 
 1. In the _Select image_ view, click on an image.
 1. Click **[!UICONTROL Use]**.
@@ -45,7 +56,10 @@ Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and paramete
 
    If there are no brands available from this menu, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Select an image category that best fits your desired result from _[!UICONTROL Image category]_. These options are determined by the selected [!DNL Brand].
+1. Select an image category that best fits your desired result from _[!UICONTROL Image category]_.
+
+   Image categories are available if a [!DNL Brand] was selected. The options are determined by the selected [!DNL Brand].
+
 1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
 
    Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access.
@@ -53,16 +67,19 @@ Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and paramete
 1. Select the desired aspect ratio from _[!UICONTROL Aspect ratio]_.
 1. Click **[!UICONTROL Select from Content]** in _[!UICONTROL Style reference]_ to add a reference image. The image you select influences the visual aesthetic and depth of the images you generate.
 
-      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
+      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
 
-1. In the _Advanced_ tab, select the _Content type_. If the brand you selected for image generation includes an image category guideline, the content type will be pre-selected with that guideline—Art or Photo—and is uneditable.
+1. In the _Advanced_ tab, select the _Content type_.
+
+   If the brand you selected for image generation includes an image category guideline, the content type will be pre-selected with that guideline—_Art_ or _Photo_—and is uneditable.
+
 1. Adjust the overall intensity of the image's existing visual characteristics in _[!UICONTROL Visual intensity]_.
 
 ### Enter a prompt
 
-After parameters are selected, craft a prompt using natural language to start generating on brand images.
+After selecting the parameters, craft a prompt using natural language to start generating on brand images.
 
-See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
+See [Write effective prompts](/help/user-guide/effective-prompts.md).
 
 **To enter a prompt**:
 
@@ -85,16 +102,16 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
-## Generate similar images
+## Generate Similar images
 
 You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
 
-**To create similar images**:
+**To create _[!DNL Similar images]_**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Similar images]**.
 1. Use the search option, adjacent to _Filter_, to find a specific image.
 
-   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one image.
+   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
 
 1. In the _Select image_ view, click on an image.
 1. Click **[!UICONTROL Use]**.
@@ -105,7 +122,7 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
 ## Publish and export images
 
-To make the generated on brand images or similar images available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated _[!DNL On brand images]_ or _[!DNL Similar images]_ available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new images**, click **[!UICONTROL Publish]** in the top toolbar.
    1. _[!UICONTROL Add details]_, such as _[!UICONTROL Campaigns]_ or _[!UICONTROL Channels]_, if desired.

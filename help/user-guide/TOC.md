@@ -32,7 +32,6 @@ role: User
   + [LinkedIn experiences](create/linkedin-experiences.md)
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Banner experiences](create/banner-experiences.md)
-  + [Images](create/assets.md)
   + [Manage variants](create/manage-variants.md)
   + [Create an email experience](create/create-email-experience.md)
   + [Create a Meta ad experience](create/create-meta-ad.md)
