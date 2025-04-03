@@ -9,7 +9,7 @@ recommendations: noDisplay
 ---
 # Create images
 
-You can generate two types of images using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[[!DNL On brand images]](#on-brand-images)_ and _[[!DNL Similar images]](assets.md#similar-images)_.
+You can generate [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On brand images]_ and _[!DNL Similar images]_.
 
 To design an eye-catching and effective image, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md).
 

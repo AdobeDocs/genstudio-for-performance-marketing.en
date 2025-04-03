@@ -20,7 +20,7 @@ With [!DNL Create], you can generate content for the following channels:
 * [LinkedIn ads](linkedin-experiences.md)
 * [Display ads](display-ad-experiences.md)
 * [Banners](banner-experiences.md)
-* [Images](assets.md)
+* [Images](create-assets.md)
 
 Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Campaigns](/help/user-guide/campaigns/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
