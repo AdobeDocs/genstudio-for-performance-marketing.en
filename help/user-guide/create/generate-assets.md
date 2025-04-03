@@ -17,8 +17,6 @@ To design an eye-catching and effective image, it is recommended that you [add g
 
 _[!DNL On brand images]_ and _[!DNL Similar images]_ incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
 
-![Generate Similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"}
-
 You can create the following image types:
 
 * _[!DNL On brand images]_—Generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
