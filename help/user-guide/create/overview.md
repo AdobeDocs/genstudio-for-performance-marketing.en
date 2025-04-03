@@ -20,7 +20,7 @@ With [!DNL Create], you can generate content for the following channels:
 * [LinkedIn ads](linkedin-experiences.md)
 * [Display ads](display-ad-experiences.md)
 * [Banners](banner-experiences.md)
-* [Images](create-assets.md)
+* [Images](generate-assets.md)
 
 Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Campaigns](/help/user-guide/campaigns/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
@@ -81,12 +81,12 @@ Editors and system managers have full access to [!DNL Create]. See [User roles a
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/create-assets.md">
+      <a href="/help/user-guide/create/generate-assets.md">
       <img alt="Create images" src="../../assets/icons/icon-asset.svg" width="35">
       </a>
       <div>
-         <a href="/help/user-guide/create/create-assets.md">
-         <strong>Create images</strong>
+         <a href="/help/user-guide/create/generate-assets.md">
+         <strong>Generate images</strong>
          </a>
       </div>
    </td>

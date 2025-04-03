@@ -1,5 +1,5 @@
 ---
-title: Create images
+title: Generate images
 description: Create an an image, matching the style of a reference image or by quickly generating image variations, in Adobe [!DNL GenStudio] for Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 ---
-# Create images
+# Generate images
 
 You can generate [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On brand images]_ and _[!DNL Similar images]_.
 

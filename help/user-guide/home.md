@@ -109,9 +109,9 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 </td>
 <td valign="top">
    <div>
-      <a href="/help/user-guide/create/create-assets.md">
+      <a href="/help/user-guide/create/generate-assets.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create images</strong>
+      <strong>Generate images</strong>
       </a>
    </div>
    <p>
