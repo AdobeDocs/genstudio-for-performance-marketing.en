@@ -9,30 +9,30 @@ recommendations: noDisplay
 ---
 # Generate images
 
-You can generate [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On brand images]_ and _[!DNL Similar images]_.
+You can generate [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_.
 
 To design an eye-catching and effective image, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md).
 
 ## Image types
 
-_[!DNL On brand images]_ and _[!DNL Similar images]_ incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
+_[!DNL On-brand images]_ and _[!DNL Similar images]_ incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
 
 You can create the following image types:
 
-* _[!DNL On brand images]_—Generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
+* _[!DNL On-brand images]_—Generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
 * _[!DNL Similar images]_—Image assets created with strong similarity to an existing selected image available in [!DNL Content]. When generating similar images, GenStudio for Performance Marketing redesigns the selected image, giving slight variations on the content to provide variety and nuance.
 
-## Generate On brand images
+## Generate On-brand images
 
-You can generate [!DNL On brand images] using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent on-brand image variations.
+You can generate [!DNL On-brand images] using defined guidelines, parameters, and a selected reference image. These elements, along with your prompt, guide the generation of consistent [!DNL On-brand image] variations.
 
 ### Choose a reference image
 
-To create an _[!DNL On brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported on brand image dimensions.
+To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported [!DNL on-brand image] dimensions.
 
 **To choose a reference image**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL On brand image]**.
+1. In _[!DNL Create]_, click **[!UICONTROL On-brand image]**.
 1. Use the search option, adjacent to _Filter_, to find a specific image.
 
       ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
@@ -46,7 +46,7 @@ To create an _[!DNL On brand images]_, select an existing image saved in [!DNL C
 
 ### Add parameters
 
-Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and parameters enhances the content generation process and is a crucial preparatory step for producing an on brand image.
+Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and parameters enhances the content generation process and is a crucial preparatory step for producing an [!DNL on-brand image].
 
 **To add guidelines and parameters**:
 
@@ -120,7 +120,7 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
 ## Publish and export images
 
-To make the generated _[!DNL On brand images]_ or _[!DNL Similar images]_ available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated _[!DNL On-brand images]_ or _[!DNL Similar images]_ available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new images**, click **[!UICONTROL Publish]** in the top toolbar.
    1. _[!UICONTROL Add details]_, such as _[!UICONTROL Campaigns]_ or _[!UICONTROL Channels]_, if desired.
