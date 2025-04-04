@@ -15,6 +15,12 @@ From the [!DNL Insights] dashboard, you can:
 - **Optimize low-performing content**: Find content that is not performing well and use the integrated generative AI to create variations immediately, potentially improving its effectiveness without starting from scratch.
 - **Revitalize high-performing content**: Take successful content and tweak it to refresh the ad for the audience or adapt hero content for use in new campaigns, potentially extending its lifecycle and performance.
 
+## Data connectors
+
+The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with a channel account.
+
+This connection enables GenStudio for Performance Marketing to receive statistical data from your active marketing campaigns, media, and ads. Initially, GenStudio for Performance Marketing ingests the last 6 months of data so that you have the tools to analyze the latest data and take action.
+
 {{connect-insights}}
 
 ## Dashboard

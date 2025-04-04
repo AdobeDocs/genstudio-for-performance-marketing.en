@@ -140,4 +140,4 @@ See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 You can connect GenStudio for Performance Marketing to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
 
-See [Connect channel account](/help/user-guide/insights/connect-channel.md) for more information.
+See [Connect channel account](/help/user-guide/connectors/connect-channel.md) for more information.

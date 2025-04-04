@@ -56,4 +56,4 @@ See [Upload approved assets](./content/manage-assets.md).
 
 ### Step 5: Connect to a Meta (Facebook) account
 
-Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data. See [Connect to a Meta (Facebook) account](./insights/connect-channel.md#meta-ads-connect).
+Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](/help/user-guide/insights/) provides tools to analyze channel-derived data. See [Connect to a Meta (Facebook) account](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).

@@ -18,6 +18,8 @@ role: User
   + [Configure [!DNL Brand] permissions](configure-brand-permissions.md)
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
++ Settings {#settings}
+  + [Data connectors](connectors/connect-channel.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)
@@ -65,7 +67,6 @@ role: User
   + [Optimize activations](activation/troubleshooting.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
-  + [Connect channel account](insights/connect-channel.md)
   + [Channels](insights/channels.md)
   + [Ads and ad placement](insights/ads.md)
   + [Media](insights/media.md)
