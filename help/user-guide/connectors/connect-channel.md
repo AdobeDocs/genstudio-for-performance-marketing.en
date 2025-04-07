@@ -18,7 +18,7 @@ _[!DNL Data connectors]_ enable seamless integration between GenStudio for Perfo
 
 1. In _[!UICONTROL Settings]_, choose a connector type from the _[!UICONTROL Data connectors]_ section, and click **[!UICONTROL Connect]**.
 
-   Optionally, if there are connected accounts, you can click on `connected accounts` to view a list of account names, details, and status.
+   Optionally, if there are connected accounts, you can click on _connected accounts_ to view a list of account names, details, and status.
 
 1. See the [connector type](#connector-types) you selected, review the prerequisites, and continue with the connection steps.
 
@@ -62,7 +62,7 @@ The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, 
 
 ## Data ingestion
 
-Initially, GenStudio for Performance Marketing imports the most recent six months of historical data. This practice ensures you have immediate access to relevant insights for analyzing trends, evaluating performance, and making informed decisions.
+Initially, GenStudio for Performance Marketing imports the most recent six months of historical data. This practice ensures you have immediate access to relevant insights for analyzing trends, evaluating performance, and making informed decisions. The ingestion process may take one to five days depending on the volume of data in your account.
 
 >[!BEGINSHADEBOX]
 
