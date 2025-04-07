@@ -58,9 +58,9 @@ Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and paramete
 
    Image categories are available if a [!DNL Brand] was selected. The options are determined by the selected [!DNL Brand].
 
-1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
+<!-- 1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
 
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access.
+   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
 
 1. Select the desired aspect ratio from _[!UICONTROL Aspect ratio]_.
 1. Click **[!UICONTROL Select from Content]** in _[!UICONTROL Style reference]_ to add a reference image. The image you select influences the visual aesthetic and depth of the images you generate.
