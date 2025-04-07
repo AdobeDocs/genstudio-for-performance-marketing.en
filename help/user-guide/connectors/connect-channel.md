@@ -1,16 +1,16 @@
 ---
-title: Connect channel account
-description: Connect a channel account to monitor your Adobe GenStudio for Performance Marketing campaigns and media performance.
+title: Connect paid media
+description: Connect a channel account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
-# Data connectors
+# Connect paid media accounts
 
-_[!DNL Data connectors]_ enable seamless integration between GenStudio for Performance Marketing and your paid media network accounts. By connecting to third-party channel accounts, you can exchange critical data, such as campaign performance metrics, with GenStudio for Performance Marketing. This integration allows GenStudio for Performance Marketing to manage your media and ads while receiving valuable insights, including impressions, clicks, and conversions, from your active campaigns.
+_[!DNL Data connectors]_ enable seamless integration between GenStudio for Performance Marketing and your paid media network accounts. By connecting to third-party channel accounts, you can exchange critical data, such as campaign performance metrics in [[!DNL Insights]](/help/user-guide/insights/overview.md), and you can deliver fresh ad placements with [[!DNL Activate]](/help/user-guide/activation/overview.md). This integration allows GenStudio for Performance Marketing to manage your media and ads while receiving valuable insights, including impressions, clicks, and conversions, from your active campaigns.
 
-**To select a data connector**:
+**To connect to a paid media account**:
 
 1. Click the ellipsis **[!UICONTROL ... More]** in the lower left navigation.
 
@@ -22,7 +22,7 @@ _[!DNL Data connectors]_ enable seamless integration between GenStudio for Perfo
 
 1. See the [connector type](#connector-types) you selected, review the prerequisites, and continue with the connection steps.
 
-## Connector types
+## Paid media connections
 
 GenStudio for Performance Marketing supports various connector types to integrate with your preferred marketing platforms. Each connector type has specific prerequisites and set-up steps to complete for a successful connection.
 
@@ -58,9 +58,7 @@ GenStudio for Performance Marketing supports various connector types to integrat
 
 1. In the _[!UICONTROL Meta Ads]_ view, select one or more accounts and click **[!UICONTROL Select]**.
 
-   An `Account successfully connected` banner appears at the bottom of the page. It may take a few minutes for your data to become available.
-
-The _[!UICONTROL Meta Ads accounts]_ view lists the Account names, Added by, Date added, and Status. Use **[!UICONTROL Add account]** to add more accounts to the list.
+The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. Use **[!UICONTROL Add account]** to add more accounts to the list.
 
 ## Data ingestion
 

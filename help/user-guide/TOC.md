@@ -10,7 +10,7 @@ role: User
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
 + [GenStudio for Performance Marketing Guide](home.md)
-+ [Release Notes](release-notes.md)
++ [Release Notes](release-notes.md) 
 + [Get started](get-started.md)
 + Introduction {#intro}
   + [Concepts](concepts.md)
@@ -19,7 +19,7 @@ role: User
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
 + Settings {#settings}
-  + [Data connectors](connectors/connect-channel.md)
+  + [Connect paid media](connectors/connect-channel.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)

@@ -5,7 +5,7 @@ level: Beginner
 feature: Ad Activation
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
-# Adobe GenStudio for Performance Marketing Activate
+# Adobe GenStudio for Performance Marketing [!DNL Activate]
 
 GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of delivering ad experience to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
 
