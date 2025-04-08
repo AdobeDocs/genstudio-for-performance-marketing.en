@@ -9,18 +9,17 @@ recommendations: noDisplay
 ---
 # Generate images
 
-You can generate [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_.
+With using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon), you can generate _[!DNL On-brand images]_—generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
 To design an eye-catching and effective image, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and review the [basics of writing prompts](/help/user-guide/effective-prompts.md).
 
 ## Image types
 
-_[!DNL On-brand images]_ and _[!DNL Similar images]_ incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
+_[!DNL On-brand images]_ are generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
 
-You can create the following image types:
+_[!DNL On-brand images]_ <!-- and _[!DNL Similar images]_ --> incorporate set guidelines, parameters, and a [thoughtfully-crafted prompt](/help/user-guide/effective-prompts.md) to deliver eye-catching image assets.
 
-* _[!DNL On-brand images]_—Generated assets that draw inspiration from a chosen image, capturing its visual impact and overall aesthetic. These images are created using images already available in [!DNL Content] and a carefully crafted prompt that guides the design. They strictly follow both the brand guidelines and parameters chosen during the generation process.
-* _[!DNL Similar images]_—Image assets created with strong similarity to an existing selected image available in [!DNL Content]. When generating similar images, GenStudio for Performance Marketing redesigns the selected image, giving slight variations on the content to provide variety and nuance.
+<!-- * _[!DNL Similar images]_—Image assets created with strong similarity to an existing selected image available in [!DNL Content]. When generating similar images, GenStudio for Performance Marketing redesigns the selected image, giving slight variations on the content to provide variety and nuance. -->
 
 ## Generate On-brand images
 
@@ -100,7 +99,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
-## Generate Similar images
+<!-- ## Generate Similar images
 
 You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
 
@@ -116,11 +115,11 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
    The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
 
-   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"}
+   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} -->
 
 ## Publish and export images
 
-To make the generated _[!DNL On-brand images]_ or _[!DNL Similar images]_ available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated images available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new images**, click **[!UICONTROL Publish]** in the top toolbar.
    1. _[!UICONTROL Add details]_, such as _[!UICONTROL Campaigns]_ or _[!UICONTROL Channels]_, if desired.

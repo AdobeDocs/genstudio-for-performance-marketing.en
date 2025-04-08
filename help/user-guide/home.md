@@ -115,7 +115,7 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
       </a>
    </div>
    <p>
-      <em>Learn how to generate on brand and similar images.</em>
+      <em>Learn how to generate images.</em>
    </p>
 </td>
 </table>
