@@ -63,9 +63,11 @@ For example, you may want to find a template of a specific channel type or aspec
 - **[!UICONTROL Created by]**: limits the _[!UICONTROL Templates]_ list to show only the templates created by you or a specific person.
 - **[!UICONTROL Aspect Ratio]**: limits the _[!UICONTROL Templates]_ list to show templates designed for a specific aspect ratio.
 
-The following filters templates by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
+The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
 ![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
+
+The template search capability is available during the Create flow when selecting a template for owned or paid media.
 
 ### Add a template
 
