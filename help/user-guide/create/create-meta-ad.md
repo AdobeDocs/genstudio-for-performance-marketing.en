@@ -79,6 +79,8 @@ When [revising the Meta ads](#revise-generated-variants), you can change the asp
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
 
+To highlight an individual layer to revise, click an editable field or image and click _[!UICONTROL View Layers]_.
+
 **To revise generated variants**:
 
 * **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
