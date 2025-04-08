@@ -20,10 +20,11 @@ The following shows a search on the term `space` in the [!UICONTROL Assets] gall
 
 The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
-There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign. Or you can filter content based on your username or the name of a team member:
+There are filters based on [guidelines](/help/user-guide/guidelines/overview.md), [keywords](asset-details.md#user-defined-metadata), and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign. Or you can filter content based on your username or the name of a team member:
 
-- **[!UICONTROL Uploaded by]** filter limits the _[!UICONTROL Assets]_ list to show only the assets uploaded by you or a specific person.
-- **[!UICONTROL Created by]** filter limits the _[!UICONTROL Experiences]_ list to show only the experiences created by you or a specific person.
+- **[!UICONTROL Uploaded by]**: limits the _[!UICONTROL Assets]_ list to show only the assets uploaded by you or a specific person.
+- **[!UICONTROL Created by]**: limits the _[!UICONTROL Experiences]_ list to show only the experiences created by you or a specific person.
+- **[!UICONTROL Template]**: limits the _[!UICONTROL Experiences]_ list to show only experiences created with the selected template.
 
 **To search for content to reuse**:
 
