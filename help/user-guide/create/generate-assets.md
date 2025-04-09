@@ -68,7 +68,7 @@ Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and paramete
 
 1. In the _Advanced_ tab, select the _Content type_.
 
-   If the brand you selected for image generation includes an image category guideline, the content type will be pre-selected with that guideline—_Art_ or _Photo_—and is uneditable.
+   This is pre-selected based on the image category present for the selected [!DNL Brand]—_Art_ or _Photo_—and is uneditable.
 
 1. Adjust the overall intensity of the image's existing visual characteristics in _[!UICONTROL Visual intensity]_.
 
@@ -85,6 +85,23 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md).
 
 By default, four variations—fueled by the prompt, parameters, and content you added—are generated and shown in the Canvas.
 
+## Edit in Adobe Express
+
+After generating image variants, you can edit them directly in Adobe GenStudio for Performance Marketing using Adobe Express.
+
+**To edit an individual image using Adobe Express**:
+
+1. Hover over a generated image variant and click _[!UICONTROL Edit in Adobe Express]_.
+
+   A _Powered by Adobe Express_ window appears.
+
+1. Perform image editing such as [cropping an image](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), removing an object](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), and applying effects.
+
+   See [Adobe Express documentation](https://helpx.adobe.com/express/user-guide.html) to learn how revise images in GenStudio for Performance Marketing with Adobe Express.
+
+1. Click _[!UICONTROL Apply changes]_ to save your edits.
+1. Continue editing individual image variants as desired and applying changes to save your progress.
+
 ### Verify content check alignment
 
 To optimize the generated variants and ensure strict adherence to brand identity, platform guidelines, and accessibility standards, leverage the power of the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). This panel displays comprehensive content check details and illuminates improvement areas.
@@ -93,7 +110,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   ![_Content check_ panel](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/content-check-img.png){width="500" zoomable="yes"}
 
 1. Revise image variants to ensure your variants are closely aligned with the performed content checks.
 
@@ -118,6 +135,8 @@ You can quickly generate images similar to a selected image within [!DNL Content
    ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} -->
 
 ## Publish and export images
+
+Generated image drafts are shown in the _Recents_ section of the [!DNL Create] home.
 
 To make the generated images available for current and future use, publish them to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
