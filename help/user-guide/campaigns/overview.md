@@ -32,11 +32,9 @@ The Add campaign panel provides a framework for creating a campaign in GenStudio
 
 ### Manage existing campaigns and campaign content
 
-You can add or remove content and approvers from an existing campaign,
+Campaign schedules, ad experiences, and stakeholders can change for an ongoing campaign. You can add or remove content and approvers from an existing campaign,
 
-### View a timeline of all campaigns
-
-
+### View organization's campaign timeline
 
 ## How [!DNL Campaigns] coordinates other GenStudio for Performance Marketing features
 
@@ -48,10 +46,6 @@ You can add or remove content and approvers from an existing campaign,
 
 * [!DNL Review and approvals] provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interest in and involvement in campaign asset creation -- from creatives to legal reviewers -- can participate in the process of refining campaign assets.
 
-* [!DNL Insights] captures performance metrics for individual campaign elements and entire campaigns. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets as necessary in [!DNL Create].
+* [!DNL Insights] captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets as necessary in [!DNL Create].
 
 * [!DNL Activate] Once it is time to launch the first campaign activities, campaign assets can be published to their designated channels.
-
-## Additional resources
-
-[Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy)
