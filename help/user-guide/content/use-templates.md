@@ -67,11 +67,11 @@ The following shows filter by the channel type, such as email, Display ads, Meta
 
 ![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
-The template search capability is available during the Create flow when selecting a template for owned or paid media.
+The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media.
 
 ### Add a template
 
-Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the [Customize templates](customize-template.md) guidance.
+Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the guidance in [Customize templates](customize-template.md).
 
 **To add a template**:
 
@@ -93,7 +93,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
+1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
