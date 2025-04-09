@@ -85,7 +85,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md).
 
 By default, four variations—fueled by the prompt, parameters, and content you added—are generated and shown in the Canvas.
 
-## Edit in Adobe Express
+### Edit in Adobe Express
 
 After generating image variants, you can edit them directly in Adobe GenStudio for Performance Marketing using Adobe Express.
 
