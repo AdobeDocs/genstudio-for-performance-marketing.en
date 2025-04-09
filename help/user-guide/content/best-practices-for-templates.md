@@ -71,6 +71,7 @@ For email, the `subject` field is automatically included. Use content placeholde
 
 - `pre_header`
 - `headline`
+- `sub_headline`
 - `body`
 - `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
@@ -145,6 +146,7 @@ Follow these design best practices when customizing Banner and Display ad templa
 For Banner and Display ads, the `CTA` field is automatically generated. Use content placeholders for the following fields:
 
 - `headline`
+- `sub_headline`
 - `body`
 - `image` (selected from Content JPEG, PNG, or GIF)
 

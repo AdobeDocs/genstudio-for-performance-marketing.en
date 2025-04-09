@@ -38,7 +38,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}`        | Preheader                 | email                                            |
 | `{{headline}}`          | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
-| `{{sub_headline}}`      | Sub-Headline              | email<br>Banner and Display ad |
+| `{{sub_headline}}`      | Sub-Headline              | email<br>Banner and Display ad                   |
 | `{{introductory_text}}` | Introductory text         | LinkedIn ad                                      |
 | `{{body}}`              | Body copy                 | email <br>Meta ad <br>Banner and Display ad      |
 | `{{cta}}`               | Call to action<br>See [Calls to action](#calls-to-action) | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
