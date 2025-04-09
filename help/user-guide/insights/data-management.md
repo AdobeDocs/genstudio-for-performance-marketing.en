@@ -41,4 +41,4 @@ See [Delete implications](https://experienceleague.adobe.com/en/docs/analytics-p
 
 GenStudio for Performance Marketing retains channel data for 13 months. This retention policy includes the 6 months of data ingested during the initial connection, ensuring comprehensive historical data analysis and reporting.
 
-See [Connect channel ad account](/help/user-guide/insights/connect-channel.md).
+See [Connect channel ad account](/help/user-guide/connectors/connect-channel.md).

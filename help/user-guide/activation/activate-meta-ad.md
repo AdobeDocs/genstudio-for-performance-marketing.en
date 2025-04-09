@@ -27,13 +27,7 @@ You must have permission to post content to Meta Ads Manager.
 
 Before your organization can activate experiences, a GenStudio system manager needs to connect your Meta accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio and external marketing tools like Meta, enabling the activation processes.
 
-**To connect GenStudio for Performance Marketing with your Meta accounts**:
-
-1. From _Settings_, click **[!UICONTROL Connect]** on the Meta Ads tile. The _Meta ads account_ view opens.
-
-1. Select **[!UICONTROL Allow pop-ups]** from your browser, if prompted.
-
-1. Select one or more of your ad accounts to connect, then click **[!UICONTROL Select]**.
+See [Connect to a Meta (Facebook) account](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
 
 After the sync has completed, you can view the added accounts. Large amounts of data take longer to sync.
 
