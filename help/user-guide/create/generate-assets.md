@@ -95,7 +95,7 @@ After generating image variants, you can edit them directly in Adobe GenStudio f
 
    A _Powered by Adobe Express_ window appears.
 
-1. Perform image editing such as [cropping an image](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), removing an object](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), and applying effects.
+1. Perform image editing, such as [cropping an image](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), [removing an object](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), and applying effects.
 
    See [Adobe Express documentation](https://helpx.adobe.com/express/user-guide.html) to learn how revise images in GenStudio for Performance Marketing with Adobe Express.
 
