@@ -101,6 +101,7 @@ Follow these design best practices when customizing Meta ad templates to work wi
 - Square 1:1 (1080 x 1080 pixels)
 - Vertical 4:5 (1080 x 1350 pixels)
 - Story 9:16 (1080 x 1920 pixels)
+- Horizontal: 1.91:1 (1200 x 628 pixels)
 - Custom image size: (50 x 50 pixels minimum image width)
 
 **Recognized field names**:
