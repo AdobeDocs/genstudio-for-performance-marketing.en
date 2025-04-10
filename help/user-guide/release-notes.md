@@ -11,7 +11,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.04.10 {#latest}
 
-These are the new release notes.
+* New filter options for templates! Now you can refine your _[!UICONTROL Select templates]_ list in [!DNL Create] and in _[!UICONTROL Content]_ > _[!UICONTROL Templates]_. See [Search templates](/help/user-guide/content/use-templates.md#search-templates). Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
 ## Earlier release notes
 

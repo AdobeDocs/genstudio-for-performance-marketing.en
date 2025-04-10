@@ -53,13 +53,26 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
+The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing.
+
+### Search templates
+
+Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. There are filters based on [guidelines](/help/user-guide/guidelines/overview.md), [keywords](asset-details.md#user-defined-metadata), and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results.
+
+For example, you may want to find a template of a specific channel type or aspect ratio created by you:
+
+- **[!UICONTROL Created by]**: limits the _[!UICONTROL Templates]_ list to show only the templates created by you or a specific person.
+- **[!UICONTROL Aspect Ratio]**: limits the _[!UICONTROL Templates]_ list to show templates designed for a specific aspect ratio.
+
+The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
 ![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
+The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
+
 ### Add a template
 
-Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the [Customize templates](customize-template.md) guidance.
+Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the guidance in [Customize templates](customize-template.md).
 
 **To add a template**:
 
@@ -81,7 +94,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
+1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
