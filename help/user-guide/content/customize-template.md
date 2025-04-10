@@ -104,6 +104,27 @@ In this example:
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
 - `{{imageDescription}}` is a user-defined field name that provides a placeholder for the image's alternative text, which is useful for accessibility and SEO.
 
+### Alternative text
+
+Use a user-defined field name as a placeholder to generate an alternative text (alt text) description for an image. The following `{{imageDescription}}` placeholder is used with the `{{image}}` field within the same `<img>` tag, ensuring that the relationship between the image and its description persists.
+
+```html
+<img src="{{image}}" alt="{{imageDescription}}">
+```
+
+In this example:
+
+- `{{image}}` is the placeholder for the image source URL.
+- `{{imageDescription}}` is the placeholder for the alt text, which provides a description of the image for accessibility and SEO purposes.
+
+### On image text
+
+The `{{ on_image_text }}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
+```
+
 <!-- this field does not work in Create canvas 2025/03
 
 ### Brand logo field name
@@ -144,22 +165,14 @@ To create an editable section, add double brackets around the section name:
 </tbody>
 ```
 
-## On image text
-
-The `{{ on_image_text }}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
-
-```html
-<div class="image-text">{{ on_image_text }}</div>
-```
-
 ## Sections or groups
 
 _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
 
 - _Correct_ (👍): `pod1_body`
-- _Incorrect_ (❌): `pod1_link`
+- _Incorrect_ (❌): `pod1body`
 
 Each section can use only one of each field type. For example, the following fields belong to the `pod1` section:
 
@@ -172,7 +185,7 @@ Because of this rule, the sections cannot be nested.
 
 Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
 
-For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections.:
 
 - `pre_header`
 - `pod1_headline`
@@ -185,7 +198,9 @@ For example, an email template can include up to three sections; therefore, you 
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
-See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
+>[!TIP]
+>
+>See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
 
 ## Template preview
 
