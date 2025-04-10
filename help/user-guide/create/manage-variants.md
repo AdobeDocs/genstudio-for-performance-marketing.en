@@ -32,6 +32,18 @@ You can edit the text fields in generated variants. Refine the text for your aud
 1. Enter new text.
 1. Click off the text field to save it.
 
+## View layers
+
+You can quickly select an individual layer of a variant and make changes, such as re-generating sections or cropping images. When you select an individual layer, the editable fields or images within the layer are highlighted.
+
+**To view the layers of a variant**:
+
+1. After generating a set of variants, click an editable field or image within a variant.
+1. Click _[!UICONTROL View Layers]_.
+1. Click to select a layer from the list. The selected layer is highlighted for the variant.
+
+   Proceed with making any necessary edits to the selected layer.
+
 ## Re-generate sections
 
 GenStudio for Performance Marketing has the built-in functionality to regenerate sections of generated variants. You can rephrase, shorten, or lengthen text, or add fresh prompts to generate new content.
