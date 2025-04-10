@@ -13,6 +13,11 @@ This release information details the latest updates to the GenStudio for Perform
 
 * New filter options for templates! Now you can refine your _[!UICONTROL Select templates]_ list in [!DNL Create] and in _[!UICONTROL Content]_ > _[!UICONTROL Templates]_. See [Search templates](/help/user-guide/content/use-templates.md#search-templates). Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
+### Fixes and enhancements
+
+* Enabled functionality to [view and select individual layers](/help/user-guide/create/manage-variants.md#view-layers)—editable text fields or editable images—of an experience to highlight them for revisions, such as regenerating content or cropping images.
+* Added a [new template field](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
+
 ## Earlier release notes
 
 +++Notes from 2025.03.13
