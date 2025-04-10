@@ -68,6 +68,8 @@ By default, four variations—fueled by the prompt, guidelines, and content you 
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit display ad sections and text fields, or delete a generated variant.
 
+To highlight an individual layer to revise, click an editable field or image and click _[!UICONTROL View Layers]_.
+
 **To revise generated variants**:
 
 * **To [edit the display ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
