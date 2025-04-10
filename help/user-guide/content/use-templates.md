@@ -31,7 +31,7 @@ The following is a list of elements that are used in templates and some details 
 | **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
 | **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
 | **Headline**         | Meta ad, Banner and Display ads, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
-| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
+| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to the body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
 | **Body**             | Email, Meta ad, Banner and Display ads    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
 | **CTA**              | Email, Meta ad, Banner and Display ads, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
 | **Images**           | Email, Meta ad, Banner and Display ads, LinkedIn | Enhance visual appeal, break up text, and support the message. Images should be high-quality and eye-catching.                                                   |
@@ -67,7 +67,7 @@ The following shows filter by the channel type, such as email, Display ads, Meta
 
 ![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
-The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media.
+The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
 ### Add a template
 

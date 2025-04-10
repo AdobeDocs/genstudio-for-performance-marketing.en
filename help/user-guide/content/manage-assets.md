@@ -26,6 +26,8 @@ There are filters based on [guidelines](/help/user-guide/guidelines/overview.md)
 - **[!UICONTROL Created by]**: limits the _[!UICONTROL Experiences]_ list to show only the experiences created by you or a specific person.
 - **[!UICONTROL Template]**: limits the _[!UICONTROL Experiences]_ list to show only experiences created with the selected template.
 
+If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
+
 **To search for content to reuse**:
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
