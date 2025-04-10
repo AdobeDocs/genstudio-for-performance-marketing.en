@@ -9,7 +9,13 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.03.13 {#latest}
+## 2025.04.10 {#latest}
+
+These are the new release notes.
+
+## Earlier release notes
+
++++Notes from 2025.03.13
 
 ### Activate Meta ads
 
@@ -54,7 +60,7 @@ The new GenStudio for Performance Marketing [extensibility framework](/help/exte
 * Improved user experience and visibility of channel categories [on the Create home](/help/user-guide/create/overview.md) by separating them into Owned media, Paid media, and Content sections.
 * Improved filtering in [!DNL Insights] table and gallery views.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.02.13
 
