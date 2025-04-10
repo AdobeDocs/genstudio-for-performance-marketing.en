@@ -20,6 +20,7 @@ See [Follow channel-specific template guidelines](/help/user-guide/content/best-
 Editable sections of a display ad experience include:
 
 * Headline
+* Sub-headline
 * Body
 * Call to action (CTA)
 * Image
