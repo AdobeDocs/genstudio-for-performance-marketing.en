@@ -10,7 +10,7 @@ Adobe GenStudio for Performance Marketing supports the activation of Meta ads, o
 
 You can [create a Meta experience](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
 
-Activating a Meta ad follows the [same general steps](create-activation.md) required for activation to other paid channels. The activation process supports preparing your ad experiences for Meta's specific requirements. After you activate a Meta experience, or creative, in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
+Activating a Meta ad follows the [same general steps](create-activation.md) required for activation to other paid channels. The activation process supports preparing your creative from ad experiences for Meta's specific requirements. After you activate a Meta experience, or creative, in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
 
 ## Step 1: Set up your Meta accounts
 

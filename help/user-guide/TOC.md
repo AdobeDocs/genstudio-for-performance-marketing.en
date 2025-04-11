@@ -62,6 +62,7 @@ role: User
 + Activation {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
+  + [Activate a Google Campaign Manager 360 ad](activation/activate-CM360-ad.md)
   + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)
