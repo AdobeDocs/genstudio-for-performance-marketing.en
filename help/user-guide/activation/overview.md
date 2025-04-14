@@ -31,7 +31,7 @@ The _Creative setup_ page consolidates the tools that you need to select the vis
 
 ### Select assets for ad experience
 
-Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can also upload assets directly from your device. One ad experience, or creative,  can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
+Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience, or creative, can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
 
 ### Preview and activate your experience to an ad channel
 

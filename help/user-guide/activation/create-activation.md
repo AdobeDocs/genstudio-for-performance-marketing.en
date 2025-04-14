@@ -6,7 +6,7 @@ exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
 ---
 # Activation workflow
 
-_[!DNL Activate]_ supports the activation of ad experiences in the form of creative in channel-specific formats, such as a Meta or Google Campaign Manager 360 ad experience.
+_[!DNL Activate]_ supports the activation of ad experiences in the form of a creative in channel-specific formats, such as a Meta or Google Campaign Manager 360 ad experience.
 
 A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared as a creative to a specific audience on a paid ad channel or email. Creatives contain three main components:
 
