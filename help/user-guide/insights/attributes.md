@@ -21,7 +21,7 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 ## Attribute details
 
-Attributes help to identify [media](media.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
+Attributes help to identify [ads](ads.md#ad-details) and [media](media.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
 
 In the attribute details view, you can see which ads use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each ad.
 
@@ -33,9 +33,9 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 An attribute _category_ is a classification group that organizes related attributes that share a common characteristic. These categories help streamline the discovery, identification, and understanding of specific attributes by providing greater context and facilitating their application and use.
 
-GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study [images](image-features.md), [videos](video-features.md), and [text](text-features.md) and apply [!UICONTROL Media attributes] based on a probability of correctness.
+GenStudio for Performance Marketing uses Adobe's AI and machine learning capabilities to study [images](image-features.md), [videos](video-features.md), and [text](text-features.md) and apply attributes to ads and media based on a probability of correctness.
 
-The detected attributes list for media content is not exhaustive. Media that contain a rich set of features may be limited to the three most dominant features identified by the AI. For example, the following illustration contains several detected image attributes, including multiple objects, foreground and background colors.
+The detected attributes list for ads and media content is not exhaustive. Content that contains a rich set of features may be limited to the three most dominant features identified by the AI. For example, the following illustration contains several detected image attributes, including multiple objects, foreground and background colors:
 
 ![image attributes](/help/assets/category/asset-attributes.png "Image of Toucan includes multiple detected attributes"){width="300" zoomable="yes"}
 
