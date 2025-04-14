@@ -17,7 +17,7 @@ Campaign Manager 360 allows marketers to organize campaigns and their components
 
 ## Step 2: Connect to your Google Campaign Manager 360 accounts
 
-Before your organization can activate experiences, a GenStudio system manager needs to connect your Google Campaign Manager 360 accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio for Performance Marketing and external marketing tools such as Google Campaign Manager 360, enabling the activation process. See [Connect paid media accounts](/help/user-guide/settings/connect-channel.md).
+Before your organization can activate experiences, a GenStudio system manager needs to connect your Google Campaign Manager 360 accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio for Performance Marketing and external marketing tools such as Google Campaign Manager 360, enabling the activation process. See [Connect paid media accounts](/help/user-guide/settings/connectors/connect-channel.md).
 
 After the sync is complete, you can view the added accounts. Large amounts of data take longer to sync.
 

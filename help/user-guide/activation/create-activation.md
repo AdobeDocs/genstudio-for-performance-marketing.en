@@ -40,4 +40,4 @@ Once a creative is live on its target paid media channel, _[!DNL Insights]_ can 
 Each paid media channel has a unique activation workflow. Select the paid channel for activation guidelines:
 
 * [Meta](activate-meta-ad.md)
-* [Google Campaign Manager 360](activate-CM360-ad.md)
+* [Google Campaign Manager 360](activate-cm360-ad.md)
