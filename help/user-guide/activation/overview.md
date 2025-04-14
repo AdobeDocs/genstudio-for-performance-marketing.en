@@ -15,13 +15,13 @@ Content editors and system managers can publish experiences whose assets are eit
 
 Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
 
-## [!DNL Activate] use cases
+## Activate use cases
 
 * [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
 
 * [Manage activations](manage-activations.md). _[!DNL Activate]_ provides an overview of all activated experiences. You can also view the details of individual activations.
 
-## [!DNL Activate] capabilities
+## Activate capabilities
 
 _[!DNL Activate]_ facilitates the preparation of ad experience for distribution to its target paid channels.
 

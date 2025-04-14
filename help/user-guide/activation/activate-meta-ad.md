@@ -101,7 +101,7 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 | Website URL     | yes                       | 1000                            |
 | Image           | at least one required     |                                 |
 
-_Primary text_ and _headline_ are required by GenStudio for Performance Marketing only, not Meta.
+GenStudio for Performance Marketing requires _Primary text_ and _headline_, not Meta.
 
 ### Assign metadata
 
@@ -142,10 +142,10 @@ Click **[!UICONTROL Next]** in the upper right to preview your ad experience and
 
 The _Review_ page displays your ad experience as assembled in the _Creative setup_ and provides a final opportunity to view and edit your experience. Click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page.
 
-### Complete activation of your ad experience
+### Step 6: Complete activation of your ad experience
 
-Click **[!UICONTROL Publish]**. The complete Meta ad experience and its associated metadata are pushed directly into the selected Meta Ads Manager ad set. Experiences are delivered to Meta Ads Manager inactivated. From Meta Ads Manager, you can manage the final steps of deploying the ad experience and Meta campaign.
+1. Click **[!UICONTROL Publish]**.
 
-### Log in to Meta Ads Manager to complete activation
+   The complete Meta ad experience and its associated metadata are pushed directly into the selected Meta Ads Manager ad set. Experiences are delivered to Meta Ads Manager in an inactive state. From Meta Ads Manager, you can manage the final steps of deploying the ad experience and Meta campaign.
 
-After your activation completes, you must log in to Meta Ads Manager. From [Meta Ads Manager](https://adsmanager.facebook.com/), you can review your ad experience and finalize publication to specific Meta channels.
+1. [Log in to Meta Ads Manager](https://adsmanager.facebook.com/) to review your ad experience and finalize publication to specific Meta channels.

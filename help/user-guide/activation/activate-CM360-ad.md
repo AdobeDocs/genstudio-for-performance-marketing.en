@@ -7,47 +7,48 @@ feature: Ad Activation
 
 Adobe GenStudio for Performance Marketing supports the activation of Google Campaign Manager 360 ads, or creatives, to designated Campaign Manager 360 advertisers. GenStudio system managers and editors can activate creatives.
 
-You can initiate activation of a Google Campaign Manager 360 ad experience from either the _[!DNL Content]_ gallery or the _[!DNL Activate]_ landing page.
+You can initiate activation of a Google Campaign Manager 360 ad experience from either the _[!DNL Content]_ gallery or  _[!DNL Activate]_ home.
 
 ## Step 1: Set up your Google Campaign Manager 360 accounts
 
-Before launching an activation, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com). Confirm that your connected Google Campaign Manager 360 accounts include access to advertisers to which you can deliver the activated creative.
+Before launching an activation, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com). Confirm that your connected Google Campaign Manager 360 accounts include access to Campaign Manager 360 advertisers. When you publish a Campaign Manager 360 creative from GenStudio for Performance Marketing, it is delivered to the advertiser selected during creative creation.
 
-Campaign Manager 360 allows marketers to organize campaigns and their components into structured units called _advertisers_. Advertisers can group campaigns and related assets by client or product group, for example. Advertisers streamline the management of all aspects of selected campaigns, including creatives, landing pages, and audience properties. 
-
-When you publish a Campaign Manager 360 creative from GenStudio for Performance Marketing, it is delivered to the advertiser selected during creative creation.
+Campaign Manager 360 allows marketers to organize campaigns and their components into structured units called _advertisers_. Advertisers can group campaigns and related assets by client or product group, for example. Advertisers streamline the management of all aspects of selected campaigns, including creatives, landing pages, and audience properties.
 
 ## Step 2: Connect to your Google Campaign Manager 360 accounts
 
 Before your organization can activate experiences, a GenStudio system manager needs to connect your Google Campaign Manager 360 accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio for Performance Marketing and external marketing tools such as Google Campaign Manager 360, enabling the activation process. See [Connect paid media accounts](/help/user-guide/settings/connect-channel).
 
-After the sync has completed, you can view the added accounts. Large amounts of data take longer to sync.
+After the sync is complete, you can view the added accounts. Large amounts of data take longer to sync.
 
 ## Step 3: Prepare your creative for activation
 
-You can start the activation process from either the [!DNL Content] Experience gallery or the _[!DNL Activate]_ landing page.
+You can start the activation process from either the _[!DNL Content]_ Experience gallery or the _[!DNL Activate]_ home.
 
 * _[!DNL Content]_ Experience gallery: Use only approved experiences. No editing of text or visual assets. Each experience can contain only one asset.
-* _[!DNL Activate]_ landing page: Customize your creative during setup. Add or delete text and assets as needed.
+* _[!DNL Activate]_ home: Customize your creative during setup. Add or delete text and assets as needed.
 
-### Prepare your creative from _[!DNL Content]_
+### Prepare your creative from Content
 
-You can prepare your creative by selecting an approved experience from Content. Experiences selected this way can contain only one asset and cannot be edited. 
+You can prepare your creative by selecting an approved experience—can contain only one asset and is uneditable—from _[!DNL Content]_.
 
 **To prepare your creative from _[!DNL Content]_**:
 
-1. Navigate to _[!DNL Content]_ and select one or more experiences for activation. 
+1. Select an experience from the _[!DNL Content]_ Experiences view for activation.
+
    Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate.
 
-1. Click **[!UICONTROL Activate]** on the top right corner. 
-   The Google Campaign Manager 360 _Creative setup_ page opens for this experience. It is pre-populated with details from the selected experience. You cannot change these prepopulated details. 
+1. Click **[!UICONTROL Activate]** in the top right corner.
 
-1. Select an advertiser from the **[!UICONTROL Advertiser]** drop-down menu. 
+   The Google Campaign Manager 360 _Creative setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience.
+
+1. Select an advertiser from the **[!UICONTROL Advertiser]** drop-down menu.
+
    Your Google Campaign Manager 360 account settings determine the available advertisers.
 
 After selecting your advertiser, click **[!UICONTROL Next]** to confirm your Google Campaign Manager 360 setup.
 
-### Prepare your creative from _[!DNL Activate]_
+### Prepare your creative from Activate
 
 Preparing a creative from _[!DNL Activate]_ provides an opportunity to select and edit exactly the assets and text you want to include.
 
@@ -63,18 +64,21 @@ GenStudio for Performance Marketing saves assets to _[!DNL Content]_ after uploa
 
 **To upload an asset from Content**:
 
-_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options. 
+_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can use the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu tools to refine your view of [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) assets and experiences.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Google Campaign Manager 360 Ads tile. The _Creative setup_ view opens.
 
-1. In the _Media_ section, click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**. 
+1. In the _Media_ section, click **[!UICONTROL Select]** and select **[!UICONTROL Select from Content]**.
+
    The _Select content_ view opens, displaying a gallery of image assets that you search through or filter.
 
 1. Use _[!DNL Content]_ gallery's search and filter tools to select at least one asset for upload.
 
-1. Click **[!UICONTROL Use]** to include the selected asset in your creative. The _Creative setup_ window includes the asset in its default aspect ratio in the _Media_ area. The _Preview_ panel previews the asset in the ad placement that supports this aspect ratio.
+1. Click **[!UICONTROL Use]** to include the selected asset in your creative.
 
-If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
+   The _Creative setup_ window includes the asset in its default aspect ratio in the _Media_ area. The _Preview_ panel previews the asset in the ad placement that supports this aspect ratio.
+
+If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_ opens.
 
 **To upload an external asset**:
 
@@ -82,14 +86,17 @@ You can upload up to six static images that are external to the _[!DNL Content]_
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Google Campaign Manager 360 tile. The _Creative setup_ window opens.
 
-1. In the _Media_ section, click **[!UICONTROL Select]**. A drop-down menu displays options to _Select from Content_ or _Upload_.
+1. In the _Media_ section, click **[!UICONTROL Select]** and select either **[!UICONTROL Select from Content]** or **[!UICONTROL Upload]**.
 
 1. Click **[!UICONTROL Upload]**. The _Add aspect ratios_ window opens.
 
-1. Select images by dragging and dropping image files into the image upload area. 
+1. Select images by dragging and dropping image files into the image upload area.
+
    Alternatively, you can browse your device for assets. To upload assets from your device, click **[!UICONTROL Browse]**, then select _Browse files_ or _Browse folders_ to identify assets for upload.
 
-1. In the _Add details_ area, add informative details to your uploaded assets to facilitate search and filtering in _[!DNL Content]_. These details are saved as metadata.
+1. In the _Add details_ area, add informative details to your uploaded assets to facilitate search and filtering in _[!DNL Content]_.
+
+   These details are saved as metadata.
 
 1. When you have uploaded your assets and assigned details, click **[!UICONTROL Add Assets]**.
 
@@ -129,7 +136,7 @@ After assembling your creative, click **[!UICONTROL Next]** to confirm your Goog
 
 ## Step 4: Confirm Google Campaign Manager 360 account setup
 
-After preparing your creative, you must confirm the Google Campaign Manager 360 account advertiser and assign a tracking ID to the creative. The Google Campaign Manager 360_ account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
+After preparing your creative, you must confirm the Google Campaign Manager 360 account advertiser and assign a tracking ID to the creative. The Google Campaign Manager 360 account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
 
 ### Tracking ID
 
@@ -139,14 +146,14 @@ Click **[!UICONTROL Next]** in the upper right to preview your ad experience and
 
 ## Step 5: Preview and activate your ad
 
-The _Review_ page displays your ad experience as assembled in the _Creative setup_ and provides a final opportunity to view and edit your experience. 
+The _Review_ page displays your ad experience as assembled in the _Creative setup_ and provides a final opportunity to view and edit your experience.
 
 If you launched this activation from Activate, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. Experiences directly selected from Content cannot be edited.
 
-### Complete activation of your ad experience
+### Step 6: Complete activation of your ad experience
 
-Click **[!UICONTROL Publish]**. The complete Campaign Manager 360 ad experience and its associated metadata are pushed directly into the selected Campaign Manager 360 advertiser. Creatives are delivered to their target channel inactivated. From Campaign Manager 360, you can manage the final steps of deploying the creative and campaign.
+1. Click **[!UICONTROL Publish]**.
 
-### Log in to Google Campaign Manager 360 to complete activation
+   The complete Campaign Manager 360 ad experience and its associated metadata are pushed directly into the selected Campaign Manager 360 advertiser. Creatives are delivered to their target channel in an inactive state. From Campaign Manager 360, you can manage the final steps of deploying the creative and campaign.
 
-After your activation completes, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com) to review your ad experience and finalize publication to specific Campaign Manager 360 channels.
+1. [Log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com) to review your ad experience and finalize publication to specific Campaign Manager 360 channels.
