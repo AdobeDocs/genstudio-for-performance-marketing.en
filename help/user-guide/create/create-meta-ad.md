@@ -19,8 +19,8 @@ To get started generating a new Meta ad experience, use an available template to
 
 **To choose a Meta ad template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
-1. Use the [search and _Filter_ options](/help/user-guide/content/use-templates.md#search-templates) to find a specific template.
+1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]**.
+1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
 1. Click to select a template and click **[!UICONTROL Use]**.
 
    This action opens the Canvas, which is the central hub for content creation.
