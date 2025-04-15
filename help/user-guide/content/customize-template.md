@@ -38,6 +38,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}`        | Preheader                 | email                                            |
 | `{{headline}}`          | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{sub_headline}}`      | Sub-Headline              | email<br>Banner and Display ad                   |
 | `{{introductory_text}}` | Introductory text         | LinkedIn ad                                      |
 | `{{body}}`              | Body copy                 | email <br>Meta ad <br>Banner and Display ad      |
 | `{{cta}}`               | Call to action<br>See [Calls to action](#calls-to-action) | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
@@ -95,14 +96,14 @@ GenStudio for Performance Marketing can provide variant calls-to-action phrases,
 You can customize your email template to allow creatives to add a link to an image. Similar to the CTA link, use the following guidance to apply a `link` placeholder to an image tag:
 
 ```html
-<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
 In this example:
 
 - `{{link}}` is a placeholder for the actual URL.
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
-- `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
+- `{{imageDescription}}` is a user-defined field name that provides a placeholder for the image's alternative text, which is useful for accessibility and SEO.
 
 <!-- this field does not work in Create canvas 2025/03
 
@@ -130,7 +131,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 ### Manual field names
 
-All other field names are treated as manually populated fields. For example, you may want to reserve a section for footer content.
+All other field names are user-defined and treated as manually populated fields. For example, you may want to reserve a section for footer content.
 
 To create an editable section, add double brackets around the section name:
 

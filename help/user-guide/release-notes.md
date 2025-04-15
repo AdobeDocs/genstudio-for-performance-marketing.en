@@ -9,7 +9,17 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.03.13 {#latest}
+## 2025.04.10 {#latest}
+
+### Fixes and enhancements
+
+* New filter options for templates! Now you can refine your _[!UICONTROL Select templates]_ list in [!DNL Create] and in _[!UICONTROL Content]_ > _[!UICONTROL Templates]_. See [Search templates](/help/user-guide/content/use-templates.md#search-templates). Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
+* Enabled functionality to [view and select individual layers](/help/user-guide/create/manage-variants.md#view-layers)—editable text fields or editable images—of an experience to highlight them for revisions, such as regenerating content or cropping images.
+* Added a [new template field](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
+
+## Earlier release notes
+
++++Notes from 2025.03.13
 
 ### Activate Meta ads
 
@@ -54,7 +64,7 @@ The new GenStudio for Performance Marketing [extensibility framework](/help/exte
 * Improved user experience and visibility of channel categories [on the Create home](/help/user-guide/create/overview.md) by separating them into Owned media, Paid media, and Content sections.
 * Improved filtering in [!DNL Insights] table and gallery views.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.02.13
 
