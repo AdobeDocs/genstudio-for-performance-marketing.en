@@ -37,7 +37,7 @@ GenStudio for Performance Marketing supports various connector types to integrat
 
 >[!ENDSHADEBOX]
 
-**To connect a Google Campaign Manager account**:
+**To connect a Google Campaign Manager 360 account**:
 
 1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Google Campaign Manager 360_ card.
 
