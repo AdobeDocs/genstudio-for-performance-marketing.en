@@ -150,7 +150,7 @@ The _Review_ page displays your ad experience as assembled in the _Creative setu
 
 If you launched this activation from Activate, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. Experiences directly selected from Content cannot be edited.
 
-### Step 6: Complete activation of your ad experience
+## Step 6: Complete activation of your ad experience
 
 1. Click **[!UICONTROL Publish]**.
 
