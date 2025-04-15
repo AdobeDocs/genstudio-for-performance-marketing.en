@@ -6,6 +6,7 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 role: User
 level: Beginner
 recommendations: noDisplay
+exl-id: c1118ada-7fee-43cd-aff4-eab69539afb4
 ---
 # Generate images
 
