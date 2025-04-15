@@ -39,6 +39,9 @@ To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL C
    To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
 
 1. In the _Select image_ view, click on an image.
+
+   The selected image can be up to 10mb in size.
+
 1. Click **[!UICONTROL Use]**.
 
    The Canvas, which serves as the central hub for content creation, is displayed.
