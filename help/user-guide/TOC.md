@@ -59,7 +59,7 @@ role: User
     + [Best practices for templates](content/best-practices-for-templates.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
-+ Activation {#activation}
++ Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
   + [Activate a Google Campaign Manager 360 ad](activation/activate-cm360-ad.md)
