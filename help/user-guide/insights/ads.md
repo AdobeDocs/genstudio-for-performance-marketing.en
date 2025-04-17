@@ -37,7 +37,7 @@ Below the ad preview is a list of [!UICONTROL Text attributes] associated with t
 
 ### Ad placements
 
-At the time that you created a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives). Ad placements broaden the audience reach for your ad.
+When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives). Ad placements broaden the audience reach for your ad.
 
 The following is a list of supported ad placements:
 
