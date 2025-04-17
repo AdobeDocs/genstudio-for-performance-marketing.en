@@ -19,7 +19,7 @@ To create a display ad experience, use an available template to provide the fram
 
 **To choose a display ad template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Display ads]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_, click **[!UICONTROL Display ads]**.
 1. Use the search option, adjacent to _Filter_, to find a specific display ad template.
 1. In the _Select template_ view, click on a display ad template.
 1. Click **[!UICONTROL Use]**.
@@ -67,6 +67,8 @@ By default, four variations—fueled by the prompt, guidelines, and content you 
 ## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit display ad sections and text fields, or delete a generated variant.
+
+To highlight an individual layer to revise, click an editable field or image and click _[!UICONTROL View Layers]_.
 
 **To revise generated variants**:
 
