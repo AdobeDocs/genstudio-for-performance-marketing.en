@@ -7,7 +7,7 @@ feature: Ad Activation
 
 Adobe GenStudio for Performance Marketing enables GenStudio system managers and editors to publish ad creatives to the Google Campaign Manager 360 platform. 
 
-You can initiate Publication of a Google Campaign Manager 360 ad experience from either the _[!DNL Content]_ gallery or _[!DNL Activate]_ home.
+You can initiate publication of a Google Campaign Manager 360 ad experience from either the _[!DNL Content]_ gallery or _[!DNL Activate]_ home.
 
 ## Step 1: Set up your Google Campaign Manager 360 accounts
 
@@ -40,21 +40,21 @@ You can start the publication process from either the _[!DNL Content]_ Experienc
 
    Your Google Campaign Manager 360 account settings determine the available advertisers.
 
-After selecting your advertiser, click **[!UICONTROL Next]** to confirm your Google Campaign Manager 360 setup.
+1. After selecting your advertiser, click **[!UICONTROL Next]** to confirm your Google Campaign Manager 360 setup.
 
-**Select content from _[!DNL Activate]_**
+**Select an experience from _[!DNL Activate]_**:
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Google Campaign Manager 360 product tile. The _Creative setup_ view opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Google Campaign Manager 360 product card. The _Creative setup_ view opens.
 
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 
 ## Step 4: Confirm Google Campaign Manager 360 account setup
 
-After preparing your creative, you must confirm the Google Campaign Manager 360 account advertiser and assign a tracking ID to the creative. The Google Campaign Manager 360 account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
+After selecting your ad experience, you must confirm the Google Campaign Manager 360 account advertiser and assign a tracking ID to the creative. The Google Campaign Manager 360 account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
 
 ### Tracking ID
 
-The name of the creative acts as a tracking ID. It provides a mechanism for collecting metrics that are linked to the experience performance. Enter the experience name in the _Creative name_ field.
+The creative name serves as a tracking ID, enabling the collection of performance metrics. Enter the creative name in the _Creative name_ field.
 
 Click **[!UICONTROL Next]** in the upper right to preview your ad experience and finalize activation.
 
@@ -62,7 +62,7 @@ Click **[!UICONTROL Next]** in the upper right to preview your ad experience and
 
 The _Review_ page provides a final opportunity to view your ad experience before publishing.
 
-If you launched this activation from Activate, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. Experiences directly selected from Content cannot be edited.
+If you launched this activation from _[!DNL Activate]_, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. Experiences directly selected from Content cannot be edited.
 
 ## Step 6: Complete publication of your ad experience
 
