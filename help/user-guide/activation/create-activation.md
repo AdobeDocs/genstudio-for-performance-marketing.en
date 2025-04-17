@@ -6,9 +6,9 @@ exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
 ---
 # Activation workflow
 
-_[!DNL Activate]_ supports the activation of ad experiences in channel-specific formats, such as a Meta ad experience.
+_[!DNL Activate]_ supports the activation of ad experiences in the form of a creative in channel-specific formats, such as a Meta or Google Campaign Manager 360 ad experience.
 
-A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is tailored to a specific audience on a paid ad channel or email. Ad experiences contain three main components:
+A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared as a creative to a specific audience on a paid ad channel or email. Creatives contain three main components:
 
 * **Media assets**: Media assets are the images (GIFs, PNG, JPEG) included in your ad experience. Activation currently supports static images. 
 Selecting an image asset for your ad experience requires choosing an appropriate aspect ratio. Aspect ratios define the proportional relationship between an image's width and height, and they are crucial for the effectiveness of ad placements. Paid media channels carefully specify valid aspect ratios for each ad placement on their platform. When adding image assets to your activation, you must select the aspect ratio based on the final ad placements for your experience. File types are restricted to JPEG, PNG, and GIF.
@@ -27,12 +27,17 @@ Although unique placement requirements define each paid channel, all ad activati
  
 * **Prepare your experience for activation**. Preparation includes selecting the media assets in the appropriate aspect ratio for your specific ad placement and assigning text to call-to-action elements and body copy. You can also add informative metadata that aids users in searching for the experience after activation. Each ad channel placement specifies valid aspect ratios for visual assets included in the placement.
 
-* **Review and publish your experience to the target channel**.  Use the _Preview_ panel in the create activation workflow to assess your choice of ad placement and text elements before finalizing your activation. Your final pre-publication review occurs in the destination channel's ad management app. For example, after activating a Meta ad experience in GenStudio for Performance Marketing, you must log into Meta Ads Manager, review your ad experience, then select its specific attributes before publishing it.
+>[!TIP]
+>
+>You can select approved ad experiences directly from the _[!DNL Content]_ Experience gallery to prepare as Google Campaign Manager 360 creatives. Once you select an experience from the _[!DNL Content]_ gallery, you cannot edit or add assets to your creative.
 
-Once an experience is live on its target ad channel, _[!DNL Insights]_ can track and analyze its performance data.
+* **Review and publish your experience to the target channel**. Use the _Preview_ panel during creative set up to assess your choice of ad placement and text elements before finalizing your activation. Your final pre-publication review occurs in the destination channel's ad management app. For example, after activating a Meta ad experience in GenStudio for Performance Marketing, you must log into Meta Ads Manager, review your creative, then select its specific attributes before publishing it.
+
+Once a creative is live on its target paid media channel, _[!DNL Insights]_ can track and analyze its performance data.
 
 ## Supported channels
 
 Each paid media channel has a unique activation workflow. Select the paid channel for activation guidelines:
 
 * [Meta](activate-meta-ad.md)
+* [Google Campaign Manager 360](activate-cm360-ad.md)

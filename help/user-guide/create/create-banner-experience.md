@@ -20,8 +20,8 @@ To create a banner experience, use an available template to provide the framewor
 
 **To choose a banner template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Banners]** in the _"What do you want to create today?"_ section.
-1. Use the [search and _Filter_ options](/help/user-guide/content/use-templates.md#search-templates) to find a specific template.
+1. In _[!DNL Create]_, click **[!UICONTROL Banners]**.
+1. Use the search option, adjacent to _Filter_, to find a specific banner template.
 1. In the _Select template_ view, click on a banner template.
 1. Click **[!UICONTROL Use]**.
 

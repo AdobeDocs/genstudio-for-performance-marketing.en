@@ -40,6 +40,7 @@ role: User
   + [Create a LinkedIn experience](create/create-linkedin.md)
   + [Create a display ad experience](create/create-display-ad.md)
   + [Create a banner experience](create/create-banner-experience.md)
+  + [Generate an image](create/generate-assets.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)
@@ -59,9 +60,10 @@ role: User
     + [Best practices for templates](content/best-practices-for-templates.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
-+ Activation {#activation}
++ Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
+  + [Activate a Google Campaign Manager 360 ad](activation/activate-cm360-ad.md)
   + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)

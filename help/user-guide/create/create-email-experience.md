@@ -19,8 +19,8 @@ To create a new email experience, use an available template to provide the frame
 
 **To choose an email template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
-1. Use the [search and _Filter_ options](/help/user-guide/content/use-templates.md#search-templates) to find a specific template.
+1. In _[!DNL Create]_, click **[!UICONTROL Email]**.
+1. Use the search option, adjacent to _Filter_, to find a specific email template.
 1. Click to select an email template and click **[!UICONTROL Use]**.
 
    The Canvas, the epicenter of content creation, appears.
