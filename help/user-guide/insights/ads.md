@@ -27,24 +27,23 @@ Select an ad and view the performance metrics, text attributes, and placements a
 
 Below the ad preview is a list of [!UICONTROL Text attributes] associated with the ad. When assets and ads are approved and stored in [!DNL Content], GenStudio for Performance Marketing generates tags based on their inherent features. See [Media details](/help/user-guide/content/asset-details.md#system-metadata) for details about system metadata.
 
+### Ad formats
+
+[!DNL Insights] in GenStudio for Performance Marketing currently supports the following available ad formats.
+
+| Supported | Unsupported |
+|-----------|-------------|
+| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image/video)<br>App (image/video)<br>Messaging<br>Lead (image/video)<br>Slideshow (video)<br>Collection (image/video hero asset)<br>Shop (image/video)<br>Photo or Video from Page Post / Instagram Post/media<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
+
 ### Ad placements
 
 At the time that you created a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives). Ad placements broaden the audience reach for your ad.
 
-GenStudio for Performance Marketing supports ad formats, such as asset feeds, link ads, and single image or video. The following is a list of ad formats by platform:
+The following is a list of supported ad placements:
 
-| Instagram    | Facebook/Meta    | Messenger    | Audience Network |
-| ------------ | ---------------- | ------------ | ---------------- |
-| Explore<br>Explore home<br>Explore grid Home<br>Feed<br>Reels<br>Profile feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels overlay<br>Right column<br>Search results<br>Stories<br>Video feeds<br>Ads on Facebook reels | Inbox<br>Stories | Native, banner, and interstitial<br>Rewarded video |
-
-#### Unsupported placements
-
-GenStudio for Performance Marketing does not support the following ad placements:
-
-- Collaborative
-- Catalog/Advantage+ catalog
-- Instance Experience
-- Carousel
+| Audience Network   | Facebook/Meta      | Instagram               | Messenger           |
+|--------------------|--------------------|-------------------------|---------------------|
+| Rewarded video     | Feed<br>Video feeds<br>Stories<br>Marketplace<br>Right column<br>Reels<br>Reels overlay<br>In-stream video<br>Search<br>Business disco feed<br>Profile feed              | Stories<br>Feed<br>Explore<br>Reels<br>Explore grid Home<br>Profile feed<br>Search<br>Stream     | Stories<br>Inbox   |
 
 ## Ad performance
 
