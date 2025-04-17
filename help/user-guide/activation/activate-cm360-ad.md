@@ -11,15 +11,15 @@ You can initiate publication of a Google Campaign Manager 360 ad experience from
 
 ## Step 1: Set up your Google Campaign Manager 360 accounts
 
-Before launching an activation, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com). Confirm that you have access to Google Campaign Manager 360 advertisers. When you publish a Campaign Manager 360 creative from GenStudio for Performance Marketing, it is delivered to the advertiser selected during creation.
+Before launching an activation, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com). Confirm that you have access to Google Campaign Manager 360 advertisers. When you publish a Campaign Manager 360 creative from GenStudio for Performance Marketing, it is delivered to the advertiser account selected during creation.
 
-Campaign Manager 360 allows marketers to organize campaigns and their components into structured units called _advertisers_. Each advertiser includes a creative library. GenStudio for Performance Marketing publishes ad experience, or creatives, into a creative library.
+Campaign Manager 360 allows marketers to organize campaigns and ads within different _Advertisers_. Each advertiser includes a creative library. GenStudio for Performance Marketing publishes ad experience creatives into a creative library.
 
 ## Step 2: Connect to your Google Campaign Manager 360 accounts
 
-Before your organization can activate experiences, a GenStudio system manager needs to connect your Google Campaign Manager 360 accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio for Performance Marketing and external marketing tools such as Google Campaign Manager 360, enabling the activation process. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
+Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Google Campaign Manager 360 accounts to GenStudio for Performance Marketing. This user must have admin access to the advertiser to read and write into Campaign Manager 360. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
 
-After the sync is complete, you can view the added accounts. Large amounts of data take longer to sync.
+After the sync is complete, you can view the added accounts.
 
 ## Step 3: Choose content for your creative
 
@@ -41,11 +41,11 @@ You can start the publication process from either the _[!DNL Content]_ Experienc
 
 ## Step 4: Confirm Google Campaign Manager 360 account setup
 
-After selecting your ad experience, you must confirm the Google Campaign Manager 360 account advertiser and assign a tracking ID to the creative. The Google Campaign Manager 360 account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
+After selecting your ad experience, you must confirm the Google Campaign Manager 360 account advertiser to publish the asset to. The Google Campaign Manager 360 account view is populated with options that are derived from the configured Google Campaign Manager 360 accounts.
 
 ### Tracking ID
 
-The creative name serves as a tracking ID, enabling the collection of performance metrics. Enter the creative name in the _Creative name_ field.
+The creative name is also known as a _tracking ID_ in GenStudio for Performance Marketing. Tracking enables the collection of performance metrics. Enter the creative name in the _Creative name_ field.
 
 Click **[!UICONTROL Next]** in the upper right to preview your ad experience and finalize activation.
 
@@ -61,4 +61,4 @@ If you launched this activation from _[!DNL Activate]_, you can click **[!UICONT
 
    The complete Campaign Manager 360 ad experience is pushed directly to the creative library within the selected Campaign Manager 360 advertiser.
 
-1. [Log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com) to manage the final steps of set up and deploying youe ad within the published creative.
+1. [Log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com) to manage the final steps of set up and deploying your ad within the published creative.
