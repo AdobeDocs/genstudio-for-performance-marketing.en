@@ -2,6 +2,7 @@
 title: Activate a Google Campaign Manager 360 ad
 description: Learn how to activate a Google Campaign Manager 360 experience.
 feature: Ad Activation
+exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
 ---
 # Activate a Google Campaign Manager 360 ad
 
