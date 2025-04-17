@@ -13,7 +13,7 @@ You can initiate publication of a Google Campaign Manager 360 ad experience from
 
 Before launching an activation, [log in to your Google Campaign Manager 360 account](https://campaignmanager.google.com). Confirm that you have access to Google Campaign Manager 360 advertisers. When you publish a Campaign Manager 360 creative from GenStudio for Performance Marketing, it is delivered to the advertiser account selected during creation.
 
-Campaign Manager 360 allows marketers to organize campaigns and ads within different _Advertisers_. Each advertiser includes a creative library. GenStudio for Performance Marketing publishes ad experience creatives into a creative library.
+Campaign Manager 360 allows marketers to organize campaigns and ads within different _advertisers_. Each advertiser includes a creative library. GenStudio for Performance Marketing publishes ad experience creatives into a creative library.
 
 ## Step 2: Connect to your Google Campaign Manager 360 accounts
 
@@ -53,7 +53,7 @@ Click **[!UICONTROL Next]** in the upper right to preview your ad experience and
 
 The _Review_ page provides a final opportunity to view your ad experience before publishing.
 
-If you launched this activation from _[!DNL Activate]_, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. Experiences directly selected from Content cannot be edited.
+If you launched this activation from _[!DNL Activate]_, you can click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page. You cannot edit experience content.
 
 ## Step 6: Complete publication of your ad experience
 
