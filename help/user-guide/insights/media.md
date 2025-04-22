@@ -30,6 +30,10 @@ In the _Media details_ view, you can see which ads use the selected media. Detai
 
 ![Media details](/help/assets/insights-media-details.png){zoomable="yes"}
 
+### Media attributes
+
+{{$include /help/_includes/generated-attributes.md}}
+
 ## Media performance
 
 Insights metrics can help you evaluate which media contribute to the success of a campaign and which media attributes are most effective.
@@ -47,4 +51,4 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click on the media.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount spent from the budget as it relates to individual media over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
 | **[!UICONTROL Used in these ads]** | The number of ads that use this media. | |
-| **[!UICONTROL Attributes]**  | A list of attributes detected and applied to this media. | |
+| **Attributes**               | List of inherent features present in this media. | Can help identify creative elements that resonate most with your audience. |
