@@ -99,9 +99,9 @@ Follow these design best practices when customizing Meta ad templates to work wi
 **Supported aspect ratios**:
 
 - Square 1:1 (1080 x 1080 pixels)
-- Vertical 4:5 (1080 x 1350 pixels)
+- Portrait 4:5 (1080 x 1350 pixels)
 - Story 9:16 (1080 x 1920 pixels)
-- Horizontal: 1.91:1 (1200 x 628 pixels)
+- Landscape: 1.91:1 (1080 pixel width)
 - Custom image size: (50 x 50 pixels minimum image width)
 
 **Recognized field names**:
@@ -130,17 +130,17 @@ Follow these design best practices when customizing Banner and Display ad templa
 
 **Supported dimensions**:
 
-- Vertical: (pixels)
+- Width x Height (pixels)
+- Vertical:
    - 300 x 600
    - 160 x 600​
-- Horizontal: (pixels)
+- Horizontal:
    - 300 x 250
    - 728 x 90
    - 336 x 280
    - 320 x 50
    - 970 x 250​
-- Custom: (pixels)
-  - 50 x 50 to 2000 x 2000
+- Custom: 50 x 50 to 2000 x 2000
 
 **Recognized field names**:
 
