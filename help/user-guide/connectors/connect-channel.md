@@ -26,6 +26,31 @@ _[!DNL Data connectors]_ enable seamless integration between GenStudio for Perfo
 
 GenStudio for Performance Marketing supports various connector types to integrate with your preferred marketing platforms. Each connector type has specific prerequisites and set-up steps to complete for a successful connection.
 
+### Google Campaign Manager 360 connect
+
+>[!BEGINSHADEBOX]
+
+**Prerequisites**:
+
+- Google Campaign Manager 360 account
+- Remove any pop-up blockers in your browser
+
+>[!ENDSHADEBOX]
+
+**To connect a Google Campaign Manager 360 account**:
+
+1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Google Campaign Manager 360_ card.
+
+1. Log in to your Google Campaign Manager 360 account.
+
+   You may have to remove the pop-up blockers, and then use **[!UICONTROL Refresh]** to try again.
+
+1. Read the terms and conditions and click **[!UICONTROL Allow]** to grant access.
+
+1. In the _[!UICONTROL Google Campaign Manager 360]_ view, select one or more advertisers and click **[!UICONTROL Select]**.
+
+The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. Use **[!UICONTROL Add account]** to add more accounts to the list.
+
 ### Meta ads connect
 
 >[!BEGINSHADEBOX]
