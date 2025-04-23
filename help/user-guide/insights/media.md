@@ -15,6 +15,8 @@ The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You
 
 ![Media filter and table](/help/assets/insights-media-filter.png){zoomable="yes"}
 
+{{empty-table}}
+
 {{$include /help/_includes/download-insights.md}}
 
 The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:

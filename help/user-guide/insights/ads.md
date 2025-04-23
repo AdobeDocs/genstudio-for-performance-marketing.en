@@ -15,6 +15,8 @@ The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the
 
 ![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
+{{empty-table}}
+
 {{$include /help/_includes/download-insights.md}}
 
 ## Ad details

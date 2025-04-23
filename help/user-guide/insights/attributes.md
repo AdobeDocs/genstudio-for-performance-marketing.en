@@ -17,6 +17,8 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 ![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
+{{empty-table}}
+
 {{$include /help/_includes/download-insights.md}}
 
 ## Attribute details
