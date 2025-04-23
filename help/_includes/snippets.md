@@ -22,4 +22,4 @@
 
 >[!TIP]
 >
->Seeing a `No results found` message in the view? Try adjusting your filters by modifying individual filter selections, clearing all filter selections, or choosing a broader date range to refine your results.
+>Seeing a `No results found` message? Adjust filters by modifying selections, clearing all filters, or broadening the date range.
