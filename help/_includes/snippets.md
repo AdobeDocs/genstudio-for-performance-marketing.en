@@ -17,3 +17,9 @@
 >[!TIP]
 >
 >Enrich your skills on this topic with [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+
+## Tip on empty tables {#empty-table}
+
+>[!TIP]
+>
+>Seeing a `No results found` message in the view? Try adjusting your filters by modifying individual filter selections, clearing all filter selections, or choosing a broader date range to refine your results.
