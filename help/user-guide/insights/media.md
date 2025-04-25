@@ -11,13 +11,9 @@ The [!DNL Insights] _[!UICONTROL Media]_ view shows a list of media used in ads 
 
 {{connect-insights}}
 
-The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
+The _[!UICONTROL Media]_ table is organized using **[!UICONTROL Media ID]**. You can toggle between the views using the view list (table) icon and the gallery view (grid) icon. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
 ![Media filter and table](/help/assets/insights-media-filter.png){zoomable="yes"}
-
-{{empty-table}}
-
-{{$include /help/_includes/download-insights.md}}
 
 The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
 
@@ -25,6 +21,40 @@ The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a me
 - CTR (Click-through rate)
 - CPC (Cost per click)
 - Spend
+
+{{empty-table}}
+
+## Filter media
+
+The filter (funnel) icon above the left side opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
+
+With some filters, you can leverage precise keywords to refine the list of criteria. Keyword filters are particularly useful for campaigns and ads that follow a complex naming convention with multiple unique identifiers, such as the following:
+
+- Specific region name or code: `NA`, `EMEA`
+- Content type acronyms: `EB`, `CHT`, or `DSP`
+- Offer codes or acronyms: `OFFER2023`, `PROMO`
+
+Use as many keywords as needed to refine the list:
+
+![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
+
+**To filter by Campaigns**:
+
+1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
+1. In the search field, enter keywords separated by commas.
+1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
+
+   Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery, allowing you to focus on the media associated with the selected campaigns.
+   
+1. _Optional_: To further filter media, perform a similar keyword filter on **[!UICONTROL Ads]**.
+
+>[!NOTE]
+>
+>The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
+
+### Download table results
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Media details
 
@@ -48,9 +78,9 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL Impressions]** | A count of each time the media loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider it in relation with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | The number of times users interact with a clickable element, such as a link, on the media. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in media clicks within an ad.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the media is highly relevant and engaging to the audience. It suggests that the messaging and design are effectively capturing the audience's interest and prompting them to take action. Additionally, a high CTR can imply that the media is well-targeted and resonates with the intended audience, leading to better overall campaign performance. |
-| **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost for every one thousand media impressions.<br>**Calculation**: total amount `spent` divided by the number of impressions, then multiplied by 1000 | A low CPM value may indicate cost-effective media performance, especially when paired with a high click-through rate. |
+| **[!UICONTROL CPM]**<br>_Cost per thousand_ | The average cost for every one thousand media impressions.<br>**Calculation**: total amount `spent` divided by the number of impressions, then multiplied by 1000 | A low CPM value may indicate cost-effective media performance, especially when paired with a high click-through rate. |
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Helps to identify media that result in valuable customer actions. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click on the media.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount spent from the budget as it relates to individual media over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
 | **[!UICONTROL Used in these ads]** | The number of ads that use this media. | |
-| **Attributes**               | List of inherent features present in this media. | Can help identify creative elements that resonate most with your audience. |
+| **Attributes**               | List of inherent features present in this media. | Attributes help identify creative elements that resonate most with your audience. |

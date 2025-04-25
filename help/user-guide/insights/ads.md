@@ -11,11 +11,44 @@ The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connecte
 
 {{connect-insights}}
 
-The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
+The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
 ![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
+The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
+
+- CPA (Cost per action)
+- CTR (Click-through rate)
+- CPC (Cost per click)
+- Spend
+
 {{empty-table}}
+
+## Filter ads
+
+The filter (funnel) icon above the left side opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. With some filters, you can leverage precise keywords to refine the list of criteria. Keyword filters are particularly useful for campaigns that follow a complex naming convention with multiple unique identifiers, such as the following:
+
+- Specific region name or code: `NA`, `EMEA`
+- Content type acronyms: `EB`, `CHT`, or `DSP`
+- Offer codes or acronyms: `OFFER2023`, `PROMO`
+
+Use as many keywords as needed to refine the list:
+
+![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
+
+**To filter by Campaigns**:
+
+1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
+1. In the search field, enter keywords separated by commas.
+1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
+
+   Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery, allowing you to focus on the ads associated with the selected campaigns.
+
+>[!NOTE]
+>
+>The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
+
+### Download table results
 
 {{$include /help/_includes/download-insights.md}}
 
