@@ -33,15 +33,19 @@ Below the ad preview is a list of attributes associated with the ad.
 
 ### Ad formats
 
+Ad formats refer to the various creative elements and layouts used to align with your campaign objectives, engage your target audience, and help track performance metrics.
+
 [!DNL Insights] in GenStudio for Performance Marketing currently supports the following available ad formats.
 
 | Supported | Unsupported |
 |-----------|-------------|
-| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image/video)<br>App (image/video)<br>Messaging<br>Lead (image/video)<br>Slideshow (video)<br>Collection (image/video hero asset)<br>Shop (image/video)<br>Photo or Video from Page Post / Instagram Post/media<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
+| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image and video)<br>App (image and video)<br>Messaging<br>Lead (image and video)<br>Slideshow (video)<br>Collection (image and video hero asset)<br>Shop (image and video)<br>Photo or Video from Page Post, Instagram Post<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
 
 ### Ad placements
 
-When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives). Ad placements broaden the audience reach for your ad.
+Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
+
+When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives).
 
 The following is a list of supported ad placements:
 
