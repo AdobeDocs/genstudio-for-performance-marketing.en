@@ -7,11 +7,11 @@ exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
 # Adobe GenStudio for Performance Marketing Activate
 
-GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of preparing ad experiences, assets, and text as a creative uniquely tailored for placement in a specific paid channel. Activation delivers the creative to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
+GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of preparing ad experiences, assets, and text as a creative ad experience uniquely tailored for placement in a specific paid channel. Activation delivers the creative to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
 
 Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
 
-[!DNL Activate] displays a product tile for each channel. This tile identifies the paid media channel and lists the number of successful ad activations that has occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
+[!DNL Activate] displays a product tile for each supported paid media channel. This tile identifies the paid media channel and lists the number of successful ad activations that have occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
 
 Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
 
@@ -19,11 +19,13 @@ Each paid media channel accounts must be connected to GenStudio for Performance 
 
 * [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
 
+* Activate approved experiences directly from _[!DNL Content]_ for select paid ad channels.
+
 * [Manage activations](manage-activations.md). _[!DNL Activate]_ provides an overview of all activated experiences. You can also view the details of individual activations.
 
 ## Activate capabilities
 
-_[!DNL Activate]_ facilitates the preparation of ad experience for distribution to its target paid channels.
+_[!DNL Activate]_ facilitates the preparation of ad experiences for distribution to their target paid channels.
 
 ### Prepare for activation
 

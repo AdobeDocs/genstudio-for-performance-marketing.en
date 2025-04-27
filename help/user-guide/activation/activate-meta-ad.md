@@ -37,12 +37,12 @@ GenStudio system managers and editors can activate ad experiences.
 
 **To prepare your experience for activation**:
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta product tile. The _Creative setup_ view opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the icon representing your chosen paid channel. The _Experience setup_ view opens.
 
-   The Creative setup page provides a central location for preparing your Meta ad activation. Preparing your ad includes these three tasks: 
+   The _Experience setup_ page provides a central location for preparing your ad activation. Preparing your ad includes these three tasks: 
 
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
-1. Select media assets. You can use assets from Content or upload external assets (for example, from OneDrive or Dropbox).
+1. Select media assets. You can use assets from _[!DNL Content]_ or upload external assets (for example, from OneDrive or Dropbox).
 1. [Add text](#add-ad-text).
 1. [Add metadata](#assign-metadata).
 
@@ -58,7 +58,7 @@ After upload, assets are saved to _[!DNL Content]_. The _Media_ area displays th
 
 _[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options. 
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta Ads tile. The _Creative setup_ view opens.
+1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the channel card. The _Creative setup_ view opens.
 
 1. Click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**. The _Select content_ view opens, displaying a gallery of image assets that you search through or filter.
 
@@ -66,7 +66,7 @@ _[!DNL Content]_ provides a central view for your organization's approved assets
 
 1. Click **[!UICONTROL Use]** to include the selected asset in your creative. The _Creative setup_ window includes the asset in its default aspect ratio in the _Media_ area. The _Preview_ panel previews the asset in the ad placement that supports this aspect ratio.
 
-If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_, opens.
+If upload is unsuccessful, an informative error message that includes a link to the asset in _[!DNL Content]_ opens.
 
 **To upload an external asset**:
 
@@ -85,6 +85,8 @@ You can upload up to six static images external to the _[!DNL Content]_ gallery 
 1. In the _Add details_ area, add informative details to your uploaded assets to facilitate search and filtering in _[!DNL Content]_. These details are saved as metadata.
 
 1. When you have uploaded your assets and assigned details, click **[!UICONTROL Add Assets]** on the bottom right.
+
+Activate experiences directly from Content
 
 ### Add ad text
 
@@ -140,7 +142,7 @@ Click **[!UICONTROL Next]** in the upper right to preview your ad experience and
 
 ## Step 5: Preview and activate your ad
 
-The _Review_ page displays your ad experience as assembled in the _Creative setup_ and provides a final opportunity to view and edit your experience. Click **[!UICONTROL Edit section]** next to the _Creative setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page.
+The _Review_ page displays your ad experience as assembled in the _Experience setup_ and provides a final opportunity to view and edit your experience. Click **[!UICONTROL Edit section]** next to the _Experience setup_ label to make your changes. You can also click **[!UICONTROL Back]** in the upper right to return to the _Creative setup_ page.
 
 ### Step 6: Complete activation of your ad experience
 
