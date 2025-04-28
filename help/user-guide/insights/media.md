@@ -34,14 +34,15 @@ With some filters, you can leverage precise keywords to refine the list of crite
 - Content type acronyms: `EB`, `CHT`, or `DSP`
 - Offer codes or acronyms: `OFFER2023`, `PROMO`
 
-Use as many keywords as needed to refine the list:
-
-![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
-
 **To filter by Campaigns**:
 
 1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
 1. In the search field, enter keywords separated by commas.
+
+   Use as many keywords as needed to refine the list:
+
+   ![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
+
 1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
 
    Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery, allowing you to focus on the media associated with the selected campaigns.
