@@ -57,7 +57,7 @@ The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account 
 
 **Prerequisites**:
 
-- Facebook/Meta ads account
+- Facebook/Meta ads account with access to your company business profile and pages
 - Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads
 - Remove any pop-up blockers in your browser
 
@@ -71,19 +71,31 @@ The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account 
 
    You may have to remove the pop-up blockers, and then use **[!UICONTROL Refresh]** to try again.
 
-1. Follow the Facebook authentication instructions.
+1. Follow the Facebook authentication instructions, verify the account information, and click **[!UICONTROL Continue as ...]**
 
-1. In the _[!UICONTROL Facebook Login for Business]_ pop-up (Meta to Adobe symbol), step through the following selections.
+1. In _[!UICONTROL Facebook Login for Business]_ (Meta to Adobe symbol), step through the following selections to grant GenStudio for Performance Marketing access:
 
-   - Verify the account information and click **[!UICONTROL Continue as]**
-   - Grant access to select Pages and click **[!UICONTROL Continue]**
-   - Grant access to select Businesses and click **[!UICONTROL Continue]**
-   - Opt in to one or more Instagram accounts and click **[!UICONTROL Continue]**
+   - Select one or more Meta Business profiles and click **[!UICONTROL Continue]**
+
+     >[!TIP]
+     >
+     >When you connect your _Meta Business_ profile to GenStudio for Performance Marketing, it ensures seamless access to advertising data for your business Pages, Meta Ads accounts, and other Meta assets.
+
+   - Select one or more Meta Pages and click **[!UICONTROL Continue]**
+   - Select one or more Instagram accounts and click **[!UICONTROL Continue]**
    - Review selections and click **[!UICONTROL Save]**
 
-1. In the _[!UICONTROL Meta Ads]_ view, select one or more accounts and click **[!UICONTROL Select]**.
+1. Once you receive verification that your account is connected, click **[!UICONTROL Got it]**.
 
-The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. Use **[!UICONTROL Add account]** to add more accounts to the list.
+   This step ensures that GenStudio for Performance Marketing gains access to all ads, metadata, and metrics for optimal performance.
+
+1. In the _[!UICONTROL Meta Ads]_ view, select one or more accounts to include in Insights and click **[!UICONTROL Select]**.
+
+1. Once you receive a _Platform connected_ confirmation, click **[!UICONTROL View accounts]**.
+
+   The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. 
+
+Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You only need to select the new Meta Ads accounts during the connection process.
 
 ## Data ingestion
 
