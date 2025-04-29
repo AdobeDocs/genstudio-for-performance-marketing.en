@@ -13,11 +13,20 @@ The [!DNL Insights] _[!UICONTROL Attributes]_ view shows a list of attributes us
 
 The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute] name. You can toggle between the list types using the **[!UICONTROL Images]** button and the **[!UICONTROL Video]** button. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
-
 ![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 {{empty-table}}
+
+## Filter attributes
+
+The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. See [Filter media](/help/user-guide/insights/media.md#filter-media) to learn about keyword filters for Campaigns and Ads.
+
+
+>[!NOTE]
+>
+>The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
+
+### Download table results
 
 {{$include /help/_includes/download-insights.md}}
 
