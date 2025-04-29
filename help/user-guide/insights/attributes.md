@@ -19,7 +19,8 @@ The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute
 
 ## Filter attributes
 
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. See [Filter media](/help/user-guide/insights/media.md#filter-media) and learn about keyword filters for Campaigns and Ads.
+The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. See [Filter media](/help/user-guide/insights/media.md#filter-media) to learn about keyword filters for Campaigns and Ads.
+
 
 >[!NOTE]
 >
