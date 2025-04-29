@@ -92,7 +92,7 @@ When you connect your _Meta Business_ profile to GenStudio for Performance Marke
 
    The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. 
 
-Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You only need to select the new Meta Ads accounts during the connection process.
+Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You select only the new Meta Ads accounts during the connection process.
 
 ## Data ingestion
 
