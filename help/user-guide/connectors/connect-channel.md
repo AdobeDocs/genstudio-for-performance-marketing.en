@@ -59,7 +59,7 @@ When you connect your _Meta Business_ profile to GenStudio for Performance Marke
 
 **Prerequisites**:
 
-- Facebook/Meta ads account: You can use the same credentials to access both your Meta Ads account and your Facebook Business Profile.
+- Facebook/Meta login that can access all Meta services, such as Meta Ads account and Facebook Business Profile
 - Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads
 - Remove any pop-up blockers in your browser
 
@@ -86,7 +86,7 @@ When you connect your _Meta Business_ profile to GenStudio for Performance Marke
 
    This step ensures that GenStudio for Performance Marketing gains access to all ads, metadata, and metrics for optimal performance.
 
-1. In _[!UICONTROL Meta Ads]_, select one or more accounts to include in Insights and click **[!UICONTROL Select]**.
+1. In _[!UICONTROL Meta Ads]_, select one or more accounts to include in [!DNL Insights] and click **[!UICONTROL Select]**.
 
 1. Once you receive a _Platform connected_ confirmation, click **[!UICONTROL View accounts]**.
 
