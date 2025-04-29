@@ -53,11 +53,13 @@ The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account 
 
 ### Meta ads connect
 
+When you connect your _Meta Business_ profile to GenStudio for Performance Marketing, it ensures seamless access to advertising data for your business Pages, Meta Ads accounts, and other Meta assets.
+
 >[!BEGINSHADEBOX]
 
 **Prerequisites**:
 
-- Facebook/Meta ads account with access to your company business profile and pages
+- Facebook/Meta ads account: You can use the same credentials to access both your Meta Ads account and your Facebook Business Profile.
 - Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads
 - Remove any pop-up blockers in your browser
 
@@ -76,11 +78,6 @@ The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account 
 1. In _[!UICONTROL Facebook Login for Business]_ (Meta to Adobe symbol), step through the following selections to grant GenStudio for Performance Marketing access:
 
    - Select one or more Meta Business profiles and click **[!UICONTROL Continue]**
-
-     >[!TIP]
-     >
-     >When you connect your _Meta Business_ profile to GenStudio for Performance Marketing, it ensures seamless access to advertising data for your business Pages, Meta Ads accounts, and other Meta assets.
-
    - Select one or more Meta Pages and click **[!UICONTROL Continue]**
    - Select one or more Instagram accounts and click **[!UICONTROL Continue]**
    - Review selections and click **[!UICONTROL Save]**
@@ -89,7 +86,7 @@ The _[!UICONTROL Google Campaign Manager 360 accounts]_ view lists the `Account 
 
    This step ensures that GenStudio for Performance Marketing gains access to all ads, metadata, and metrics for optimal performance.
 
-1. In the _[!UICONTROL Meta Ads]_ view, select one or more accounts to include in Insights and click **[!UICONTROL Select]**.
+1. In _[!UICONTROL Meta Ads]_, select one or more accounts to include in Insights and click **[!UICONTROL Select]**.
 
 1. Once you receive a _Platform connected_ confirmation, click **[!UICONTROL View accounts]**.
 
