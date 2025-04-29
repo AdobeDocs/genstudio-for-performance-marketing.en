@@ -83,9 +83,11 @@ When you create a campaign with Meta ads, you may have selected where to run you
 
 The following is a list of supported ad placements:
 
-| Audience Network   | Facebook/Meta      | Instagram               | Messenger           |
+| Audience Network   | Facebook/Meta \*      | Instagram               | Messenger           |
 |--------------------|--------------------|-------------------------|---------------------|
 | Rewarded video     | Feed<br>Video feeds<br>Stories<br>Marketplace<br>Right column<br>Reels<br>Reels overlay<br>In-stream video<br>Search<br>Business disco feed<br>Profile feed              | Stories<br>Feed<br>Explore<br>Reels<br>Explore grid Home<br>Profile feed<br>Search<br>Stream     | Stories<br>Inbox   |
+
+\* See [About ad placements across Meta technologies](https://www.facebook.com/business/help/407108559393196?id=369787570424415) in the _Meta Business Help Center_.
 
 ## Ad performance
 
