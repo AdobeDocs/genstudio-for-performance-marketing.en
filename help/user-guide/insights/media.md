@@ -34,7 +34,7 @@ With some filters, you can leverage precise keywords to refine the list of crite
 - Content type acronyms: `EB`, `CHT`, or `DSP`
 - Offer codes or acronyms: `OFFER2023`, `PROMO`
 
-**To filter by Campaigns**:
+**To filter by campaigns**:
 
 1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
 1. In the search field, enter keywords separated by commas.

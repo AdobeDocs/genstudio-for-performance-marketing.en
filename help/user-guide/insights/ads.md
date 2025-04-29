@@ -32,7 +32,7 @@ The filter (funnel) icon above the left side opens the **[!UICONTROL Filter]** m
 - Content type acronyms: `EB`, `CHT`, or `DSP`
 - Offer codes or acronyms: `OFFER2023`, `PROMO`
 
-**To filter by Campaigns**:
+**To filter by campaigns**:
 
 1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
 1. In the search field, enter keywords separated by commas.
