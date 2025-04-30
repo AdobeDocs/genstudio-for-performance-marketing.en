@@ -19,14 +19,6 @@ When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list o
 
 {{empty-table}}
 
-## Filter channels
-
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-### Download table results
-
-{{$include /help/_includes/download-insights.md}}
-
 ## Objectives
 
 At the time that you created a campaign with Meta ads, you may have selected an objective that aligned with your business goals. There are six objectives from Meta ads visible in GenStudio for Performance Marketing:

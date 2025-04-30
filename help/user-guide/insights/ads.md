@@ -24,35 +24,6 @@ The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, 
 
 {{empty-table}}
 
-## Filter ads
-
-The filter (funnel) icon above the left side opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. With some filters, you can leverage precise keywords to refine the list of criteria. Keyword filters are particularly useful for campaigns that follow a complex naming convention with multiple unique identifiers, such as the following:
-
-- Specific region name or code: `NA`, `EMEA`
-- Content type acronyms: `EB`, `CHT`, or `DSP`
-- Offer codes or acronyms: `OFFER2023`, `PROMO`
-
-**To filter by campaigns**:
-
-1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
-1. In the search field, enter keywords separated by commas.
-
-   Use as many keywords as needed to refine the list:
-
-   ![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
-
-1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
-
-   Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery, allowing you to focus on the ads associated with the selected campaigns.
-
->[!NOTE]
->
->The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-### Download table results
-
-{{$include /help/_includes/download-insights.md}}
-
 ## Ad details
 
 Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.

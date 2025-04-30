@@ -24,39 +24,6 @@ The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a me
 
 {{empty-table}}
 
-## Filter media
-
-The filter (funnel) icon above the left side opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-With some filters, you can leverage precise keywords to refine the list of criteria. Keyword filters are particularly useful for campaigns and ads that follow a complex naming convention with multiple unique identifiers, such as the following:
-
-- Specific region name or code: `NA`, `EMEA`
-- Content type acronyms: `EB`, `CHT`, or `DSP`
-- Offer codes or acronyms: `OFFER2023`, `PROMO`
-
-**To filter by campaigns**:
-
-1. Expand the **[!UICONTROL Campaigns]** filter and click **[!UICONTROL Select]**.
-1. In the search field, enter keywords separated by commas.
-
-   Use as many keywords as needed to refine the list:
-
-   ![Select campaigns](/help/assets/insights-select-campaign.png){width=400}
-
-1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
-
-   Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery, allowing you to focus on the media associated with the selected campaigns.
-   
-1. _Optional_: To further filter media, perform a similar keyword filter on **[!UICONTROL Ads]**.
-
->[!NOTE]
->
->The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-### Download table results
-
-{{$include /help/_includes/download-insights.md}}
-
 ## Media details
 
 In the _Media details_ view, you can see which ads use the selected media. Details include total media performance, Ads using the media, user-defined attributes, and AI-detected features associated with the media.
