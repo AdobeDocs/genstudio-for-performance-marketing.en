@@ -24,7 +24,8 @@ Generated variant drafts have a default name shown at the top of the Canvas. Def
 
 ## Manually edit text
 
-You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of the image you chose to use.
+You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of an image.
+
 
 Available text formatting includes:
 
