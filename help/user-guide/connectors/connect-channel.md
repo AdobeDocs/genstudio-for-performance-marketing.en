@@ -60,7 +60,25 @@ When you connect your _Meta Business_ profile to GenStudio for Performance Marke
 **Prerequisites**:
 
 - Facebook/Meta login that can access all Meta services, such as Meta Ads account and Facebook Business Profile
-- Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads
+- Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads, including the following
+   - Permissions required for use with [!DNL Insights]:
+
+      - `pages_show_list`
+      - `ads_read`
+      - `ads_management`
+      - `pages_read_engagement`
+
+   - Permissions required for use with [!DNL Activate]:
+
+      - `ads_management`
+      - `ads_read`
+      - `business_management`
+      - `instagram_basic`
+      - `instagram_content_publish`
+      - `pages_manage_ads`
+      - `pages_manage_posts`
+      - `pages_show_list`
+
 - Remove any pop-up blockers in your browser
 
 >[!ENDSHADEBOX]
