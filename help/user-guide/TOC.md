@@ -69,6 +69,7 @@ role: User
   + [Optimize activations](activation/troubleshooting.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
+  + [Insights filters](insights/filter-views.md)
   + [Channels](insights/channels.md)
   + [Ads and ad placement](insights/ads.md)
   + [Media](insights/media.md)
