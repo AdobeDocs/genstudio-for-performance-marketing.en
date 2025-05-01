@@ -64,15 +64,19 @@ Over time, the list of campaigns and ads grow exponentially. Consider the follow
 
 1. In the _[!UICONTROL Select campaigns]_ search field, enter keywords separated by commas.
 
-   Use as many keywords as needed to refine the list. This example looks for campaigns that are `evergreen`, `ROI`, and `Meta`:
+   - Use as many keywords as needed to refine the list. The following example looks for campaigns with `evergreen`, `ROI`, and `Meta` in the name:
 
-   ![Select campaigns](/help/assets/insights-select-campaigns-keywords.png "Enter keywords to search campaign names"){width=500}
+     ![Keyword search](/help/assets/insights-select-campaigns-keywords.png "Enter keywords to search campaign names"){width=500}
+
+   - You can add another set of keywords to broaden your search. Using multiple sets of keywords allows you to include campaigns that match either the first set of keywords or the second set of keywords. For example, you can search for campaigns labeled `evergreen` and `web` _OR_ campaigns labeled `photoshop` and `roi`:
+
+     ![Search with multiple sets of keywords](/help/assets/insights-advanced-or.png "Search campaign names using multiple sets of keywords"){width=500}
 
 1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
 
    ![List of campaigns](/help/assets/insights-select-campaigns-list.png "Select campaigns to include")
 
-Your selected campaigns now display in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 28 ads, providing a more targeted view for analysis.
+Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 28 ads, providing a more targeted view for analysis.
 
 ![Table filtered by campaigns](/help/assets/insights-filter-by-campaigns.png "Table with campaigns filter"){zoomable="yes"}
 
