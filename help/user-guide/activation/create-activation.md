@@ -28,9 +28,9 @@ Although unique placement requirements define each paid channel, all ad activati
 
 * **Prepare your experience for activation**. Preparation includes selecting the media assets in the appropriate aspect ratio for your specific ad placement and assigning text to call-to-action elements and body copy. You can also add informative metadata that aids users in searching for the experience after activation. Each ad channel placement specifies valid aspect ratios for visual assets included in the placement.
 
->[!TIP]
->
->You can select approved ad experiences directly from the _[!DNL Content]_ Experience gallery to prepare as Google Campaign Manager 360 creatives. Once you select an experience from the _[!DNL Content]_ gallery, you cannot edit or add assets to your creative.
+   >[!TIP]
+   >
+   >You can select approved ad experiences directly from the _[!DNL Content]_ Experience gallery to prepare as Google Campaign Manager 360 creatives. Once you select an experience from the _[!DNL Content]_ gallery, you cannot edit or add assets to your creative.
 
 * **Review and publish your experience to the target channel**. Use the _Preview_ panel during creative set up to assess your choice of ad placement and text elements before finalizing your activation. Your final pre-publication review occurs in the destination channel's ad management app. For example, after activating a Meta ad experience in GenStudio for Performance Marketing, you must log into Meta Ads Manager, review your creative, then select its specific attributes before publishing it.
 
