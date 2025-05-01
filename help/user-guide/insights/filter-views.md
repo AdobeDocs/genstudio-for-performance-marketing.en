@@ -18,7 +18,7 @@ Applied filters persist across all views. Select **[!UICONTROL Clear all]** abov
 
 ### Search field
 
-Click the search (magnifying glass) icon to use keywords to locate specific items in the table or gallery. For example, entering the term `pink` in the [!UICONTROL Ads] table filters the results to display only ads associated with the keyword `pink`.
+Click the search (magnifying glass) icon to use a search term to locate specific items in the table or gallery. For example, entering the term `pink` in the [!UICONTROL Ads] table filters the results to display only ads using the term `pink` in the name.
 
 ![Search field example](/help/assets/insights-search.png "Search for ads with pink"){width=600 zoomable="yes"}
 
@@ -32,15 +32,13 @@ If no items appear in the table or gallery view, it may be due to the selected d
 
 ### Pages
 
-Some tables may span multiple pages, as indicated below the table on the right side. Use the versatile search and filter options to refine your results. To navigate between pages, use the pagination controls. Ensure that you apply filters correctly to include all relevant data across pages. For example, 
+Some tables may span multiple pages, as indicated below the table on the right side. Use the versatile search and filter options to refine your results. To navigate between pages, use the right (forward) and left (back) pagination controls. Ensure that you apply filters correctly to include all relevant data across pages.
 
 ### Slide control
 
-Some filter options include a slide control, which allows you to select a value within a range. In _[!UICONTROL Attributes]_, you can use the **[!UICONTROL Media count]** slider to filter attributes based on the number of associated images or videos. For example, adjust the [!UICONTROL Media count] slider to display a range, such as `0 - 1`, to view attributes tagged in only one image or video.
+Some filter options include a slide control, which allows you to select a value within a defined range. For example, in _[!UICONTROL Attributes]_, the **[!UICONTROL Media count]** slider lets you filter attributes based on the number of associated images or videos. Drag the slider to specify a range, starting from a minimum of 0 to a maximum that can exceed 100.
 
-![Media count slide control](/help/assets/insights-slide-control.png "Media count 0 to 1"){width=200}
-
-## Search campaigns and ad names
+## Advanced filtering
 
 With _[!UICONTROL Campaigns]_ and _[!UICONTROL Ads]_ filters, you can leverage precise keywords to refine the list. Keyword filters are particularly useful for filtering campaigns or ads that use a complex naming convention with multiple unique identifiers. For example, a campaign name may include the following:
 
