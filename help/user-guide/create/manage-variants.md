@@ -33,6 +33,9 @@ Available text formatting includes:
 * Bulleted and ordered lists
 * Text color
 * Text size
+* Link
+
+Text formatting options will vary per channel (Meta, email, etc.)
 
 **To edit text manually in generated variants**:
 
