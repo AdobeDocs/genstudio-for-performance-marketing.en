@@ -12,7 +12,7 @@ The [!DNL Insights] dashboard provides a comprehensive set of filters for an eff
 
 Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
 
-![Filter by](/help/assets/insights-filter-by.png "Filter by"){width=400 zoomable="yes"}
+![Filter by](/help/assets/insights-filter-by.png "Filter by"){width=600 zoomable="yes"}
 
 Applied filters persist across all views. Select **[!UICONTROL Clear all]** above the table or gallery to remove all selected filters.
 
@@ -68,13 +68,13 @@ Over time, the list of campaigns and ads grow exponentially. Consider the follow
 
    Use as many keywords as needed to refine the list. This example looks for campaigns that are `evergreen`, `ROI`, and `Meta`:
 
-   ![Select campaigns](/help/assets/insights-select-campaigns-keywords.png "Enter keywords to search campaign names"){width=400}
+   ![Select campaigns](/help/assets/insights-select-campaigns-keywords.png "Enter keywords to search campaign names"){width=500}
 
 1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
 
-   ![List of campaigns](/help/assets/insights-select-campaigns-list.png)
+   ![List of campaigns](/help/assets/insights-select-campaigns-list.png "Select campaigns to include")
 
-Your selected campaigns are now displayed in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 28 ads, providing a more targeted view for analysis.
+Your selected campaigns now display in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 28 ads, providing a more targeted view for analysis.
 
 ![Table filtered by campaigns](/help/assets/insights-filter-by-campaigns.png "Table with campaigns filter"){zoomable="yes"}
 

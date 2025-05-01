@@ -18,8 +18,8 @@
 >
 >Enrich your skills on this topic with [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
 
-## Tip on empty tables {#empty-table}
+## Tip on filtering tables {#filter-table}
 
 >[!TIP]
 >
->Seeing a `No results found` message? Adjust filters by modifying selections, clearing all filters, or broadening the date range.
+>Seeing too many results or a `No results found` message? Adjust filters by modifying selections, clearing all filters, or adjusting the date range. See [Filter for Insights views](/help/user-guide/insights/filter-views.md) to learn about the dynamic and versatile filter capabilities.

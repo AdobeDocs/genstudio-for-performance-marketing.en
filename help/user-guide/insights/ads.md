@@ -22,7 +22,7 @@ The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, 
 - CPC (Cost per click)
 - Spend
 
-{{empty-table}}
+{{filter-table}}
 
 ## Ad details
 

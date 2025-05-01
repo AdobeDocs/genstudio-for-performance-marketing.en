@@ -17,7 +17,7 @@ The _[!UICONTROL Channels]_ table is organized using the channel-based ad campai
 
 When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
-{{empty-table}}
+{{filter-table}}
 
 ## Objectives
 

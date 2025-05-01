@@ -22,7 +22,7 @@ The _[!UICONTROL Media]_ gallery view shows a collage of media previews and a me
 - CPC (Cost per click)
 - Spend
 
-{{empty-table}}
+{{filter-table}}
 
 ## Media details
 

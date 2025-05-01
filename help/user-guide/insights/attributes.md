@@ -15,7 +15,7 @@ The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute
 
 ![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
-{{empty-table}}
+{{filter-table}}
 
 ## Attribute details
 
