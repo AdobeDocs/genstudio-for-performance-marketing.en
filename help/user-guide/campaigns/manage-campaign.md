@@ -5,103 +5,100 @@ feature: Campaigns, Campaign Brief, Content
 ---
 # Manage Campaigns
 
-_Campaigns_ gallery provides a view of your organization's campaigns. The default 
-
-The Adobe GenStudio for Performance Marketing [!DNL Campaigns] feature accelerates the development and deployment of marketing initiatives, or _campaigns_. The [!DNL Campaigns] workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows, including brand-compliant images and text. It also provides transparency into campaign goals, brand-aligned content, and designated channels.
-
-Marketing managers use the [!DNL Campaigns] workflow to create a _campaign brief_ that defines campaign features for all stakeholders who are involved in the creation, review, approval, and deployment of [!DNL Campaign] assets.
-
-Define the key elements of your campaign brief in a [!DNL Campaigns] object. This [!DNL Campaigns] object creates a shared context for the campaign assets and experiences that are labeled with the same unique [!DNL Campaigns] label.
-
 You must have GenStudio system manager or Genstudio editor permissions to manage a campaign.
+
+toggle between views by clicking the 
+
+You can create a new campaign by clicking **[!UICONTROL Add campaign]**  in the top right corner of any view. 
 
 ## Campaign gallery view
 
-The _Campaigns_ gallery view lists all campaigns for your organization. From this default view you can 
+The _Campaigns_ gallery view lists all campaigns for your organization. This default view lists all campaigns by campaign name ordered by Start Date. 
 
-List all existing campaigns
-  default view (list view)
-  card view
-  timeline view
+Name field: always the first field displayed for a campaign. 
 
-Search for specific campaign
-Search for assets and experiences with a specific campaign label
-Add or delete approvers
-Change campaign milestones
+you can search by campaign name or keyword
 
-## Manage campaign assets
 
-Navigate to the _Details_ page for the campaign you want to edit. 
+### Card view
 
-See Content for access to stored approved assets and aexperiences you can include in your campaign
 
-See Create for guidance on creating assets and experiences to include in your campaign
 
-## Update a campaign 
+### Timeline view
 
-As campaigns progress, campaign components such as target audiences and schedules may need adjustment. 
+This view offers a prime display of how youall your organization's campaigns coor
 
-* Add and remove content from a campaign
+better understand the relationships among all your organization's campaigns
 
-* Change campaign dates
+This view depicts all campaigns in chronological order from left to right. This view lets you view where campaigns overlap. You can focus the view by quarter 
 
-* Change stakeholders
 
-* Add and remove channels
+You can orient yourself to current progress by clicking Today. 
 
-### Refresh campaign content
+To navigate through the timeline view: 
 
-* Expand and simplify existing high performing assets
 
-* Remix existing assets for on-brand variations
 
-* Generate new brand aligned images with genAI
 
-* Dynamically assemble experiences for paid media, email, and organic social channels using genAI
+You can focus the campaign timeline b
 
-* Empower creatives to continue doing what they do best
+  Click the left and right icons or use the horizontal scroll to move backwards and forwards in the timeline. Refreshing the page preserves the selected time frame.
 
-### Adding and removing campaign content
+    Click Today to center the timeline to today's date.
 
-You can add or removes assets to a campaign by adding or removing the campaign label from the asset. 
+    *    Select one of the following options from the time frame drop-down menu to update the time increments:
+    *    Year
+    *    Quarter
+    *    Month
 
-When can you add a campaign label to content? 
+    Filtering: If there are multiple matches, use the up and down arrows to the right of the search field  to navigate between search results. 
 
-* During content creation. See campaign label in the left pane
+### Campaign status
 
-* Saving an object to Content. after content has been approved, the content creator . _Confirm details for your approved content_ popup 
+  active
 
-* Sending an asset or experience for review and approval. campaign button on Submit for approval pane
+  complete
 
-* Uploading or importing files into Content.
+## View campaign contentx
 
-**Assign a campaign label**:
+from a campaing's _Details_ view, click **[!UICONTROL Content]** just below the campaign name. The view displays the content that is assigned to this campaign. You can filter campaign content by Asset, Experience, and Templates. 
 
-Enter Label Details: Provide the necessary details for the campaign label, such as the campaign name, objectives, and any other relevant information.
+## Refresh campaign content
 
-Save and Apply: Save the changes to apply the campaign label to the selected asset.
+Once a campaign is launched, Insights helps you track the performance of its components. You can evaluate the effectiveness of different assets or experiences. With this performance information, you can make informed decisions about which components to replace, highlight, or revise.
 
-**To create a campaign label**:
+### Add and remove campaign content
 
-1. Navigate to _Campaigns_.
+You can manage assets in a campaign by adding or removing the campaign label from the asset.
 
-## Add content to a campaign
+1. From the Content Experiences or Assets gallery, choose the experience or asset you want to manage.
 
-You can add approved assets and experiences to a campaign during:
+1. From the _Details_ view, add or remove the campaign label.
 
-campaign creation
+See Create for guidance on creating assets and experiences to include in your campaign.
 
-content creation
+## Update campaign attributes
 
-content save. when saving an object to Content. after content has been approved, the content creator  _Confirm details for your approved content_ popup 
-when sending an asset or experience for review and approval. campaign button on Submit for approval pane
+As campaigns progress, target audiences and schedules may need adjustment. You can add or remove distribution channels, personas, regions, and products from oan active campaign.  
 
-### Delete campaign
+## Add or remove a channel
 
-1. In _Campaigns_, click the action menu (...) next to the Campaign name you want to delete. 
+The campaign's _Details_ view includes the channels, target personas, regions, and products that are linked to this campaign. 
 
-1. Select Delete.
+1. Click **[!UICONTROL Connect records]** to the right of the _Channels_, _Regions_, _Personas_, or _Products_ label. 
+   The _Connect Records_ popup opens.
 
-Alternatively, you can delete a campaign from the action mneu (...) next to the campaign name in the _Details_ view.
+1. Select the setting that you want to add or remove.
+   To see additional options, click **[!UICONTROL Select all]**. The _Connect Objects_ popup opens.
 
-Delete assets or experiences from a campaign
+## Delete a campaign
+
+Deleting a campaign results in the removal from the campaign object nd all defining campaign attributes from Content. It removes the campaign label from all assets and experiences without removing the experience or asset itself.
+
+**To delete a campaign**:
+
+1. In _Campaigns_, click the action menu (...) next to the name of the campaign you want to delete. 
+
+1. Select **[!UICONTROL Delete]**.
+
+Alternatively, you can delete a campaign from the action menu (...) next to the campaign name in the _Details_ view.

@@ -4,7 +4,7 @@ description: Learn about centralized campaign planning and Campaign brief creati
 feature: Campaigns, Campaign Brief, Content
 exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
 ---
-# Adobe GenStudio for Performance Marketing [!DNL Campaigns]
+# Adobe GenStudio for Performance Marketing Campaigns
 
 GenStudio for Performance Marketing [!DNL Campaigns] accelerates the development and deployment of marketing initiatives, or _campaigns_. [!DNL Campaigns] components include the assets and experiences that lend themselves to creation, approval, and management by GenStudio for Performance Marketing's AI-generated workflows, including brand-compliant images and text.
 
@@ -16,27 +16,25 @@ The [!DNL Campaigns] workflow provides:
 
 * Centralized view of all your organization's campaigns from the [!DNL Campaigns] timeline view.
 
-## [!DNL Campaigns] use cases
+## Campaigns use cases
 
-* Create a campaign
+* [Create a campaign](create-campaign.md)
 
-* Manage campaigns and campaign assets
+* [Manage campaigns](manage-campaign.md) and campaign content
 
-## [!DNL Campaigns] capabilities
+## Campaigns capabilities
 
-[!DNL Campaigns] simplifies the creation of marketing campaigns from content that is created and approved within GenStudio for Performance Marketing. All stakeholders can use [!DNL Campaigns] for visibility into the status and progress of ongoing campaigns. 
+[!DNL Campaigns] simplifies the creation of marketing campaigns from content that is created and approved within GenStudio for Performance Marketing. All stakeholders can use [!DNL Campaigns] for visibility into the status and progress of ongoing campaigns.
 
 ### Create a marketing campaign
 
-The Add campaign panel provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the Add campaigs panel is saved as a campaign object. 
+The _Add campaign_ view provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the _Add campaign_ view is saved as a campaign object in [!DNL Content]. 
 
 ### Manage existing campaigns and campaign content
 
 Campaign schedules, ad experiences, and stakeholders can change for an ongoing campaign. You can add or remove content and approvers from an existing campaign,
 
-### View organization's campaign timeline
-
-## How [!DNL Campaigns] coordinates other GenStudio for Performance Marketing features
+## How Campaigns coordinates other GenStudio for Performance Marketing features
 
 [!DNL Campaigns] orchestrates GenStudio for Performance Marketing generative AI-based capabilities to assist users in planning, creating, coordinating, and measuring campaign performance.
 
@@ -46,6 +44,6 @@ Campaign schedules, ad experiences, and stakeholders can change for an ongoing c
 
 * [!DNL Review and approvals] provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interest in and involvement in campaign asset creation -- from creatives to legal reviewers -- can participate in the process of refining campaign assets.
 
-* [!DNL Insights] captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets as necessary in [!DNL Create].
+* [!DNL Insights] captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets in [!DNL Create].
 
-* [!DNL Activate] Once it is time to launch the first campaign activities, campaign assets can be published to their designated channels.
+* [!DNL Activate] supports publication of campaign assets to their designated channels.
