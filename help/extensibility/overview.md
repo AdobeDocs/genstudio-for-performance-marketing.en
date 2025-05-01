@@ -9,9 +9,9 @@ GenStudio for Performance Marketing Add-on framework provides tools for organiza
 
 ## Overview
 
-This guide describes the process of creating Add-ons to customize and enhance GenStudio for Performance Marketing core AI-driven content creation capabilities. 
+This guide describes the process of creating Add-ons to customize and enhance GenStudio for Performance Marketing core AI-driven content creation capabilities.
 
-Developers of extensible apps for GenStudio for Performance Marketing use the standard Adobe Experience Cloud app development toolset framework to develop and deploy custom apps, or Add-ons. [Adobe App Builder](https://developer.adobe.com/app-builder/) is central to this development toolset. 
+Developers of extensible apps for GenStudio for Performance Marketing use the standard Adobe Experience Cloud app development toolset framework to develop and deploy custom apps, or Add-ons. [Adobe App Builder](https://developer.adobe.com/app-builder/) is central to this development toolset.
 
 Add-on creation includes these high-level tasks:
 
