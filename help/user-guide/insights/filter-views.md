@@ -8,7 +8,7 @@ feature: Reporting and Insights
 
 The [!DNL Insights] dashboard provides a comprehensive set of filters for an efficient data exploration experience. When analyzing channels, ads, media, or specific attributes, the filtering options allow you to customize your view and streamline your workflow. Use keyword filters for precise targeting or explore predefined lists to refine your search and focus on the data that matters most.
 
-## Filter basics 
+## Filter basics
 
 Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
 
@@ -16,7 +16,31 @@ Each view in [!DNL Insights] offers a list of filter options. The filter (funnel
 
 Applied filters persist across all views. Select **[!UICONTROL Clear all]** above the table or gallery to remove all selected filters.
 
-### Keyword filters
+### Search field
+
+Click the search (magnifying glass) icon to use keywords to locate specific items in the table or gallery. For example, entering the term `pink` in the [!UICONTROL Ads] table filters the results to display only ads associated with the keyword `pink`.
+
+![Search field example](/help/assets/insights-search.png "Search for ads with pink"){width=600 zoomable="yes"}
+
+### Date range
+
+The date range selector is a powerful tool to align the displayed data with your analysis objectives. Use the date range selector to adjust the time frame for the data displayed in the table or gallery view. By default, the date range is set to the last 30 days. To include more data or focus on a specific period, expand the date range by selecting a broader time frame.
+
+![Date range selector](/help/assets/insights-date-range.png "Select a date range"){width=400}
+
+If no items appear in the table or gallery view, it may be due to the selected date range excluding relevant data. In such cases, increase the date range to ensure that the desired data is included.
+
+### Pages
+
+Some tables may span multiple pages, as indicated below the table on the right side. Use the versatile search and filter options to refine your results. To navigate between pages, use the pagination controls. Ensure that you apply filters correctly to include all relevant data across pages. For example, 
+
+### Slide control
+
+Some filter options include a slide control, which allows you to select a value within a range. In _[!UICONTROL Attributes]_, you can use the **[!UICONTROL Media count]** slider to filter attributes based on the number of associated images or videos. For example, adjust the [!UICONTROL Media count] slider to display a range, such as `0 - 1`, to view attributes tagged in only one image or video.
+
+![Media count slide control](/help/assets/insights-slide-control.png "Media count 0 to 1"){width=200}
+
+## Search campaigns and ad names
 
 With _[!UICONTROL Campaigns]_ and _[!UICONTROL Ads]_ filters, you can leverage precise keywords to refine the list. Keyword filters are particularly useful for filtering campaigns or ads that use a complex naming convention with multiple unique identifiers. For example, a campaign name may include the following:
 
