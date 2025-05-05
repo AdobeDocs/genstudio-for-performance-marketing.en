@@ -17,15 +17,7 @@ The _[!UICONTROL Channels]_ table is organized using the channel-based ad campai
 
 When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
-{{empty-table}}
-
-## Filter channels
-
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-### Download table results
-
-{{$include /help/_includes/download-insights.md}}
+{{filter-table}}
 
 ## Objectives
 

@@ -15,20 +15,7 @@ The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute
 
 ![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
-{{empty-table}}
-
-## Filter attributes
-
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. See [Filter media](/help/user-guide/insights/media.md#filter-media) to learn about keyword filters for Campaigns and Ads.
-
-
->[!NOTE]
->
->The applied filter persists across all views in [!DNL Insights]. Select **[!UICONTROL Clear all]** above the ads table or gallery to remove all selected filters.
-
-### Download table results
-
-{{$include /help/_includes/download-insights.md}}
+{{filter-table}}
 
 ## Attribute details
 
