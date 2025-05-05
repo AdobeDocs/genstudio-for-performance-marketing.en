@@ -24,7 +24,7 @@ Click the search (magnifying glass) icon to use a search term to locate specific
 
 ### Date range
 
-The date range selector is a powerful tool to align the displayed data with your analysis objectives. Use the date range selector to adjust the time frame for the data displayed in the table or gallery view. By default, the date range is set to the last 30 days. To include more data or focus on a specific period, expand the date range by selecting a broader time frame.
+The date range selector is a powerful tool to align the displayed data with your analysis objectives. Use the date range selector to adjust the time frame for the data displayed in the table or gallery view. By default, the date range is set to the last 30 days. To include more data or focus on a specific period, expand the date range.
 
 ![Date range selector](/help/assets/insights-date-range.png "Select a date range"){width=400}
 
