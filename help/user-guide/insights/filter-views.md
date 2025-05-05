@@ -3,6 +3,7 @@ title: Filter Insights views
 description: Learn how to use the enhanced filter capabilities with Insights.
 level: Intermediate
 feature: Reporting and Insights
+exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
 ---
 # Filter for Insights views
 
