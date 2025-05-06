@@ -39,6 +39,8 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
 
 **To connect a Meta ads account**:
 
+1. Click **[!UICONTROL More]** > **[!UICONTROL Settings]**.
+
 1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Meta Ads_ card.
 
 1. Log in to your Facebook account.
