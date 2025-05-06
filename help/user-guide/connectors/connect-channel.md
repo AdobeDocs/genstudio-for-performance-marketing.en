@@ -8,7 +8,7 @@ exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
 # Connect paid media account
 
-A _paid media account_ refers to an account on a third-party advertising platform where businesses manage and execute paid advertising campaigns. These accounts are used to promote products, services, or brands through paid channels, such as social media platforms and display networks. By connecting a paid media account to GenStudio for Performance Marketing, you can streamline the exchange of data, monitor campaign performance in [[!DNL Insights]](/help/user-guide/insights/overview.md), and deliver fresh ad placements with [[!DNL Activate]](/help/user-guide/activation/overview.md).
+A _paid media account_ refers to an account on a third-party advertising platform where businesses manage and execute paid advertising campaigns. These accounts are used to promote products, services, or brands through paid channels, such as social media platforms and display networks. By connecting a paid media account to GenStudio for Performance Marketing, you can streamline the exchange of data, monitor campaign performance in [Insights](/help/user-guide/insights/overview.md), and deliver fresh ad placements with [Activate](/help/user-guide/activation/overview.md).
 
 **To connect to a paid media account**:
 
