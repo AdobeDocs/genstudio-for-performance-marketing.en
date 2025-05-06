@@ -1,13 +1,13 @@
 ---
-title: Meta Ads connect
+title: Connect to Meta Ads
 description: Connect a Meta Ads account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 ---
-# Meta Ads connect
+# Connect to Meta Ads
 
-Connect your _Meta Business_ profile to GenStudio for Performance Marketing to manage campaigns, export content, and access advertising data for your Meta Ads and media.
+Connect your Meta Ads profile account to GenStudio for Performance Marketing to manage campaigns, export content, and access advertising data for your active campaigns.
 
 >[!BEGINSHADEBOX]
 

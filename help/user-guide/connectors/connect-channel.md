@@ -1,14 +1,14 @@
 ---
-title: Connect paid media
-description: Connect a channel account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
+title: Connect paid media account
+description: Connect a paid media account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
-# Connect paid media accounts
+# Connect paid media account
 
-_[!DNL Data connectors]_ enable seamless integration between GenStudio for Performance Marketing and your paid media network accounts. By connecting to third-party channel accounts, you can exchange critical data, such as campaign performance metrics in [[!DNL Insights]](/help/user-guide/insights/overview.md), and you can deliver fresh ad placements with [[!DNL Activate]](/help/user-guide/activation/overview.md). This integration allows GenStudio for Performance Marketing to manage your media and ads while receiving valuable insights, including impressions, clicks, and conversions, from your active campaigns.
+A _paid media account_ refers to an account on a third-party advertising platform where businesses manage and execute paid advertising campaigns. These accounts are used to promote products, services, or brands through paid channels, such as social media platforms and display networks. By connecting a paid media account to GenStudio for Performance Marketing, you can streamline the exchange of data, monitor campaign performance in [[!DNL Insights]](/help/user-guide/insights/overview.md), and deliver fresh ad placements with [[!DNL Activate]](/help/user-guide/activation/overview.md).
 
 **To connect to a paid media account**:
 
