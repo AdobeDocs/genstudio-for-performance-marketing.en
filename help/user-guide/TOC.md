@@ -20,6 +20,9 @@ role: User
   + [Effective prompts](effective-prompts.md)
 + Settings {#settings}
   + [Connect paid media](connectors/connect-channel.md)
+  + Channels {#connect-channel}
+    + [Google Campaign Manager 360](connectors/google-cm360.md)
+    + [Meta Ads](connectors/meta-ads.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)
