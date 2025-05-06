@@ -98,17 +98,6 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 </td>
 <td valign="top">
    <div>
-      <a href="/help/user-guide/create/create-email-experience.md">
-      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an email experience</strong>
-      </a>
-   </div>
-   <p>
-      <em>Learn how to create an on-brand email experience.</em>
-   </p>
-</td>
-<td valign="top">
-   <div>
       <a href="/help/user-guide/create/create-meta-ad.md">
       <img alt="People moving files into a folder" src="../assets/card-manage-content.png">
       <strong>Create a Meta ad experience</strong>
@@ -116,6 +105,17 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
    </div>
    <p>
       <em>Learn how to create a brand-aligned Meta ad experience.</em>
+   </p>
+</td>
+<td valign="top">
+   <div>
+      <a href="/help/user-guide/create/generate-assets.md">
+      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
+      <strong>Generate images</strong>
+      </a>
+   </div>
+   <p>
+      <em>Learn how to generate images.</em>
    </p>
 </td>
 </table>
