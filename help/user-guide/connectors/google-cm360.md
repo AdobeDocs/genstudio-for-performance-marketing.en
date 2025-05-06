@@ -20,6 +20,8 @@ Connect your Google Campaign Manager 360 account to GenStudio for Performance Ma
 
 **To connect a Google Campaign Manager 360 account**:
 
+1. Click **[!UICONTROL More]** > **[!UICONTROL Settings]**.
+
 1. In the _Data connectors_ section, click **[!UICONTROL Connect]** on the _Google Campaign Manager 360_ card.
 
 1. Log in to your Google Campaign Manager 360 account.
