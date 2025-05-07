@@ -11,7 +11,7 @@ The [!DNL Insights] dashboard provides a comprehensive set of filters for an eff
 
 ## Filter basics
 
-Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
+Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) toggle above the left side of the table opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
 
 ![Filter by](/help/assets/insights-filter-by.png "Filter by"){width=600 zoomable="yes"}
 
@@ -19,9 +19,9 @@ Applied filters persist across all views. Select **[!UICONTROL Clear all]** abov
 
 ### Search field
 
-Click the search (magnifying glass) icon to use a search term to locate specific items in the table or gallery. For example, entering the term `pink` in the [!UICONTROL Ads] table filters the results to display only ads using the term `pink` in the name.
+Click the search (magnifying glass) icon to type a search term to locate specific items in the table or gallery. For example, entering the term `Gear` in the [!UICONTROL Ads] table filters the results to display only ads using the term `Gear` in the name.
 
-![Search field example](/help/assets/insights-search.png "Search for ads with pink"){width=600 zoomable="yes"}
+![Search field example](/help/assets/insights-search.png "Search for ads with Gear in the name"){width=600 zoomable="yes"}
 
 ### Date range
 
@@ -47,15 +47,15 @@ With _[!UICONTROL Campaigns]_ and _[!UICONTROL Ads]_ filters, you can leverage p
 - Content type acronyms: `EB`, `CHT`, or `DSP`
 - Offer codes or acronyms: `OFFER2023`, `PROMO`
 
-Over time, the list of campaigns and ads grow exponentially. Consider the following scenario to use the _[!UICONTROL Campaigns]_ filter to refine the [!UICONTROL Ads] table.
+Over time, your list of campaigns and ads may grow exponentially. Consider the following scenario to use the _[!UICONTROL Campaigns]_ filter to refine the [!UICONTROL Ads] table.
 
 **To refine the Ads table using the Campaigns filter**:
 
 1. In _[!DNL Insights]_, select the **[!UICONTROL Ads]** view.
 
-   ![Ads filter and table](/help/assets/insights-ads-filter.png "Ads view with filter list"){zoomable="yes"}
+   ![Ads filter and table](/help/assets/insights-ads-filter.png "Ads view with filter menu"){zoomable="yes"}
 
-1. Click the filter (funnel) icon above the left side of the table to open the **[!UICONTROL Filter]** menu.
+1. Click the filter (funnel) toggle above the left side of the table to open the **[!UICONTROL Filter]** menu.
 
 1. Verify the correct `Filter by` channel and account is selected.
 
@@ -65,19 +65,27 @@ Over time, the list of campaigns and ads grow exponentially. Consider the follow
 
 1. In the _[!UICONTROL Select campaigns]_ search field, enter keywords separated by commas.
 
-   - Use as many keywords as needed to refine the list. The following example looks for campaigns with `evergreen`, `ROI`, and `Meta` in the name:
+   Use as many keywords as needed to refine the list.
 
-     ![Keyword search](/help/assets/insights-select-campaigns-keywords.png "Enter keywords to search campaign names"){width=500}
+   - Search for `adventure` **AND** `ready`:
 
-   - You can add another set of keywords to broaden your search. Using multiple sets of keywords allows you to include campaigns that match either the first set of keywords or the second set of keywords. For example, you can search for campaigns labeled `evergreen` and `web` _OR_ campaigns labeled `photoshop` and `roi`:
+     ![Search all keywords](/help/assets/insights-select-campaigns-and.png "Search for campaign names that contain keywords"){width=400}
+   
+   - Search for `adventure` **OR** `ready`:
 
-     ![Search with multiple sets of keywords](/help/assets/insights-advanced-or.png "Search campaign names using multiple sets of keywords"){width=500}
+     ![Search either keywords](/help/assets/insights-select-campaigns-or.png "Search for campaign names that contain at least one set of keywords"){width=400}
+ 
+   You can add another set of keywords to broaden your search. Using multiple sets of keywords allows you to include campaigns that match either the first set of keywords or the second set of keywords.
+   
+   - Search for `adventure` and `apparel` _OR_ `sun` and `gear`:
+
+     ![Search with multiple sets of keywords](/help/assets/insights-advanced-or.png "Search campaign names using multiple sets of keywords"){width=400}
 
 1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
 
    ![List of campaigns](/help/assets/insights-select-campaigns-list.png "Select campaigns to include")
 
-Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 28 ads, providing a more targeted view for analysis.
+Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 6 ads, providing a more targeted view for analysis.
 
 ![Table filtered by campaigns](/help/assets/insights-filter-by-campaigns.png "Table with campaigns filter"){zoomable="yes"}
 
