@@ -11,7 +11,7 @@ The [!DNL Insights] dashboard provides a comprehensive set of filters for an eff
 
 ## Filter basics
 
-Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) toggle above the left side of the table opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
+Each view in [!DNL Insights] offers a list of filter options. The filter (funnel) toggle on the left opens the **[!UICONTROL Filter]** menu. Whether you are viewing the table or the gallery, applied filters appear in the **[!UICONTROL Filter by]** list above the table or gallery. By default, a channel and an account are selected.
 
 ![Filter by](/help/assets/insights-filter-by.png "Filter by"){width=600 zoomable="yes"}
 
@@ -65,21 +65,19 @@ Over time, your list of campaigns and ads may grow exponentially. Consider the f
 
 1. In the _[!UICONTROL Select campaigns]_ search field, enter keywords separated by commas.
 
-   Use as many keywords as needed to refine the list.
+   Use keywords to refine your search with logical and precise filtering.
 
-   - Search for `adventure` **AND** `ready`:
+   - To find campaign names that contain both `adventure` **AND** `ready`, enter both keywords separated by a comma:
 
-     ![Search all keywords](/help/assets/insights-select-campaigns-and.png "Search for campaign names that contain keywords"){width=400}
-   
-   - Search for `adventure` **OR** `ready`:
+     ![Search all keywords](/help/assets/insights-select-campaigns-and.png "Search for campaign names that contain both keywords"){width=500}
 
-     ![Search either keywords](/help/assets/insights-select-campaigns-or.png "Search for campaign names that contain at least one set of keywords"){width=400}
- 
-   You can add another set of keywords to broaden your search. Using multiple sets of keywords allows you to include campaigns that match either the first set of keywords or the second set of keywords.
-   
-   - Search for `adventure` and `apparel` _OR_ `sun` and `gear`:
+   - To find campaign names that contain either `adventure` **OR** `ready`, enter each keyword separately:
 
-     ![Search with multiple sets of keywords](/help/assets/insights-advanced-or.png "Search campaign names using multiple sets of keywords"){width=400}
+     ![Search either keywords](/help/assets/insights-select-campaigns-or.png "Search for campaign names that contain at least one keyword"){width=500}
+
+   - To perform advanced searches, combine multiple sets of keywords. For example, search campaign names with `adventure` and `apparel` **OR** `sun` and `gear`:
+
+     ![Search with multiple sets of keywords](/help/assets/insights-advanced-or.png "Search campaign names using multiple sets of keywords"){width=500}
 
 1. Select one or more campaigns from the resulting search and click **[!UICONTROL Apply]**.
 
