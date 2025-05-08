@@ -3,6 +3,7 @@ title: Connect to Google Campaign Manager 360
 description: Connect a Google Campaign Manager 360 account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Admin, Data Engineer
+recommendations: noDisplay
 feature: Reporting and Insights
 ---
 # Connect to Google Campaign Manager 360

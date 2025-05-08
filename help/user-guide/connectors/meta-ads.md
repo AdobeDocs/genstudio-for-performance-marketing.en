@@ -3,6 +3,7 @@ title: Connect to Meta Ads
 description: Connect a Meta Ads account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Admin, Data Engineer
+recommendations: noDisplay
 feature: Reporting and Insights
 ---
 # Connect to Meta Ads
@@ -45,7 +46,7 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
    - Select one or more Instagram accounts and click **[!UICONTROL Continue]**
    - Review selections and click **[!UICONTROL Save]**
 
-     ![Review selections](/help/assets/meta/meta-review-selections.png "Review selections"){width="300" zoomable="yes"}
+     ![Review selections](/help/assets/meta/meta-review-selections.png "Review selections"){width="400" zoomable="yes"}
 
 1. Once you receive verification that your account is connected, click **[!UICONTROL Got it]**.
 
