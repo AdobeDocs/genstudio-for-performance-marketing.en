@@ -13,25 +13,14 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
 
 **Prerequisites**:
 
-- Facebook/Meta login that can access all Meta services, such as Meta Ads account and Facebook Business Profile
-- Access to Meta ads account with `View performance` permission level for accessing reports and viewing ads, including the following
-   - Permissions required for use with [!DNL Insights]:
+- Facebook/Meta login that can access all Meta services
 
-      - `pages_show_list`
-      - `ads_read`
-      - `ads_management`
-      - `pages_read_engagement`
+- _Full control_ over Meta Business Portfolio and Ad Accounts, including:
 
-   - Permissions required for use with [!DNL Activate]:
-
-      - `ads_management`
-      - `ads_read`
-      - `business_management`
-      - `instagram_basic`
-      - `instagram_content_publish`
-      - `pages_manage_ads`
-      - `pages_manage_posts`
-      - `pages_show_list`
+  - Manage campaigns
+  - View performance
+  - Manage Creative Hub mockups
+  - Advanced analytics
 
 - Remove any pop-up blockers in your browser
 
