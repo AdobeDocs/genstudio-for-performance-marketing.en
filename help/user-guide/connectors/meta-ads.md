@@ -45,6 +45,8 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
    - Select one or more Instagram accounts and click **[!UICONTROL Continue]**
    - Review selections and click **[!UICONTROL Save]**
 
+     ![Review selections](/help/assets/meta/meta-review-selections.png "Review selections"){width="300" zoomable="yes"}
+
 1. Once you receive verification that your account is connected, click **[!UICONTROL Got it]**.
 
    This step ensures that GenStudio for Performance Marketing gains access to all ads, metadata, and metrics for optimal performance.
@@ -53,6 +55,8 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
 
 1. Once you receive a _Platform connected_ confirmation, click **[!UICONTROL View accounts]**.
 
-   The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`. 
+   The _[!UICONTROL Meta Ads accounts]_ view lists the `Account name`, `Added by`, `Date added`, and `Status`.
+
+   ![Meta accounts list](/help/assets/meta/meta-accounts-list.png "List of connected Meta accounts"){zoomable="yes"}
 
 Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You select only the new Meta Ads accounts during the connection process.
