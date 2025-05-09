@@ -5,81 +5,55 @@ feature: Campaigns, Campaign Brief, Content
 ---
 # Manage Campaigns
 
-You must have GenStudio system manager or Genstudio editor permissions to manage a campaign.
+The default view of the Campaigns dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, a card view, and a timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table. 
 
-toggle between views by clicking the 
+* **List view**-This default view 
+* **Card view**-Gallery view that represents each campaign by a card. enables you to scan and sort campaigns using cards.
+* **Timeline view**-This Gantt-style representation displays each campaign as a horizontal bar that represents its duration and progress. Bars are arranged chronologically from left to right, allowing you to quickly assess campaign progress, spot overlapping milestones, and understand how campaigns align over time.
 
-You can create a new campaign by clicking **[!UICONTROL Add campaign]**  in the top right corner of any view. 
+Each view provides the following capabilities:
 
-## Campaign gallery view
+* Search for a campagin by campaign name or keyword
+* Toggle to change views
+* Launch camapaign creation
 
-The _Campaigns_ gallery view lists all campaigns for your organization. This default view lists all campaigns by campaign name ordered by Start Date. 
+## View campaign details
 
-Name field: always the first field displayed for a campaign. 
-
-you can search by campaign name or keyword
-
-
-### Card view
-
-
-
-### Timeline view
-
-This view offers a prime display of how youall your organization's campaigns coor
-
-better understand the relationships among all your organization's campaigns
-
-This view depicts all campaigns in chronological order from left to right. This view lets you view where campaigns overlap. You can focus the view by quarter 
-
-
-You can orient yourself to current progress by clicking Today. 
-
-To navigate through the timeline view: 
+From a campaign's _Details_ view, click **[!UICONTROL Content]** just below the campaign name. The view displays the content that is assigned to this campaign. 
 
 
 
+You can filter campaign content by _Asset_, _Experience_, and _Templates_. 
 
-You can focus the campaign timeline b
+**To filter campaigns**:
 
-  Click the left and right icons or use the horizontal scroll to move backwards and forwards in the timeline. Refreshing the page preserves the selected time frame.
+Type a keyword associated with any field of a record that displays on the screen
 
-    Click Today to center the timeline to today's date.
-
-    *    Select one of the following options from the time frame drop-down menu to update the time increments:
-    *    Year
-    *    Quarter
-    *    Month
-
-    Filtering: If there are multiple matches, use the up and down arrows to the right of the search field  to navigate between search results. 
+If there are multiple matches, use the up and down arrows to the right of the search field to navigate between search results. 
 
 ### Campaign status
 
-  active
-
-  complete
-
-## View campaign contentx
-
-from a campaing's _Details_ view, click **[!UICONTROL Content]** just below the campaign name. The view displays the content that is assigned to this campaign. You can filter campaign content by Asset, Experience, and Templates. 
+* **Active**–Currently running and delivering content to the selected channels.
+* **Upcoming**-Scheduled to begin at a future date.
+* **Complete**-Last campaign milestone has been met, and the campaign is over. 
 
 ## Refresh campaign content
 
-Once a campaign is launched, Insights helps you track the performance of its components. You can evaluate the effectiveness of different assets or experiences. With this performance information, you can make informed decisions about which components to replace, highlight, or revise.
+Once a campaign is launched, [!DNL Insights] helps you track the performance of its components. You can evaluate the effectiveness of different assets or experiences. With this performance information, you can make informed decisions about which components to replace, highlight, or revise.
 
 ### Add and remove campaign content
 
 You can manage assets in a campaign by adding or removing the campaign label from the asset.
 
-1. From the Content Experiences or Assets gallery, choose the experience or asset you want to manage.
+1. From the [!DNL Content] _Experiences_ or _Assets_ gallery, select an experience or asset.
 
 1. From the _Details_ view, add or remove the campaign label.
 
-See Create for guidance on creating assets and experiences to include in your campaign.
+See [!DNL Create] for guidance on creating assets and experiences to include in your campaign.
 
 ## Update campaign attributes
 
-As campaigns progress, target audiences and schedules may need adjustment. You can add or remove distribution channels, personas, regions, and products from oan active campaign.  
+As campaigns progress, target audiences and schedules may need adjustment. You can add or remove distribution channels, personas, regions, and products from an active campaign.  
 
 ## Add or remove a channel
 
@@ -93,7 +67,7 @@ The campaign's _Details_ view includes the channels, target personas, regions, a
 
 ## Delete a campaign
 
-Deleting a campaign results in the removal from the campaign object nd all defining campaign attributes from Content. It removes the campaign label from all assets and experiences without removing the experience or asset itself.
+Deleting a campaign results in the removal from the campaign object and all defining campaign attributes from Content. It removes the campaign label from all assets and experiences without removing the experience or asset itself.
 
 **To delete a campaign**:
 
@@ -101,4 +75,4 @@ Deleting a campaign results in the removal from the campaign object nd all defin
 
 1. Select **[!UICONTROL Delete]**.
 
-Alternatively, you can delete a campaign from the action menu (...) next to the campaign name in the _Details_ view.
+   Alternatively, you can delete a campaign from the action menu (...) adjacent to the campaign name in the _Details_ view.
