@@ -5,31 +5,41 @@ feature: Campaigns, Campaign Brief, Content
 ---
 # Manage Campaigns
 
-The default view of the Campaigns dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, a card view, and a timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table. 
+The default view of the Campaigns dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, card view, and timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table. 
 
-* **List view**-This default view 
-* **Card view**-Gallery view that represents each campaign by a card. enables you to scan and sort campaigns using cards.
+* **List view**-This default view displays a subset of the defining details that are entered during campaign creation. List view includes description, channels, regions, start and end dates, and status. 
+* **Card view**-This gallery view represents each campaign by a card.
 * **Timeline view**-This Gantt-style representation displays each campaign as a horizontal bar that represents its duration and progress. Bars are arranged chronologically from left to right, allowing you to quickly assess campaign progress, spot overlapping milestones, and understand how campaigns align over time.
 
 Each view provides the following capabilities:
 
-* Search for a campagin by campaign name or keyword
+* Search for a campaign by name or keyword
 * Toggle to change views
-* Launch camapaign creation
+* Launch campaign creation
 
-## View campaign details
+## Campaign details
 
-From a campaign's _Details_ view, click **[!UICONTROL Content]** just below the campaign name. The view displays the content that is assigned to this campaign. 
+To view the details of a specific campaign, click the campaign name in the List or Card view. The _Campaign Details_ view opens. These campaign details are the attributes assigned during campaign creation.
 
 
+| Detail     | Description |
+|------------|-------------|
+| Campaign name   | Unique name used to identify the campaign. This name is available as a campaign label through the product. |
+| Description     | Summary of campaign for internal stakeholders   |
+| Objective       | Primary goals of the campaign, such as increasing brand awareness, generating leads, or driving sales. |
+| Key messaging   | Defines the central message to be communicated in all campaign assets.<br>Focuses content creators on the campaign's strategic message and tone.                                                                                              |
+| Start           | The quarter, season, or year during which the ad experience becomes active.                       |
+| End             | The quarter, season, or year during which the ad experience ends.                                 |
+| Status          | Upcoming-Campaign starts in the future<br>Active-Campaign is in progress<br>Complete-Campaign ended |
+| Last modified   | (Read-only) Timestamp that identifies the last time campaign details or content were edited.                  |
 
-You can filter campaign content by _Asset_, _Experience_, and _Templates_. 
 
-**To filter campaigns**:
+**To view content associated with this campaign**:
 
-Type a keyword associated with any field of a record that displays on the screen
+1. Click **[!UICONTROL Content]** just below the campaign name. A _Filter campaign content_ view opens. 
 
-If there are multiple matches, use the up and down arrows to the right of the search field to navigate between search results. 
+1. Toggle the **[!UICONTROL Filter by]** area toggle buttons to identify campaign content by _Asset_, _Experience_, and _Templates_.
+
 
 ### Campaign status
 
@@ -43,7 +53,7 @@ Once a campaign is launched, [!DNL Insights] helps you track the performance of 
 
 ### Add and remove campaign content
 
-You can manage assets in a campaign by adding or removing the campaign label from the asset.
+You can manage assets in a campaign by adding or removing the campaign label from the asset or experience.
 
 1. From the [!DNL Content] _Experiences_ or _Assets_ gallery, select an experience or asset.
 
