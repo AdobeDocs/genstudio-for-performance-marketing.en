@@ -7,7 +7,7 @@ exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
 # Adobe GenStudio for Performance Marketing Activate
 
-GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of preparing ad experiences, assets, and text as a creative ad experience uniquely tailored for placement in a specific paid channel. Activation delivers the creative to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
+GenStudio for Performance Marketing _[!DNL Activate]_ provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of preparing ad experiences, assets, and text as a creative ad experience uniquely tailored for placement in a specific paid channel. Activation delivers the creative experience to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
 
 Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
 
@@ -29,11 +29,11 @@ _[!DNL Activate]_ facilitates the preparation of ad experiences for distribution
 
 ### Prepare for activation
 
-The _Creative setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+The _Experience setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
 
 ### Select assets for ad experience
 
-Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience, or creative, can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
+Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
 
 ### Preview and activate your experience to an ad channel
 

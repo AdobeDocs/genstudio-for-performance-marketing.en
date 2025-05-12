@@ -6,9 +6,9 @@ exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
 ---
 # Manage activations
 
-_[!DNL Activate]_  offers a centralized view of each ad channel's activation status, including Published (successful), Failed (unsuccessful), and Publishing (pending) activations. The _Activated Experiences_ view displays all activations for one connected channel ad account.
+_[!DNL Activate]_ offers a centralized view of each ad channel's activation status, including Published (successful), Failed (unsuccessful), and Publishing (pending) activations. The _Activated Experiences_ view displays all activations for one connected channel ad account.
 
-_[!DNL Activate]_  organizes activated experiences by ad channel. Click **[!UICONTROL View]** on the channel tile. The _Activated experiences_ view for the selected channel opens. This view lists experiences by name and orders them by activation date. If your organization has not activated experiences for that channel, the product tile does not include the **[!UICONTROL View]** button.
+_[!DNL Activate]_ organizes activated experiences by ad channel. Click **[!UICONTROL View]** on the channel tile. The _Activated experiences_ view for the selected channel opens. This view lists experiences by name and orders them by activation date. If your organization has not activated experiences for that channel, the product tile does not include the **[!UICONTROL View]** button.
 
 ## Activated experience view
 
@@ -35,7 +35,7 @@ From the _Activated experiences_ view, click on an activation. The read-only _Ac
 
 * **Publication time and date**: Time and date of publication from the ad channel manager
 * **Ad ID**: ID assigned by the paid channel and used for tracking. Click the **[!UICONTROL Open]** button adjacent to this field to view the published ad in Meta Ads Manager
-* **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
+* **Experience details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
 * **Channel setup**: The paid channel accounts used to activate the ad experience
 
 The _Details_ view of a failed activation includes the reason for failure.
