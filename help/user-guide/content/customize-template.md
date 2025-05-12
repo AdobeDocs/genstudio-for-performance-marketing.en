@@ -1,8 +1,9 @@
 ---
 title: Customize a Template
-description: Learn how to personalize and optimize your template for Adobe GenStudio for Performance Marketing.
+description: Learn how to customize your HTML template using content placeholders recognized by Adobe GenStudio for Performance Marketing generative AI.
 level: Intermediate
-feature: Media Templates, Content Generation
+role: Developer
+feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
 # Customize a template
@@ -37,20 +38,22 @@ The following table lists the field names recognized by GenStudio for Performanc
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}`        | Preheader                 | email                                            |
 | `{{headline}}`          | Headline                  | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{sub_headline}}`      | Sub-Headline              | email<br>Banner and Display ad                   |
 | `{{introductory_text}}` | Introductory text         | LinkedIn ad                                      |
 | `{{body}}`              | Body copy                 | email <br>Meta ad <br>Banner and Display ad      |
-| `{{cta}}`               | Call to action            | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
+| `{{cta}}`               | Call to action<br>See [Calls to action](#calls-to-action) | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
 | `{{image}}`             | Image—select from [!DNL Content] | email <br>Meta ad <br>Banner and Display ad <br>LinkedIn ad |
-| `{{on_image_text}}`     | On image text             | Meta ad <br>LinkedIn ad                          |
+| `{{on_image_text}}`     | On image text<br>See [On image text](#on-image-text). | Meta ad <br>LinkedIn ad                          |
 | `{{link}}`              | Call to action on image<br>See [Link on image](#link-on-image). | email      |
-| `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad |
 
-GenStudio for Performance Marketing populates certain fields automatically in the following templates:
+<!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
+
+GenStudio for Performance Marketing generates certain fields automatically in the following templates:
 
 - **Email template** does not require you to identify the `subject` field
 - **Meta ad template** does not require you to identify the `headline`, `body`, and `CTA` fields
 - **Banner and Display ad template** does not require you to identify the `CTA` field
-- **LinkedIn ad templates** do not require you to identify the `headline`, `introductory_text`, and `CTA` fields
+- **LinkedIn ad template** does not require you to identify the `headline`, `introductory_text`, and `CTA` fields
 
 >[!WARNING]
 >
@@ -64,7 +67,7 @@ There is a limit of 20 fields when uploading a template to GenStudio for Perform
 
 ### Calls to action
 
-A Call to action (CTA) includes a phrase and a link. For the CTA _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ capabilities to work properly during the variant generation process, you must include placeholders for the link and the phrase in your template.
+A Call to action (CTA) includes a phrase and a link. For the _[!UICONTROL Rephrase]_ and _[!UICONTROL Add link]_ capabilities to work properly during the variant generation process, you must include placeholders for the link and the phrase in your template.
 
 Use the following guidance to set up CTA placeholders:
 
@@ -93,14 +96,16 @@ GenStudio for Performance Marketing can provide variant calls-to-action phrases,
 You can customize your email template to allow creatives to add a link to an image. Similar to the CTA link, use the following guidance to apply a `link` placeholder to an image tag:
 
 ```html
-<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
 In this example:
 
 - `{{link}}` is a placeholder for the actual URL.
 - `src="image-source.jpg"` should be replaced with the actual image source URL.
-- `alt="description"` provides an alternative text for the image, which is useful for accessibility and SEO.
+- `{{imageDescription}}` is a user-defined field name that provides a placeholder for the image's alternative text, which is useful for accessibility and SEO.
+
+<!-- this field does not work in Create canvas 2025/03
 
 ### Brand logo field name
 
@@ -122,9 +127,11 @@ At this time, you cannot select the brand logo for the template upload. The foll
 {{/if}}
 ```
 
+-->
+
 ### Manual field names
 
-All other field names are treated as manually populated fields. For example, you may want to reserve a section for footer content.
+All other field names are user-defined and treated as manually populated fields. For example, you may want to reserve a section for footer content.
 
 To create an editable section, add double brackets around the section name:
 
@@ -132,22 +139,37 @@ To create an editable section, add double brackets around the section name:
 <tbody>
     <tr>
         <td>
-            <p><span class="s1">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{ footerLegal }}</span></p>
         </td>
     </tr>
 </tbody>
+```
+
+## On image text
+
+The `{{ on_image_text }}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
 ```
 
 ## Sections or groups
 
 _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`). For example, the following headline and body belongs to the `pod1` section:
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (`headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+
+- _Correct_ (👍): `pod1_body`
+- _Incorrect_ (❌): `pod1_link`
+
+Each section can use only one of each field type. For example, the following fields belong to the `pod1` section:
 
 - `pod1_headline`
 - `pod1_body`
+- `pod1_image`
+- `pod1_cta`
 
-Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field. Because of this rule, the sections cannot be nested.
+Because of this rule, the sections cannot be nested.
 
 Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
 
@@ -165,7 +187,6 @@ For example, an email template can include up to three sections; therefore, you 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to learn how to craft a prompt that generates varying content for each section in a multi-section email.
-
 
 ## Template preview
 
@@ -217,27 +238,27 @@ The following is a basic example of an HTML template for an email that contains 
 ```html {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Adobe</title>
-    <style>
-        .container {
+    <head>
+        <title>Adobe</title>
+        <style>
+            .container {
             width: 100%;
             padding: 20px;
             font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>{{ pre_header }}
-    <div class="container">
-        <h1>{{ headline }}</h1>
-        <p><a href="{{ link }}">
-           <img alt="{{ headline }}"
-                src="{{ image }}"
-                width="600" height="600"
-                border="0"/></a></p>
-        <p>{{ body }}</p>
-    </div>
-</body>
+            }
+        </style>
+    </head>
+    <body>{{ pre_header }}
+        <div class="container">
+            <h1>{{ headline }}</h1>
+            <p><a href="{{ link }}">
+            <img alt="{{ headline }}"
+                    src="{{ image }}"
+                    width="600" height="600"
+                    border="0"/></a></p>
+            <p>{{ body }}</p>
+        </div>
+    </body>
 </html>
 ```
 
@@ -250,48 +271,48 @@ The following is the same HTML template in the example above, but with two more 
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Adobe</title>
-    <style>
-        .container {
+    <head>
+        <title>Adobe</title>
+        <style>
+            .container {
             width: 100%;
             padding: 20px;
             font-family: Arial, sans-serif;
-        }
-        .pod {
+            }
+            .pod {
             background-color: #f8f8f8;
             margin: 10px;
             padding: 20px;
             border-radius: 5px;
-        }
-        .pod h2 {
+            }
+            .pod h2 {
             color: #333;
-        }
-        .pod p {
-            color: #666;
-        }
-    </style>
-</head>
-<body>{{ pre_header }}
-    <div class="container">
-        <h1>{{ headline }}</h1>
-        <p>{{ body }}</p>
-        <!-- Pod1 -->
-        <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
-            <p>{{ pod1_body }}</p>
+            }
+            .pod p {
+                color: #666;
+            }
+        </style>
+    </head>
+    <body>{{ pre_header }}
+        <div class="container">
+            <h1>{{ headline }}</h1>
+            <p>{{ body }}</p>
+            <!-- Pod1 -->
+            <div class="pod">
+                <h2>{{ pod1_headline }}</h2>
+                <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
+                <p>{{ pod1_body }}</p>
+            </div>
+            <!-- End of Pod1 -->
+            <!-- Pod2 -->
+            <div class="pod">
+                <h2>{{ pod2_headline }}</h2>
+                <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
+                <p>{{ pod2_body }}</p>
+            </div>
+            <!-- End of Pod2 -->
         </div>
-        <!-- End of Pod1 -->
-        <!-- Pod2 -->
-        <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
-            <p>{{ pod2_body }}</p>
-        </div>
-        <!-- End of Pod2 -->
-    </div>
-</body>
+    </body>
 </html>
 ```
 
@@ -299,54 +320,45 @@ The following is the same HTML template in the example above, but with two more 
 
 +++Example: Meta ad template
 
-The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders) using a prefix.
+The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders), such as `image` and `on_image_text`, to indicate where GenStudio for Performance Marketing can generate content.
 
 ```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adobe</title>
-    <style>
-        .ad-container {
-            width: 300px;
-            border: 1px solid #ddd;
-            padding: 16px;
-            font-family: Arial, sans-serif;
-        }
-        .ad-image {
-            width: 100%;
-            height: auto;
-        }
-        .ad-headline {
-            font-size: 18px;
-            font-weight: bold;
-            margin: 12px 0;
-        }
-        .ad-body {
-            font-size: 14px;
-            margin: 12px 0;
-        }
-        .ad-cta {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 4px;
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Adobe</title>
+        <style>
+            .ad-container {
+            font-family: Helvetica, sans-serif;
+            position: relative;
             text-align: center;
-        }
-    </style>
-</head>
-<body>
-<div class="ad-container">
-    <img src="{{ image }}" alt="Ad Image" class="ad-image">
-    <div class="ad-headline">{{ headline }}</div>
-    <div class="ad-body">{{ body }}</div>
-    <a href="{{ link }}" class="ad-cta">{{ CTA }}</a>
-</div>
-</body>
+            height: 100%;
+            }
+            .ad-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            }
+            .ad-text {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 1em;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 1em;
+            font-size: 75px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="ad-container">
+            <img src="{{ image }}" alt="Ad Image" class="ad-image" />
+            <div class="ad-text">{{ on_image_text }}</div>
+        </div>
+    </body>
 </html>
 ```
 

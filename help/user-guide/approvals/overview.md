@@ -1,7 +1,8 @@
 ---
 title: Adobe GenStudio for Performance Marketing Reviews and Approvals
 description: Learn about the GenStudio for Performance Marketing review and approval process.
-feature: Approval
+level: Beginner
+feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 ---
 # Adobe GenStudio for Performance Marketing Reviews and Approvals

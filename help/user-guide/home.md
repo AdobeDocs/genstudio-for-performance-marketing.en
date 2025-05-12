@@ -1,6 +1,7 @@
 ---
 title: Adobe GenStudio User Guide
 description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to create on-brand assets, generate variations, and optimize experiences.
+role: User
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
 # Adobe GenStudio for Performance Marketing User Guide
@@ -97,17 +98,6 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
 </td>
 <td valign="top">
    <div>
-      <a href="/help/user-guide/create/create-email-experience.md">
-      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an email experience</strong>
-      </a>
-   </div>
-   <p>
-      <em>Learn how to create an on-brand email experience.</em>
-   </p>
-</td>
-<td valign="top">
-   <div>
       <a href="/help/user-guide/create/create-meta-ad.md">
       <img alt="People moving files into a folder" src="../assets/card-manage-content.png">
       <strong>Create a Meta ad experience</strong>
@@ -115,6 +105,17 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketing provides 
    </div>
    <p>
       <em>Learn how to create a brand-aligned Meta ad experience.</em>
+   </p>
+</td>
+<td valign="top">
+   <div>
+      <a href="/help/user-guide/create/generate-assets.md">
+      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
+      <strong>Generate images</strong>
+      </a>
+   </div>
+   <p>
+      <em>Learn how to generate images.</em>
    </p>
 </td>
 </table>

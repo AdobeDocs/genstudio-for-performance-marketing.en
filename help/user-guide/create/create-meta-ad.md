@@ -19,7 +19,7 @@ To get started generating a new Meta ad experience, use an available template to
 
 **To choose a Meta ad template**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]**.
 1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
 1. Click to select a template and click **[!UICONTROL Use]**.
 
@@ -78,6 +78,8 @@ When [revising the Meta ads](#revise-generated-variants), you can change the asp
 ## Revise generated variants
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
+
+To highlight an individual layer to revise, click an editable field or image and click _[!UICONTROL View Layers]_.
 
 **To revise generated variants**:
 
@@ -138,6 +140,6 @@ See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 ## Connect Meta
 
-You can connect GenStudio for Performance Marketing to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
+You can connect GenStudio for Performance Marketing to Meta to receive advanced analytics and insights into content performance.
 
-See [Connect channel account](/help/user-guide/insights/connect-channel.md) for more information.
+See [Meta ads connect](/help/user-guide/connectors/meta-ads.md).

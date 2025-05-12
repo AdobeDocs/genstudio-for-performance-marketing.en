@@ -2,7 +2,8 @@
 title: Get started with Adobe GenStudio for Performance Marketing
 description: Learn how to get started with GenStudio for Performance Marketing to generate new brand-aligned marketing content.
 level: Beginner
-feature: Media Templates, Brand Personalization, Persona Personalization, Product Personalization, Generative AI
+role: User
+feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 ---
 # Get started with Adobe GenStudio for Performance Marketing
@@ -55,4 +56,4 @@ See [Upload approved assets](./content/manage-assets.md).
 
 ### Step 5: Connect to a Meta (Facebook) account
 
-Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data. See [Connect to a Meta (Facebook) account](./insights/connect-channel.md#meta-ads-connect).
+Configure a connection between GenStudio for Performance Marketing and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [!DNL Insights] provides tools to analyze channel-derived data. See [Connect to Meta Ads](/help/user-guide/connectors/meta-ads.md).

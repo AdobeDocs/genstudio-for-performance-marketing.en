@@ -1,6 +1,8 @@
 ---
 title: Work with Templates
 description: Discover how to use templates effectively to streamline your creative process in Adobe GenStudio for Performance Marketing.
+level: Intermediate
+role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 ---
@@ -29,6 +31,7 @@ The following is a list of elements that are used in templates and some details 
 | **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
 | **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
 | **Headline**         | Meta ad, Banner and Display ads, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
+| **Sub-headline**       | Email, Banner and Display ads            | A secondary text element that supports the headline. It is typically concise and designed to complement the main headline, drawing the reader's attention further into the content. |
 | **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
 | **Body**             | Email, Meta ad, Banner and Display ads    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
 | **CTA**              | Email, Meta ad, Banner and Display ads, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
@@ -50,13 +53,26 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Manage templates
 
-The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing. You can filter templates by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
+The _[!DNL Templates]_ gallery displays your inventory of templates customized for generating experiences in GenStudio for Performance Marketing.
+
+### Search templates
+
+Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. There are filters based on [guidelines](/help/user-guide/guidelines/overview.md), [keywords](asset-details.md#user-defined-metadata), and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results.
+
+For example, you may want to find a template of a specific channel type or aspect ratio created by you:
+
+- **[!UICONTROL Created by]**: limits the _[!UICONTROL Templates]_ list to show only the templates created by you or a specific person.
+- **[!UICONTROL Aspect Ratio]**: limits the _[!UICONTROL Templates]_ list to show templates designed for a specific aspect ratio.
+
+The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
 ![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
+The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
+
 ### Add a template
 
-Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the [Customize templates](customize-template.md) guidance.
+Before uploading a template, ensure it is fully prepared and ready for use in GenStudio for Performance Marketing by following the guidance in [Customize templates](customize-template.md).
 
 **To add a template**:
 
@@ -78,7 +94,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
+1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 

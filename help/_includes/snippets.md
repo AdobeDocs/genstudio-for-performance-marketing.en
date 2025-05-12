@@ -4,7 +4,7 @@
 
 >[!TIP]
 >
->GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect channel account](/help/user-guide/insights/connect-channel.md).
+>GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).
 
 ## Note AEM Assets {#note-aem-assets}
 
@@ -17,3 +17,9 @@
 >[!TIP]
 >
 >Enrich your skills on this topic with [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+
+## Tip on filtering tables {#filter-table}
+
+>[!TIP]
+>
+>Seeing too many results or a `No results found` message? Adjust filters by modifying selections, clearing all filters, or adjusting the date range. See [Filter for Insights views](/help/user-guide/insights/filter-views.md) to learn about the dynamic and versatile filter capabilities.

@@ -1,10 +1,11 @@
 ---
-title: Overview of [!DNL Insights]
+title: Overview of Insights
 description: Learn how to optimize ads based on real-time content performance metrics.
+level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 ---
-# Adobe GenStudio for Performance Marketing [!DNL Insights]
+# Adobe GenStudio for Performance Marketing Insights
 
 Adobe GenStudio for Performance Marketing [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
 
@@ -13,6 +14,12 @@ From the [!DNL Insights] dashboard, you can:
 - **Identify the most effective content**: Pinpoint which content performs best for different audiences and tailor future content or campaigns for trending preferences.
 - **Optimize low-performing content**: Find content that is not performing well and use the integrated generative AI to create variations immediately, potentially improving its effectiveness without starting from scratch.
 - **Revitalize high-performing content**: Take successful content and tweak it to refresh the ad for the audience or adapt hero content for use in new campaigns, potentially extending its lifecycle and performance.
+
+## Data connectors
+
+The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with a channel account.
+
+This connection enables GenStudio for Performance Marketing to receive statistical data from your active marketing campaigns, media, and ads. Initially, GenStudio for Performance Marketing ingests the last 6 months of data so that you have the tools to analyze the latest data and take action.
 
 {{connect-insights}}
 
@@ -28,7 +35,7 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 ### Channels
 
-The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
+The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
 ### Ads
 

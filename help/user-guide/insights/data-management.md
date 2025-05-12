@@ -3,7 +3,7 @@ title: Data management
 description: Learn about data ingestion and storage for [!DNL Insights] in GenStudio for Performance Marketing.
 feature: Reporting and Insights
 level: Experienced
-role: Admin
+role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
 ---
@@ -41,4 +41,4 @@ See [Delete implications](https://experienceleague.adobe.com/en/docs/analytics-p
 
 GenStudio for Performance Marketing retains channel data for 13 months. This retention policy includes the 6 months of data ingested during the initial connection, ensuring comprehensive historical data analysis and reporting.
 
-See [Connect channel ad account](/help/user-guide/insights/connect-channel.md).
+See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).

@@ -2,6 +2,7 @@
 title: Template code editor
 description: Learn how to use the template code editor in GenStudio for Performance Marketing.
 level: Intermediate
+role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
 ---

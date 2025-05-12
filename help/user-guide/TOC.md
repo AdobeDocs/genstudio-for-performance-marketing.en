@@ -4,6 +4,7 @@ breadcrumb-title: User Guide
 user-guide-description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to quickly create on-brand assets, generate variations, and optimize experiences.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
+role: User
 ---
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
@@ -17,6 +18,11 @@ feature: Generative AI
   + [Configure [!DNL Brand] permissions](configure-brand-permissions.md)
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
++ Settings {#settings}
+  + [Connect paid media](connectors/connect-channel.md)
+  + Paid media accounts {#connect-account}
+    + [Google Campaign Manager 360](connectors/google-cm360.md)
+    + [Meta Ads](connectors/meta-ads.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)
@@ -37,6 +43,7 @@ feature: Generative AI
   + [Create a LinkedIn experience](create/create-linkedin.md)
   + [Create a display ad experience](create/create-display-ad.md)
   + [Create a banner experience](create/create-banner-experience.md)
+  + [Generate an image](create/generate-assets.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
   + [Request review and approval of content](approvals/request-review.md)
@@ -61,12 +68,13 @@ feature: Generative AI
 + Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
+  + [Activate a Google Campaign Manager 360 ad](activation/activate-cm360-ad.md)
   + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
-  + [Connect channel account](insights/connect-channel.md)
+  + [Insights filters](insights/filter-views.md)
   + [Channels](insights/channels.md)
   + [Ads and ad placement](insights/ads.md)
   + [Media](insights/media.md)

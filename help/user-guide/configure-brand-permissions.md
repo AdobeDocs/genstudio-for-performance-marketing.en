@@ -2,7 +2,7 @@
 title: Assign [!DNL Brand] permissions
 description: Learn about assigning entitlements for GenStudio for Performance Marketing [!DNL Brand] creators and editors.
 level: Intermediate
-feature: Brands Service, Generative AI
+feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
 ---
 # Assign [!DNL Brand] permissions
@@ -82,7 +82,7 @@ A _project_ provides a storage location where select users can save assets—in 
 1. Enter `Adobe GenStudio Brands` in the project name field. Enter this project name exactly as displayed here. Do not include extra spaces or change the letter case.
 
 1. Click **[!UICONTROL Create]**. The _Invite to project_ popup opens.
- 
+
 See [Manage projects](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html) in the _Enterprise and Teams administration guide_.
 
 ## Step 5: Invite user group to project

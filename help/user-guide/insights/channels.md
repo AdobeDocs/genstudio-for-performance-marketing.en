@@ -1,6 +1,7 @@
 ---
 title: Channels overview
 description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketing.
+level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 ---
@@ -10,13 +11,13 @@ The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for t
 
 {{connect-insights}}
 
-The _[!UICONTROL Channels]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
+The _[!UICONTROL Channels]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
 ![Channels filter and table](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-{{$include /help/_includes/download-insights.md}}
-
 When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
+
+{{filter-table}}
 
 ## Objectives
 
@@ -48,4 +49,4 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an ad campaign.<br>**Calculation**: total amount `spent` divided by `clicks` = $ | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Video plays]** | The number of times a video starts to play in an ad campaign, excluding replays. A video starts playing when a user clicks play or the video auto-plays. | A high count of video plays may indicate that the video is capturing attention, and can mean that the thumbnail, title, or placement is effectively drawing in viewers. |
 | **[!UICONTROL Budget]**      | Total funds allocated for an ad campaign to achieve campaign goals. | A high budget means more resources for broader reach and potentially greater impact. |
-| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time to place ads across different platforms. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time to place ads across different platforms. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
