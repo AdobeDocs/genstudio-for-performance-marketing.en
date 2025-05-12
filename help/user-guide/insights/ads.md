@@ -7,15 +7,22 @@ exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
 ---
 # Ads and ad placement overview
 
-The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign. For Facebook, the ads are Meta ad names.
+The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
 
 {{connect-insights}}
 
-The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists. Select **[!UICONTROL Clear all]** above the table to remove all filters.
+The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
 ![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
-{{$include /help/_includes/download-insights.md}}
+The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
+
+- CPA (Cost per action)
+- CTR (Click-through rate)
+- CPC (Cost per click)
+- Spend
+
+{{filter-table}}
 
 ## Ad details
 
@@ -31,21 +38,27 @@ Below the ad preview is a list of attributes associated with the ad.
 
 ### Ad formats
 
+Ad formats refer to the various creative elements and layouts used to align with your campaign objectives, engage your target audience, and help track performance metrics.
+
 [!DNL Insights] in GenStudio for Performance Marketing currently supports the following available ad formats.
 
 | Supported | Unsupported |
 |-----------|-------------|
-| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image/video)<br>App (image/video)<br>Messaging<br>Lead (image/video)<br>Slideshow (video)<br>Collection (image/video hero asset)<br>Shop (image/video)<br>Photo or Video from Page Post / Instagram Post/media<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
+| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image and video)<br>App (image and video)<br>Messaging<br>Lead (image and video)<br>Slideshow (video)<br>Collection (image and video hero asset)<br>Shop (image and video)<br>Photo or Video from Page Post, Instagram Post<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
 
 ### Ad placements
 
-When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives). Ad placements broaden the audience reach for your ad.
+Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
+
+When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives).
 
 The following is a list of supported ad placements:
 
-| Audience Network   | [Facebook/Meta](https://www.facebook.com/business/help/407108559393196?id=369787570424415)      | Instagram               | Messenger           |
+| Audience Network   | Facebook/Meta \*      | Instagram               | Messenger           |
 |--------------------|--------------------|-------------------------|---------------------|
 | Rewarded video     | Feed<br>Video feeds<br>Stories<br>Marketplace<br>Right column<br>Reels<br>Reels overlay<br>In-stream video<br>Search<br>Business disco feed<br>Profile feed              | Stories<br>Feed<br>Explore<br>Reels<br>Explore grid Home<br>Profile feed<br>Search<br>Stream     | Stories<br>Inbox   |
+
+\* See [About ad placements across Meta technologies](https://www.facebook.com/business/help/407108559393196?id=369787570424415) in the _Meta Business Help Center_.
 
 ## Ad performance
 
@@ -62,11 +75,11 @@ The following table provides definitions and insights for key digital marketing 
 | **[!UICONTROL Impressions]** | A count of each time the ad placement or ad loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider it in relation with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | The number of times users interact with a clickable element, such as a link or a call-to-action button, in an ad placement. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks on the ad within a campaign.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
-| **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost for every one thousand ad impressions.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
-| **[!UICONTROL CPA]**<br>_Cost per Action_ | Average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Use to monitor spending on ads that result in valuable customer actions. |
-| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost associated with each click in an ad placement.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
+| **[!UICONTROL CPM]**<br>_Cost per thousand_ | The average cost for every one thousand ad impressions.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000 | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
+| **[!UICONTROL CPA]**<br>_Cost per Action_ | The average cost spent to achieve a specific customer action, such as a purchase or subscription.<br>**Calculation**: total amount `spent` divided by the number of customer actions completed | Use to monitor spending on ads that result in valuable customer actions. |
+| **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in an ad placement.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount spent from the Campaign budget over a given period of time to place this ad. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the amount spent against key performance metrics to help monitor the overall return on investment. |
-| **Attributes**               | List of inherent features present in this ad. | Can help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
+| **Attributes**               | List of inherent features present in this ad. | Attributes help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
 
 ## Placement performance
 
@@ -80,4 +93,4 @@ The following table provides definitions for ad placement performance metrics:
 | **[!UICONTROL CPA]**<br>_Cost per Action_ | The average cost spent on a single ad placement to achieve a desired customer action, such as a purchase or subscription.<p>**Calculation**: total amount `spent` divided by the number of customer actions completed<p>This metric helps evaluate the cost-efficiency of the ad placement in driving valuable actions. | A lower CPA suggests that the ad placement is effective in converting audience interactions into desired actions at a lower cost. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
 | **[!UICONTROL Spend]**       | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire ad. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
-| **Attributes**               | List of inherent features present in this ad placement. | Can help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
+| **Attributes**               | List of inherent features present in this ad placement. | Attributes help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |

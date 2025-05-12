@@ -5,9 +5,8 @@ feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 ---
 # Deploy your app
- 
-Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.
 
+Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.
 
 **To run the app**:
 
@@ -15,7 +14,7 @@ Run the app in `https://localhost:9080`:
 
 ```bash
 aio app run
-``` 
+```
 
 **To deploy the app**:
 
@@ -50,7 +49,7 @@ aio app run
    ```bash
    aio app deploy --force-build --force-deploy
    ```
-  
+
 **To view the app**:
 
 After deployment, you can view the app in GenStudio for Performance Marketing by adding a `query` parameter to the GenStudio for Performance Marketing URL:

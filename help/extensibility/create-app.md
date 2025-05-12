@@ -104,7 +104,7 @@ You define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx
 
 * `AdditionalContextDialog.tsx`: Define this component if you plan to use the _Add Context_ Add-on. Users interact with this component when clicking on _Add-ons_ in the prompt drawer in [!DNL Create].
 
-* `RightPanel.tsx`: Define this component if you plan to use the _Right Panel_ Add-on (experience validation). Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft. 
+* `RightPanel.tsx`: Define this component if you plan to use the _Right Panel_ Add-on (experience validation). Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft.
 
 You are now ready to [Deploy your app](deploy-app.md)
 
