@@ -4,7 +4,7 @@
 
 >[!TIP]
 >
->GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect channel account](/help/user-guide/connectors/connect-channel.md).
+>GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).
 
 ## Note AEM Assets {#note-aem-assets}
 
