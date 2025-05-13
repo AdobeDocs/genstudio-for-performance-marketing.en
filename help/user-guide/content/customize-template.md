@@ -168,8 +168,7 @@ To create an editable section, add double brackets around the section name:
 
 ### Rich text editing
 
-Enhance your creative content during the [!DNL Create] process with rich text editing. The canvas determines rich text capability based on the location of the content placeholder. 
-Rich text capability is available only when you use content placeholders as standalone elements or within block-level HTML tags (such as `<p>`, `<div>`, or `<span>`).
+Enhance your creative content during the [!DNL Create] process with rich text editing. The canvas determines rich text capability based on the location of the content placeholder. Rich text capability is available only when you use content placeholders as standalone elements or within block-level HTML tags (such as `<p>`, `<div>`, or `<span>`).
 
 Rich text edit is available for standalone content in a paragraph:
 
@@ -177,7 +176,7 @@ Rich text edit is available for standalone content in a paragraph:
 <p>{{body}}</p>
 ```
 
-If you use a content placeholder inside an HTML attribute, such as `alt="text"`, rich text editing is not supported for that field.
+If you use a content placeholder inside an HTML attribute (such as `alt`, `href`, or `src`), rich text editing is not supported for that field.
 
 Rich text edit is **not** available for `alt` content:
 
