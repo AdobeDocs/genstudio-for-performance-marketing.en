@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn about creating a campaign.
 feature: Campaign Planning, Campaign Brief
 ---
-# Create a Campaign
+# Create a campaign
 
-A GenStudio for Performance Marketing campaign defines the essential characteristics of a digital campaign. Campaigns are dynamic, evolving as individual stages are deployed and as your team evaluate the success of each stage. GenStudio for Performance Marketing supports the dynamic process of launching a campaign, tracking the performance of individual campaign components, and refocusing ad experiences based on performance metrics.
+A GenStudio for Performance Marketing campaign defines the essential characteristics of a digital campaign. Campaigns are dynamic, evolving as individual stages are deployed and as your team evaluates the success of each stage. GenStudio for Performance Marketing supports the dynamic process of launching a campaign, tracking the performance of individual campaign components, and refocusing ad experiences based on performance metrics.
 
 The key elements of your campaign are stored in a campaign object, which creates a shared context for all assets and experiences labeled with the same unique campaign name. This label identifies the campaign throughout GenStudio for Performance Marketing.
 
@@ -13,7 +13,7 @@ GenStudio system managers and Genstudio editors can create a campaign.
 
 ## Step 1: Define campaign basics
 
-Campaign basics, or details, define the foundational characteristics of your marketing campaign. These details are similar to the defining characteristics included in a campaign brief. 
+Campaign basics, or details, define the foundational characteristics of your marketing campaign. These details are similar to the defining characteristics included in a campaign brief.
 
 Basic _Details_ fields are defined in this table:
 
@@ -40,11 +40,13 @@ Basic _Details_ fields are defined in this table:
 
 ## Step 2: Assign channels and regions
 
-Channel and region settings specify where the campaign is deployed and identify its distribution channels. GenStudio for Performance Marketing uses predefined templates, or _records_, to represent different objects. These object types include channels, regions, personas, and products. When you create a campaign, you associate these predefined personas, regions, products, and channel records with that campaign.
+Channel and region settings determines where the campaign runs and through which distribution channels it is delivered.
 
-* Channel settings define the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. GenStudio for Performance Marketing analyzes data from these channels about your active campaigns, assets, and experiences. [[!DNL Insights]](/help/user-guide/insights/overview.md) then processes this data to provide channel-specific performance analysis.
+GenStudio for Performance Marketing uses predefined templates called records to represent key campaign components—such as channels, regions, personas, and products. When creating a campaign, you associate it with the relevant records for each of these components.
 
-* Region settings specify where your campaign is deployed. Connecting regional data sources tailors content and strategy to local audience preferences and behaviors It also supports more precise targeting and performance analysis based on regional metrics.
+* Channel settings define the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. collects performance data from these channels—covering campaigns, assets, and experiences—and feeds it into [[!DNL Insights]](/help/user-guide/insights/overview.md) for channel-specific analysis.
+
+* Region settings specify the geographic areas where your campaign is deployed. By connecting to regional data sources, GenStudio for Performance Marketing can tailor content and strategy to local audience preferences. This enables more accurate targeting and performance analysis based on regional metrics.
 
 **To select distribution channels for your campaign**:
 
@@ -64,7 +66,11 @@ Channel and region settings specify where the campaign is deployed and identify 
 
 ## Step 3: Assign personas and products
 
-Personas and products are also saved as records. A Persona record, for example, defines the characteristics of a customer segment—your generated content's target audience. It can include information about demographics and history of customer interactions. The personas that are available in the Personas drop-down list are defined on an organization level by your organization's personas guidelines.
+[Personas](/help/user-guide/guidelines/personas.md) and [products](/help/user-guide/guidelines/products.md) are also saved as records. A persona record defines the characteristics of a specific customer segment—your target audience for generated content. It may include demographic details and a history of customer interactions.
+
+Product records define key product specifications and attributes in context of your brand guidelines. Attributes can include features, associated imagery, and product positioning within your brand.
+
+The options in the _Personas_ and _Products_ drop-down menus are defined at the organizational level. When creating a campaign, you select from these predefined records to ensure consistent product representation and support accurate targeting, messaging, and performance tracking.
 
 **To assign personas to your campaign**:
 
@@ -80,7 +86,7 @@ Personas and products are also saved as records. A Persona record, for example, 
 1. Click the + sign (**[!UICONTROL Connect records +]**) next to **[!UICONTROL Products]**.
    The _Select Products_ popup opens. You can search for a specific supported product.
 
-1. Select the products that your campaign includes. Products are defined by your organization during [guidelines creation](/help/user-guide/guidelines/products.md).
+1. Select the products that your campaign promotes. Products are defined by your organization during [guidelines creation](/help/user-guide/guidelines/products.md).
    Optionally, choose **[!UICONTROL See all]** to open a view of all available products.
 
 ## Step 4: Complete campaign creation
@@ -91,13 +97,15 @@ The new campaign name is now available as a campaign label in [!DNL Content] and
 
 ## Step 5: Add content to your campaign
 
-GenStudio for Performance Marketing associates content with a campaign through the campaign label, which is saved in [!DNL Content] metadata. Content can belong to multiple campaigns.  A campaign label identifies the campaign and its attributes in [!DNL Content]. Associating a campaign label with an asset or experience links that content to the specific campaign. You can assign assets and experiences to multiple campaigns.
+GenStudio for Performance Marketing links content to campaigns using campaign labels stored in [!DNL Content] metadata. A single piece of content can be associated with multiple campaigns.
+
+Campaign labels identify the campaign and its attributes. Assigning a label to an asset or experience connects it to the corresponding campaign.
 
 **To add content from [!DNL Content]**
 
 1. From the [!DNL Content] _Experiences_ or _Assets_ gallery, choose the approved experience or asset you want to add.
 
-1. From the _Details_ view, select the name of the campaign from the _Campaign_ dropdown menu.
+1. From the _Details_ view, select the name of the campaign from the _Campaigns_ dropdown menu.
 
 **To add content during content creation**
 
@@ -107,4 +115,4 @@ During content creation, you can publish the newly created asset or experience t
 
 1. Click **[!UICONTROL Publish]**.
 
-This campaign is now available in the _Campaigns_ view.
+This campaign is now available in the _Campaigns_ dashboard.

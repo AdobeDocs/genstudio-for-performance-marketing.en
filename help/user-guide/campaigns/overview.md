@@ -18,32 +18,20 @@ The [!DNL Campaigns] workflow provides:
 
 ## Campaigns use cases
 
-* [Create a campaign](create-campaign.md)
+* [Create a campaign](create-campaign.md). The _Add campaign_ view provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the _Add campaign_ view is saved as a campaign object in [!DNL Content]. 
 
-* [Manage campaigns](manage-campaign.md) and campaign content
+* [Manage campaigns](manage-campaign.md) and campaign content. Campaign elements such as schedules, ad formats, and stakeholders may evolve during a campaign. You can modify existing campaigns by updating content or changing approvers at any point.
 
 ## Campaigns capabilities
 
-[!DNL Campaigns] simplifies the creation of marketing campaigns from content that is created and approved within GenStudio for Performance Marketing. All stakeholders can use [!DNL Campaigns] for visibility into the status and progress of ongoing campaigns.
-
-### Create a marketing campaign
-
-The _Add campaign_ view provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the _Add campaign_ view is saved as a campaign object in [!DNL Content]. 
-
-### Manage existing campaigns and campaign content
-
-Campaign schedules, ad experiences, and stakeholders can change for an ongoing campaign. You can add or remove content and approvers from an existing campaign,
-
-## How Campaigns coordinates other GenStudio for Performance Marketing features
-
 [!DNL Campaigns] orchestrates GenStudio for Performance Marketing generative AI-based capabilities to assist users in planning, creating, coordinating, and measuring campaign performance.
 
-* [!DNL Create] provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Created] Canvas. Your organization's [!DNL Brand] guidelines inform content creation, which from the start of the creation process guides the underlying LLM to conform with your organization's expectations for this campaign. 
+* [[!DNL Create]](/help/user-guide/create/overview.md) provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Created] Canvas. Your organization's [!DNL Brand] guidelines inform content creation, which from the start of the creation process guides the underlying LLM to conform with your organization's expectations for this campaign. 
 
-* Campaigns coordinate approved experiences, and [!DNL Content] provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio, moves through the review and approval process, and then is saved in [!DNL Content].
+* Campaigns coordinate approved experiences, and [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio, moves through the review and approval process, and then is saved in [!DNL Content].
 
-* [!DNL Review and approvals] provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interest in and involvement in campaign asset creation -- from creatives to legal reviewers -- can participate in the process of refining campaign assets.
+* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interest in and involvement in campaign asset creation -- from creatives to legal reviewers -- can participate in the process of refining campaign assets.
 
-* [!DNL Insights] captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets in [!DNL Create].
+* [[!DNL Insights]](/help/user-guide/insights/overview.md) captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets in [!DNL Create].
 
-* [!DNL Activate] supports publication of campaign assets to their designated channels.
+* [[!DNL Activate]](/help/user-guide/activation/overview.md) supports publication of campaign assets as ad experiences to their designated channels.
