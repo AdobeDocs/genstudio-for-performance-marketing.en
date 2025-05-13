@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn about managing campaigns and campaign assets and experiences
-feature: Campaigns, Campaign Brief, Content
+feature: Campaign Planning, Campaign Brief
 ---
 # Manage Campaigns
 

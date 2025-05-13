@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn about creating a campaign.
-feature: Campaigns, Campaign Brief, Content
+feature: Campaign Planning, Campaign Brief
 ---
 # Create a Campaign
 
