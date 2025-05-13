@@ -20,23 +20,12 @@ Before launching an activation, [log in to Meta](https://adsmanager.facebook.com
 
 **Prerequisites**:
 
-Confirm that your connected Meta ad accounts include:
+Confirm that your connected Meta ad accounts have full permission to manage ads and these Meta pages:
 
 * Facebook page
 * Meta campaign
 * Meta ad set
 * Instagram profile (optional)
-
-GenStudio for Performance Marketing requires the following Meta permissions for use with [!DNL Activate]_: 
-
-* `ads_management`
-* `ads_read`
-* `business_management`
-* `instagram_basic`
-* `instagram_content_publish`
-* `pages_manage_ads`
-* `pages_manage_posts`
-* `pages_show_list`
 
 >[!ENDSHADEBOX]
 
@@ -56,24 +45,23 @@ You can prepare your experience for activation by either selecting an approved e
 
 ### Select an approved experience from Content
 
-You can select more than one experience to activate to a single paid channel.
+You can select more than one experience to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details. 
 
-1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**. (Alternatively, you can select one or more experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
+1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**. (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
 
-   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience. If you select more than one experiences to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences.
-
-1.  
+   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. If you have selected more than one experience to activate as a group, use the left sidebar to focus the Experience setup view on the selected experience's details.
 
 1. Select a campaign from the **[!UICONTROL Campaigns]** drop-down menu.
 
-   Your Meta ads account settings determine the available campaigns.
+   If you are working with multiple experiences, toggle through experiences until you have completed preparing each.
 
-1. After selecting your campaign, click **[!UICONTROL Next]** to confirm your Meta ads setup.
+1. Click **[!UICONTROL Next]** to confirm your Meta ads setup.
 
-1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
+1. Assign a name to each experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 
 ### Assemble experience components
 
+If you choose not to directly activate an approved experience from Content, you can still select experience components and activate
 
 **To prepare your experience for activation**:
 
