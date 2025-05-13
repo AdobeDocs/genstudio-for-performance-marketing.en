@@ -11,7 +11,7 @@ GenStudio for Performance Marketing _[!DNL Activate]_ provides a central locatio
 
 Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
 
-[!DNL Activate] displays a product tile for each supported paid media channel. This tile identifies the paid media channel and lists the number of successful ad activations that have occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
+[!DNL Activate] displays a product card for each supported paid media channel. This tile identifies the paid media channel and lists the number of successful ad activations that have occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
 
 Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
 
@@ -29,11 +29,15 @@ _[!DNL Activate]_ facilitates the preparation of ad experiences for distribution
 
 ### Prepare for activation
 
-The _Experience setup_ page consolidates the tools that you need to select the visuals elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+The _Experience setup_ page consolidates the tools that you need to select the visual elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility. 
 
 ### Select assets for ad experience
 
 Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
+
+### Activate an approved experience directly from Content
+
+You can activate an approved experience directly from _[!DNL Content]_. You cannot edit experiences after selecting them for activation. You can also activate multiple approved experiences as an _activation group_ for select paid channels. Experiences must be targeted for the same paid channel. 
 
 ### Preview and activate your experience to an ad channel
 

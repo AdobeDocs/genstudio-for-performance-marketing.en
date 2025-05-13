@@ -41,7 +41,12 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 GenStudio system managers and editors can activate ad experiences.
 
-You can prepare your experience for activation by either selecting an approved experience with predefined settings directly from [!DNL Content]_ or assembling your ad experience. 
+You can prepare your experience for activation in two ways:
+
+* Select an approved experience with predefined settings directly from [!DNL Content]_
+
+* Assemble your ad experience by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios.
+
 
 ### Select an approved experience from Content
 
