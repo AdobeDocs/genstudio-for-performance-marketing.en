@@ -27,17 +27,17 @@ Each paid media channel accounts must be connected to GenStudio for Performance 
 
 _[!DNL Activate]_ facilitates the preparation of ad experiences for distribution to their target paid channels.
 
-### Prepare for activation
+### Activate an approved experience directly from Content
 
-The _Experience setup_ page consolidates the tools that you need to select the visual elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility. 
+You can activate an approved experience directly from _[!DNL Content]_, or activate multiple approved experiences as an activation group for select paid channels. All experiences in a group must target the same paid channel.
+
+### Prepare an experience for activation
+
+The _Experience setup_ page consolidates the tools that you need to select the visual elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
 
 ### Select assets for ad experience
 
 Search for and select approved visual assets from _[!DNL Content]_, or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
-
-### Activate an approved experience directly from Content
-
-You can activate an approved experience directly from _[!DNL Content]_. You cannot edit experiences after selecting them for activation. You can also activate multiple approved experiences as an _activation group_ for select paid channels. Experiences must be targeted for the same paid channel. 
 
 ### Preview and activate your experience to an ad channel
 
