@@ -12,6 +12,8 @@ You can [create a Meta experience](/help/user-guide/create/create-meta-ad.md) in
 
 Activating a Meta ad follows the [same general steps](create-activation.md) required for activation to other paid channels. The activation process supports preparing your ad experience for Meta's specific requirements. After you activate a Meta experience in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to fine-tune the experience for specific Meta ad placements before final publication.
 
+GenStudio system managers and editors can activate ad experiences.
+
 ## Step 1: Set up your Meta accounts
 
 Before launching an activation, [log in to Meta](https://adsmanager.facebook.com/) to access your Meta Ads Manager account. 
@@ -20,7 +22,7 @@ Before launching an activation, [log in to Meta](https://adsmanager.facebook.com
 
 **Prerequisites**:
 
-Confirm that your connected Meta ad accounts have full permission to manage ads and these Meta pages:
+Confirm that your connected Meta ad accounts have full permission to manage ads in these components of the Meta advertising platform:
 
 * Facebook page
 * Meta campaign
@@ -31,7 +33,7 @@ Confirm that your connected Meta ad accounts have full permission to manage ads 
 
 ## Step 2: Connect to your Meta accounts
 
-Before your organization can activate experiences, a GenStudio system manager needs to connect your Meta accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio and external marketing tools such as Meta, enabling the activation process.
+Before your organization can activate experiences, a GenStudio system manager must connect your Meta accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio and external marketing tools such as Meta, enabling the activation process.
 
 See [Connect to Meta Ads](/help/user-guide/connectors/meta-ads.md).
 
@@ -39,34 +41,35 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 ## Step 3: Prepare your experience for activation
 
-GenStudio system managers and editors can activate ad experiences.
-
 You can prepare your experience for activation in two ways:
 
-* Select an approved experience with predefined settings directly from [!DNL Content]_
+* **Activate an approved experience with predefined settings** directly from [!DNL Content]_. This is the most streamlined way to activate one or more ad experiences to a single channel.
 
-* Assemble your ad experience by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios.
+* **Assemble your ad experience** by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios. This approach has more steps but provides greater flexibility when crafting your creative experience. 
 
+### Activate an approved experience from Content
 
-### Select an approved experience from Content
+You can select more than one experiences to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details. 
 
-You can select more than one experience to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details. 
+1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate].
 
-1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**. (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
+   (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
 
-   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. If you have selected more than one experience to activate as a group, use the left sidebar to focus the Experience setup view on the selected experience's details.
+   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 1. Select a campaign from the **[!UICONTROL Campaigns]** drop-down menu.
 
-   If you are working with multiple experiences, toggle through experiences until you have completed preparing each.
+   If you are working with multiple experiences, toggle through experiences on the left sidebar until you have completed preparing each experience.
 
 1. Click **[!UICONTROL Next]** to confirm your Meta ads setup.
 
 1. Assign a name to each experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 
+After assigning a name to the ad experience, 
+
 ### Assemble experience components
 
-If you choose not to directly activate an approved experience from Content, you can still select experience components and activate
+If you choose not to directly activate an approved experience from _[!DNL Content]_, you can select assets, assign aspect ratios, and draft text elements.
 
 **To prepare your experience for activation**:
 
@@ -157,7 +160,7 @@ After assembling or selecting your experience, click **[!UICONTROL Next]** to co
 
 ## Step 4: Confirm Meta account setup
 
-After preparing your experience, you must confirm your Meta account information and assign a tracking ID to the ad experience. The _Meta ad setup_ view is populated with options that are derived from the configured Meta accounts.
+After either selecting experiences from Content to directly activate or assembling an experience, you must confirm your Meta account information and assign a tracking ID to each ad experience. The _Meta ad setup_ view is populated with options that are derived from the configured Meta accounts.
 
 | Detail     | Description |
 |------------|-------------|
