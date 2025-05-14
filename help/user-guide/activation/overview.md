@@ -17,9 +17,9 @@ Each paid media channel accounts must be connected to GenStudio for Performance 
 
 ## Activate use cases
 
-* [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
-
 * Activate approved experiences directly from _[!DNL Content]_ for select paid ad channels.
+
+* [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
 
 * [Manage activations](manage-activations.md). _[!DNL Activate]_ provides an overview of all activated experiences. You can also view the details of individual activations.
 
