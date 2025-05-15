@@ -107,9 +107,7 @@ In this example:
 
 ### Alternative text
 
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-Use a user-defined field name as a placeholder to generate an alternative text (alt text) description for an image. The following `{{imageDescription}}` placeholder is used with the `{{image}}` field within the same `<img>` tag, ensuring that the relationship between the image and its description persists.
+Use a user-defined field name as a placeholder to generate an alternative text (HTML `alt="text"` attribute) description for an image. The following `{{imageDescription}}` placeholder is used with the `{{image}}` field within the same `<img>` tag, ensuring that the relationship between the image and its description persists.
 
 ```html
 <img src="{{image}}" alt="{{imageDescription}}">
