@@ -51,7 +51,7 @@ You can prepare your experience for activation in two ways:
 
 You can select more than one experiences to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details. 
 
-1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate].
+1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**.
 
    (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
 
@@ -65,7 +65,6 @@ You can select more than one experiences to activate to a single paid channel. I
 
 1. Assign a name to each experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 
-After assigning a name to the ad experience, 
 
 ### Assemble experience components
 
@@ -126,7 +125,7 @@ Activate experiences directly from Content
 
 ### Add ad text
 
-Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text.
+Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text. You cannot edit the _Primary text_, _Headlines_, and _Description_ fields. You can edit the _Call-to-action_, _Display link_, and _Website URL_ fields. 
 
 | Field           | Required                  | Character limit (max)           |
 |-----------------|---------------------------|---------------------------------|
@@ -139,7 +138,7 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 | Website URL     | yes                       | 1000                            |
 | Image           | at least one required     |                                 |
 
-GenStudio for Performance Marketing requires _Primary text_ and _headline_, not Meta.
+GenStudio for Performance Marketing requires _Primary text_ and _headline_, not Meta. 
 
 ### Assign metadata
 
