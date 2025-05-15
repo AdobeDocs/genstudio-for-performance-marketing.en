@@ -6,6 +6,12 @@
 >
 >GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).
 
+## Note on CSS effects {#note-css-effects}
+
+>[!NOTE]
+>
+>GenStudio for Performance Marketing does not support certain CSS graphical effects, such as the `backdrop-filter` filter effect (blurring, brightness, contrast). If your template uses these properties, they may not appear as expected in the exported content.
+
 ## Note AEM Assets {#note-aem-assets}
 
 >[!INFO]

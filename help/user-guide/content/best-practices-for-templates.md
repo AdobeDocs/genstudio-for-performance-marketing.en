@@ -43,6 +43,8 @@ When creating templates, ensure they meet the specific requirements of the inten
 - Use Adobe or Google fonts
 - Do **not** use JavaScript
 
+{{note-css-effects}}
+
 Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
 >[!BEGINTABS]
