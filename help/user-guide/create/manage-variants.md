@@ -175,6 +175,8 @@ Similar to adding or swapping images in generated variants, you can add a link t
 
 When you add content (images) during the creation process, you can define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
 
+To enable alt text functionality, [add a content placeholder](/help/user-guide/content/customize-template.md#alternative-text) in the template.
+
 **To add alt text to images in generated variants**:
 
 1. After generating a set of variants, click an image within an individual variant.

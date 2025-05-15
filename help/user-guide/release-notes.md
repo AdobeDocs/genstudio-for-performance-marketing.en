@@ -9,7 +9,15 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.04.10 {#latest}
+## 2025.05.15 {#latest}
+
+### Fixes and enhancements
+
+* Added functionality for [adding alternative (alt) text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) to an image for an individual variant.
+
+## Earlier release notes
+
++++Notes from 2025.05.15
 
 ### Fixes and enhancements
 
@@ -17,8 +25,6 @@ This release information details the latest updates to the GenStudio for Perform
 * Enabled functionality to [view and select individual layers](/help/user-guide/create/manage-variants.md#view-layers)—editable text fields or editable images—of an experience to highlight them for revisions, such as regenerating content or cropping images.
 * Added a [new template field](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
 * Added support for [publishing ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing into Google Campaign Manager 360. Activate supports detailed Google Campaign Manager 360 ad previews before publishing to a Campaign Manager 360 advertiser. Ads published through Activate are automatically pulled into the Insights once live, enabling users to track and report on ad performance.
-
-## Earlier release notes
 
 +++Notes from 2025.03.13
 
