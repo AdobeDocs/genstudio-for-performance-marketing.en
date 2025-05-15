@@ -186,7 +186,8 @@ Because of this rule, the sections cannot be nested.
 
 Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
 
-For example, an email template can include up to three sections; therefore, you could have three headline and body sections.:
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
+
 
 - `pre_header`
 - `pod1_headline`
