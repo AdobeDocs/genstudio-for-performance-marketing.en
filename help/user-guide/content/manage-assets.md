@@ -77,7 +77,7 @@ The following table lists the management tasks available for assets, experiences
 | [View details](/help/user-guide/content/asset-details.md) |   ✓    |     ✓       |     ✓     |
 | [Create experience](/help/user-guide/create/overview.md)  |        |             |     ✓     |
 | [Edit in Adobe Express](#edit-in-express)                 |   ✓    |             |           |
-| [Export for Activation](#export-for-activation)           |        |     ✓       |           |
+| [Export experiences](#export-experiences)                 |        |     ✓       |           |
 | [Refresh](/help/user-guide/content/use-templates.md#refresh-template) |   |      |     ✓     |
 | [Download](#download-assets)                              |   ✓    |             |     ✓     |
 | [Delete](#delete-assets)                                  |   ✓    |     ✓       |     ✓     |
@@ -130,22 +130,28 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 1. In the _Delete asset_ popup, verify the asset and click **[!UICONTROL Delete]**.
 
-## Export for activation
+## Export experiences
 
-You can export an approved experience for activation in a format compatible with your target channel.
+You can select one or more approved experiences for download in a format compatible with your target channel. The downloaded file is named using the date of export: `2024-06-15-export.zip`. When you unzip the file, there is a folder for each channel type that includes the exported assets in the formats you selected. Each exported asset retains its original asset name as the filename.
 
-**To export an experience**:
+**To export or download experiences**:
 
-1. In _[!DNL Content]_, select an experience. Clicking on an experience opens the details view or click the shortcut menu (`...`).
+1. In _[!DNL Content]_, select one or more experiences.
 
-1. Click **[!UICONTROL Export for activation]** (box with arrow pointing out).
+   A banner appears with the number of experiences selected on the left and options to [!UICONTROL Activate], [!UICONTROL Download], or [!UICONTROL Delete] on the right.
 
-1. In the _Export for activation_ popup, select one of the available formats:
+1. (Optional) If you choose to activate, you may be asked to select a platform and then continue with the [!DNL Activate] workflow. See [Activation](/help/user-guide/activation/overview.md).
 
-   - Email: `HTML`, `CSV`
+1. Click **[!UICONTROL Download]**.
+
+1. In the _Download_ popup, select from the available formats.
+
+   If you selected multiple experiences from different channels, you have the opportunity to select the format for each channel type.
+
+   - Email, LinkedIn: `HTML`, `CSV`
    - Meta, Banner, and Display ad: `HTML`, `JPEG`, `PNG`
 
-See [Activation](/help/user-guide/activation/overview.md).
+   ![Download experiences](/help/assets/content-bulk-export.png "Download multiple experiences"){width=350}
 
 ## Edit in Express
 
