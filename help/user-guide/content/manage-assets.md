@@ -132,7 +132,7 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 ## Export experiences
 
-You can select one or more approved experiences for download in a format compatible with your target channel. The downloaded file is named using the date of export: `2024-06-15-export.zip`. When you unzip the file, there is a folder for each channel type that includes the exported assets in the formats you selected. Each exported asset retains its original asset name as the filename.
+You can select one or more approved experiences for download in a format compatible with your target channel. The downloaded file is named using the date of export: `2025-06-15-export.zip`. When you unzip the file, there is a folder for each channel type that includes the exported assets in the formats you selected. Each exported asset retains its original asset name as the filename.
 
 **To export or download experiences**:
 
@@ -140,7 +140,7 @@ You can select one or more approved experiences for download in a format compati
 
    A banner appears with the number of experiences selected on the left and options to [!UICONTROL Activate], [!UICONTROL Download], or [!UICONTROL Delete] on the right.
 
-1. (Optional) If you choose to activate, you may be asked to select a platform and then continue with the [!DNL Activate] workflow. See [Activation](/help/user-guide/activation/overview.md).
+1. (Optional) If you choose to activate, you may be asked to select a platform and then continue with the [!DNL Activate] workflow. See [Activate](/help/user-guide/activation/overview.md).
 
 1. Click **[!UICONTROL Download]**.
 
