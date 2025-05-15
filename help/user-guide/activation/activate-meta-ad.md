@@ -55,7 +55,7 @@ You can select more than one experiences to activate to a single paid channel. I
 
    (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
 
-   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details, which you cannot revise, from the selected experience. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
+   The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You can edit the **[!UICONTROL Call-to-action]**, **[!UICONTROL Website URL]**, and **[!UICONTROL Display link]** fields. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 1. Select a campaign from the **[!UICONTROL Campaigns]** drop-down menu.
 
@@ -64,7 +64,6 @@ You can select more than one experiences to activate to a single paid channel. I
 1. Click **[!UICONTROL Next]** to confirm your Meta ads setup.
 
 1. Assign a name to each experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
-
 
 ### Assemble experience components
 
