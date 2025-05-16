@@ -22,7 +22,6 @@ Editable sections of an email experience include:
 * Body
 * Call to action (CTA)
 * Image
-* Brand logo
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
 
