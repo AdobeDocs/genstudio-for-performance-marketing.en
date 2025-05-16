@@ -16,7 +16,7 @@ GenStudio system managers and editors can activate ad experiences.
 
 ## Step 1: Set up your Meta accounts
 
-Before launching an activation, [log in to Meta](https://adsmanager.facebook.com/) to access your Meta Ads Manager account. 
+Before launching an activation, [log in to Meta](https://adsmanager.facebook.com/) to access your Meta Ads Manager account.
 
 >[!BEGINSHADEBOX]
 
@@ -41,19 +41,17 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 ## Step 3: Prepare your experience for activation
 
-You can prepare your experience for activation in two ways:
+You can launch an activation in two ways:
 
-* **Activate an approved experience with predefined settings** directly from [!DNL Content]_. This is the most streamlined way to activate one or more ad experiences to a single channel.
+* **Activate directly from [!DNL Content]_**. Selecting an approved experience with predefined settings is the most streamlined way to launch an activation to a single channel.
 
-* **Assemble your ad experience** by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios. This approach has more steps but provides greater flexibility when crafting your creative experience. 
+* **Assemble your ad experience from [!DNL Activate] > _Experience setup_** You can create an experience by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios. This approach has more steps but provides greater flexibility when crafting your creative experience.
 
 ### Activate an approved experience from Content
 
-You can select more than one experiences to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details. 
+You can select more than one experiences to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**.
-
-   (Alternatively, you can select experiences from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Meta ads product card.)
 
    The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You can edit the **[!UICONTROL Call-to-action]**, **[!UICONTROL Website URL]**, and **[!UICONTROL Display link]** fields. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
@@ -73,7 +71,7 @@ If you choose not to directly activate an approved experience from _[!DNL Conten
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the icon representing your chosen paid channel. The _Experience setup_ view opens.
 
-   The _Experience setup_ page provides a central location for preparing your ad activation. Preparing your ad includes these three tasks: 
+   The _Experience setup_ page provides a central location for preparing your ad activation. Preparing your ad includes these three tasks:
 
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
 1. Select media assets. You can use assets from _[!DNL Content]_ or upload external assets (for example, from OneDrive or Dropbox).
@@ -90,7 +88,7 @@ After upload, assets are saved to _[!DNL Content]_. The _Media_ area displays th
 
 **To upload an asset from Content**:
 
-_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options. 
+_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options.
 
 1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the channel card. The _Experience setup_ view opens.
 
@@ -120,11 +118,9 @@ You can upload up to six static images external to the _[!DNL Content]_ gallery 
 
 1. When you have uploaded your assets and assigned details, click **[!UICONTROL Add Assets]** on the bottom right.
 
-Activate experiences directly from Content
-
 ### Add ad text
 
-Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text. You cannot edit the _Primary text_, _Headlines_, and _Description_ fields. You can edit the _Call-to-action_, _Display link_, and _Website URL_ fields. 
+Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-adherent text to required text fields. Text includes the primary (body) text for the ad and call-to-action text. You cannot edit the _Primary text_, _Headlines_, and _Description_ fields. You can edit the _Call-to-action_, _Display link_, and _Website URL_ fields.
 
 | Field           | Required                  | Character limit (max)           |
 |-----------------|---------------------------|---------------------------------|
@@ -137,7 +133,7 @@ Use the _Text_ section of the _Activate Meta ad_ page to add compelling, brand-a
 | Website URL     | yes                       | 1000                            |
 | Image           | at least one required     |                                 |
 
-GenStudio for Performance Marketing requires _Primary text_ and _headline_, not Meta. 
+GenStudio for Performance Marketing requires _Primary text_ and _headline_, not Meta.
 
 ### Assign metadata
 
@@ -158,7 +154,7 @@ After assembling or selecting your experience, click **[!UICONTROL Next]** to co
 
 ## Step 4: Confirm Meta account setup
 
-After either selecting experiences from Content to directly activate or assembling an experience, you must confirm your Meta account information and assign a tracking ID to each ad experience. The _Meta ad setup_ view is populated with options that are derived from the configured Meta accounts.
+After preparing your ad experiences, you must confirm your Meta account information. The _Meta ad setup_ view is populated with options that are derived from the configured Meta accounts.
 
 | Detail     | Description |
 |------------|-------------|
