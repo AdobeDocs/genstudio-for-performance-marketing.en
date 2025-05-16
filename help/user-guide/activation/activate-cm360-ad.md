@@ -26,11 +26,11 @@ After the sync is complete, you can view the added accounts.
 
 You can start the publication process from either the _[!DNL Content]_ Experiences gallery or the _[!DNL Activate]_ home. Approved experiences cannot be edited. Each experience can contain only one asset.
 
-**To select an experience**:
+**To select experiences**:
 
 1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Use]**. (Alternatively, you can select an experience from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Google Campaign Manager 360 product card.)
 
-   The Google Campaign Manager 360 _Experience setup_ page opens for this experience. It is pre-populated with the experience's details, which you cannot revise.
+   The Google Campaign Manager 360 _Experience setup_ page opens for this experience. It is pre-populated with the experience's details, which you cannot revise. You may be asked to select a platform before continuing with activation.
 
 1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
 

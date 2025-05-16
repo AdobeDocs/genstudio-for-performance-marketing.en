@@ -49,7 +49,9 @@ You can launch an activation in two ways:
 
 ### Activate an approved experience from Content
 
-You can select more than one experiences to activate to a single paid channel. If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details.
+You can select more than one experiences to activate to a single paid channel. You may be asked to select a platform before continuing with activation.
+
+If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**.
 
