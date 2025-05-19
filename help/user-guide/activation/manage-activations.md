@@ -35,7 +35,7 @@ From the _Activated experiences_ view, click on an activation. The read-only _Ac
 
 * **Publication time and date**: Time and date of publication from the ad channel manager
 * **Ad ID**: ID assigned by the paid channel and used for tracking. Click the **[!UICONTROL Open]** button adjacent to this field to view the published ad in Meta Ads Manager
-* **Creative details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
+* **Experience details**: The selected image assets, texts, and metadata assigned during the GenStudio for Performance Marketing activation workflow
 * **Channel setup**: The paid channel accounts used to activate the ad experience
 
 The _Details_ view of a failed activation includes the reason for failure.
