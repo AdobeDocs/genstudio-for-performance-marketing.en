@@ -22,7 +22,7 @@ Once your template is ready, you can [upload it to GenStudio for Performance Mar
 
 GenStudio for Performance Marketing recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a [recognized field name](#recognized-field-names).
 
-Within the head or body of an HTML template, you can use the [!DNL Handlebars] syntax to insert a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets the content placeholders based on the [recognized _field_ name](#recognized-field-names).
+Within the head or body of an HTML template, you can use the [!DNL Handlebars] syntax to insert a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets these placeholders based on the [recognized _field_ name](#recognized-field-names). Each field name is associated with specific rules and behaviors that determine how content is generated and inserted into your template.
 
 For example, you can use `{{headline}}` with the [!DNL Handlebars] syntax to indicate where the headline of the email should be placed. GenStudio recognizes this field, generates a relevant headline based on your guidelines and prompt criteria, and inserts the headline in this location:
 
@@ -32,7 +32,7 @@ For example, you can use `{{headline}}` with the [!DNL Handlebars] syntax to ind
 
 ### Recognized field names
 
-The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
+The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Each field follows specific channel guidelines, LLM instructions, and role-base rules. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
 
 | Field                   | Role                      | Channel template                                 |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
@@ -168,9 +168,12 @@ To create an editable section, add double brackets around the section name:
 
 ## Sections or groups
 
-_Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+You can use sections in a marketing email template when you have two or three groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+
+Use a group name of your choice as a prefix to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+
+Syntax: `groupname_fieldname`
 
 - _Correct_ (👍): `pod1_body`
 - _Incorrect_ (❌): `pod1body`
@@ -187,7 +190,6 @@ Because of this rule, the sections cannot be nested.
 Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
-
 
 - `pre_header`
 - `pod1_headline`
