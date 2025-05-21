@@ -6,7 +6,7 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 ---
 # Manage Campaigns
 
-The default view of the Campaigns dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, card view, and timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table.
+The default view of the [!DNL Campaigns] dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, card view, and timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table.
 
 * **List view**-This default view displays a subset of the defining details that are entered during campaign creation. List view includes description, channels, regions, start and end dates, and status.
 * **Card view**-This gallery view represents each campaign by a card.

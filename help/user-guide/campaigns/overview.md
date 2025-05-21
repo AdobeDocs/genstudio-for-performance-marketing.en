@@ -19,9 +19,9 @@ The [!DNL Campaigns] workflow provides:
 
 ## Campaigns use cases
 
-* [Create a campaign](create-campaign.md). The _Add campaign_ view provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the _Add campaign_ view is saved as a campaign object in [!DNL Content]. 
+* [Create a campaign](create-campaign.md). The _Add campaign_ view provides a framework for creating a campaign in GenStudio for Performance Marketing. Information entered in the _Add campaign_ view is saved as a campaign object in [!DNL Campaigns]. 
 
-* [Manage campaigns](manage-campaign.md) and campaign content. Campaign elements such as schedules, ad formats, and stakeholders may evolve during a campaign. You can modify existing campaigns by updating content or changing approvers at any point.
+* [Manage campaigns](manage-campaign.md) and campaign content. Campaign elements such as schedules, ad formats, and stakeholders may evolve during a campaign. You can modify existing campaigns by updating content.
 
 ## Campaigns capabilities
 
@@ -29,9 +29,9 @@ The [!DNL Campaigns] workflow provides:
 
 * [[!DNL Create]](/help/user-guide/create/overview.md) provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Created] Canvas. Your organization's [!DNL Brand] guidelines inform content creation, which from the start of the creation process guides the underlying LLM to conform with your organization's expectations for this campaign. 
 
-* Campaigns coordinate approved experiences, and [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio, moves through the review and approval process, and then is saved in [!DNL Content].
+* [!DNL Campaigns] coordinates approved experiences, and [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio for Performance Marketing, moves through the review and approval process, and then is saved in [!DNL Content].
 
-* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interest in and involvement in campaign asset creation -- from creatives to legal reviewers -- can participate in the process of refining campaign assets.
+* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interests and involvement in campaign asset creation--from creatives to legal reviewers--can participate in the process of refining campaign assets.
 
 * [[!DNL Insights]](/help/user-guide/insights/overview.md) captures performance metrics for individual campaign elements and entire campaigns. Marketers can set up metrics to evaluate the campaign's success, such as click-through rates, conversion rates, and engagement levels. Stakeholders can use these metrics to assess the performance of these campaign elements. These insights can fuel creative reworking of assets in [!DNL Create].
 

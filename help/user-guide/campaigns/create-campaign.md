@@ -6,11 +6,11 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 ---
 # Create a campaign
 
-A GenStudio for Performance Marketing campaign defines the essential characteristics of a digital campaign. Campaigns are dynamic, evolving as individual stages are deployed and as your team evaluates the success of each stage. GenStudio for Performance Marketing supports the dynamic process of launching a campaign, tracking the performance of individual campaign components, and refocusing ad experiences based on performance metrics.
+A GenStudio for Performance Marketing campaign defines key digital campaign traits and evolves as stages are deployed and assessed. GenStudio for Performance Marketing supports the dynamic process of launching a campaign, tracking the performance of individual campaign components, and refocusing ad experiences based on performance metrics.
 
 The key elements of your campaign are stored in a campaign object, which creates a shared context for all assets and experiences labeled with the same unique campaign name. This label identifies the campaign throughout GenStudio for Performance Marketing.
 
-GenStudio system managers and Genstudio editors can create a campaign.
+GenStudio system managers and Genstudio editors can create campaigns.
 
 ## Step 1: Define campaign basics
 
@@ -33,7 +33,7 @@ Basic _Details_ fields are defined in this table:
 
 1. From [!DNL Campaigns], click **[!UICONTROL Add campaign]**. The _Create a campaign_ view opens.
 
-   Details encompass both optional and mandatory fields that define your campaign. These details are saved in [!DNL Content] as metadata attributes of the campaign.
+   Details encompass both optional and mandatory fields that define your campaign. These details are saved in [!DNL Campaigns] as metadata attributes of the campaign.
 
 1. Double-click the _New campaign_ header and enter an informative, unique name. This name becomes a _campaign label_ in GenStudio for Performance Marketing, allowing you to associate assets or experiences with the campaign during upload and creation.
 
@@ -41,11 +41,11 @@ Basic _Details_ fields are defined in this table:
 
 ## Step 2: Assign channels and regions
 
-Channel and region settings determines where the campaign runs and through which distribution channels it is delivered.
+Channel and region settings determine where the campaign is deployed and its distribution channels.
 
-GenStudio for Performance Marketing uses predefined templates called records to represent key campaign components—such as channels, regions, personas, and products. When creating a campaign, you associate it with the relevant records for each of these components.
+GenStudio for Performance Marketing uses predefined templates called _records_ to represent key campaign components—such as channels, regions, personas, and products. When creating a campaign, you associate it with the relevant records for each of these components.
 
-* Channel settings define the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. collects performance data from these channels—covering campaigns, assets, and experiences—and feeds it into [[!DNL Insights]](/help/user-guide/insights/overview.md) for channel-specific analysis.
+* Channel settings define the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. data about the performance of campaigns, assets, and experiences in these channels is fed into [[!DNL Insights]](/help/user-guide/insights/overview.md) for channel-specific analysis.
 
 * Region settings specify the geographic areas where your campaign is deployed. By connecting to regional data sources, GenStudio for Performance Marketing can tailor content and strategy to local audience preferences. This enables more accurate targeting and performance analysis based on regional metrics.
 
