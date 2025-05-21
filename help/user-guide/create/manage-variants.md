@@ -108,7 +108,7 @@ You can manually crop and reposition image assets in individual generated varian
 
 ## Change aspect ratio
 
-You can quickly change the aspect ratio of Meta ads to accommodate the desired ad sizing.
+You can quickly change the aspect ratio of Meta ads to accommodate the desired ad sizing. Choose an image aspect ratio that closely matches your template dimensions to avoid unwanted cropping or stretching. For example, if your template is 1200 × 628 pixels (a wide rectangle), using a 1:1 square image may crop the sides, potentially cutting off important content. The optimal image size would be 628 x 628 pixels, which matches the height of the template.
 
 Available size/aspect ratios are:
 
