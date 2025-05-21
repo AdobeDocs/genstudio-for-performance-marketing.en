@@ -168,7 +168,8 @@ To create an editable section, add double brackets around the section name:
 
 ## Sections or groups
 
-You can use sections in a marketing email template when you have 2 or more groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+You can use sections in a marketing email template when you have two or three groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+
 
 Use a group name of your choice as a prefix to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
 
