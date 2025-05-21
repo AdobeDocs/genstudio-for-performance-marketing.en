@@ -27,7 +27,7 @@ The [!DNL Campaigns] workflow provides:
 
 [!DNL Campaigns] orchestrates GenStudio for Performance Marketing generative AI-based capabilities to assist users in planning, creating, coordinating, and measuring campaign performance.
 
-* [[!DNL Create]](/help/user-guide/create/overview.md) provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Created] Canvas. Your organization's [!DNL Brand] guidelines inform content creation, which from the start of the creation process guides the underlying LLM to conform with your organization's expectations for this campaign. 
+* [[!DNL Create]](/help/user-guide/create/overview.md) provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Create] canvas. Your [!DNL Brand] guidelines inform content creation and guide the underlying LLM to conform with your organization's expectations for this campaign. 
 
 * [!DNL Campaigns] coordinates approved experiences, and [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio for Performance Marketing, moves through the review and approval process, and then is saved in [!DNL Content].
 
