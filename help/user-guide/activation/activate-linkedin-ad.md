@@ -6,7 +6,7 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 ---
 # Activate a LinkedIn ad
 
-Adobe GenStudio for Performance Marketing supports the activation of LinkedIn experiences with single assets to LinkedIn pages.
+Adobe GenStudio for Performance Marketing supports the activation of LinkedIn experiences with single assets to [LinkedIn Campaign Manager](https://business.linkedin.com/marketing-solutions) and LinkedIn pages.
 
 You can [create a LinkedIn experience](/help/user-guide/create/create-linkedin.md) in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
 
@@ -33,11 +33,9 @@ Before launching an activation, [sign in to](https://www.linkedin.com/campaignma
 
 Before your organization can activate experiences, a GenStudio system manager must connect your LinkedIn accounts to GenStudio for Performance Marketing. This connection allows data to flow between GenStudio and external marketing tools such as LinkedIn, enabling the activation process.
 
-See [Connect to LinkedIn].
-
 After the sync has completed, you can view the added accounts. Large amounts of data take longer to sync.
 
-## Step 3: Prepare your experience 
+## Step 3: Prepare your experience
 
 You can launch an activation by selecting one or more approved experiences with predefined settings from [!DNL Content].
 
@@ -47,7 +45,7 @@ The _Preview panel_ supports an interactive view of your text and assets in the 
 
 ### Activate an approved experience from Content
 
-You can select one or more experiences to activate to a single paid channel. Experiences can contain only one asset. Details are loaded from the selected approved experiences. 
+You can select one or more experiences to activate to a single paid channel. Experiences can contain only one asset. Details are loaded from the selected approved experiences.
 
 Editable experience details include:
 
@@ -92,11 +90,11 @@ The _Review_ page provides a final opportunity to review your activation before 
 1. (Optional) Click **[!UICONTROL Edit section]** next to the experience or platform details that you want to edit.
    Depending on the section you selected, the _Experiences setup_ or _Platform setup_ view opens.
 
-1. (Optional) Edit details, then click **[!UICONTROL Next]** to return to the _Review_ view. 
+1. (Optional) Edit details, then click **[!UICONTROL Next]** to return to the _Review_ view.
 
 1. Click **[!UICONTROL Publish]**.
 
-   The complete LinkedIn ad experience and its associated metadata are pushed directly into the designated LinkedIn Campaigns Manager campaign. Experiences are delivered in an inactive state. From LinkedIn Campaign Manager, you can manage the final steps of deploying the ad experience and LinkedIn campaign. 
+   The complete LinkedIn ad experience and its associated metadata are pushed directly into the designated LinkedIn Campaigns Manager campaign. Experiences are delivered in an inactive state. From LinkedIn Campaign Manager, you can manage the final steps of deploying the ad experience and LinkedIn campaign.
 
 ## Step 6: Complete publication of your ad experience
 
