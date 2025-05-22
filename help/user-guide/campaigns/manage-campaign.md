@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudio for Performance Marketing Campaigns
-description: Learn about managing campaigns and campaign assets and experiences
+description: Learn about managing campaigns and campaign content
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 ---
@@ -22,7 +22,6 @@ Each view provides the following capabilities:
 
 To view the details of a specific campaign, click the campaign name in the List or Card view. The _Campaign Details_ view opens. These campaign details are the attributes assigned during campaign creation.
 
-
 | Detail     | Description |
 |------------|-------------|
 | Campaign name   | Unique name used to identify the campaign. This name is available as a campaign label through the product. |
@@ -34,12 +33,11 @@ To view the details of a specific campaign, click the campaign name in the List 
 | Status          | Upcoming-Scheduled to begin at a future date<br>Active-Currently running and delivering content to the selected channels<br>Complete-Campaign ended |
 | Last modified   | (Read-only) Timestamp that identifies the last time campaign details or content were edited.                  |
 
-
 **To view content associated with this campaign**:
 
 1. Click **[!UICONTROL Content]** just below the campaign name. A _Filter campaign content_ view opens.
 
-1. Toggle the **[!UICONTROL Filter by]** area toggle buttons to identify campaign content by _Assets_, _Experiences_, and _Templates_.
+1. Toggle **[!UICONTROL Filter by]** area toggle buttons to identify campaign content by _Assets_, _Experiences_, and _Templates_.
    This view displays linked assets, experiences, and templates. Double-click on an asset's card to see details.
 
 ## Refresh campaign content
@@ -65,14 +63,16 @@ As campaigns progress, target audiences and schedules may need adjustment. You c
 The campaign's _Details_ view includes the channels, target personas, regions, and products that are linked to this campaign.
 
 1. Click **[!UICONTROL Connect records]** to the right of the _Channels_, _Regions_, _Personas_, or _Products_ label.
+   
    The _Connect Records_ popup opens.
 
 1. Select the setting that you want to add or remove.
+   
    To see additional options, click **[!UICONTROL Select all]**. The _Connect Objects_ popup opens.
 
 ## Delete a campaign
 
-Deleting a campaign results in the removal from the campaign object and all defining campaign attributes from Content. It removes the campaign label from all assets and experiences without removing the experience or asset itself.
+Deleting a campaign removes it from the campaign object and all defining campaign attributes from [!DNL Content]. It removes the campaign label from all assets and experiences without removing the experience or asset itself.
 
 **To delete a campaign**:
 

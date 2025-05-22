@@ -15,7 +15,7 @@ The [!DNL Campaigns] workflow provides:
 
 * Coordination of all assets and experiences that are created or imported into GenStudio for Performance Marketing
 
-* Centralized view of all your organization's campaigns from the [!DNL Campaigns] timeline view.
+* Centralized view of all your organization's campaigns from the [!DNL Campaigns] timeline view
 
 ## Campaigns use cases
 
@@ -25,11 +25,11 @@ The [!DNL Campaigns] workflow provides:
 
 ## Campaigns capabilities
 
-[!DNL Campaigns] orchestrates GenStudio for Performance Marketing generative AI-based capabilities to assist users in planning, creating, coordinating, and measuring campaign performance.
+[!DNL Campaigns] orchestrates GenStudio for Performance Marketing's generative AI-based capabilities to assist users in planning, creating, coordinating, and measuring campaign performance.
 
 * [[!DNL Create]](/help/user-guide/create/overview.md) provides generative AI-based tools for creating brand-aligned campaign assets. The process of creating new experiences, assets, and asset variants is centralized in the [!DNL Create] canvas. Your [!DNL Brand] guidelines inform content creation and guide the underlying LLM to conform with your organization's expectations for this campaign. 
 
-* [!DNL Campaigns] coordinates approved experiences, and [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio for Performance Marketing, moves through the review and approval process, and then is saved in [!DNL Content].
+* [[!DNL Content]](/help/user-guide/content/overview.md) provides a library of approved assets and experiences that can be included in campaigns. Content is typically generated in GenStudio for Performance Marketing, moves through the review and approval process, and then is saved in [!DNL Content].
 
 * [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) provides the structure for collaborative review and approval of individual assets and experiences. Stakeholders with different interests and involvement in campaign asset creation--from creatives to legal reviewers--can participate in the process of refining campaign assets.
 

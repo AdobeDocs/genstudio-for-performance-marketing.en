@@ -12,16 +12,16 @@ The key elements of your campaign are stored in a campaign object, which creates
 
 GenStudio system managers and Genstudio editors can create campaigns.
 
-## Step 1: Define campaign basics
+## Step 1: Define campaign details
 
-Campaign basics, or details, define the foundational characteristics of your marketing campaign. These details are similar to the defining characteristics included in a campaign brief.
+Campaign details define the foundational characteristics of your marketing campaign. These details are similar to the defining characteristics included in a campaign brief.
 
-Basic _Details_ fields are defined in this table:
+_Details_ fields are defined in this table:
 
 | Detail     | Description |
 |------------|-------------|
-| Campaign name   | Unique name used to identify the campaign. This name is available as a campaign label through the product. |
-| Description     | Summary of campaign for internal stakeholders   |
+| Campaign name   | Unique name used to identify the campaign. This name is available as a campaign label throughout the product. |
+| Description     | Summary of campaign for internal stakeholders.   |
 | Objective       | Primary goals of the campaign, such as increasing brand awareness, generating leads, or driving sales. |
 | Key messaging   | Defines the central message to be communicated in all campaign assets.<br>Focuses content creators on the campaign's strategic message and tone.                                                                                              |
 | Start           | The quarter, season, or year during which the ad experience becomes active.                       |
@@ -45,24 +45,28 @@ Channel and region settings determine where the campaign is deployed and its dis
 
 GenStudio for Performance Marketing uses predefined templates called _records_ to represent key campaign components—such as channels, regions, personas, and products. When creating a campaign, you associate it with the relevant records for each of these components.
 
-* Channel settings define the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. data about the performance of campaigns, assets, and experiences in these channels is fed into [[!DNL Insights]](/help/user-guide/insights/overview.md) for channel-specific analysis.
+* **Channel settings** - Defines the public distribution channels for your campaign, including paid media accounts, email marketing services, and display ad networks. Data about the performance of campaigns, assets, and experiences in these channels is fed into [[!DNL Insights]](/help/user-guide/insights/overview.md) for channel-specific analysis.
 
-* Region settings specify the geographic areas where your campaign is deployed. By connecting to regional data sources, GenStudio for Performance Marketing can tailor content and strategy to local audience preferences. This enables more accurate targeting and performance analysis based on regional metrics.
+* **Region settings** - Specifies the geographic areas where your campaign is deployed. By connecting to regional data sources, GenStudio for Performance Marketing can tailor content and strategy to local audience preferences. This enables more accurate targeting and performance analysis based on regional metrics.
 
 **To select distribution channels for your campaign**:
 
 1. Click the + sign (**[!UICONTROL Connect records +]**) next to **[!UICONTROL Channels]**.
+   
    The _Select Channels_ popup opens.
 
 1. Select the channels on which the campaign is deployed. Valid values include `Email`, `Paid media`, `Web`, and `Display ads`.
+   
    Optionally, choose **[!UICONTROL See all]** to open a view of all supported channels.
 
 **To assign regions to your campaign**:
 
 1. Click the + sign (**[!UICONTROL Connect records +]**) next to **[!UICONTROL Regions]**.
+   
    The _Select Regions_ popup opens. You can search for a specific supported region.
 
 1. Select the regions in which your campaign is focused. Valid regions include `AMER`, `LATAM`, `EMEA`, `APAC`, and `Japan`.
+   
    Optionally, choose **[!UICONTROL See all]** to open a view of all supported regions.
 
 ## Step 3: Assign personas and products
@@ -76,6 +80,7 @@ The options in the _Personas_ and _Products_ drop-down menus are defined at the 
 **To assign personas to your campaign**:
 
 1. Click the + sign (**[!UICONTROL Connect records +]**) next to **[!UICONTROL Personas]**.
+   
    The _Select Personas_ popup opens. You can search for a specific supported personas.
 
 1. Select the personas that your campaign is targeting. Valid personas are defined by your organization during [guidelines creation](/help/user-guide/guidelines/personas.md).
@@ -85,9 +90,11 @@ The options in the _Personas_ and _Products_ drop-down menus are defined at the 
 **To assign products to your campaign**:
 
 1. Click the + sign (**[!UICONTROL Connect records +]**) next to **[!UICONTROL Products]**.
+   
    The _Select Products_ popup opens. You can search for a specific supported product.
 
 1. Select the products that your campaign promotes. Products are defined by your organization during [guidelines creation](/help/user-guide/guidelines/products.md).
+   
    Optionally, choose **[!UICONTROL See all]** to open a view of all available products.
 
 ## Step 4: Complete campaign creation
@@ -102,13 +109,13 @@ GenStudio for Performance Marketing links content to campaigns using campaign la
 
 Campaign labels identify the campaign and its attributes. Assigning a label to an asset or experience connects it to the corresponding campaign.
 
-**To add content from [!DNL Content]**
+**To add assets and experiences from [!DNL Content]**:
 
 1. From the [!DNL Content] _Experiences_ or _Assets_ gallery, choose the approved experience or asset you want to add.
 
 1. From the _Details_ view, select the name of the campaign from the _Campaigns_ dropdown menu.
 
-**To add content during content creation**
+**To add assets and experiences during content creation**:
 
 During content creation, you can publish the newly created asset or experience to [!DNL Content].
 
