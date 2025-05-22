@@ -39,7 +39,7 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 You can launch an activation by selecting one or more approved experiences with predefined settings from [!DNL Content].
 
-The _Experience setup_ view is a workspace for tweaking and reviewing experiences before activation. If you select more than one experience to activate, the this view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
+The _Experience setup_ view is a workspace for tweaking and reviewing experiences before activation. If you select more than one experience to activate, this view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
@@ -68,6 +68,8 @@ Editable experience details include:
 ## Step 4: Confirm LinkedIn account setup
 
 After preparing your ad experiences, you must confirm your LinkedIn account information. The _LinkedIn ad setup_ view is populated with options that are derived from the configured LinkedIn accounts.
+
+_Campaign groups_ are an essential component of LinkedIn  Campaign Manager. Campaign groups organize discrete campaigns under a shared objective. Campaigns can inherit budget limitations, objectives, and schedules from the campaign group to which they belong.
 
 **To confirm your account setup**:
 
