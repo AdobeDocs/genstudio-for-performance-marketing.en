@@ -43,9 +43,9 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 You can launch an activation in two ways:
 
-* **Activate directly from [!DNL Content]_**. Selecting an approved experience with predefined settings is the most streamlined way to launch an activation to a single channel.
+* **Activate directly from [!DNL Content]**. Selecting an approved experience with predefined settings is the most streamlined way to launch an activation to a single channel.
 
-* **Assemble your ad experience from [!DNL Activate] > _Experience setup_** You can create an experience by selecting visual assets from _[!DNL Content]_, adding text elements, and selecting aspect ratios. This approach has more steps but provides greater flexibility when crafting your creative experience.
+* **Assemble your ad experience from [!DNL Activate] > _Experience setup_**. You can create an experience by selecting visual assets from [!DNL Content], adding text elements, and selecting aspect ratios. This approach has more steps but provides greater flexibility when crafting your creative experience.
 
 ### Activate an approved experience from Content
 
@@ -53,7 +53,7 @@ You can select more than one experiences to activate to a single paid channel. Y
 
 If you have selected more than one experience to activate as a group, use the left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
-1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**.
+1. Use the [!DNL Content] gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**.
 
    The Meta ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You can edit the **[!UICONTROL Call-to-action]**, **[!UICONTROL Website URL]**, and **[!UICONTROL Display link]** fields. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
@@ -67,16 +67,16 @@ If you have selected more than one experience to activate as a group, use the le
 
 ### Assemble experience components
 
-If you choose not to directly activate an approved experience from _[!DNL Content]_, you can select assets, assign aspect ratios, and draft text elements.
+If you choose not to directly activate an approved experience from [!DNL Content], you can select assets, assign aspect ratios, and draft text elements.
 
 **To prepare your experience for activation**:
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the icon representing your chosen paid channel. The _Experience setup_ view opens.
+1. From [!DNL Activate], click **[!UICONTROL New]** on the icon representing your chosen paid channel. The _Experience setup_ view opens.
 
    The _Experience setup_ page provides a central location for preparing your ad activation. Preparing your ad includes these three tasks:
 
 1. Assign a name to your experience. After activation, you can use this name to search for this experience in the _Activated experiences_ table.
-1. Select media assets. You can use assets from _[!DNL Content]_ or upload external assets (for example, from OneDrive or Dropbox).
+1. Select media assets. You can use assets from [!DNL Content] or upload external assets (for example, from OneDrive or Dropbox).
 1. [Add text](#add-ad-text).
 1. [Add metadata](#assign-metadata).
 
@@ -86,17 +86,17 @@ If you choose not to directly activate an approved experience from _[!DNL Conten
 
 Use the _Media_ section to select at least one image asset to include in your experience. Ad placements are associated with supported image aspect ratios, which are listed as options in the _Placements_ drop-down menu. This menu displays the supported ad placements for Facebook posts or Instagram stories, organized by aspect ratio.
 
-After upload, assets are saved to _[!DNL Content]_. The _Media_ area displays the image by default with a 1:1 aspect ratio. Alternative aspect ratios include only the values supported by the paid ad channel. They are grouped by vertical and horizontal orientation. GenStudio for Performance Marketing supports the inclusion of up to six aspect ratios per activated experience.
+After upload, assets are saved to [!DNL Content]. The _Media_ area displays the image by default with a 1:1 aspect ratio. Alternative aspect ratios include only the values supported by the paid ad channel. They are grouped by vertical and horizontal orientation. GenStudio for Performance Marketing supports the inclusion of up to six aspect ratios per activated experience.
 
 **To upload an asset from Content**:
 
-_[!DNL Content]_ provides a central view for your organization's approved assets and experiences. You can focus the [_[!DNL Content]_ gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options.
+[!DNL Content] provides a central view for your organization's approved assets and experiences. You can focus the [[!DNL Content] gallery](/help/user-guide/content/manage-assets.md) displayed inventory of assets using the **[!UICONTROL Search]** (magnifying glass) and _Filter_ menu options.
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the channel card. The _Experience setup_ view opens.
+1. From [!DNL Activate], click **[!UICONTROL New]** on the channel card. The _Experience setup_ view opens.
 
 1. Click **[!UICONTROL Select]**, then select **[!UICONTROL Select from Content]**. The _Select content_ view opens, displaying a gallery of image assets that you search through or filter.
 
-1. Use _[!DNL Content]_ gallery's search and filter tools to select at least one asset for upload.
+1. Use [!DNL Content] gallery's search and filter tools to select at least one asset for upload.
 
 1. Click **[!UICONTROL Use]** to include the selected asset in your ad experience. The _Experience setup_ window includes the asset in its default aspect ratio in the _Media_ area. The _Preview_ panel previews the asset in the ad placement that supports this aspect ratio.
 
@@ -104,9 +104,9 @@ If upload is unsuccessful, an informative error message that includes a link to 
 
 **To upload an external asset**:
 
-You can upload up to six static images external to the _[!DNL Content]_ gallery from either Microsoft OneDrive or Dropbox.
+You can upload up to six static images external to the [!DNL Content] gallery from either Microsoft OneDrive or Dropbox.
 
-1. From _[!DNL Activate]_, click **[!UICONTROL New]** on the Meta tile. The _Experience setup_ window opens.
+1. From [!DNL Activate], click **[!UICONTROL New]** on the Meta tile. The _Experience setup_ window opens.
 
 1. In the _Media_ section, click **[!UICONTROL Select]**. A drop-down menu displays options to _Select from Content_ or _Upload_.
 

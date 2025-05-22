@@ -8,7 +8,7 @@ exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
 
 Adobe GenStudio for Performance Marketing enables GenStudio system managers and editors to publish ad experiences to the Google Campaign Manager 360 platform.
 
-You can initiate publication of a Google Campaign Manager 360 ad experience from either the _[!DNL Content]_ gallery or _[!DNL Activate]_ home.
+You can initiate publication of a Google Campaign Manager 360 ad experience from either the [!DNL Content] gallery or [!DNL Activate] home.
 
 ## Step 1: Set up your Google Campaign Manager 360 accounts
 
@@ -28,7 +28,7 @@ You can start the publication process from either the _[!DNL Content]_ Experienc
 
 **To select experiences**:
 
-1. Use the _[!DNL Content]_ gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Use]**. (Alternatively, you can select an experience from _[!DNL Activate]_ by clicking **[!UICONTROL New]** on the Google Campaign Manager 360 product card.)
+1. Use the [!DNL Content] gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Use]**. (Alternatively, you can select an experience from [!DNL Activate] by clicking **[!UICONTROL New]** on the Google Campaign Manager 360 product card.)
 
    The Google Campaign Manager 360 _Experience setup_ page opens for this experience. It is pre-populated with the experience's details, which you cannot revise. You may be asked to select a platform before continuing with activation.
 
