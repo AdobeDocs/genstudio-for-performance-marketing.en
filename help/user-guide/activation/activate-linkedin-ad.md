@@ -2,12 +2,13 @@
 title: Activate a LinkedIn ad
 description: Learn how to activate a LinkedIn ad experience.
 feature: Ad Activation
+badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 ---
 # Activate a LinkedIn ad
 
 Adobe GenStudio for Performance Marketing supports the activation of LinkedIn experiences with single assets to LinkedIn pages.
 
-You can [create a LinkedIn experience] in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
+You can [create a LinkedIn experience](/help/user-guide/create/create-linkedin.md) in GenStudio for Performance Marketing and select it for activation, or construct a new experience from approved assets in [!DNL Activate].
 
 Activating a LinkedIn ad follows the [same general steps](create-activation.md) required for activation to other paid channels. The activation process supports preparing your ad experience for LinkedIn's specific requirements. After you activate a LinkedIn experience in GenStudio for Performance Marketing, use LinkedIn Campaign Manager to fine-tune the experience for specific LinkedIn ad placements before final publication.
 
@@ -38,17 +39,19 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 ## Step 3: Prepare your experience 
 
-You can launch an activation by selecting an approved experience with predefined settings from [!DNL Content].
+You can launch an activation by selecting one or more approved experiences with predefined settings from [!DNL Content].
+
+The _Experience setup_ view is a workspace for tweaking and reviewing experiences before activation. If you select more than one experience to activate, the this view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
 
 The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
 
 ### Activate an approved experience from Content
 
-You can select one or more experiences to activate to a single paid channel. Experiences can contain only one asset. Details are loaded from the selected approved experiences, which are saved in [!DNL Content]. 
+You can select one or more experiences to activate to a single paid channel. Experiences can contain only one asset. Details are loaded from the selected approved experiences. 
 
-You can edit the following experience details from the _Experience setup_ view:
+Editable experience details include:
 
-* Call-to-action text
+* Call-to-action (CTA) text
 * Website URL
 * Display link
 
@@ -56,13 +59,13 @@ You can edit the following experience details from the _Experience setup_ view:
 
 1. Use the [!DNL Content] gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**. Alternatively, you can select one experience and select **[!UICONTROL Activate]** from the more (...) menu.
 
-   The LinkedIn ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You may be asked to select a platform before continuing with activation. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
+   The LinkedIn ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You may be asked to select a platform before continuing with activation.
 
-1. (Optional) Edit any values in the editable fields.
+1. (Optional) Edit values in the editable fields (**[!UICONTROL Call to action]**, **[!UICONTROL Website URL]**, *[!UICONTROL Display link]**).
    
 1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
 
-After selecting your experience and optionally, click **[!UICONTROL Next]** to confirm your LinkedIn account setup.
+1. Click **[!UICONTROL Next]** to confirm your experience setup.
 
 ## Step 4: Confirm LinkedIn account setup
 
@@ -76,7 +79,7 @@ After preparing your ad experiences, you must confirm your LinkedIn account info
 
 1. Select a campaign from the **[!UICONTROL Campaigns]** drop-down menu. This is the LinkedIn campaign to which the ad experience is delivered.
 
-1. Assign an ad name to each experience. LinkedIn Campaign Manager identifies the experience by this name.
+1. Enter an ad name in the **[!UICONTROL Ad name]** field for each experience. LinkedIn Campaign Manager identifies the experience by this name.
 
 1. Click **[!UICONTROL Next]** to confirm your LinkedIn ads setup.
 
