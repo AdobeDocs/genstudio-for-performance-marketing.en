@@ -15,17 +15,15 @@ GenStudio system managers and editors can activate ad experiences.
 
 ## Step 1: Set up your LinkedIn accounts
 
-Before launching an activation, [sign in to](https://www.linkedin.com/campaignmanager/login) your LinkedIn Campaign Manager account to access your LinkedIn Campaign Manager account.
+Before launching an activation, [sign in to](https://www.linkedin.com/campaignmanager/login) your LinkedIn Campaign Manager account.
 
 >[!BEGINSHADEBOX]
 
 **Prerequisites**:
 
-Confirm that your connected LinkedIn ad accounts have full permission to manage ads in these components of the LinkedIn advertising platform:
+* A LinkedIn Campaign Manager account with full permission to manage campaign groups, campaigns, and ads. This account must contain campaign groups and campaigns.
 
-LinkedIn Campaign Manager ad account. This account must contain Campaign groups and Campaigns.
-
-Your LinkedIn ad accounts must have permission to create ads and post content on associated LinkedIn pages
+* LinkedIn ad accounts with full permission to create ads and post content on LinkedIn pages.
 
 
 >[!ENDSHADEBOX]
@@ -42,27 +40,29 @@ After the sync has completed, you can view the added accounts. Large amounts of 
 
 You can launch an activation by selecting an approved experience with predefined settings from [!DNL Content].
 
+The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
+
 ### Activate an approved experience from Content
 
-You can select one or more experiences to activate to a single paid channel.
+You can select one or more experiences to activate to a single paid channel. Experiences can contain only one asset. Details are loaded from the selected approved experiences, which are saved in [!DNL Content]. 
 
-You cannot edit most experience details when activating from [!DNL Content]. You can edit these fields:
+You can edit the following experience details from the _Experience setup_ view:
 
-* **[!UICONTROL Call-to-action]**
-* **[!UICONTROL Website URL]**
-* **[!UICONTROL Display link]**
+* Call-to-action text
+* Website URL
+* Display link
 
 **To select experiences**:
 
 1. Use the [!DNL Content] gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Activate]**. Alternatively, you can select one experience and select **[!UICONTROL Activate]** from the more (...) menu.
 
-   The LinkedIn ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You may be asked to select a platform before continuing with activation.
+   The LinkedIn ads _Experience setup_ page opens for this experience. It is pre-populated with details from the selected experience. You may be asked to select a platform before continuing with activation. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
+
+1. (Optional) Edit any values in the editable fields.
    
-1. (Optional) Click Add experience to add experiences to this activation group. If you select more than one experience to activate, the _Experience setup_ view includes a left sidebar that displays thumbnails of all selected experiences. Use this left sidebar to focus the _Experience setup_ view on the selected experience's details.
+1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
 
-The _Preview panel_ supports an interactive view of your text and assets in the context of a specific ad placement. Use the _Select placement_ drop-down menu to switch among supported ad placements. Previews provide the opportunity to finalize decisions about ad elements for specific placements. When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.
-
-After selecting your experience, click **[!UICONTROL Next]** to confirm your LinkedIn account setup.
+After selecting your experience and optionally, click **[!UICONTROL Next]** to confirm your LinkedIn account setup.
 
 ## Step 4: Confirm LinkedIn account setup
 

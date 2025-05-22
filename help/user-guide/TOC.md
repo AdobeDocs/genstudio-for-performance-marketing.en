@@ -70,7 +70,7 @@ role: User
   + [Optimize activations](activation/troubleshooting.md)
   + Paid media ads {#paid-media-ads}
     + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
-    * [LinkedIn](activation/activate-linkedin-ad.md)
+    + [LinkedIn](activation/activate-linkedin-ad.md)
     + [Meta](activation/activate-meta-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
