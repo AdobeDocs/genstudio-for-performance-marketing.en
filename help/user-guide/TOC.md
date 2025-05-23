@@ -55,12 +55,14 @@ role: User
   + [Manage assets and experiences](content/manage-assets.md)
   + [Connect an AEM repository](content/connect-aem-repo.md)
   + [Asset details](content/asset-details.md)
-  + Templates {#templates}
-    + [Work with templates](content/use-templates.md)
-    + [Customize a template](content/customize-template.md)
-    + [Template code editor](content/code-editor.md)
-    + [Create accessible templates](content/accessibility-for-templates.md)
-    + [Best practices for templates](content/best-practices-for-templates.md)
++ Templates {#templates}
+  + [Work with templates](content/use-templates.md)
+  + [Customize a template](content/customize-template.md)
+  + [Template code editor](content/code-editor.md)
+  + [Best practices for templates](templates/best-practices-for-templates.md)
+  + [Create accessible templates](content/accessibility-for-templates.md)
+  + Channel-specific guidelines {#channel-guidelines}
+    + [Meta ad guide](templates/meta-ad-guide.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
   + [Create campaigns](campaigns/create-campaign.md)
