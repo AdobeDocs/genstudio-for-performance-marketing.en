@@ -68,10 +68,11 @@ role: User
 + Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
-  + [Activate a Google Campaign Manager 360 ad](activation/activate-cm360-ad.md)
-  + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)
+  + Paid media ads {#paid-media-ads}
+    + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
+    + [Meta](activation/activate-meta-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)

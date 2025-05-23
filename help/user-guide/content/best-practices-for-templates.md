@@ -43,6 +43,8 @@ When creating templates, ensure they meet the specific requirements of the inten
 - Use Adobe or Google fonts
 - Do **not** use JavaScript
 
+{{note-css-effects}}
+
 Consider the following tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
 >[!BEGINTABS]
@@ -59,9 +61,9 @@ Follow these design best practices when customizing email templates to work with
 
 **Constraints**:
 
-- Use of [sections](customize-template.md#sections-or-groups):
-   - A basic template (one section only) can generate a single set of template elements.
-   - A complex template (multiple sections) can generate up to three sets of template elements.
+- Marketing emails can have 0, 2, or 3 [sections](customize-template.md#sections-or-groups):
+   - A basic template (zero sections) can generate a single set of template elements, which does not require the group naming convention.
+   - A complex template (multiple sections) can generate up to three sets of template elements, which requires you to adhere to the group naming convention: (`groupname_fieldname`)
 - The maximum fields allowed in a template are 20
 - The maximum HTML file size is 102 KB
 
@@ -69,7 +71,7 @@ Follow these design best practices when customizing email templates to work with
 
 For email, the `subject` field is automatically included. Use content placeholders for the following fields:
 
-- `pre_header`
+- `pre_header` (rich text not enabled)
 - `headline`
 - `sub_headline`
 - `body`
@@ -95,12 +97,16 @@ Follow these design best practices when customizing Meta ad templates to work wi
 
 - Use of [sections](customize-template.md#sections-or-groups):
    - Only one section can be used, generating a single set of template elements.
+- Exactly one image field is required.
 
 **Supported aspect ratios**:
 
+Aspect ratio must be set:
+
 - Square 1:1 (1080 x 1080 pixels)
-- Vertical 4:5 (1080 x 1350 pixels)
+- Portrait 4:5 (1080 x 1350 pixels)
 - Story 9:16 (1080 x 1920 pixels)
+- Landscape: 1.91:1 (1080 pixel width)
 - Custom image size: (50 x 50 pixels minimum image width)
 
 **Recognized field names**:
@@ -126,20 +132,21 @@ Follow these design best practices when customizing Banner and Display ad templa
 
 - Use of [sections](customize-template.md#sections-or-groups):
    - Only one section can be used, generating a single set of template elements.
+- Exactly one image field is required.
 
 **Supported dimensions**:
 
-- Vertical: (pixels)
+- Width x Height (pixels) must be set
+- Vertical:
    - 300 x 600
    - 160 x 600​
-- Horizontal: (pixels)
+- Horizontal:
    - 300 x 250
    - 728 x 90
    - 336 x 280
    - 320 x 50
    - 970 x 250​
-- Custom: (pixels)
-  - 50 x 50 to 2000 x 2000
+- Custom: 50 x 50 to 2000 x 2000
 
 **Recognized field names**:
 
@@ -162,6 +169,7 @@ Follow these design best practices when customizing LinkedIn ad templates to wor
 
 - Use of [sections](customize-template.md#sections-or-groups):
    - Only one section can be used, generating a single set of template elements.
+- Exactly one image field is required.
 - Maximum image size of 5 MB
 - Maximum headline 70 characters
 - Maximum introductory text 150 characters

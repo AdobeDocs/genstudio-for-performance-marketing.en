@@ -22,7 +22,6 @@ Editable sections of a LinkedIn experience include:
 * Description
 * Call to action (CTA)
 * Image
-* Brand logo
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
 

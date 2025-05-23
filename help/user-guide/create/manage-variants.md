@@ -108,18 +108,11 @@ You can manually crop and reposition image assets in individual generated varian
 
 ## Change aspect ratio
 
-You can quickly change the aspect ratio of Meta ads to accommodate the desired ad sizing.
-
-Available size/aspect ratios are:
-
-* 1:1 square (Meta)
-* 4:5 vertical (Meta)
-* 9:16 vertical (Meta)
-* 250 x 980 (display ad)
+You can quickly change the [aspect ratio of Meta ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) to accommodate the desired ad sizing. Choose an image aspect ratio that closely matches your template dimensions to avoid unwanted cropping or stretching. For example, if your template is 1200 × 628 pixels (a wide rectangle), using a 1:1 square image may crop the sides, potentially cutting off important content. The optimal image size would be 628 x 628 pixels, which matches the height of the template.
 
 >[!NOTE]
 >
->Other aspect ratios and sizes may be available based on available templates.
+>Varying aspect ratios and sizes may be available based on available templates.
 
 **To change the aspect ratio of generated Meta ads**:
 
@@ -129,7 +122,7 @@ Available size/aspect ratios are:
 
    The number of variations affected by this revision are noted in the top right corner of the window. _Example_: "4 of 4 variations"
 
-1. Select an available aspect ratio.
+1. Select an [available aspect ratio](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
    Only aspect ratio sizes that are not currently represented in the Canvas are available to choose.
 
@@ -170,6 +163,25 @@ Similar to adding or swapping images in generated variants, you can add a link t
 1. Add a link in the text field and click **[!UICONTROL Apply]**.
 
    The defined link is applied to all images in the variant set.
+
+## Add alt text for images
+
+When you add content (images) during the creation process, you can define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
+
+To enable alt text functionality, [add a content placeholder](/help/user-guide/content/customize-template.md#alternative-text) in the template.
+
+**To add alt text to images in generated variants**:
+
+1. After generating a set of variants, click an image within an individual variant.
+1. Click the **[!UICONTROL Alt text]** button (icon of image and paper).
+1. To manually add alt text:
+   1. Click into the text box and add alt text.
+   1. Click **[!UICONTROL Apply]**.
+1. To generate alt text for the image:
+   1. Leave the text field empty and click **[!UICONTROL Generate]**.
+   1. Click **[!UICONTROL Generate]** again if you are not satisfied with the initial result.
+   1. Click **[!UICONTROL Apply]**.
+1. Repeat for each image in your variants set.
 
 ## Preview for device
 
