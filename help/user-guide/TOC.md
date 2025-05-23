@@ -63,6 +63,8 @@ role: User
     + [Best practices for templates](content/best-practices-for-templates.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
+  + [Create campaigns](campaigns/create-campaign.md)
+  + [Manage campaigns](campaigns/manage-campaign.md)
 + Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
