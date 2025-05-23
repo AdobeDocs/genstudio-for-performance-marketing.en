@@ -61,8 +61,11 @@ role: User
   + [Template code editor](content/code-editor.md)
   + [Best practices for templates](content/best-practices-for-templates.md)
   + [Create accessible templates](content/accessibility-for-templates.md)
-  + Channel-specific guidelines {#channel-guidelines}
-    + [Meta ad guide](templates/meta-ad-guide.md)
+  + Channel best practice {#channel-best-practice}
+    + [Display ads](templates/meta-template.md)
+    + [Email guide](templates/email-template.md)
+    + [LinkedIn ads guide](templates/linkedin-template.md)
+    + [Meta ads guide](templates/meta-template.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
   + [Create campaigns](campaigns/create-campaign.md)
