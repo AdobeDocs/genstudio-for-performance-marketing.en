@@ -22,16 +22,7 @@ Each view provides the following capabilities:
 
 To view the details of a specific campaign, click the campaign name in the List or Card view. The _Campaign Details_ view opens. These campaign details are the attributes assigned during campaign creation.
 
-| Detail     | Description |
-|------------|-------------|
-| Campaign name   | Unique name used to identify the campaign. This name is available as a campaign label through the product. |
-| Description     | Summary of campaign for internal stakeholders   |
-| Objective       | Primary goals of the campaign, such as increasing brand awareness, generating leads, or driving sales. |
-| Key messaging   | Defines the central message to be communicated in all campaign assets.<br>Focuses content creators on the campaign's strategic message and tone.                                                                                              |
-| Start           | The quarter, season, or year during which the ad experience becomes active.                       |
-| End             | The quarter, season, or year during which the ad experience ends.                                 |
-| Status          | Upcoming-Scheduled to begin at a future date<br>Active—Currently running and delivering content to the selected channels<br>Complete—Campaign ended |
-| Last modified   | (Read-only) Timestamp that identifies the last time campaign details or content were edited.                  |
+{{$include /help/_includes/campaign-details.md}}
 
 **To view content associated with this campaign**:
 
