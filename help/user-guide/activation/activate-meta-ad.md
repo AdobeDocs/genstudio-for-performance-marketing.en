@@ -166,7 +166,7 @@ After preparing your ad experiences, you must confirm your Meta account informat
 | Campaigns    | Meta campaigns to which the ad experience belongs |
 | Ad sets   |Meta ad sets to which the activated ad experience belongs. The settings determine the final placements of the ad. |
 
-### Create new ad set
+### Create a new ad set
 
 You can create a new ad set during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign. 
 
@@ -178,7 +178,7 @@ You can create a new ad set during platform setup by cloning an existing ad set 
 
 1. Click  **[!UICONTROL + Create new ad set]**.
    
-   The _Create new ad set_ popup opens, identifying the Meta campaign where the the new ad set is created.
+   The _Create new ad set_ popup opens, identifying the Meta campaign where the new ad set is created.
 
 1. Select the ad set you want to clone from the _Use configuration from_ drop-down menu.
    
