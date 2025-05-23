@@ -8,9 +8,9 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 
 The default view of the [!DNL Campaigns] dashboard lists campaigns by **[!UICONTROL Start Date]**, beginning with the most recent. Rows include the core attributes of each campaign. You can toggle between the default list view, card view, and timeline view of all campaigns. Click on the icon representing your preferred view in the upper right of the table.
 
-* **List view**-This default view displays a subset of the defining details that are entered during campaign creation. List view includes description, channels, regions, start and end dates, and status.
-* **Card view**-This gallery view represents each campaign by a card.
-* **Timeline view**-This Gantt-style representation displays each campaign as a horizontal bar that represents its duration and progress. Bars are arranged chronologically from left to right, allowing you to quickly assess campaign progress, spot overlapping milestones, and understand how campaigns align over time.
+* **List view**—This default view displays a subset of the defining details that are entered during campaign creation. List view includes description, channels, regions, start and end dates, and status.
+* **Card view**—This gallery view represents each campaign by a card.
+* **Timeline view**—This Gantt-style representation displays each campaign as a horizontal bar that represents its duration and progress. Bars are arranged chronologically from left to right, allowing you to assess campaign progress quickly, spot overlapping milestones, and understand how campaigns align over time.
 
 Each view provides the following capabilities:
 
@@ -30,7 +30,7 @@ To view the details of a specific campaign, click the campaign name in the List 
 | Key messaging   | Defines the central message to be communicated in all campaign assets.<br>Focuses content creators on the campaign's strategic message and tone.                                                                                              |
 | Start           | The quarter, season, or year during which the ad experience becomes active.                       |
 | End             | The quarter, season, or year during which the ad experience ends.                                 |
-| Status          | Upcoming-Scheduled to begin at a future date<br>Active-Currently running and delivering content to the selected channels<br>Complete-Campaign ended |
+| Status          | Upcoming-Scheduled to begin at a future date<br>Active—Currently running and delivering content to the selected channels<br>Complete—Campaign ended |
 | Last modified   | (Read-only) Timestamp that identifies the last time campaign details or content were edited.                  |
 
 **To view content associated with this campaign**:
