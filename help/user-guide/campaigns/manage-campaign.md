@@ -3,6 +3,7 @@ title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn about managing campaigns and campaign content
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
+exl-id: 7f730f83-1bad-4727-98ba-6ab692a4be2d
 ---
 # Manage Campaigns
 

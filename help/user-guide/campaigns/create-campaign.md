@@ -3,6 +3,7 @@ title: Adobe GenStudio for Performance Marketing Campaigns
 description: Learn how to create and manage digital marketing campaigns that leverage generative-AI assets and experiences.
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
+exl-id: b7c4194f-fa61-4739-acd6-7acbdd98e9b2
 ---
 # Create a campaign
 
