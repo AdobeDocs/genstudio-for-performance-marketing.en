@@ -131,7 +131,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### Logos
 
-[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos (not to exceed 1GB per file) for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_.
+[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos (not to exceed 1GB per file) for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_. Logos can also be used as the thumbnail image for a specific [!DNL Brand].
 
 Each uploaded logo includes the following details within the logo tile:
 
