@@ -205,7 +205,7 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
    The variant is deleted.
 
-## Brand validation per variant
+## Brand validation
 
 Use the _Content check_ panel to maintain consistent brand identity, [ADA accessibility standards, platform guidelines](/help/user-guide/guidelines/overview.md#content-checks), and alignment of variants.
 

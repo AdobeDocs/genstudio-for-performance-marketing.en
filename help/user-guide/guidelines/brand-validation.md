@@ -17,7 +17,7 @@ GenStudio for Performance Marketing conducts brand validation and other content 
 
 ## Content check summary
 
-A summary of brand validation and other content check information for each generated content variant is accessible through the _Content check_ summary icon for each variant in the Canvas.
+A summary of brand validation and other content check information for each item of generated content is accessible through the _Content check_ summary icon for each variant in the Canvas.
 
 The _Content check_ summary displays the:
 
@@ -27,17 +27,17 @@ The _Content check_ summary displays the:
 
 ![Content check summary](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
-Click the percentage to see how compliant the variant is. The scores auto-update as you make edits to the variants. You can click _View and fix issues_ to ensure further compliancy.
+Click the percentage to see how compliant the variant is. The scores auto-update as you make edits to the variants or other content. You can click _View and fix issues_ to ensure further compliancy.
 
 See [Improve brand alignment](#improve-brand-alignment).
 
 ## Content check panel
 
-The _Content check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the [_Content check_ summary icon](#content-check-summary) for a variant. This panel provides detailed brand validation. platform guidelines, and accessibility standards information and illuminates opportunities for improvement for each variant section.
+The _Content check_ panel opens on the right side of the Canvas when clicked from the right action bar _or_ from the [_Content check_ summary icon](#content-check-summary). This panel provides detailed brand validation, platform guidelines, and accessibility standards information and illuminates opportunities for improvement.
 
 ![Content check panel](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
-The _Content check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for each section of the variant:
+The _Content check_ panel displays validation and [compliance information](/help/user-guide/guidelines/overview.md#compliance) for images and variant sections:
 
 * Representation of the _Content check_ summary information for [!DNL Brand], platform guidelines, and accessibility standards
 * _Needs review_ section displaying the number of failed guidelines and detailed information about each guideline needing revision
@@ -61,22 +61,21 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 **To improve brand alignment for generated variants**:
 
-1. Click the _Content check_ panel icon in the right action bar to see validation and accessibility information for a single variant.
+1. Click the _Content check_ panel icon in the right action bar to see validation and accessibility information.
 
-   You can see a summary of the _Needs review_ and _Passed_ checks to see which sections and guidelines need improvement.
+   You can see a summary of the _Needs review_ and _Passed_ checks to see what needs improvement.
 
    >[!NOTE]
    >
    > The _Brand voice_ guideline noted in the _Content check_ panel applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
 1. Click to fix guidelines that are not currently compliant.
-1. Click to expand and inspect each check that needs review in available sections such as _Headline_ and _Brand voice_.
+1. Click to expand and inspect each check that needs review in available sections such as _Headline_, _Color_, and _Brand voice_.
 
-   Use the reasoning provided for each check to guide you in revising the variants.
+   Use the reasoning provided for each check to guide you in revising images and variants.
 
 1. After making necessary revisions, click **[!UICONTROL Recheck score]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity, platform guidelines, and accessibility standards.
 
    The content check process runs again. If the revised items pass validation, a green banner appears at the bottom of the Canvas to confirm the score was updated. If there was no change after a re-check, the banner confirms there was no change to the score. The percentage in the _Content check_ summary icon for the revised variant also shows your progress.
 
 1. Continue revising sections to ensure the entire variant passes validation and accessibility checks. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas.
-
