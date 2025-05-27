@@ -85,6 +85,21 @@ To see your created [!DNL Brands], click the back arrow near the top of the _[!U
 
 You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
+### Change brand thumbnail
+
+After manually adding a [!DNL Brand], you can change the thumbnail image to ensure it is easily distinguishable within your [!DNL Brands] list.
+
+If a [!DNL Brand] is created via document extraction (instead of manually added) any available logos within those documents will be auto-implemented for the thumbnail image.
+
+**To manually change the thumbnail image for a [!DNL Brand]**:
+
+1. Select **[!UICONTROL Change thumbnail]** from the actions menu.
+1. Upload a new image in the _Upload_ tab.
+1. In the _[!UICONTROL Change thumbnail]_ pop-up, change the uploaded image if desired.
+1. Select **[!UICONTROL Update]** to save the image as your [!DNL Brand] thumbnail image.
+
+You can also select an existing [!DNL Brand] logo in the [!UICONTROL Logos] tab view for a [!DNL Brand]. Click to open a logo and select **[!UICONTROL Use as brand thumbnail]** from the action menu.
+
 ### Publish brand
 
 Before publishing a [!DNL Brand] draft, click through all the guidelines sections to review all the populated information. Make changes to the brand guidelines as needed.
