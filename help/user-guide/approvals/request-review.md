@@ -12,9 +12,11 @@ Only designated approvers can assign an approval status and add review comments
 
 If you have created an asset or experience, you can ask others in your organization's approval chain to review and comment on your work. Although any GenStudio for Performance Marketing organization member can review a draft, only designated approvers can comment on or approve a draft.
 
+The Workfront Proof integration provides a robust approval workflow that includes multi-stage approvals and 
+
 ## Launch an approval request
 
-After you generate your content variants, you can request review and approval.
+After you generate your content variants, you can request its review and approval.
 
 **To request a review**:
 
@@ -40,27 +42,32 @@ Approver names are listed in this view with a [!DNL Notified] status after the a
 
 ## Launch an approval request with Workfront Proof
 
-The Proof integration provides different options when requesting a content review.
+The Proof integration provides additional options when requesting a content review.
 
 You can select approvers and reviewers individually or use a proof approval template, which includes a predefined list of review participants.
 
-**To launch a review cycle by selecting participants**:
+**To launch a review cycle by inviting participants**:
 
 1. Click **[!UICONTROL Request approval]** from the canvas. 
+   
    The _Request approval_ popup opens. 
 
 1. Select **[!UICONTROL Invite people]**.
      
 1. Enter either participant user name or email address in the **[!UICONTROL Add names or emails]** field. 
+   
    Organization member names pop up as options as you enter text.
 
-1. Select a participant name, then select their role: approver or reviewer.
+1. Select a participant name, then select their role: approver or reviewer. By default, participants are assigned approver role. 
 
 1. (Optional) Under **[!UICONTROL Settings]**, assign a due date for a review decision. This date is not enforced, but reminds reviewers of the expected time frame. 
 
-1. (Optional) Add a title for your review request in the Title field. 
+1. (Optional) Add a title for your review request in the **[!UICONTROL Title]** field.
 
-1. Click Send when you are ready to launch the approval request.
+1. (Optional) Add an informative message that provides context for reviewers.
+
+1. Click **[!UICONTROL Send]** when you are ready to launch the approval request.
+   
    All review participants are notified by email that they have been assigned a review task. 
    
 **To launch a review using an approval template**:
@@ -68,15 +75,13 @@ You can select approvers and reviewers individually or use a proof approval temp
 1. Click **[!UICONTROL Request approval]** from the canvas. 
    The _Request approval_ popup opens. 
 
-1. Select **[!UICONTROL Use template]**.
-
-
+1. Select **[!UICONTROL Use template]**. 
 
 ### Approval panel
 
 If you are the content creator who has launched the approval request
 
-This panel provides current status information about the review process and indicates the status of the request. 
+The _Approval_ panel provides current status information about the review process and displapys the status of the approval request. If your approval template has configured multiple stages, this panel displays the status of each approval phase. 
 
 From the panel, you can:
 

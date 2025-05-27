@@ -14,7 +14,7 @@ If the content draft meets your organization's standards and your expectations, 
 
 1. Access the draft from either the in-product notification or by clicking the notification email's **[!UICONTROL View all notifications]** button to navigate to the draft.
 
-1. (_Optional_). Enter comments in the **[!UICONTROL Comments]** text field.
+1. (Optional) Enter comments in the **[!UICONTROL Comments]** text field.
 
 1. Select **[!UICONTROL Approved]**.
 

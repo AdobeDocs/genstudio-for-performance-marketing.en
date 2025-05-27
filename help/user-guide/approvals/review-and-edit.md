@@ -51,3 +51,9 @@ The content creator can continue their edits while receiving and responding to i
 If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process.
 
 See [Request review and approval](./request-review.md).
+
+## Workfront Proof
+
+Click the review URL in your notifcation email. The My new approval  Proofviewer opens in GenStudio. It loads a URL for the proof, or content draft, for the experience to be reviewed. 
+
+Proofviewer presents content in read-only mode only. At any point, you can click Open in GenStudio to return to 
