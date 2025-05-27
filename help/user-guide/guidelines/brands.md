@@ -139,7 +139,7 @@ Each uploaded logo includes the following details within the logo tile:
 - File size
 - Resolution
 
-From the actions menu (three dots) for a color, you can **[!UICONTROL Download]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
+From the actions menu (three dots) for a logo, you can **[!UICONTROL View details]**, **[!UICONTROL Download]**, [**[!UICONTROL Use as brand thumbnail]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail), **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a logo.
 
 ### Colors
 
