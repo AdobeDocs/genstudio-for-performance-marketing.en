@@ -59,8 +59,8 @@ role: User
   + [Work with templates](content/use-templates.md)
   + [Customize a template](content/customize-template.md)
   + [Template code editor](content/code-editor.md)
-  + [Best practices for templates](content/best-practices-for-templates.md)
   + [Create accessible templates](content/accessibility-for-templates.md)
+  + [Best practices for templates](content/best-practices-for-templates.md)
   + Channel best practice {#channel-best-practice}
     + [Display ads](templates/display-template.md)
     + [Email guide](templates/email-template.md)
