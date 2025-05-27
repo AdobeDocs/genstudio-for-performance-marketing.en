@@ -172,11 +172,11 @@ You can create a new ad set during platform setup by cloning an existing ad set 
 
 **To create a new ad set**:
 
-1. Select a campaign from the _Meta campaigns_ drop-down menu 
+1. Select a campaign from the _Meta campaigns_ drop-down menu.
    
    The selected campaign determines the ad sets available as options in the _Ad sets_ drop-down menu.
 
-1. Click  **[!UICONTROL + Create new ad set]**.
+1. Click **[!UICONTROL + Create new ad set]**.
    
    The _Create new ad set_ popup opens, identifying the Meta campaign where the new ad set is created.
 
