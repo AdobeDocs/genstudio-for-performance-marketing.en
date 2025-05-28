@@ -107,9 +107,9 @@ header, or body copy) and edit as needed.
 
 ### Manage videos
 
-Any videos within generated variants are rendered with Reframe and Scene Edit detection enabled. Hover over each of the videos to see looped autoplay.
+Hover over each of the videos to see looped autoplay.
 
-Videos reframed to fit the selected aspect ratio during generation. Revert back to the original non-reframed video by clicking **[!UICONTROL Reframe Video]** and toggling it off.
+Videos are reframed to fit the selected aspect ratio during generation. Revert back to the original non-reframed video by clicking **[!UICONTROL Reframe Video]** and toggling it off.
 
 ## Submit generation feedback
 

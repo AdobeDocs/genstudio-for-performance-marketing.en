@@ -18,10 +18,15 @@ Before you begin generating a LinkedIn ad, it is important to [add guidelines](/
 
 To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
 
+When selecting a template you have the option of using one of your uploaded templates or a starter template.
+
 **To choose a LinkedIn template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL LinkedIn]**.
-1. Use the search option, adjacent to _Filter_, to find a specific template.
+1. Select **[UICONTROL Your templates]** to browse your uploaded templates, or **[!UICONTROL Starter templates]** to browse starter templates.
+
+   If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
+
 1. Click to select a template, and click **[!UICONTROL Use]**.
 
    This action opens the Canvas, which is the central hub for content creation.
@@ -39,14 +44,16 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Add content for use in the experience *and* to influence content generation:
-   * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
+1. Add content (images or videos) for use in the experience *and* to influence content generation:
+   * Click **[!UICONTROL Select from Content]** to select assets from your [!DNL Content] repository, filter and select one or more images.
+
+      If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
 
       ![Choose visual content](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
+   * Or, drag and drop images into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
@@ -62,6 +69,8 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
+   See [Manage videos](#manage-videos) to understand how they are generated and how to manage them.
+
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 Generated content loads progressively—as each section of the LinkedIn experiences are generated, they appear in the Canvas. See [LinkedIn experiences](/help/user-guide/create/linkedin-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
@@ -75,11 +84,19 @@ Before sending variants for approval or publishing to [!DNL Content], you can ed
 * **To [edit the LinkedIn ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit a LinkedIn ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line, header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
+* **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
+* **To [add or swap assets (image or video) in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an asset (or the asset area) and click the **[!UICONTROL Swap from content]** icon.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
 * **To [delete a LinkedIn ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
+
+### Manage videos
+
+Hover over each of the videos to see looped autoplay.
+
+Videos are reframed to fit the selected aspect ratio during generation. Revert back to the original non-reframed video by clicking **[!UICONTROL Reframe Video]** and toggling it off.
 
 ## Submit generation feedback
 
