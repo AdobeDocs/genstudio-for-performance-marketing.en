@@ -22,7 +22,7 @@ Published brands can be edited (changes are immediately available), duplicated, 
 
 Deleted [!DNL Brands] are archived for 30 days and can be recovered within that period.
 
-## [!DNL Brands] guidelines
+## Brands guidelines
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
@@ -141,11 +141,11 @@ Each uploaded logo includes the following details within the logo tile:
 
 From the actions menu (three dots) for a logo, you can [view details for and manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) an individual logo:
 
-* **[!UICONTROL View details]**
-* **[!UICONTROL Download]**
-* [**[!UICONTROL Use as brand thumbnail]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
-* **[!UICONTROL Rename]**
-* **[!UICONTROL Delete]**
+- **[!UICONTROL View details]**
+- **[!UICONTROL Download]**
+- [**[!UICONTROL Use as brand thumbnail]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
+- **[!UICONTROL Rename]**
+- **[!UICONTROL Delete]**
 
 ### Colors
 
