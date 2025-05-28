@@ -57,6 +57,7 @@ role: User
   + [Asset details](content/asset-details.md)
 + Templates {#templates}
   + [Work with templates](content/use-templates.md)
+  + [Starter templates](templates/starter-templates.md)
   + [Customize a template](content/customize-template.md)
   + [Template code editor](content/code-editor.md)
   + [Create accessible templates](content/accessibility-for-templates.md)
