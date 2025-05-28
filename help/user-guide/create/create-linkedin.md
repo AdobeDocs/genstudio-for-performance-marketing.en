@@ -23,9 +23,10 @@ When selecting a template you have the option of using one of your uploaded temp
 **To choose a LinkedIn template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL LinkedIn]**.
+
 1. Select **[UICONTROL Your templates]** to browse your uploaded templates, or **[!UICONTROL Starter templates]** to browse starter templates.
 
-   If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
+      If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
 
 1. Click to select a template, and click **[!UICONTROL Use]**.
 
@@ -112,7 +113,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
    ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+1. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
