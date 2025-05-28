@@ -62,7 +62,7 @@ role: User
   + [Create accessible templates](content/accessibility-for-templates.md)
   + [Best practices for templates](content/best-practices-for-templates.md)
   + Channel best practice {#channel-best-practice}
-    + [Display ads](templates/display-template.md)
+    + [Display ads guide](templates/display-template.md)
     + [Email guide](templates/email-template.md)
     + [LinkedIn ads guide](templates/linkedin-template.md)
     + [Meta ads guide](templates/meta-template.md)
