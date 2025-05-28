@@ -22,7 +22,7 @@ When selecting a template you have the option of using one of your uploaded temp
 **To choose a Meta ad template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]**.
-1. Select **[UICONTROL Your templates]** to browse your uploaded templates, or **[!UICONTROL Starter templates]** to browse starter templates.
+1. Select **[!UICONTROL Your templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
 
       If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
 
