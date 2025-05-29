@@ -6,9 +6,7 @@ exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
 # Adobe GenStudio for Performance Marketing User Guide
 
-Adobe GenStudio for Performance Marketing is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies.
-
-By leveraging Adobe AI technology, GenStudio for Performance Marketing provides a comprehensive suite of tools that simplify the complexities of content creation and management so that creatives can focus on innovation.
+GenStudio for Performance Marketing is an application built on Adobe's generative AI platform. It enables marketing teams to create, manage, and optimize campaign content for paid media, email, and display ads. GenStudio for Performance Marketing offers a comprehensive suite of tools for content creation and campaign management, with the goal of improving ROI and scaling content production without compromising brand integrity.
 
 ## Explore capabilities
 
