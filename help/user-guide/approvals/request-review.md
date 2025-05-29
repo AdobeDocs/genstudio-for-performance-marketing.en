@@ -16,7 +16,7 @@ The Workfront Proof integration provides a robust approval workflow that include
 
 ## Launch an approval request
 
-After you generate your content variants, you can request its review and approval.
+After you generate an asset or experience, you can request its review and approval.
 
 **To request a review**:
 
@@ -28,11 +28,15 @@ After you generate your content variants, you can request its review and approva
 
 1. Click **[!UICONTROL Send]**. Clicking this button triggers in-product and email notifications that alert each designated approver that they have content to review.
 
-   _Optional_: Use comments to communicate additional context about the assets under review and call attention to specific details and callouts.
+   _Optional_: Use comments to communicate additional context about the assets under review and call attention to specific details and callouts. Use `@mentions` to tag collaborators and notify them of specific feedback.
 
-### Approval sidebar
+### Approval panel
 
-The _Approval_ sidebar captures the current status of your proof in the approval flow. It displays approval progress by stage. 
+The _Approval_ panel provides current status information about the review process and displays the status of the approval request. If your approval template includes multiple review stages, this panel displays the status of each approval phase. 
+
+From this panel, you can:
+
+* Change review participants. (Selecting this option opens Workfront)
 
 ## Add and remove approvers
 
@@ -42,15 +46,19 @@ Approver names are listed in this view with a [!DNL Notified] status after the a
 
 ## Launch an approval request with Workfront Proof
 
-The Proof integration provides additional options when requesting a content review.
+The Proof integration provides additional options for content editors requesting review. You can launch a review in two ways:
 
-You can select approvers and reviewers individually or use a proof approval template, which includes a predefined list of review participants.
+* Invite approvers and reviewers individually
+
+* Use a proof approval template, which includes a predefined list of review participants and optionally, approval workflow stages. Templates are defined by your Workfront Proof admin in a specific Workfront Project.
 
 **To launch a review cycle by inviting participants**:
 
-1. Click **[!UICONTROL Request approval]** from the canvas. 
+1. Click **[!UICONTROL Request approval]** from the Canvas. 
    
-   The _Request approval_ popup opens. 
+   The _Request approval_ popup opens.
+
+1. (Optional) Add a title for your review request in the **[!UICONTROL Title]** field.
 
 1. Select **[!UICONTROL Invite people]**.
      
@@ -62,8 +70,6 @@ You can select approvers and reviewers individually or use a proof approval temp
 
 1. (Optional) Under **[!UICONTROL Settings]**, assign a due date for a review decision. This date is not enforced, but reminds reviewers of the expected time frame. 
 
-1. (Optional) Add a title for your review request in the **[!UICONTROL Title]** field.
-
 1. (Optional) Add an informative message that provides context for reviewers.
 
 1. Click **[!UICONTROL Send]** when you are ready to launch the approval request.
@@ -72,29 +78,50 @@ You can select approvers and reviewers individually or use a proof approval temp
    
 **To launch a review using an approval template**:
 
-1. Click **[!UICONTROL Request approval]** from the canvas. 
+1. Click **[!UICONTROL Request approval]** from the Canvas. 
+   
    The _Request approval_ popup opens. 
 
-1. Select **[!UICONTROL Use template]**. 
+1. (Optional) Add a title for your review request in the **[!UICONTROL Title]** field.
+
+1. Select a Workfront Proof project from the **[!UICONTROL Project]** drop-down menu.
+
+1. Select a template from the **[!UICONTROL Use template]** drop-down menu.
+   
+   The _Request approval_ popup opens, displaying pre-determined participants and review stages. Workfront Proof administrators create approval templates and assign them to Workfront projects. The project you select determines both your template options and the fields displayed in the _Request approval_ popup.
+
+1. (Optional) You can edit the template for use in this particular approval workflow. 
+
+1. (Optional) Under **[!UICONTROL Settings]**, assign a due date for a review decision. This date is not enforced, but reminds reviewers of the expected time frame. 
+
+1. (Optional) Add an informative message that provides context for reviewers. Use `@mentions` to tag collaborators and notify them of specific feedback.
+
+1. Click **[!UICONTROL Send]** when you are ready to launch the approval request.
 
 ### Approval panel
 
-If you are the content creator who has launched the approval request
-
-The _Approval_ panel provides current status information about the review process and displapys the status of the approval request. If your approval template has configured multiple stages, this panel displays the status of each approval phase. 
+The _Approval_ panel provides current status information about the review process and displays the status of the approval request. If your approval template has configured multiple stages, this panel displays the status of each approval phase. 
 
 From the panel, you can:
 
-* Change review participants (Selecting this options opens Workfront)
+* Change review participants (Selecting this option opens Workfront)
 
 * View comments in Workfront
 
+### Edit participant list
+
+1. 
+
 ## Access review comments
 
-Click View comments in Workfront 
+1. Click **[!UICONTROL View comments in Workfront]**.
+   
+   Proofing viewer displays 
 
 ## Request new approval
 
-Review and approval cycles often include 
+Review and approval cycles are iterative. One set of reviewers requests changes before the content under review proceeds to final approval and sign off. 
 
-Request new approval button on the upper right. 
+**To request a new approval**:
+
+1. Click the **[!UICONTROL Request new approval]** button on the upper right.
