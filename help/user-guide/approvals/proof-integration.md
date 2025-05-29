@@ -17,7 +17,7 @@ Install the [Adobe Workfront Desktop Proofing Viewer extension](https://experien
 
 ## Get started
 
-GenStudio for Performance Marketing loads the Workfront Proofing Viewer when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. 
+Proofing Viewer loads when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. 
 
 ### Proofing Viewer
 
@@ -37,29 +37,29 @@ High-level comparison of GenStudio for Performance Marketing and Workfront Proof
 
 | Feature        | GenStudio for Performance Marketing                                                                 | Workfront Proof                                                                 |
 |-------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Draft vs Proof**            | Each asset or experience is a draft with a unique ID                                      | Each asset or experience is uploaded as a proof                                |
-| **Draft/Proof lifecycle**        | Only designated approvers can finalize a draft for publication<br>Draft ID and comments expire upon publication | Multi-stage, role-based approval chains with timestamped, persistent logs<br> All versions and comments are retained indefinitely                                              |
-| **Comments**                | Comments are tied to draft ID<br>Discarded after publishing                                           | Persistent comments and annotations are retained for audit and compliance           |
-| **Version control**           | Drafts treated as unique instances<br>no side-by-side comparison                                       | Full version control with side-by-side and overlay comparison tools             |
+| **Draft vs proof**            | Each asset or experience is a draft with a unique ID                                      | Each asset or experience is uploaded as a proof                                |
+| **Draft/proof lifecycle**        | Only designated approvers can finalize a draft for publication<br>Draft ID and comments expire upon publication | Multi-stage, role-based approval chains with timestamped, persistent logs<br> All versions and comments are retained indefinitely                                              |
+| **Comments**                | Comments are tied to draft ID and discarded after publishing                                           | Persistent comments and annotations are retained for audit and compliance           |
+| **Versions**           | Drafts are treated as unique instances<br>No side-by-side comparison                                       | Full version control with side-by-side and overlay comparison tools             |
 
 ### Drafts and proofs
 
-Workfront Proofing Viewer extends GenStudio for Performance Marketing's basic review-and-approval process with more structured review and approval features. Although Workfront Proof supports a wide range of assets, including static images, video assets, and PDFs, proofs reviewed in this integration are limited to the formats supported by GenStudio for Performance Marketing.
+Workfront Proofing Viewer extends GenStudio for Performance Marketing's basic review-and-approval process with more structured review and approval features. Proofs reviewed in this integration are limited to the formats supported by GenStudio for Performance Marketing.
 
 The following table summarizes the high level differences between GenStudio for Performance Marketing drafts and Workfront proofs. 
 
 
 | Feature                   | GenStudio for Performance Marketing                                                                 | Workfront Proof                                               |
 |---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| **Versioning**            | Tracks unique draft IDs with version history and status logs.<br>Draft IDs and URLs expire when the draft is published. | Robust version control with side-by-side comparisons           |
-| **Commenting**            | Threaded comments across teams (creative, legal, etc.).<br>Comments not saved after publication.     | Real-time, threaded comments with tagging and alerts           |
-| **Markup Tools**          | Limited markup                                                                                       | Rich markup tools (highlight, draw, pin, and strikeout)        |
-| **Draft and Proof Lifespan** | Drafts expire post-approval                                                                      | Proofs are versioned with audit trails and history             |
-| **Storage after Approval**| Saved in Content. Review comments not retained                                                       | Saved in Workfront DAM or external repositories                |
+| **Versions**            | Tracks unique draft IDs with version history and status logs.<br>Draft IDs and URLs expire when the draft is published. | Robust version control with side-by-side comparisons           |
+| **Comments**            | Threaded comments across teams (creative, legal, etc.).<br>Comments not saved after publication.     | Real-time, threaded comments with tagging and alerts           |
+| **Markup tools**          | Limited markup                                                                                       | Rich markup tools (highlight, draw, pin, and strikeout)        |
+| **Draft and proof lifespan** | Drafts expire post-approval                                                                      | Proofs are versioned with audit trails and history             |
+| **Storage after approval**| Saved in Content. Review comments not retained                                                       | Saved in Workfront DAM or external repositories                |
 | **Staged approvals**      | Only one approval stage                                                                              | Multiple approval stages                                       |
 
 
-Proofing viewer supports these additional tasks:
+Proofing Viewer supports these additional tasks:
 
 * [Compare two versions of a proof](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions)
 
@@ -67,23 +67,23 @@ Proofing viewer supports these additional tasks:
 
 ### User roles
 
-Workfront Proof provides a more granular set of user roles, but 
+Workfront Proof provides a more granular set of user roles than GenStudio for Performance Marketing. 
 
-| GenStudio Role               | Closest Workfront Proof Role     | Description                                                                 |
+| GenStudio Role               | Workfront Proof Role     | Description                                                                 |
 |-----------------------------|----------------------------------|-----------------------------------------------------------------------------|
 | **GenStudio System Manager**   | Workfront Administrator/Power User | Full access to Genstudio Performance Marketing features such as brand, persona, and product management. Manages workflows and settings. Creates approval templates |
-| **Creative Contributor**       | Proof Creator/Uploader       | Generates and submits content drafts. In Proof, uploads assets and initiates proofs. |
+| **Content editor (Power user)**       | Proof Creator/Uploader       | Generates and submits content drafts. In Proofing Viewer, uploads assets and initiates proofs. |
 | **Reviewer/Approver**        | Reviewer/Approver            | Participates in multi-stage reviews, adds comments, and approves or rejects content. |
-| **Legal/Compliance Reviewer**| Restricted Reviewer            | Reviews content for legal and regulatory compliance with limited permissions. |
 | **Collaborator/Commenter**   | Commenter                      | Can view and comment on drafts or proofs, but cannot approve or reject.     |
 
 Adobe system administrators manage user provisioning and entitlements for both products in the Adobe Admin Console.
 
-Workfront Proof provides the additional user roles:
+Workfront Proof provides these additional user roles:
 
 * **Proof Owner** manages the entire proof lifecycle, including assigning deadlines, reviewers, and permissions.
 * **Observer** can view proofs but cannot comment or participate in reviews.
 * **Workflow template manager** designs and manages reusable approval workflows.
+* **Legal/Compliance Reviewer** reviews content for legal and regulatory compliance and has limited permissions.
 
 No GenStudio for Performance Marketing roles map to these Workfront Proof roles.
 

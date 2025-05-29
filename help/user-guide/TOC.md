@@ -46,6 +46,7 @@ role: User
   + [Generate an image](create/generate-assets.md)
 + Reviews & Approvals {#approve}
   + [Review and Approvals overview](approvals/overview.md)
+  + [Workfront Proof integration](approvals/proof-integration.md)
   + [Request review and approval of content](approvals/request-review.md)
   + [Review and edit content](approvals/review-and-edit.md)
   + [Approve content](approvals/approve-content.md)

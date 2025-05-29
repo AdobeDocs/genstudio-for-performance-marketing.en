@@ -110,13 +110,12 @@ From the panel, you can:
 
 ### Edit participant list
 
-1. 
 
 ## Access review comments
 
 1. Click **[!UICONTROL View comments in Workfront]**.
    
-   Proofing viewer displays 
+   Proofing Viewer displays 
 
 ## Request new approval
 
