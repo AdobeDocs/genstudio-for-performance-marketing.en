@@ -9,7 +9,7 @@ exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 
 The review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign assets and experiences, including generative AI-produced brand assets.
 
-This feature is also available as an [integration with Adobe Workfront Proof](./proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. 
+This feature is also available as an [integration with Adobe Workfront Proof](./proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. With the Workfront Proof integration, GenStudio gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. 
 
 ## [!DNL Review and Approval] workflow advantages
 
@@ -25,7 +25,7 @@ This feature is also available as an [integration with Adobe Workfront Proof](./
 
 The main phases of the review and approval workflow include:
 
-* [Request review and approval of content you have created](./request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates simplify this task even more.
+* [Request review and approval of content you have created](./request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates can simplify this task even more.
 
 * [Review and edit content](./review-and-edit.md). Notifications keep content creators in the loop about requested changes and approvals. Revising content triggers an automatic new approval cycle.
 
@@ -35,7 +35,7 @@ The main phases of the review and approval workflow include:
 
 ## About [!DNL Content] drafts
 
-_Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Draft status identifies where the draft is in the review and approval process. A unique draft ID identifies each draft. This ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID. There is no versioning for GenStudio content drafts, but Workfront Proof supports versions of content drafts.
+_Drafts_ are preliminary versions of assets or experiences that have not completed the review and approval process. Draft status identifies where the draft is in the review and approval process. A unique draft ID identifies each draft. This ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID. There is no versioning for GenStudio content drafts.
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires. GenStudio for Performance Marketing does not save associated comments and approval status. The draft URL is no longer valid. 
 

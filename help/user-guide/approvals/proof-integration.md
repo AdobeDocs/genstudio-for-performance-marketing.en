@@ -5,7 +5,7 @@ feature: Content Review, Content Management
 ---
 # Workfront Proof integration with GenStudio for Performance Marketing
 
-Integration with Workfront Proof enhances the GenStudio for Performance Marketing review and approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to compare draft (proof) versions.
+Integration with Workfront Proof enhances the GenStudio for Performance Marketing review and approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to [compare proof (draft) versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions).  This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content lifecycle.
 
 >[!BEGINSHADEBOX]
 
@@ -17,19 +17,13 @@ Install the [Adobe Workfront Desktop Proofing Viewer extension](https://experien
 
 ## Get started
 
-Proofing Viewer loads when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. 
-
-### Proofing Viewer
-
-Proofing viewer is a rich workspace for viewing, commenting on, and comparing proofs. 
-
-From Proofing Viewer, you can 
+With the Workfront Proof integration, GenStudio gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. Proofing viewer is a rich workspace for viewing, commenting on, and comparing proofs. From Proofing Viewer, you can 
 
 * Compare different versions of the content
 * Add comments to a draft, or proof
 * Approve the proof
 
-Click **[!UICONTROL Return to GenStudio]** to return to exit Proofing Viewer and return to the GenStudio for Performance Marketing Canvas.
+Proofing Viewer loads when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. Click **[!UICONTROL Return to GenStudio]** to return to exit Proofing Viewer and return to the GenStudio for Performance Marketing Canvas.
 
 ## Feature comparison overview
 
@@ -93,11 +87,14 @@ Workfront Proof approval templates provide preformatted workflow steps that can 
 
 ### Comments
 
-Comments can added and viewed 
-
+Reviewers can click directly on specific areas of the proof to leave precise, contextual comments. All comments are timestamped and saved as part of the proof's version history. Comment history is not available in GenStudio for Performance Marketing.
 
 ### Version control
 
-Workfront Proof enables digital review and approval of content through an interactive proof viewer, where each submission in the workflow represents a distinct version of the content. These versions are saved and can be compared side-by-side, allowing stakeholders to track changes and provide feedback efficiently. The system maintains a persistent history of all comments, decisions, and versions, supporting audit and compliance needs. Each version supports multi-stage, role-based approval workflows, with all approvals and rejections logged and timestamped. This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content lifecycle.
+Proofing Viewer Each submission in the approval workflow represents a distinct version of the content draft, or proof. These versions are saved and can be compared side-by-side, allowing stakeholders to track changes and provide feedback efficiently. The system maintains a persistent history of all comments, decisions, and versions, supporting audit and compliance needs. Each version supports multi-stage, role-based approval workflows, with all approvals and rejections logged and timestamped.
 
-## Proof lifecycle
+Workfront Proof's versioning capabilities significantly enhance GenStudio's content review and approval process. Each submission in the Proof workflow is treated as a distinct version of the content draft or _proof_. Proofs are automatically saved and can be compared side-by-side with previous iterations. Stakeholders can track changes, provide precise feedback, and maintain alignment throughout the review cycle. Proof preserves a complete history of all comments, decisions, and versions, supporting audit readiness and compliance requirements. Each version also supports multi-stage, role-based approval workflows, with every action—approval, rejection, or comment—clearly logged and timestamped.
+
+## Notifications and reminders
+
+Approvers and reviewers receive email notifications when a new proof is available for review or when an ongoing review has changed status. [Proof notifications and reminders](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/wp-emails-and-notifications) include a personalized link to the proof, details about the proof and its progress through the approval process, and versioning information.
