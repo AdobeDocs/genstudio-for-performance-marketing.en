@@ -4,6 +4,7 @@ description: Follow best practices when using display ad and banner templates wi
 level: Intermediate
 role: Developer, User
 feature: Media Templates
+exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
 ---
 # Display ad template guidelines
 

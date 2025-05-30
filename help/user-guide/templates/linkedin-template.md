@@ -4,6 +4,7 @@ description: Follow best practices when using LinkedIn templates with Adobe GenS
 level: Intermediate
 role: Developer, User
 feature: Media Templates
+exl-id: 85432185-8311-411b-b57b-f482c3d45854
 ---
 # LinkedIn template guidelines
 

@@ -6,6 +6,7 @@ feature: Media Templates
 hide: yes
 hidefromtoc: yes
 recommendations: noDisplay, noCatalog
+exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
 ---
 # Starter templates
 
