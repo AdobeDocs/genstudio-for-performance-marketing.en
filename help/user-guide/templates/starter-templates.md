@@ -18,15 +18,33 @@ Selecting the appropriate aspect ratio for your ad is important for maximizing i
 - **Platform requirements**—Each paid media channel has recommended aspect ratios for different placements.
 - **Content visibility**—Some aspect ratios show more of your creative, while others may crop or resize your content.
 
-Review your campaign goals and placement options before selecting a template.
+Review your campaign goals and placement options before selecting a template. For all templates, keep key visuals and messaging within safe zones to avoid cropping and review platform-specific requirements before finalizing your creative.
 
 ## Available starter templates
 
-The following table summarizes available starter templates, their supported aspect ratios, and usage guidance for each media channel.
+The following summarizes available starter templates, their supported media types, aspect ratios, and usage guidance for each media channel.
 
-| Template type             | Aspect Ratios                                             | Description & Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|---------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| LinkedIn Ad static image  | `1:1`<br>`1.91:1`<br>`1:1.91`<br>`2:3`<br>`4:5`<br>`9:16` | **Square (`1:1`)**—Ideal for consistent appearance across devices and placements.<br>**Landscape (`1.91:1`, `1:1.91`)**—`1.91:1` is standard landscape format and good for news feeds or sponsored content; `1:1.91` tall vertical format. Keep key visuals and messaging within safe zones to avoid cropping.<br>**Portrait (`2:3`, `4:5`)**—Suited for portrait formats, helping your creative stand out on mobile devices.<br>**Vertical (`9:16`)**—Best for LinkedIn Stories. |
-| LinkedIn Ad video         | `1:1`<br>`1.91:1`<br>`1:1.91`<br>`2:3`<br>`4:5`<br>`9:16` | **Square (`1:1`)**—Best for feed videos, ensuring consistent display across devices.<br>**Landscape (`1.91:1`, `1:1.91`)**—`1.91:1` is optimal for landscape video ads and sponsored content; `1:1.91` is suited for wide banners, especially on desktop.<br>**Portrait (`2:3`, `4:5`)**—Ideal for vertical placements, helping your video occupy more screen space on mobile and increase engagement.<br>**Vertical (`9:16`)**—Perfect for LinkedIn Stories, providing a full-screen experience. Keep key visuals and messaging within safe zones to avoid cropping, and tailor your video length and format to the selected placement and audience. |
-| Meta Ad static image      | `1:1`<br>`1.91:1`<br>`4:5`<br>`9:16`                      | **Square (`1:1`)**—Recommended for feed posts and carousel ads for broad compatibility.<br>**Landscape (`1.91:1`)**—Best for banners and link ads.<br>**Portrait (`4:5`)**—Helps your ad stand out in mobile feeds.<br>**Vertical (`9:16`)**—Designed for Stories and Reels, filling the entire mobile screen. |
-| Meta Ad video             | `1:1`<br>`1.91:1`<br>`4:5`<br>`9:16`                      | **Square (`1:1`)**—Ideal for feed videos and carousel video ads for maximum reach.<br>**Landscape (`1.91:1`)**—Perfect for widescreen and link video ads.<br>**Portrait (`4:5`)**—Works well for portrait video placements, increasing vertical space in the feed.<br>**Vertical (`9:16`)**—Best for Stories and Reels, providing an immersive full-screen experience. |
+### LinkedIn ad templates
+
+All aspect ratios are supported for static images. For video, use 9:16 for LinkedIn Stories and ensure that your video is optimized for short, vertical formats.
+
+| Aspect Ratio | Orientation  | Guidance                                                                                       |
+|--------------|--------------|------------------------------------------------------------------------------------------------|
+| 1:1          | Square       | Consistent appearance across devices and placements.                                           |
+| 1.91:1       | Landscape    | Standard for news feeds or sponsored content. Keep key visuals/messaging within safe zones.    |
+| 1:1.91       | Portrait     | Tall vertical format. Keep key visuals/messaging within safe zones.                            |
+| 2:3, 4:5     | Portrait     | Suited for portrait formats and helps the creative stand out on mobile devices.                |
+| 9:16         | Vertical     | Best for LinkedIn Stories (full-screen experience for video).                                  |
+
+### Meta Ad templates
+
+All aspect ratios are supported for static images and video media types.
+
+| Aspect Ratio | Orientation  | Guidance                                                                                       |
+|--------------|--------------|------------------------------------------------------------------------------------------------|
+| 1:1          | Square       | Recommended for feed posts, carousel ads, and feed videos for broad compatibility.             |
+| 1.91:1       | Landscape    | Best for banners, link ads, and widescreen video ads.                                          |
+| 4:5          | Portrait     | Ideal for mobile feeds; maximizes vertical space and visibility, especially for video content. |
+| 9:16         | Vertical     | Designed for Stories and Reels, providing an immersive full-screen experience.                 |
+
+
