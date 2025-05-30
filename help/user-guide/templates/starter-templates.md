@@ -3,6 +3,9 @@ title: Prepare an email template for GenStudio for Performance Marketing
 description: Learn how to prepare an email template for use in Adobe GenStudio for Performance Marketing.
 level: Beginner
 feature: Media Templates
+hide: yes
+hidefromtoc: yes
+recommendations: noDisplay, noCatalog
 ---
 # Starter templates
 
@@ -46,5 +49,3 @@ All aspect ratios are supported for static images and video media types.
 | 1.91:1       | Landscape    | Best for banners, link ads, and widescreen video ads.                                          |
 | 4:5          | Portrait     | Ideal for mobile feeds; maximizes vertical space and visibility, especially for video content. |
 | 9:16         | Vertical     | Designed for Stories and Reels, providing an immersive full-screen experience.                 |
-
-

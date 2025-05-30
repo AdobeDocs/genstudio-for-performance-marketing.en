@@ -11,7 +11,7 @@ LinkedIn templates provide a structured way to create and customize ad creatives
 
 Follow these design best practices when customizing LinkedIn ad templates to work with GenStudio for Performance Marketing:
 
-- Exactly one image field is required.
+- Exactly one image field is required
 - Maximum image size of 5 MB
 - Maximum headline 70 characters
 - Maximum introductory text 150 characters
