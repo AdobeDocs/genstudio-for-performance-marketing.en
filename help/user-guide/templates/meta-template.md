@@ -2,6 +2,7 @@
 title: Meta ad template guidelines
 description: Follow best practices when using Meta ad templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
+role: Developer, User
 feature: Media Templates
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
 ---

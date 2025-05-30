@@ -2,6 +2,7 @@
 title: Email template guidelines
 description: Follow best practices when using email templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
+role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
 ---
