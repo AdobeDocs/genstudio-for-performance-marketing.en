@@ -25,7 +25,7 @@ Begin by ingesting your organization's branding, customer personas, and product 
 
 {{in-academy}}
 
-## Large language models
+### Large language models
 
 GenStudio for Performance Marketing leverages Adobe's generative AI platform, which offers foundational AI and machine learning (ML) services. This platform simplifies the use of large language models (LLMs), powering Adobe's GenAI capabilities to create engaging experiences.
 
@@ -75,7 +75,7 @@ The following functions consume [!DNL Generative Actions] at the specified rate.
 
 ## Data governance
 
-When working with AI to generate content, it is essential to ensure the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Adobe thoroughly tests content generation technology from multiple perspectives, performs comprehensive ethics reviews, and implements effective mitigation plans to prevent harmful content from emerging in outputs.
+When working with AI to generate content, it is essential to ensure that the output is safe and inclusive for all users. This requires evaluation of the content for potential harmful biases, hate speech, offensive material, or profanity. Adobe thoroughly tests content generation technology from multiple perspectives, performs comprehensive ethics reviews, and implements effective mitigation plans to prevent harmful content from emerging in outputs.
 
 This approach reinforces social responsibility, minimizes reputational risk, and ensures adherence to [Adobe's Trust & Safety and Ethics policies](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
 
