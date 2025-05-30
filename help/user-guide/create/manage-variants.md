@@ -108,7 +108,7 @@ You can manually crop and reposition image assets in individual generated varian
 
 ## Change aspect ratio
 
-You can quickly change the [aspect ratio of Meta ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) to accommodate the desired ad sizing. Choose an image aspect ratio that closely matches your template dimensions to avoid unwanted cropping or stretching. For example, if your template is 1200 × 628 pixels (a wide rectangle), using a 1:1 square image may crop the sides, potentially cutting off important content. The optimal image size would be 628 x 628 pixels, which matches the height of the template.
+You can quickly change the [aspect ratio of Meta ads](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) to accommodate the desired ad sizing. Choose an image aspect ratio that closely matches your template dimensions to avoid unwanted cropping or stretching. For example, if your template is 1200 × 628 pixels (a wide rectangle), using a 1:1 square image may crop the sides, potentially cutting off important content. The optimal image size would be 628 x 628 pixels, which matches the height of the template.
 
 >[!NOTE]
 >
@@ -122,7 +122,7 @@ You can quickly change the [aspect ratio of Meta ads](/help/user-guide/content/b
 
    The number of variations affected by this revision are noted in the top right corner of the window. _Example_: "4 of 4 variations"
 
-1. Select an [available aspect ratio](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+1. Select an [available aspect ratio](/help/user-guide/templates/meta-template.md#supported-aspect-ratios).
 
    Only aspect ratio sizes that are not currently represented in the Canvas are available to choose.
 
