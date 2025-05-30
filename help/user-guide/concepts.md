@@ -81,7 +81,7 @@ This approach reinforces social responsibility, minimizes reputational risk, and
 
 GenStudio for Performance Marketing incorporates mitigation plans to prevent the use of identified harmful or biased content per Adobe data governance standards and policies. When such content is detected, you are made aware that asset generation is blocked with a "Can't generate" message.
 
-When this message appears, you can edit the prompt and try again _or_ flag the prompt content for review by GenStudio for Performance Marketing. The prompt data for content that is flagged for review is collected for internal review purposes. 
+When this message appears, you can edit the prompt and try again _or_ flag the prompt content for review by GenStudio for Performance Marketing. The prompt data for content that is flagged for review is collected for internal review purposes.
 
 ## Content lifecycle
 

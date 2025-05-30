@@ -16,7 +16,7 @@ Before you begin generating a LinkedIn ad, it is important to [add guidelines](/
 
 ## Choose a template
 
-To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
+To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [LinkedIn template guidelines](/help/user-guide/templates/linkedin-template.md) for information about supported LinkedIn aspect ratios.
 
 **To choose a LinkedIn template**:
 

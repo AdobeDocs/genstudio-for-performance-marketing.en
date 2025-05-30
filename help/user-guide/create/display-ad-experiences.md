@@ -14,7 +14,7 @@ With Adobe GenStudio for Performance Marketing, you can use generative AI to str
 
 When generating display ad experiences four variations are created and shown in the Canvas.
 
-See [Follow channel-specific template guidelines](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported dimensions, recognized fields names, and more.
+See [Display ad template guidelines](/help/user-guide/templates/display-template.md) for information about supported dimensions, recognized fields names, and more.
 
 Editable sections of a display ad experience include:
 

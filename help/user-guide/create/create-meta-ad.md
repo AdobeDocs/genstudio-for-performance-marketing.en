@@ -15,7 +15,7 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 ## Choose a template
 
-To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported Meta ad aspect ratios.
+To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Meta ad template guidelines](/help/user-guide/templates/meta-template.md) for information about supported Meta ad aspect ratios.
 
 **To choose a Meta ad template**:
 
