@@ -50,6 +50,6 @@ When creating templates, ensure they meet the specific requirements of the inten
 See further tips and constraints when working with each template type to ensure optimal performance and compatibility:
 
 - [Emails](/help/user-guide/templates/email-template.md)
-- [Display ads](/help/user-guide/templates/display-template.md)
+- [Display and banner ads](/help/user-guide/templates/display-template.md)
 - [LinkedIn](/help/user-guide/templates/linkedin-template.md)
 - [Meta ads](/help/user-guide/templates/meta-template.md)
