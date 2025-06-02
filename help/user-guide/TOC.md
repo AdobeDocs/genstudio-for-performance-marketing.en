@@ -55,21 +55,30 @@ role: User
   + [Manage assets and experiences](content/manage-assets.md)
   + [Connect an AEM repository](content/connect-aem-repo.md)
   + [Asset details](content/asset-details.md)
-  + Templates {#templates}
-    + [Work with templates](content/use-templates.md)
-    + [Customize a template](content/customize-template.md)
-    + [Template code editor](content/code-editor.md)
-    + [Create accessible templates](content/accessibility-for-templates.md)
-    + [Best practices for templates](content/best-practices-for-templates.md)
++ Templates {#templates}
+  + [Work with templates](content/use-templates.md)
+  + [Starter templates](templates/starter-templates.md)
+  + [Customize a template](content/customize-template.md)
+  + [Template code editor](content/code-editor.md)
+  + [Create accessible templates](content/accessibility-for-templates.md)
+  + [Best practices for templates](content/best-practices-for-templates.md)
+  + Channel best practice {#channel-best-practice}
+    + [Display ads guide](templates/display-template.md)
+    + [Email guide](templates/email-template.md)
+    + [LinkedIn ads guide](templates/linkedin-template.md)
+    + [Meta ads guide](templates/meta-template.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
+  + [Create campaigns](campaigns/create-campaign.md)
+  + [Manage campaigns](campaigns/manage-campaign.md)
 + Activate {#activation}
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
-  + [Activate a Google Campaign Manager 360 ad](activation/activate-cm360-ad.md)
-  + [Activate a Meta ad](activation/activate-meta-ad.md)
   + [Manage activations](activation/manage-activations.md)
   + [Optimize activations](activation/troubleshooting.md)
+  + Paid media ads {#paid-media-ads}
+    + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
+    + [Meta](activation/activate-meta-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)

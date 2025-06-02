@@ -5,6 +5,7 @@ level: Intermediate
 role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
+exl-id: a25b5988-545d-49a8-8c2f-e306d276afbf
 ---
 # Connect to Google Campaign Manager 360
 

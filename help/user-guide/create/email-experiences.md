@@ -12,7 +12,7 @@ With Adobe GenStudio for Performance Marketing, you can use generative AI to str
 
 [!DNL Create] enables modern marketers to use [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md) to quickly [create brand-aligned email experiences](/help/user-guide/create/create-email-experience.md).
 
-When generating Meta experiences four variations are created and shown in the Canvas.
+When generating email experiences four variations are created and shown in the Canvas.
 
 Editable sections of an email experience include:
 
@@ -22,7 +22,6 @@ Editable sections of an email experience include:
 * Body
 * Call to action (CTA)
 * Image
-* Brand logo
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
 

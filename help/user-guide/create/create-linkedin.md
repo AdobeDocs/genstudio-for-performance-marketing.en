@@ -16,7 +16,7 @@ Before you begin generating a LinkedIn ad, it is important to [add guidelines](/
 
 ## Choose a template
 
-To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
+To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [LinkedIn template guidelines](/help/user-guide/templates/linkedin-template.md) for information about supported LinkedIn aspect ratios.
 
 **To choose a LinkedIn template**:
 
@@ -77,6 +77,7 @@ Before sending variants for approval or publishing to [!DNL Content], you can ed
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
+* **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
 * **To [delete a LinkedIn ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback

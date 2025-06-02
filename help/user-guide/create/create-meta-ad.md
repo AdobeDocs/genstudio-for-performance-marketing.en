@@ -15,7 +15,7 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 ## Choose a template
 
-To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported Meta ad aspect ratios.
+To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Meta ad template guidelines](/help/user-guide/templates/meta-template.md) for information about supported Meta ad aspect ratios.
 
 **To choose a Meta ad template**:
 
@@ -92,6 +92,7 @@ header, or body copy) and edit as needed.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
+* **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback
