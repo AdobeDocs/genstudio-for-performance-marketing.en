@@ -9,7 +9,9 @@ exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 
 The review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign assets and experiences, including generative AI-produced brand assets.
 
-This feature is also available as an [integration with Adobe Workfront Proof](./proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. With the Workfront Proof integration, GenStudio for Performance Marketing gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. 
+>[!NOTE]
+>
+> This feature is also available as an [integration with Adobe Workfront Proof](./proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. With the Workfront Proof integration, GenStudio for Performance Marketing gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. 
 
 ## [!DNL Review and Approval] workflow advantages
 
@@ -19,7 +21,7 @@ This feature is also available as an [integration with Adobe Workfront Proof](./
 
 * **Adherence to campaign goals and legal requirements**. The approval process helps verify that content supports campaign goals. It ensures that all marketing materials comply with legal and regulatory standards, which minimizes risks and potential legal issues.
 
-* **Supported integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing is synced to Workfront Proof, and review comments and status are preserved. [Integration highlights](./proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
+* **Integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing is synced to Workfront Proof, and review comments and status are preserved. [Integration highlights](./proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
 
 ## Review and approval lifecycle
 
@@ -29,7 +31,7 @@ The main phases of the review and approval workflow include:
 
 * [Review and edit content](./review-and-edit.md). Notifications keep content creators in the loop about requested changes and approvals. Revising content triggers an automatic new approval cycle.
 
-* [Approve content](./approve-content.md)
+* [Approve content](./approve-content.md). Designated approvers mark content as approved, or ready for publication.
 
 * [Publish content](./publish-content.md). Publishing approved content to [!DNL Content] makes it available for others in your organization to use or reference.
 
@@ -53,7 +55,7 @@ Available draft statuses:
 
 ## Approval roles
 
-_Reviewers_ can add comments but not approve. Reviewer participation is helpful but not essential to content approval. _Approvers_ must approve content before it can progress through the approval process. Workfront Proof integration supports a wider range of user roles. 
+_Reviewers_ can add comments but cannot approve content. Reviewer participation is helpful but not essential. _Approvers_ must approve content before it can progress through the approval process. Workfront Proof integration supports a wider range of user roles.
 
 
 ## Notifications
