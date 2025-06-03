@@ -51,16 +51,9 @@ Available draft statuses:
 >
 > Drafts correspond to _proofs_ for users of the Workfront Proof integration. [Proofs and drafts](proof-integration.md#drafts-and-proofs) differ in terms of persistence and versioning.
 
-
 ## Approval roles
 
-_Reviewers_ can add comments but not approve. Reviewer participation is helpful but not essential to content approval.
-
-Approvers can add comments and must pprove before content completes 
-
-and mark up assets. They must make a decision to move the approval process forward.
-
-Workfront Proof integration supports a wider range of user roles. 
+_Reviewers_ can add comments but not approve. Reviewer participation is helpful but not essential to content approval. _Approvers_ must approve content before it can progress through the approval process. Workfront Proof integration supports a wider range of user roles. 
 
 
 ## Notifications
