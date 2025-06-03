@@ -5,7 +5,7 @@ feature: Content Review, Content Management
 ---
 # Workfront Proof integration with GenStudio for Performance Marketing
 
-Integration with Workfront Proof enhances the GenStudio for Performance Marketing review and approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to [compare proof (draft) versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions).  This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content lifecycle.
+Integration with Workfront Proof enhances the GenStudio for Performance Marketing review and approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to [compare proof (draft) versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions).  This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content review lifecycle.
 
 >[!BEGINSHADEBOX]
 
@@ -36,29 +36,6 @@ High-level comparison of GenStudio for Performance Marketing and Workfront Proof
 | **Comments**                | Comments are tied to draft ID and discarded after publishing                                           | Persistent comments and annotations are retained for audit and compliance           |
 | **Versions**           | Drafts are treated as unique instances<br>No side-by-side comparison                                       | Full version control with side-by-side and overlay comparison tools             |
 
-### Drafts and proofs
-
-Workfront Proofing Viewer extends GenStudio for Performance Marketing's basic review-and-approval process with more structured review and approval features. Proofs reviewed in this integration are limited to the formats supported by GenStudio for Performance Marketing.
-
-The following table summarizes the high level differences between GenStudio for Performance Marketing drafts and Workfront proofs. 
-
-
-| Feature                   | GenStudio for Performance Marketing                                                                 | Workfront Proof                                               |
-|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| **Versions**            | Tracks unique draft IDs with version history and status logs.<br>Draft IDs and URLs expire when the draft is published. | Robust version control with side-by-side comparisons           |
-| **Comments**            | Threaded comments across teams (creative, legal, etc.).<br>Comments not saved after publication.     | Real-time, threaded comments with tagging and alerts           |
-| **Markup tools**          | Limited markup                                                                                       | Rich markup tools (highlight, draw, pin, and strikeout)        |
-| **Draft and proof lifespan** | Drafts expire post-approval                                                                      | Proofs are versioned with audit trails and history             |
-| **Storage after approval**| Saved in Content. Review comments not retained                                                       | Saved in Workfront DAM or external repositories                |
-| **Staged approvals**      | Only one approval stage                                                                              | Multiple approval stages                                       |
-
-
-Proofing Viewer supports these additional tasks:
-
-* [Compare two versions of a proof](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions)
-
-* Access comments for published content
-
 ### User roles
 
 Workfront Proof provides a more granular set of user roles than GenStudio for Performance Marketing. 
@@ -81,19 +58,40 @@ Workfront Proof provides these additional user roles:
 
 No GenStudio for Performance Marketing roles map to these Workfront Proof roles.
 
-### Approval templates
+### Drafts and proofs
 
-Workfront Proof approval templates provide preformatted workflow steps that can be quickly applied to a proof. These templates include predefined reviewers and approvers, proof roles, and deadlines, ensuring consistency and efficiency. Content creators launching a review can select from a set of predefined templates to apply the appropriate approval chain automatically, supporting both single-phase and multi-phase approval processes. Each stage of the workflow automatically associates the relevant reviewers, and all status updates and comments from the Workfront Proof workflow are visible within the Project Execution Module (PEM), enhancing transparency and collaboration.
+Workfront Proofing Viewer extends GenStudio for Performance Marketing's basic review-and-approval process with more structured review and approval features. Proofs reviewed in this integration are limited to the formats supported by GenStudio for Performance Marketing.
 
-### Comments
+The following table summarizes the high level differences between GenStudio for Performance Marketing drafts and Workfront proofs: 
 
-Reviewers can click directly on specific areas of the proof to leave precise, contextual comments. All comments are timestamped and saved as part of the proof's version history. Comment history is not available in GenStudio for Performance Marketing.
+| Feature                   | GenStudio for Performance Marketing                                                                 | Workfront Proof                                               |
+|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Versions**            | Tracks unique draft IDs with version history and status logs.<br>Draft IDs and URLs expire when the draft is published. | Robust version control with side-by-side comparisons.<br>Versions persist after publication.           |
+| **Comments**            | Threaded comments across teams (creative, legal, etc.).<br>Comments not saved after publication.     | Real-time, threaded comments with tagging and alerts           |
+| **Markup tools**          | Limited markup                                                                                       | Rich markup tools (highlight, draw, pin, and strikeout)        |
+| **Draft/proof lifespan** | Drafts expire post-approval                                                                      | Proofs are versioned with audit trails and history.             |
+| **Storage after approval**| Saved in Content. Review comments not retained.                                                   | Saved in Workfront DAM or external repositories.               |
+| **Staged approvals**      | Only one approval stage                                                                              | Multiple approval stages                                       |
 
 ### Version control
 
 Proofing Viewer Each submission in the approval workflow represents a distinct version of the content draft, or proof. These versions are saved and can be compared side-by-side, allowing stakeholders to track changes and provide feedback efficiently. The system maintains a persistent history of all comments, decisions, and versions, supporting audit and compliance needs. Each version supports multi-stage, role-based approval workflows, with all approvals and rejections logged and timestamped.
 
 Workfront Proof's versioning capabilities significantly enhance GenStudio's content review and approval process. Each submission in the Proof workflow is treated as a distinct version of the content draft or _proof_. Proofs are automatically saved and can be compared side-by-side with previous iterations. Stakeholders can track changes, provide precise feedback, and maintain alignment throughout the review cycle. Proof preserves a complete history of all comments, decisions, and versions, supporting audit readiness and compliance requirements. Each version also supports multi-stage, role-based approval workflows, with every action—approval, rejection, or comment—clearly logged and timestamped.
+
+### Approval templates
+
+Workfront Proof approval templates provide preformatted steps that can streamline the proof approval workflow. These templates include predefined reviewers and approvers, proof roles, and deadlines, ensuring consistency and efficiency. Content creators launching a review can select from a set of predefined templates to apply the appropriate approval chain automatically. This supports both single-phase and multi-phase approval processes. 
+
+Each stage of the workflow template identifies reviewers, and all status updates and comments from the Workfront Proof workflow are visible within the Project Execution Module (PEM), enhancing transparency and collaboration.
+
+Approval templates support multi-stage approvals, which support the coordination of reviews from different groups of stakeholders.
+
+### Comments
+
+Reviewers can click directly on specific areas of the proof to leave precise, contextual comments. All comments are timestamped and saved as part of the proof's version history. Comment history is not available in GenStudio for Performance Marketing.
+
+You can [compare two versions of a proof](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions) to evaluate review comments and content.
 
 ## Notifications and reminders
 
