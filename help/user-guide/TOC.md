@@ -22,6 +22,7 @@ role: User
   + [Connect paid media](connectors/connect-channel.md)
   + Paid media accounts {#connect-account}
     + [Google Campaign Manager 360](connectors/google-cm360.md)
+    + [LinkedIn](connectors/linkedin-ads.md)
     + [Meta Ads](connectors/meta-ads.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
