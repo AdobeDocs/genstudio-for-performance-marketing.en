@@ -22,7 +22,7 @@ Once your template is ready, you can [upload it to GenStudio for Performance Mar
 
 GenStudio for Performance Marketing recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a [recognized field name](#recognized-field-names).
 
-Within the head or body of an HTML template, you can use the [!DNL Handlebars] syntax to insert a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets the content placeholders based on the [recognized _field_ name](#recognized-field-names).
+Within the head or body of an HTML template, you can use the [!DNL Handlebars] syntax to insert a content placeholder where you require GenStudio for Performance Marketing to populate the template with actual content. GenStudio for Performance Marketing recognizes and interprets these placeholders based on the [recognized _field_ name](#recognized-field-names). Each field name is associated with specific rules and behaviors that determine how content is generated and inserted into your template.
 
 For example, you can use `{{headline}}` with the [!DNL Handlebars] syntax to indicate where the headline of the email should be placed. GenStudio recognizes this field, generates a relevant headline based on your guidelines and prompt criteria, and inserts the headline in this location:
 
@@ -32,7 +32,7 @@ For example, you can use `{{headline}}` with the [!DNL Handlebars] syntax to ind
 
 ### Recognized field names
 
-The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
+The following table lists the field names recognized by GenStudio for Performance Marketing for adding a placeholder into a template. Each field follows specific channel guidelines, LLM instructions, and role-base rules. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketing to generate a certain type of content.
 
 | Field                   | Role                      | Channel template                                 |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
@@ -168,9 +168,11 @@ To create an editable section, add double brackets around the section name:
 
 ## Sections or groups
 
-_Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+You can use sections in a marketing email template when you have two or three groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+Use a group name of your choice as a prefix to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
+
+Syntax: `groupname_fieldname`
 
 - _Correct_ (👍): `pod1_body`
 - _Incorrect_ (❌): `pod1body`
@@ -188,14 +190,10 @@ Each template type, such as email or Meta ad, has channel-specific constraints o
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
-
 - `pre_header`
-- `pod1_headline`
-- `pod1_body`
-- `pod2_headline`
-- `pod2_body`
-- `pod3_headline`
-- `pod3_body`
+- `pod1_headline`, `pod1_body`
+- `pod2_headline`, `pod2_body`
+- `pod3_headline`, `pod3_body`
 - `cta`
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
@@ -244,138 +242,3 @@ External files are temporarily embedded only for the purpose of creating the tem
 ### Refresh content
 
 If the source changes after creating the initial preview, use the [refresh](/help/user-guide/content/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.
-
-## Template examples
-
-+++Example: Email template with one section
-
-The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre_header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
-
-```html {line-numbers="true" highlight="13"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
-            <p>{{body}}</p>
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++Example: Email template with multiple sections
-
-The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-            .pod {
-            background-color: #f8f8f8;
-            margin: 10px;
-            padding: 20px;
-            border-radius: 5px;
-            }
-            .pod h2 {
-            color: #333;
-            }
-            .pod p {
-                color: #666;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
-            <!-- Pod1 -->
-            <div class="pod">
-                <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod1_body}}</p>
-            </div>
-            <!-- End of Pod1 -->
-            <!-- Pod2 -->
-            <div class="pod">
-                <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod2_body}}</p>
-            </div>
-            <!-- End of Pod2 -->
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++Example: Meta ad template
-
-The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders), such as `image` and `on_image_text`, to indicate where GenStudio for Performance Marketing can generate content.
-
-```html {line-numbers="true" highlight="33"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Adobe</title>
-        <style>
-            .ad-container {
-            font-family: Helvetica, sans-serif;
-            position: relative;
-            text-align: center;
-            height: 100%;
-            }
-            .ad-image {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            }
-            .ad-text {
-            position: absolute;
-            top: 0;
-            left: 0;
-            margin: 1em;
-            background-color: rgba(0, 0, 0, 0.5);
-            color: white;
-            padding: 1em;
-            font-size: 75px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="ad-container">
-            <img src="{{image}}" alt="Ad Image" class="ad-image" />
-            <div class="ad-text">{{on_image_text}}</div>
-        </div>
-    </body>
-</html>
-```
-
-+++

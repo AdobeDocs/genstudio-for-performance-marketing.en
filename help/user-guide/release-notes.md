@@ -20,7 +20,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## Earlier release notes
 
-+++Notes from 2025.05.15
++++Notes from 2025.04.15
 
 ### Fixes and enhancements
 
