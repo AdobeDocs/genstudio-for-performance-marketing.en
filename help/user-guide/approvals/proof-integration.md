@@ -11,7 +11,7 @@ Integration with Workfront Proof enhances the GenStudio for Performance Marketin
 
 **Prerequisites**:
 
-Install the [Adobe Workfront Desktop Proofing Viewer extension](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension).
+Install the [Adobe Workfront Desktop Proofing Viewer extension](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension.html).
 
 >[!ENDSHADEBOX]
 
@@ -42,7 +42,7 @@ The table below compares the standard GenStudio for Performance Marketing review
 
 Workfront Proof provides a more granular set of user roles than GenStudio for Performance Marketing. 
 
-| GenStudio for Performance Marketing license | Workfront Proof license | Description                                                                 |
+| GenStudio for Performance Marketing license | Workfront license | Description                                                                 |
 |-----------------------------|----------------------------------|-----------------------------------------------------------------------------|
 | **GenStudio System Manager**   | Workfront Administrator/Power User | Full access to Genstudio Performance Marketing features such as brand, persona, and product management. Manages workflows and settings. Creates approval templates |
 | **Content creator and editor (Power user)**       | Proof Creator/Uploader       | Generates and submits content drafts. In Proofing Viewer, uploads assets and initiates proofs. Requires a Workfront Proof license.|
@@ -89,4 +89,4 @@ You can [compare two versions of a proof](https://experienceleague.adobe.com/en/
 
 ## Notifications and reminders
 
-Approvers and reviewers receive email notifications when a new proof is available for review or when an ongoing review has changed status. [Proof notifications and reminders](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/wp-emails-and-notifications) include a personalized link to the proof, details about the proof and its progress through the approval process, and versioning information.
+Approvers and reviewers receive email notifications when a new proof is available for review or when an ongoing review has changed status. [Proof notifications and reminders](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/wp-emails-and-notifications.html) include a personalized link to the proof, details about the proof and its progress through the approval process, and versioning information.
