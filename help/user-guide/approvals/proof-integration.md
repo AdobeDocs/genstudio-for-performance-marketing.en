@@ -23,11 +23,11 @@ Workfront Proof's Proofing Viewer is a rich workspace for viewing, commenting on
 * Add comments and drawing markups to a proof
 * Approve the proof
 
-Proofing Viewer loads when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. From this view, you can review and comment on content.
+Proofing Viewer loads when you click on the proof URL in your approval request email or in-product notification. The Proofing Viewer _My new approval_ view opens. From this view, you can review and comment on content, using the core Proofing Viewer annotation tools. 
 
 To exit Proofing Viewer, click **[!UICONTROL Return to GenStudio]**.
 
-## Feature comparison overview: Standard Genstudio for Performance Marketing vs Workfront Proof integration
+## Genstudio for Performance Marketing and Workfront Proof: feature comparison
 
 The table below compares the standard GenStudio for Performance Marketing review and approval features to the more advanced capabilities available through the Workfront Proof integration.
 
@@ -77,7 +77,7 @@ GenStudio for Performance Marketing does not support approval templates, but Wor
 
 Workfront Proof approval templates provide preformatted steps that can streamline the proof approval workflow. These templates include selected reviewers and approvers, proof roles, and deadlines, ensuring consistency and efficiency. Content creators launching a review can select from a set of predefined templates for both single-phase and multi-phase approval workflows. 
 
-Each stage of the workflow template identifies reviewers. All status updates and comments from the Workfront Proof workflow are visible within the Project Execution Module (PEM), enhancing transparency and collaboration.
+Each stage of the workflow template identifies assigned reviewers. All status updates and comments from the Workfront Proof workflow are visible within the Project Execution Module (PEM), enhancing transparency and collaboration.
 
 Approval templates support multi-stage approvals, which support the coordination of reviews from different groups of stakeholders.
 

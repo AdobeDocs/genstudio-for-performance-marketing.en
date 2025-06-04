@@ -27,7 +27,7 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 The main phases of the review and approval workflow include:
 
-* [Request review and approval of content you have created](./request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates can simplify this task even more.
+* [Request review and approval of the content you have created](./request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates can simplify this task even more.
 
 * [Review and edit content](./review-and-edit.md). Notifications keep content creators in the loop about requested changes and approvals. Revising content triggers an automatic new approval cycle.
 
@@ -56,7 +56,6 @@ Available draft statuses:
 ## Approval roles
 
 _Reviewers_ can add comments but cannot approve content. Reviewer participation is helpful but not essential. _Approvers_ must approve content before it can progress through the approval process. Workfront Proof integration supports a wider range of user roles.
-
 
 ## Notifications
 

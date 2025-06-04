@@ -16,13 +16,17 @@ After you generate an asset or experience, you can request its review and approv
 
 **To request a review**:
 
-1. Click the **[!UICONTROL Send for approval]** button on the top menu bar of the Canvas. The _Send for approval_ pop-up opens and identifies the draft for which you are requesting a review. If you generate multiple variants, the entire Canvas is sent for review.
+1. Click the **[!UICONTROL Send for approval]** button on the top menu bar of the Canvas. 
 
-1. (Optional): Select the _Title_ field to change the draft title if needed. Draft title should be descriptive, informative, and focus on the review objective. Changing the title here also changes the underlying draft experience title.
+   The _Send for approval_ pop-up opens and identifies the draft for which you are requesting a review. If you generate multiple variants, the entire Canvas is sent for review.
+
+1. (Optional): Select the _Title_ field to change the draft title if needed. Draft titles should be descriptive, informative, and focus on the review objective. 
+ 
+   Changing the title here also changes the underlying draft experience title.
 
 1. Select approvers and reviewers. As you begin typing, the **[!UICONTROL Approver]** field auto-completes the approver user name from the list of users with GenStudio for Performance Marketing view and approve permissions. 
 
-  The **[!UICONTROL Send]** button is activated after you have entered at least one approver name.
+   The **[!UICONTROL Send]** button is activated after you have entered at least one approver name.
 
 1. (Optional): Use comments to communicate additional context about the assets under review and call attention to specific details and callouts. Use `@mentions` to tag collaborators and notify them of specific feedback.
 
@@ -30,21 +34,16 @@ After you generate an asset or experience, you can request its review and approv
 
    In-product and email notifications alert each designated approver that they have content to review.
 
-### Approval panel
+## Approval panel
 
-The _Approval_ panel provides current status information about the review process and displays the status of the approval request. If your approval template includes multiple review stages, this panel displays the status of each approval phase. 
+The _Approval_ panel provides current status information about the review workflow as soon as you launch an approval request. From this panel, you can:
 
-From this panel, you can:
-
-* Add or remove review participants. (Selecting this option opens Workfront)
+* Add or remove review participants
 * Add or change a message for reviewers
-* Edit the review title.
+* Edit the review title
+* Change the optional due date.
 
-## Add and remove approvers
-
-If you are the content creator, your draft Canvas displays the **[!UICONTROL Manage approvals]** button. Use this button to open a popup from which you can remove or add approvers throughout the review and approval process.
-
-Approver names are listed in this view with a [!DNL Notified] status after the approval requests have launched. See [Approve content](./approve-content.md) for an overview of GenStudio for Performance Marketing approval task
+If the Workfront Proof integration is enabled, this panel displays the status of each approval phase for multistage approval processes. You can access to comments in Workfront Proofing Viewer by clicking **[!UICONTROL View comments in Workfront]**.
 
 ## Launch an approval request with Workfront Proof
 
@@ -101,24 +100,11 @@ The Proof integration provides additional options for content editors requesting
 
 1. Click **[!UICONTROL Send]** when you are ready to launch the approval request.
 
-### Approval panel
-
-The _Approval_ panel provides current status information about the review process and displays the status of the approval request. If your approval template has configured multiple stages, this panel displays the status of each approval phase. 
-
-From the panel, you can:
-
-* Change review participants (Selecting this option opens Workfront)
-
-* View comments in Workfront
-
-### Edit participant list
-
-
 ## Access review comments
 
 1. Click **[!UICONTROL View comments in Workfront]**.
    
-   Proofing Viewer displays 
+   Proofing Viewer displays the proof with all comments listed to the right of the proof content. If there are multiple comments, you can navigate the list by clicking the navigation arrows at the top right. Click a comment to navigate to the relevant section of the proof.
 
 ## Request new approval
 
@@ -128,10 +114,12 @@ Review and approval cycles are iterative. Reviewers suggest changes, and content
 
 1. Click the **[!UICONTROL Request new approval]** button on the upper right of the Canvas. 
    
-   The _Request new approval_ popup opens, displaying approval status . If this approval request has multiple stages, the status if each stage is displayed (pending or not yet started).
+   The _Request new approval_ popup opens, displaying the same fields as the _Request approval_ popup. The status of each stage is displayed (pending or not yet started).
 
 1. (Optional) Invite new reviewers or delete currently assigned ones.
 
-1. (Optional) Under _Settings_, edit the due date or add a messsage.
+1. (Optional) Under _Settings_, edit the due date or add a message.
 
 1. Click **[!UICONTROL Send]**.
+
+   In-product and email notifications alert each designated approver that they have content to review.
