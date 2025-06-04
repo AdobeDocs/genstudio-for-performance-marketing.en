@@ -10,13 +10,15 @@ The review and approval stage often involves multiple stakeholders and iterative
 
 ## Iterative draft editing
 
-Content editors can make in-process edits to content in response to review comments. While a draft is under revision, approvers can continue adding review comments but cannot change asset status. The content editor can continue editing content on the Canvas while approvers continue their reviews.
+Content editors can make in-process edits to content in response to review comments. While a draft is under revision, approvers can continue adding review comments but cannot change approval status. The content editor can continue editing content on the Canvas while approvers continue their reviews.
+
+If changes are substantial, you can [request a new review](/help/user-guide/approvals/request-review.md#request-new-approval) from all stakeholders.
 
 ## View approval requests
 
-As a designated approver, you can access the content that you are asked to review and approve in several ways:
+As a designated approver, you can access the content for review in several ways:
 
-* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. The Canvas opens, displaying the asset or experience. The _Approval_ panel is displayed on the right.
+* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email or in-product notification. The Canvas opens, displaying the asset or experience. The _Approval_ panel is displayed on the right.
 
 * **Access the draft for review from the list of approval requests**. If you are asked to review multiple content drafts, your notification email includes a **[!UICONTROL View all notifications]** button. Click this button to navigate to a page that displays all the notifications that you have received, including approval requests and notifications that you have enabled from other Adobe Experience Cloud products.
 
@@ -30,7 +32,7 @@ You can approve content if you have received an email requesting your review and
 
    The Canvas opens, displaying the content for review.
 
-1. Click the **[!UICONTROL Review & Approve]** button on the upper right.1. 
+1. Click the **[!UICONTROL Review & Approve]** button on the upper right.
 
    The _Approvals_ panel for this asset opens.
 
@@ -38,7 +40,7 @@ You can approve content if you have received an email requesting your review and
 
 You can list suggested changes or ask questions about the draft from the _Approval_ panel. The **Needs work** draft status notifies the content creator that changes are requested.
 
-This process of reviewing, suggesting edits to the content creator, and then revising the content and optionally requesting additional input via `@mention` comments is highly iterative. It is in this part of the cycle that you see the time-saving abilities of GenStudio for Performance Marketing.
+This process of reviewing, suggesting edits to the content creator, and then revising the content and optionally requesting additional input via `@mention` comments is highly iterative.
 
 **To request changes**:
 
@@ -54,15 +56,9 @@ This process of reviewing, suggesting edits to the content creator, and then rev
 
 The content creator can continue their edits while receiving and responding to incoming review comments.
 
-## Manage approvals
-
-Content creator sees a **[!UICONTROL Manage approvals]** button on their draft Canvas. Use this button to remove or add approvers throughout the review and approval process.
-
-See [Request review and approval](./request-review.md).
-
 ## Review content with Workfront Proof
 
-Proofing Viewer stores review comments with each version of a proof, or content draft. You can compare two versions of proof. Proof Viewer provides a robust markup tool for annotating proofs. See [Comment on a proof](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1).
+Proofing Viewer provides [robust markup tools](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1.html) for annotating proofs and tracking changes. You can also compare two versions of proof. 
 
 **To review content**:
 
@@ -70,7 +66,7 @@ Proofing Viewer stores review comments with each version of a proof, or content 
 
    GenStudio for Performance Marketing loads the Proofing Viewer _My new approval_ view, which displays the proof for review.
 
-1. Click **[!UICONTROL Add comment]**.
+1. Click **[!UICONTROL Add comment]** at the top of the viewer.
    
    The _Add comment_ popup opens.
 
@@ -92,6 +88,6 @@ From Proofing Viewer, you can [compare proof versions](https://experienceleague.
 
    Proofs display side by side, with the newer version on the left side. 
    
-   Continue with Use the compare tools.
+1. Continue with Use the compare tools.
 
 Click **[!UICONTROL Open in GenStudio]** to exit Proofing Viewer.
