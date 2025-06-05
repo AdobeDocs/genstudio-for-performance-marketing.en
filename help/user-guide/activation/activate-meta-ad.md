@@ -192,7 +192,9 @@ You can create a new ad set during platform setup by cloning an existing ad set 
 
 >[!NOTE]
 >
->If the ad set is successfully created but the ad set name could not be saved, edit the ad set name. You can still access the new ad set in Meta Ads Manager. 
+>If the ad set is successfully created but the ad set name could not be saved, it is saved in Meta Ads Manager under its default name (_original ad set name - Copy_)
+
+e. You can still access the new ad set in Meta Ads Manager. 
 >
 
 ### Tracking ID
