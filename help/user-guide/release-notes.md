@@ -11,7 +11,12 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.06 {#latest}
 
-TBD
+### Starter templates available
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+You can now select from a Meta or LinkedIn ad starter template. [Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jumpstart the creative process.
+
 
 ## Earlier release notes
 
