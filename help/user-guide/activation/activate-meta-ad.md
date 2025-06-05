@@ -188,7 +188,12 @@ You can create a new ad set during platform setup by cloning an existing ad set 
 
 1. Click **[!UICONTROL Create ad set]**.
 
-   The new ad set is created in Meta Ads Manager. This ad set is available for future activations. 
+   You are returned to the _Platform setup_ view, where the new ad set is pre-selected. A success message with a link to the ad set in Meta Ads Manager displays. This ad set is available for future activations.
+
+>[!NOTE]
+>
+>If the ad set is successfully created but the ad set name could not be saved, edit the ad set name. You can still access the new ad set in Meta Ads Manager. 
+>
 
 ### Tracking ID
 
