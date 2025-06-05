@@ -166,6 +166,34 @@ After preparing your ad experiences, you must confirm your Meta account informat
 | Campaigns    | Meta campaigns to which the ad experience belongs |
 | Ad sets   |Meta ad sets to which the activated ad experience belongs. The settings determine the final placements of the ad. |
 
+### Create a new ad set
+
+You can create a new ad set during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign. 
+
+**To create a new ad set**:
+
+1. Select a campaign from the _Meta campaigns_ drop-down menu.
+   
+   The selected campaign determines the ad sets available as options in the _Ad sets_ drop-down menu.
+
+1. Click **[!UICONTROL + Create new ad set]**.
+   
+   The _Create new ad set_ popup opens, identifying the Meta campaign where the new ad set is created.
+
+1. Select the ad set you want to clone from the _Use configuration from_ drop-down menu.
+   
+   GenStudio for Performance Marketing assigns a default ad set name by appending `- Copy` to the selected ad set name.
+
+1. (Optional but recommended) Enter a unique ad name in the **[!UICONTROL New ad set name]** field to replace the default value. 
+
+1. Click **[!UICONTROL Create ad set]**.
+
+   You are returned to the _Platform setup_ view, where the new ad set is pre-selected. A success message appears, including a link to the ad set in Meta Ads Manager. This ad set is available for future activations.
+
+>[!NOTE]
+>
+>If the ad set is successfully created but the ad set name could not be saved, the ad set is saved in Meta Ads Manager under its default name (_original ad set name - Copy_).
+
 ### Tracking ID
 
 Tracking IDs (ad name) provide a mechanism for collecting metrics that are linked to the experience performance. Enter the ad name in this field.
