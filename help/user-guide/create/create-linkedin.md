@@ -18,7 +18,7 @@ Before you begin generating a LinkedIn ad, it is important to [add guidelines](/
 
 To generate a new LinkedIn experience, you need a template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported LinkedIn aspect ratios.
 
-When selecting a template you have the option of using one of your uploaded templates or a starter template.
+You can select from your list of custom templates or choose a starter template.
 
 **To choose a LinkedIn template**:
 
@@ -45,7 +45,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Add content (images or videos) for use in the experience *and* to influence content generation:
-   * Click **[!UICONTROL Select from Content]** to select assets from your [!DNL Content] repository, filter and select one or more images.
+   * Click **[!UICONTROL Select from Content]**. Use the filter to search for content and select one or more images.
 
       If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
 
