@@ -10,7 +10,7 @@ exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
 
 With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact Meta experiences](/help/user-guide/create/create-meta-ad.md). [!DNL Create] enables content creators to use [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md) to quickly [create Meta ad experiences](/help/user-guide/create/create-meta-ad.md).
 
-When generating Meta experiences four variations are created and shown in the Canvas. GenStudio for Performance Marketing supports both [standard and custom size Meta ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+When generating Meta experiences, four variations are created and shown in the Canvas. GenStudio for Performance Marketing supports both [standard and custom size Meta ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Editable sections of a Meta experience include:
 

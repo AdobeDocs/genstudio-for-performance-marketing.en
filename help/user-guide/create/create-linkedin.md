@@ -23,7 +23,7 @@ You can select from your list of custom templates or choose a starter template.
 **To choose a LinkedIn template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL LinkedIn]**.
-1. Select **[!UICONTROL Your templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
+1. Select **[!UICONTROL Custom templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
 
       If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
 
@@ -44,16 +44,16 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Add content (images or videos) for use in the experience *and* to influence content generation:
-   * Click **[!UICONTROL Select from Content]**. Use the filter to search for content and select one or more images.
+1. Add content (images or videos) for use in the experience *and* to influence content generation by clicking **[!UICONTROL Select from Content]**. Or, drag and drop images into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 
-      If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
+   Use the filter to search for content and select one or more images.
 
-      ![Choose visual content](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+   If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
 
-      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
+   ![Choose visual content](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
-   * Or, drag and drop images into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
+   To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
+
 1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
@@ -112,7 +112,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
    ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with the performed content checks.
+1. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with then completed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

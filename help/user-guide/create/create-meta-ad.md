@@ -17,12 +17,12 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported Meta ad aspect ratios.
 
-When selecting a template you have the option of using one of your uploaded templates or a starter template.
+When selecting a template, you have the option of using one of your uploaded templates or a starter template.
 
 **To choose a Meta ad template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]**.
-1. Select **[!UICONTROL Your templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
+1. Select **[!UICONTROL Custom templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
 
       If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
 
