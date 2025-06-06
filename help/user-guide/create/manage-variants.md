@@ -183,6 +183,19 @@ To enable alt text functionality, [add a content placeholder](/help/user-guide/c
    1. Click **[!UICONTROL Apply]**.
 1. Repeat for each image in your variants set.
 
+## Add Aria-labels
+
+Provide an accessible name for image and call to action links in your variants by adding Aria-labels. Aria-labels supplement visible text to help users understand the purpose of the link or button.
+
+**To add Aria-labels to image or call to action links in your variants**:
+
+1. After generating a set of variants, click an image or call to action within a variant.
+1. Click the **[!UICONTROL ARIA-label]** button.
+1. Click into the text box and add a short description of what the link on the call to action button or image does. For instance, you could use "Shop at WKND's official site" for a call to action button link.
+1. Click **[!UICONTROL Apply]**.
+
+To enable Aria-label functionality, [add a content placeholder](/help/user-guide/content/customize-template.md) in the template.
+
 ## Preview for device
 
 When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
