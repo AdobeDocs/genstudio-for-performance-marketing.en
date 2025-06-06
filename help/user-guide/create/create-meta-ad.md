@@ -93,6 +93,7 @@ header, or body copy) and edit as needed.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
+* **To [add Aria-labels](/help/user-guide/create/manage-variants.md#add-aria-labels) to your variants** click on an image or call to action link, then provide a brief description that explains what the link or button does.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ## Submit generation feedback

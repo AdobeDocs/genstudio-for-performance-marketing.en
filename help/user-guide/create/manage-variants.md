@@ -191,7 +191,7 @@ Provide an accessible name for image and call to action links in your variants b
 
 1. After generating a set of variants, click an image or call to action within a variant.
 1. Click the **[!UICONTROL ARIA-label]** button.
-1. Click into the text box and add a short description of what the link on the call to action button or image does. For instance, you could use "Shop at WKND's official site" for a call to action button link.
+1. Click into the text box and add a brief description that explains what the link or button does. For instance, you could use "Shop at WKND's official site" for a call to action button link.
 1. Click **[!UICONTROL Apply]**.
 
 To enable Aria-label functionality, [add a content placeholder](/help/user-guide/content/customize-template.md) in the template.
