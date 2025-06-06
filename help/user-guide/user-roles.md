@@ -79,8 +79,8 @@ The following table displays the default collaborator permissions:
 |   [!DNL Content] |     no  |   no     |    no   |   yes      |
 |   [!DNL Create] |     no  |   no     |    no   |   yes      |
 |   [!DNL Insights] |    no |  no  |   no  |   yes  |
-|   [!DNL Personas] | no    |   no      |  no       |    yes       |
-|   [!DNL Products] | no    |   no      |  no       |    yes       |
+|   [!DNL Personas] | yes    |   yes      |  yes       |    yes       |
+|   [!DNL Products] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Reviews and approvals] |   no     |   no  |  no       |   yes      |
 |   [!DNL Templates]| no  | no | no |  yes |
 
