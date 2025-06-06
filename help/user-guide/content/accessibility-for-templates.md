@@ -22,6 +22,11 @@ Provide text alternatives for non-textual content, such as images.
 
 ![Collage of ideas, books, man holding giant pencil, computer](/help/assets/card-create-assets.png){width="400"}
 
+When customizing your template, use content placeholders for the `alt` and `aria-label` attributes:
+
+- [Alternative text](/help/user-guide/content/customize-template.md#alternative-text)
+- [Accessibility label](/help/user-guide/content/customize-template.md#accessibility-label)
+
 ## Fonts
 
 Use fonts that are easy to read. For example, Sans Serif fonts have a clean, block-like appearance, which contributes to a higher readability.
