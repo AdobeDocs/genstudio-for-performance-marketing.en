@@ -118,6 +118,14 @@ In this example:
 - `{{image}}` is the placeholder for the image source URL.
 - `{{imageDescription}}` is the placeholder for the alt text, which provides a description of the image for accessibility and SEO purposes.
 
+### Accessibility label
+
+The `aria-label` attribute is used to define an accessible name for elements that do not have visible labels. This attribute is especially useful in templates where it is important to provide context for interactive elements, such as a CTA button.
+
+```html
+<a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
+```
+
 ### On image text
 
 The `{{on_image_text}}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
@@ -186,7 +194,7 @@ Each section can use only one of each field type. For example, the following fie
 
 Because of this rule, the sections cannot be nested.
 
-Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](/help/user-guide/content/best-practices-for-templates.md) in the _Best practices for using templates_ topic.
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
