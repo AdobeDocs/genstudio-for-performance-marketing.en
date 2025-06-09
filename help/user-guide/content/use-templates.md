@@ -8,7 +8,7 @@ exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 ---
 # Work with Templates
 
-GenStudio for Performance Marketing enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
+GenStudio for Performance Marketing enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements. To get started, upload a custom template in [!DNL Content] or use a starter template in [!DNL Create]. [Starter templates](/help/user-guide/templates/starter-templates.md) provide a quick way to begin with a standard design, while a custom template allows you to use your unique designs and layout.
 
 While GenStudio for Performance Marketing does not support the direct creation of templates within the application, you can easily design and prepare templates using popular design tools, such as Adobe InDesign, Illustrator, or Express. Once your design is complete, you can adapt it for use in GenStudio for Performance Marketing. Begin using templates by following these steps:
 
@@ -31,9 +31,9 @@ The following is a list of elements that are used in templates and some details 
 | **Preheader**        | Email                                    | A secondary subject line in an email, typically between 40-50 characters, that enhances the main subject line. It is visible in the inbox alongside the subject before the email is opened. |
 | **Header**           | Email                                    | The top section of the email the recipient sees when opening the email sets the tone and provides context for the included content.                      |
 | **Headline**         | Meta ad, Banner and Display ads, LinkedIn | The first content that the recipient sees should be compelling to catch interest.                                                                             |
-| **Sub-headline**       | Email, Banner and Display ads            | A secondary text element that supports the headline. It is typically concise and designed to complement the main headline, drawing the reader's attention further into the content. |
-| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
-| **Body**             | Email, Meta ad, Banner and Display ads    | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
+| **Sub-headline**     | Email, Banner and Display ads            | A secondary text element that supports the headline. It is typically concise and designed to complement the main headline, drawing the reader's attention further into the content. |
+| **Introductory text**| LinkedIn                                 | The primary message conveys the core message, similar to the body copy. It can use up to 150 characters, including spaces, a maximum of four emojis, and punctuation. |
+| **Body**             | Email, Meta ad, Banner and Display ads   | The main text of the advertisement conveys the core message. It should be engaging, informative, and persuasive to encourage the desired action from the audience. |
 | **CTA**              | Email, Meta ad, Banner and Display ads, LinkedIn | A call-to-action button uses a phrase and a link to encourage the recipient to take a specific action, such as clicking a link or making a purchase.      |
 | **Images**           | Email, Meta ad, Banner and Display ads, LinkedIn | Enhance visual appeal, break up text, and support the message. Images should be high-quality and eye-catching.                                                   |
 | **Footer**           | Email                                    | The bottom section of the email contains additional content such as contact details, social media links, disclaimers, and unsubscribe options.            |

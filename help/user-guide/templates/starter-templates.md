@@ -3,8 +3,7 @@ title: Prepare an email template for GenStudio for Performance Marketing
 description: Learn how to prepare an email template for use in Adobe GenStudio for Performance Marketing.
 level: Beginner
 feature: Media Templates
-hide: yes
-hidefromtoc: yes
+badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
 ---
@@ -13,8 +12,6 @@ exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
 _Starter templates_ are predefined template options designed to help you get started quickly with GenStudio for Performance Marketing and learn how to create effective media. In [!DNL Create], select a media type. If starter templates are available, switch to the **[!UICONTROL Starter templates]** tab to browse and select a template that fits your needs.
 
 ![Starter templates tab](/help/assets/starter-templates.png "Select template tabs"){width="350"}
-
-## Choosing the right aspect ratio
 
 Selecting the appropriate aspect ratio for your ad is important for maximizing impact and ensuring your content displays correctly across different platforms and placements. Consider the following when choosing an aspect ratio:
 
