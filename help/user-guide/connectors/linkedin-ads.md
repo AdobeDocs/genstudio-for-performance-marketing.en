@@ -18,6 +18,7 @@ Connect your LinkedIn Ads profile account to GenStudio for Performance Marketing
 
 - _Full control_ over LinkedIn Ad Accounts, including:
 
+  - Manager accounts
   - Manage campaigns
   - View performance
 
@@ -39,8 +40,9 @@ Connect your LinkedIn Ads profile account to GenStudio for Performance Marketing
 
 1. In _[!UICONTROL Facebook Login for Business]_ (LinkedIn to Adobe symbol), step through the following selections to grant GenStudio for Performance Marketing access:
 
-   - Select one or more LinkedIn Business profiles and click **[!UICONTROL Continue]**
-   - Select one or more LinkedIn Pages and click **[!UICONTROL Continue]**
+   - Select one or more LinkedIn Ad accounts and click **[!UICONTROL Continue]**
+   - Grant permission to create and manage campaigns in that Ad account and click **[!UICONTROL Continue]**
+   - Grant permission to access to post on the LinkedIn page
    - Review selections and click **[!UICONTROL Save]**
 
 1. Once you receive verification that your account is connected, click **[!UICONTROL Got it]**.
