@@ -22,7 +22,15 @@ System managers set up Adobe GenStudio for Performance Marketing by entering or 
 
 ### Step 1: Add guidelines
 
-Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of content editors and collaborators. [Guidelines](/help/user-guide/guidelines/overview.md) capture brand characteristics such as logos, tone of voice, and color palettes. You can either upload [[!DNL Brands] guidelines](/help/user-guide/guidelines/brands.md) documents or manually enter brand information. [[!DNL Personas] guidelines](/help/user-guide/guidelines/personas.md) and [[!DNL Products] guidelines](/help/user-guide/guidelines/products.md) are important, too. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide the content generation.
+Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of content editors and collaborators. Brand components encompass intangible aspects such as tone of voice but also more strictly defined features such as logos and color palettes. Understanding of your organization's brands, personas, and products. [Guidelines](/help/user-guide/guidelines/overview.md) capture brand, persona, and product characteristics to inform the creation of content that is closely tailored to your organization's standards and values. 
+
+Learn about how [GenStudio for Performance Marketing defines brand components](/help/user-guide/guidelines/brands.md)
+
+Create your brand [guidelines](/help/user-guide/guidelines/overview.md) to capture brand characteristics. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide the content generation.You can either upload [[!DNL Brands] guidelines](/help/user-guide/guidelines/brands.md) documents or manually enter brand information. 
+
+
+[[!DNL Personas] guidelines](/help/user-guide/guidelines/personas.md) and [[!DNL Products] guidelines](/help/user-guide/guidelines/products.md) are important, too.
+
 
 #### Prepare your guideline documents
 
