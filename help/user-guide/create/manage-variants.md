@@ -109,7 +109,7 @@ You can manually crop and reposition image assets in individual generated varian
 
 ## Use Generative Expand
 
-Expand the dimensions of your images and add generative content with Generative Expand. Generative Expand allows you to transform ill-fitting images into the most suitable aspect ratio for Banners, Meta ads, LinkedIn ads, or Display ads templates.
+Expand the dimensions of your images and add generative content with Generative Expand. Generative Expand allows you to transform ill-fitting images into the most suitable aspect ratio for Banners, Meta ads, LinkedIn ads, or display ads templates.
 
 This Generative Expand feature is paired with the Crop tool to give you full control of assets in a variety of aspect ratios for paid media channels.
 
@@ -124,10 +124,18 @@ This Generative Expand feature is paired with the Crop tool to give you full con
 1. Move the image around to achieve the ideal location.
 1. _Optional_ Add a prompt in the prompt box that gives details about how you want to expand the image.
 
-   For instance, if you are expanding an image of an elephant at a watering hole on a savanna you could add "Savanna with gazelles, sunset, and scrubby underbrush".
+   For instance, if you are expanding an image of a plaid shirt hanging on a clothesline over a fire at a campsite you could add "Foggy mountains with a crackling fire while camping in the mountains".
+
+   Before using Generative Expand:
+
+   ![Before Generative Expand](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
+
+   After using Generative Expand:
+
+   ![After Generative Expand](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
 
 1. Click **[!UICONTROL Generate]**.
-1. Click through and select a generated option or click **[!UICONTROL More]** (plus icon) to see more generated options.
+1. Click through and select a generated option or click **[!UICONTROL More]** (plus icon) for a list of generated options.
 1. Click **[!UICONTROL Keep]** to save the Generative Expand result.
 1. To apply that result to the single image, click **[!UICONTROL Apply]**. Click **[!UICONTROL Apply to all images]** to apply the result to all the relevant images in your variant set.
 
