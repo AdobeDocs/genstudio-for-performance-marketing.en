@@ -24,7 +24,7 @@ When creating variants from a template with pre-defined guidelines---[!DNL Brand
 
 To add a [!DNL Brand], [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
-If you upload brand guidelines written in a non-English language—or manually create a brand using a non-English language—GenStudio for Performance Marketing will display those guidelines in that same language.
+If you upload brand guidelines written in a non-English language—or manually create a brand using a non-English language—GenStudio for Performance Marketing displays those guidelines in that same language.
 
 In the left navigation area, click **[!DNL Brands]** from the _Shared_ list. In the _[!DNL Brands]_ panel, select **Add brand**.
 
