@@ -91,7 +91,8 @@ header, or body copy) and edit as needed.
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, click an image, click **[!UICONTROL Edit]** (pencil icon) and then **[!UICONTROL Crop]**. Adjust the image size and placement.
+* **To [use Generative Expand to size and fit images](/help/user-guide/create/manage-variants.md#use-generative-expand) to your working template**, click an image, click **[!UICONTROL Edit]** (pencil icon) and then **[!UICONTROL Expand]**. Adjust the image to fit the needed aspect ratio and template.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
