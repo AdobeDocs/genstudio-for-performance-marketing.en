@@ -47,14 +47,13 @@ If the Workfront Proof integration is enabled, this panel shows the status of ea
 
 ## Launch an approval request with Workfront Proof
 
-The Workfront Proof integration provides a robust approval workflow that includes multi-stage approvals and 
-The Proof integration provides additional options for content editors requesting review. You can launch a review in two ways:
+Workfront Proof provides content editors with two primary options for initiating a review:
 
-* Invite approvers and reviewers individually
+* **Manual invitations**: Invite individual approvers and reviewers directly to participate in the proofing process. This method offers flexibility when working on one-off reviews.
 
-* Use a proof approval template, which includes a predefined list of review participants and optionally, approval workflow stages. Templates are defined by your Workfront Proof admin in a specific Workfront Project.
+* **Proof approval templates**: Use predefined templates that include a set list of reviewers and, optionally, structured approval stages. These templates are created and managed by your Workfront Proof administrator within a designated Workfront project. Templates help standardize the review process and ensure consistency across teams and content types.
 
-**To launch a review cycle by inviting participants**:
+**To launch a review cycle by manually inviting participants**:
 
 1. Click **[!UICONTROL Request approval]** from the Canvas. 
    
@@ -68,7 +67,7 @@ The Proof integration provides additional options for content editors requesting
    
    Organization member names pop up as options as you enter text.
 
-1. Select a participant name, then select their role: approver or reviewer. By default, participants are assigned approver role. 
+1. Select a participant name, then select their role: approver or reviewer. By default, participants are assigned the approver role. 
 
 1. (Optional) Under **[!UICONTROL Settings]**, assign a due date for a review decision. This date is not enforced, but reminds reviewers of the expected time frame. 
 
