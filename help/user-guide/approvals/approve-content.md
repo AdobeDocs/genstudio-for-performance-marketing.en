@@ -32,4 +32,4 @@ If you are a designated approver, [!DNL Proofing Viewer] displays the **[!UICONT
 
 1. Click **[!UICONTROL Submit]**.
 
-The draft creator is notified of your approval, and your work is done. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
+The draft creator is notified of your approval, and your work is done. See [Publish content](/help/user-guide/approvals/publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.

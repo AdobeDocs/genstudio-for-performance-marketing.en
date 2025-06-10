@@ -11,7 +11,7 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 >[!NOTE]
 >
-> This feature is also available as an [integration with Adobe Workfront Proof](./proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. With the Workfront Proof integration, GenStudio for Performance Marketing gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. 
+> This feature is also available as an [integration with Adobe Workfront Proof](/help/user-guide/approvals/proof-integration.md). This integration delivers Proof capabilities in the GenStudio for Performance Marketing Canvas. With the Workfront Proof integration, GenStudio for Performance Marketing gains a more structured, transparent, and collaborative review process, helping teams move from draft to final with greater confidence and clarity. 
 
 ## Review and Approval workflow advantages
 
@@ -21,19 +21,19 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 * **Adherence to campaign goals and legal requirements**. The approval process helps verify that content supports campaign goals. It ensures that all marketing materials comply with legal and regulatory standards, which minimizes risks and potential legal issues.
 
-* **Integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved. [Integration highlights](./proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
+* **Integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved. [Integration highlights](/help/user-guide/approvals/proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
 
 ## Review and approval lifecycle
 
 The main phases of the review and approval workflow include:
 
-* [Request review and approval of the content you have created](./request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates can simplify this task even more.
+* [Request review and approval of the content you have created](/help/user-guide/approvals/request-review.md). GenStudio for Performance Marketing streamlines the process of requesting approvals and managing approvers. Workfront Proof approval templates can simplify this task even more.
 
-* [Review and edit content](./review-and-edit.md). Notifications keep content creators in the loop about requested changes and approvals. Revising content triggers an automatic new approval cycle.
+* [Review and edit content](/help/user-guide/approvals/review-and-edit.md). Notifications keep content creators in the loop about requested changes and approvals. Revising content triggers an automatic new approval cycle.
 
-* [Approve content](./approve-content.md). Designated approvers mark content as approved, or ready for publication.
+* [Approve content](/help/user-guide/approvals/approve-content.md). Designated approvers mark content as approved, or ready for publication.
 
-* [Publish content](./publish-content.md). Publishing approved content to [!DNL Content] makes it available for others in your organization to use or reference.
+* [Publish content](/help/user-guide/approvals/publish-content.md). Publishing approved content to [!DNL Content] makes it available for others in your organization to use or reference.
 
 ## About Content drafts
 
@@ -51,7 +51,7 @@ Available draft statuses:
 
 >[!NOTE]
 >
-> Drafts correspond to _proofs_ for users of the Workfront Proof integration. [Proofs and drafts](proof-integration.md#drafts-and-proofs) differ in terms of persistence and versioning.
+> Drafts correspond to _proofs_ for users of the Workfront Proof integration. [Proofs and drafts](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) differ in terms of persistence and versioning.
 
 ## Approval roles
 
