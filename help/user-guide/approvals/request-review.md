@@ -6,7 +6,7 @@ exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
 ---
 # Request review and approval
 
-Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval. Only designated approvers can approve content, but all reviewers can add and access review comments. 
+Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval. Only designated approvers can approve content, but all reviewers can add and access review comments.
 
 If you have created an asset or experience, you can ask others in your organization's approval chain to review and comment on your work. Although any GenStudio for Performance Marketing organization member can review a draft, only designated approvers can comment on or approve a draft.
 
@@ -20,15 +20,15 @@ After you generate an asset or experience, you can request its review and approv
 
    The _Send for approval_ pop-up opens and identifies the draft for which you are requesting a review. If you generate multiple variants, the entire Canvas is sent for review.
 
-1. (Optional): Select the _Title_ field to change the draft title if needed. Draft titles should be descriptive, informative, and focus on the review objective. 
+1. (Optional) Select the _Title_ field to change the draft title if needed. Draft titles should be descriptive, informative, and focus on the review objective. 
  
    Changing the title here also changes the underlying draft experience title.
 
 1. Select approvers and reviewers. As you begin typing, the **[!UICONTROL Approver]** field auto-completes the approver user name from the list of users with GenStudio for Performance Marketing view and approve permissions. 
 
-   The **[!UICONTROL Send]** button is activated after you have entered at least one approver name.
+   The **[!UICONTROL Send]** button is enabled after you have entered at least one approver name.
 
-1. (Optional): Use comments to communicate additional context about the assets under review and call attention to specific details and callouts. Use `@mentions` to tag collaborators and notify them of specific feedback.
+1. (Optional) Use comments to communicate additional context about the assets under review and call attention to specific details and callouts. Use `@mentions` to tag collaborators and notify them of specific feedback.
 
 1. Click **[!UICONTROL Send]**. 
 
@@ -38,12 +38,12 @@ After you generate an asset or experience, you can request its review and approv
 
 The _Approval_ panel provides current status information about the review workflow as soon as you launch an approval request. From this panel, you can:
 
-* Add or remove review participants
-* Add or change a message for reviewers
-* Edit the review title
+* Add or remove review participants.
+* Add or change a message for reviewers.
+* Edit the review title.
 * Change the optional due date.
 
-If the Workfront Proof integration is enabled, this panel displays the status of each approval phase for multistage approval processes. You can access to comments in Workfront Proofing Viewer by clicking **[!UICONTROL View comments in Workfront]**.
+If the Workfront Proof integration is enabled, this panel shows the status of each approval stage in multistage workflows. To view comments, click **[!UICONTROL View comments in Workfront]** to open them in the [!DNL Proofing Viewer].
 
 ## Launch an approval request with Workfront Proof
 
@@ -102,13 +102,13 @@ The Proof integration provides additional options for content editors requesting
 
 ## Access review comments
 
-1. Click **[!UICONTROL View comments in Workfront]**.
+* Click **[!UICONTROL View comments in Workfront]**.
    
-   Proofing Viewer displays the proof with all comments listed to the right of the proof content. If there are multiple comments, you can navigate the list by clicking the navigation arrows at the top right. Click a comment to navigate to the relevant section of the proof.
+  [!DNL Proofing Viewer] displays the proof with all comments listed to the right of the proof content. If there are multiple comments, you can navigate the list by clicking the navigation arrows at the top right. Click a comment to navigate to the relevant section of the proof.
 
 ## Request new approval
 
-Review and approval cycles are iterative. Reviewers suggest changes, and content creators revise based on feedback. Reviewers may then request another review before the content moves to final approval and sign-off. 
+Review-and-approval cycles are iterative. Reviewers suggest changes, and content creators revise based on feedback. Reviewers may then request another review before the content moves to final approval and sign-off. 
 
 **To request a new approval**:
 

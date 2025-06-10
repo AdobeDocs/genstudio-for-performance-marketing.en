@@ -20,11 +20,11 @@ If the content draft meets your organization's standards and your expectations, 
 
 ## Approve content in Proofing Viewer
 
-If you are a designated approver, Proofing Viewer displays the **[!UICONTROL Make a decision]** button.
+If you are a designated approver, [!DNL Proofing Viewer] displays the **[!UICONTROL Make a decision]** button.
 
 **To make a decision about content**:
 
-1. Click **[!UICONTROL Make a decision]** at the top of Proofing Viewer.
+1. Click **[!UICONTROL Make a decision]** at the top of [!DNL Proofing Viewer].
 
    The _Proof decision_ popup opens, displaying options for approving or sending feedback.
 

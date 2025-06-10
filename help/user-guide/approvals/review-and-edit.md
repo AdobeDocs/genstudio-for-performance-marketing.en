@@ -6,7 +6,7 @@ exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 ---
 # Review and edit content
 
-The review and approval stage often involves multiple stakeholders and iterative feedback, which can slow down content production. GenStudio for Performance Marketing streamlines this process with generative AI that accelerates content revisions, enabling creators to respond quickly to feedback using prompt-based edits. The more complex the review cycle, the greater the time-saving benefits GenStudio delivers.
+The review-and-approval stage often involves multiple stakeholders and iterative feedback, which can slow down content production. GenStudio for Performance Marketing streamlines this process with generative AI that accelerates content revisions, enabling creators to respond quickly to feedback using prompt-based edits. The more complex the review cycle, the greater the time-saving benefits GenStudio delivers.
 
 ## Iterative draft editing
 
@@ -58,13 +58,13 @@ The content creator can continue their edits while receiving and responding to i
 
 ## Review content with Workfront Proof
 
-Proofing Viewer provides [robust markup tools](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1.html) for annotating proofs and tracking changes. You can also compare two versions of proof. 
+[!DNL Proofing Viewer] provides [robust markup tools](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) for annotating proofs and tracking changes. You can also compare two versions of proof. 
 
 **To review content**:
 
 1. Click the review URL in your email or in-product notification.
 
-   GenStudio for Performance Marketing loads the Proofing Viewer _My new approval_ view, which displays the proof for review.
+   GenStudio for Performance Marketing loads the [!DNL Proofing Viewer] _My new approval_ view, which displays the proof for review.
 
 1. Click **[!UICONTROL Add comment]** at the top of the viewer.
    
@@ -78,16 +78,14 @@ Proofing Viewer provides [robust markup tools](https://experienceleague.adobe.co
 
 ### Compare proofs
 
-From Proofing Viewer, you can [compare proof versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
+From [!DNL Proofing Viewer], you can [compare proof versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
 
 **To compare proofs**:
 
-1. Click the name of the proof in the upper-left corner of Proofing Viewer. 
+1. Click the name of the proof in the upper-left corner of [!DNL Proofing Viewer]. 
 
 1. Click the _Compare_ icon next to a proof version.
 
    Proofs display side by side, with the newer version on the left side. 
    
 1. Continue with Use the compare tools.
-
-Click **[!UICONTROL Open in GenStudio]** to exit Proofing Viewer.

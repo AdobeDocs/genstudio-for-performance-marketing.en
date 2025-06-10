@@ -21,7 +21,7 @@ The review and approvals workflow ensures that all stakeholders— from creative
 
 * **Adherence to campaign goals and legal requirements**. The approval process helps verify that content supports campaign goals. It ensures that all marketing materials comply with legal and regulatory standards, which minimizes risks and potential legal issues.
 
-* **Integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing is synced to Workfront Proof, and review comments and status are preserved. [Integration highlights](./proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
+* **Integration with Adobe Workfront Proof**. Users can access Workfront Proof's robust review-and-approval capabilities from within GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved. [Integration highlights](./proof-integration.md) identifies how Proof extends GenStudio for Performance Marketing's approval workflow.
 
 ## Review and approval lifecycle
 
@@ -37,15 +37,15 @@ The main phases of the review and approval workflow include:
 
 ## About Content drafts
 
-_Drafts_ are preliminary versions of assets or experiences that have not completed the review and approval process. Draft status identifies where the draft is in the review and approval process. A unique draft ID identifies each draft. This ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID. There is no versioning for GenStudio content drafts.
+_Drafts_ are preliminary versions of assets or experiences that have not completed the review-and-approval process. Draft status identifies where the draft is in the review-and-approval process. A unique draft ID identifies each draft. This ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID. There is no versioning for GenStudio content drafts.
 
-When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires. GenStudio for Performance Marketing does not save associated comments and approval status. The draft URL is no longer valid. 
+When a draft completes the review-and-approval process and is published to [!DNL Content], the draft ID expires. GenStudio for Performance Marketing does not save associated comments and approval status. The draft URL is no longer valid.
 
-Draft status captures the state of the content draft as it moves through the review and approval process. The GenStudio for Performance Marketing content editor who created the asset under review is notified of any requested changes to the draft or approvals. Approvers change draft status to indicate whether a draft needs further revision or can be approved. All designated approvers must approve an asset or experience before it can be published.
+Draft status captures the state of the content draft as it moves through the review-and-approval process. The GenStudio for Performance Marketing content editor who created the asset under review is notified of any requested changes to the draft or approvals. Approvers change draft status to indicate whether a draft needs further revision or can be approved. All designated approvers must approve an asset or experience before it can be published.
 
 Available draft statuses:
 
-**Notified**: Content editor has started the review and approval process by notifying approvers that a draft is ready for review.
+**Notified**: Content editor has started the review-and-approval process by notifying approvers that a draft is ready for review.
 **Needs work**: Indicates that one or more approvers has requested changes to the content draft. Content in this status cannot be saved to [!DNL Content].
 **Approved**: All designated approvers have approved the asset or experience. The content editor can now add metadata to the asset or experience and save it to [!DNL Content].
 
@@ -65,4 +65,4 @@ Content editors and approvers can sign up to receive these notifications in Slac
 
 Actions taken by approval participants trigger automatic in-product notifications and email notifications. When you start an approval process, designated approvers receive both email and in-product notifications. You are kept in the loop with in-product and email notifications whenever an approver adds `@mention` comments or makes a decision. Notifications include links to the content draft.
 
-If you initiated the review and approval process for content, you are notified of all approvals and review comments. However, approvers are notified of only comments that include them with an `@mention`.
+If you initiated the review-and-approval process for content, you are notified of all approvals and review comments. However, approvers are notified of only comments that include them with an `@mention`.
