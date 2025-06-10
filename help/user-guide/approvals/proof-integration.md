@@ -40,11 +40,11 @@ The table below compares the standard GenStudio for Performance Marketing review
 
 Licenses identify the set of user entitlements within a product. Workfront Proof provides more license types or user roles than GenStudio for Performance Marketing. [Proof roles overview](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) introduces user roles associated with the Workfront Proof review-and-approval workflow.
 
-| GenStudio for Performance Marketing license     | Workfront license               | Description                                                                                                                             |
-|--------------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| GenStudio System Manager                         | Workfront Administrator/Power User | Full access to GenStudio Performance Marketing features such as brand, persona, and product management. Manages workflows and settings. Creates approval templates. |
-| Content creator and editor (Power user license)          | Proof Creator (Standard license) | Generates and submits content drafts. In [!DNL Proofing Viewer], uploads assets and initiates proofs. Requires a Workfront Proof license. |
-| Reviewer / Approver (Collaborator license)               | Reviewer/Approver                | Participates in multi-stage reviews, adds comments, and approves or rejects content.                                                   |
+| GenStudio for Performance Marketing license       | Workfront license                 | Description                                                                                                                                                      |
+|---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GenStudio System Manager                          | Workfront Administrator/Power User | Full access to GenStudio Performance Marketing features such as brand, persona, and product management. Manages workflows and settings. Creates approval templates. |
+| Content creator and editor (Power user license)   | Proof Creator (Standard license)  | Generates and submits content drafts. In Proofing Viewer, uploads assets and initiates proofs. Requires a Workfront Proof license.                              |
+| Reviewer / Approver (Collaborator license)        | Reviewer/Approver                 | Participates in multi-stage reviews, adds comments, and approves or rejects content.                                                                             |
 
 Adobe system administrators manage user provisioning and entitlements for both products in the Adobe Admin Console.
 
