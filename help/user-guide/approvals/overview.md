@@ -51,7 +51,7 @@ Available draft statuses:
 
 >[!NOTE]
 >
-> Drafts correspond to _proofs_ for users of the Workfront Proof integration. [Proofs and drafts](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) differ in terms of persistence and versioning.
+> Drafts correspond to _proofs_ for users of the Workfront Proof integration. [Drafts and proofs](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) differ in terms of persistence and versioning.
 
 ## Approval roles
 
