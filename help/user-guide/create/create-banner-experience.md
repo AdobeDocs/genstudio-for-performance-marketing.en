@@ -71,7 +71,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 * **To [edit the banner draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit a banner](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the banner sections or fields (such as the headline or CTA) and edit as needed.
-* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text_ section] and click **[!UICONTROL Generate]**.
+* **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt in the _[!UICONTROL Generate new text section]_ and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
@@ -97,7 +97,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
    ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+1. [Manually revise variants](#revise-generated-banners) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

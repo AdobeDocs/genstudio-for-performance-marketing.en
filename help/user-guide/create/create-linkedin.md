@@ -95,7 +95,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
    ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+1. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
