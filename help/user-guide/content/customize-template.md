@@ -174,6 +174,35 @@ To create an editable section, add double brackets around the section name:
 </tbody>
 ```
 
+### Rich text editing
+
+Enhance your creative content during the [!DNL Create] process with rich text editing. The canvas determines rich text capability based on the location of the content placeholder. Rich text capability is available only when you use content placeholders as standalone elements or within block-level HTML tags, such as `<p>`, `<div>`, or `<span>`.
+
+Rich text edit is available for standalone content in a paragraph:
+
+```html
+<p>{{body}}</p>
+```
+
+If you use a content placeholder inside an HTML attribute (such as `alt`, `href`, or `src`), rich text editing is not supported for that field.
+
+Rich text edit is **not** available for `alt` content:
+
+```html
+<img src="image.jpg" alt="{{image_description}}">
+```
+
+If a field appears more than once, the rich text capability is determined based on whether it is used as an HTML attribute in any of the instances. For example, when headline is used as a heading and as alternative text for an image, the `alt` tag takes precedence.
+
+Rich text edit is **not** available for `headline` since it is used as `alt` content:
+
+```html
+<h1>{{headline}}</h1>
+<img src="image.jpg" alt="{{headline}}">
+```
+
+Rich text editing may be available for certain fields within specific channels, such as `on_image_text` in social channels (Meta, LinkedIn).
+
 ## Sections or groups
 
 You can use sections in a marketing email template when you have two or three groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
