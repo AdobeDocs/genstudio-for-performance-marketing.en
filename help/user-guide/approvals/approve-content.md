@@ -14,8 +14,22 @@ If the content draft meets your organization's standards and your expectations, 
 
 1. Access the draft from either the in-product notification or by clicking the notification email's **[!UICONTROL View all notifications]** button to navigate to the draft.
 
-1. (_Optional_). Enter comments in the **[!UICONTROL Comments]** text field.
+1. (Optional) Enter comments in the **[!UICONTROL Comments]** text field.
 
 1. Select **[!UICONTROL Approved]**.
 
-Your work as an approver is done. Adobe GenStudio for Performance Marketing alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
+## Approve content in Proofing Viewer
+
+If you are a designated approver, [!DNL Proofing Viewer] displays the **[!UICONTROL Make a decision]** button.
+
+**To make a decision about content**:
+
+1. Click **[!UICONTROL Make a decision]** at the top of [!DNL Proofing Viewer].
+
+   The _Proof decision_ popup opens, displaying options for approving or sending feedback.
+
+1. Select **[!UICONTROL Approved]** or **[!UICONTROL Approved with changes]**.
+
+1. Click **[!UICONTROL Submit]**.
+
+The draft creator is notified of your approval, and your work is done. See [Publish content](/help/user-guide/approvals/publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
