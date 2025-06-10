@@ -5,13 +5,13 @@ feature: Content Review, Content Management
 ---
 # Workfront Proof integration with GenStudio for Performance Marketing
 
-Integration with Workfront Proof enhances the GenStudio for Performance Marketing review-and-approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to [compare proof (draft) versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions). This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content review lifecycle.
+Integration with Workfront Proof enhances the GenStudio for Performance Marketing review-and-approval lifecycle with advanced features, including approval templates, multi-stage workflows, and the ability to [compare proof versions](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). This structured versioning ensures transparency, accountability, and streamlined collaboration throughout the content review lifecycle.
 
 >[!BEGINSHADEBOX]
 
 **Prerequisites**:
 
-Install the [Adobe Workfront Desktop Proofing Viewer extension](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension).
+Install the [Adobe Workfront Web Viewer extension](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
 
 >[!ENDSHADEBOX]
 
@@ -83,7 +83,7 @@ Approval templates support multi-stage approvals, which support the coordination
 
 Reviewers can click directly on specific areas of the proof to leave precise, contextual comments. All comments are timestamped and saved as part of the proof's version history. Comment history is not available in GenStudio for Performance Marketing.
 
-You can [compare two versions of a proof](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#comparing-proof-versions) to evaluate review comments and content.
+You can [compare two versions of a proof](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) to evaluate review comments and content.
 
 ## Notifications and reminders
 

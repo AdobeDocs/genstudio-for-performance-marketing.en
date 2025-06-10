@@ -61,7 +61,7 @@ _Reviewers_ can add comments but cannot approve content. Reviewer participation 
 
 GenStudio for Performance Marketing in-product notifications update approvers and content editors in real time of asset status changes and `@mention` comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles.
 
-Content editors and approvers can sign up to receive these notifications in Slack. See [Subscribe to services in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#slack).
+Content editors and approvers can sign up to receive these notifications in Slack. See [Subscribe to services in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/subscription).
 
 Actions taken by approval participants trigger automatic in-product notifications and email notifications. When you start an approval process, designated approvers receive both email and in-product notifications. You are kept in the loop with in-product and email notifications whenever an approver adds `@mention` comments or makes a decision. Notifications include links to the content draft.
 
