@@ -88,4 +88,4 @@ From [!DNL Proofing Viewer], you can [compare proof versions](https://experience
 
    Proofs display side by side, with the newer version on the left side. 
    
-1. Continue with Use the compare tools.
+Workfront Proof provides several tools for comparing proofs, including an autocompare tool. See [Use the compare tools](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
