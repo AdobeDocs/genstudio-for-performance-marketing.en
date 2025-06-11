@@ -21,14 +21,18 @@ Follow these design best practices when customizing email templates to work with
 
 ## Recognized field names
 
-GenStudio for Performance Marketing automatically generates the `subject` field for emails. When you customize your template, use content placeholders for the following required fields:
+When you customize your email template, use content placeholders for the following required fields:
 
-- `pre_header` (rich text not enabled)
 - `headline`
 - `sub_headline`
 - `body`
 - `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
+
+GenStudio for Performance Marketing automatically generates the following fields. Rich text is not enabled. You do not have to apply content placeholders for:
+
+- `pre_header`
+- `subject`
 
 The maximum fields allowed in a template are 20. See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) to understand more about using field names in templates.
 
