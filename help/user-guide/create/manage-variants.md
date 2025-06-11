@@ -24,12 +24,28 @@ Generated variant drafts have a default name shown at the top of the Canvas. Def
 
 ## Manually edit text
 
-You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage. For example, you can manually revise text in variants to preview the appearance of a headline with a chosen image.
+You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of an image.
+
+
+Available text formatting includes:
+
+* Bold, Italic, and Underline
+* Left, center, and right align
+* Bulleted and ordered lists
+* Text color
+* Text size
+* Link
+
+Text formatting options will vary per channel (Meta, email, etc.)
 
 **To edit text manually in generated variants**:
 
 1. After generating a set of variants, double-click editable text in a variant.
 1. Enter new text.
+1. To format the text, highlight the applicable text and click **[!UICONTROL Format text**].
+
+   Apply any (or all!) of the available formatting options to your text.
+
 1. Click off the text field to save it.
 
 ## View layers
