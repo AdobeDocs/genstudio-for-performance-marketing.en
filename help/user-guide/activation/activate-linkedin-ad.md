@@ -2,7 +2,6 @@
 title: Activate a LinkedIn ad
 description: Learn how to activate a LinkedIn ad experience.
 feature: Ad Activation
-badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 ---
 # Activate a LinkedIn ad
 
