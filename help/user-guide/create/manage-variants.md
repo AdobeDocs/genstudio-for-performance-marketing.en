@@ -111,16 +111,49 @@ The added or revised link is applied to all CTAs in the set of variants.
 
 ## Crop assets
 
-You can manually crop and reposition image assets in individual generated variants.
+You can manually crop and reposition image assets in individual generated variants with the Crop tool.
 
 **To crop and reposition images in variants**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click the crop icon that appears in the left corner of the image.
+1. After generating a set of variants, hover over and click an image within a variant.
+1. Click **[!UICONTROL Edit]** (pencil icon).
+1. Click **[!UICONTROL Crop]**.
 1. Adjust the image bounding box and drag the image into the desired position.
 1. Click **[!UICONTROL Apply]** to apply the crop to a single image or **[!UICONTROL Apply to all images]** to apply to all images in the variants.
 
    The cropped image is saved and visible for the variants.
+
+## Use Generative Expand
+
+Expand the dimensions of your images and add generative content with Generative Expand. Generative Expand allows you to transform ill-fitting images into the most suitable aspect ratio for Banners, Meta ads, LinkedIn ads, or display ads templates.
+
+This Generative Expand feature is paired with the Crop tool to give you full control of assets in a variety of aspect ratios for paid media channels.
+
+**To use Generative Expand to fit your images to your channel template**:
+
+1. After generating a set of variants, hover over and click an image within a variant.
+1. Click **[!UICONTROL Edit]** (pencil icon).
+1. Click **[!UICONTROL Expand]**.
+
+   The image opens in the _Edit Image_ Canvas view with a bounding box matching the aspect ratio from your working template.
+
+1. Move the image around to achieve the ideal location.
+1. _Optional_ Add a prompt in the prompt box that gives details about how you want to expand the image.
+
+   For instance, if you are expanding an image of a plaid shirt hanging on a clothesline over a fire at a campsite you could add "Foggy mountains with a crackling fire while camping in the mountains".
+
+   Before using Generative Expand:
+
+   ![Before Generative Expand](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
+
+   After using Generative Expand:
+
+   ![After Generative Expand](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
+
+1. Click **[!UICONTROL Generate]**.
+1. Click through and select a generated option or click **[!UICONTROL More]** (plus icon) for a list of generated options.
+1. Click **[!UICONTROL Keep]** to save the Generative Expand result.
+1. To apply that result to the single image, click **[!UICONTROL Apply]**. Click **[!UICONTROL Apply to all images]** to apply the result to all the relevant images in your variant set.
 
 ## Change aspect ratio
 
