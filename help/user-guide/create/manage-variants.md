@@ -24,12 +24,28 @@ Generated variant drafts have a default name shown at the top of the Canvas. Def
 
 ## Manually edit text
 
-You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage. For example, you can manually revise text in variants to preview the appearance of a headline with a chosen image.
+You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of an image.
+
+
+Available text formatting includes:
+
+* Bold, Italic, and Underline
+* Left, center, and right align
+* Bulleted and ordered lists
+* Text color
+* Text size
+* Link
+
+Text formatting options will vary per channel (Meta, email, etc.)
 
 **To edit text manually in generated variants**:
 
 1. After generating a set of variants, double-click editable text in a variant.
 1. Enter new text.
+1. To format the text, highlight the applicable text and click **[!UICONTROL Format text**].
+
+   Apply any (or all!) of the available formatting options to your text.
+
 1. Click off the text field to save it.
 
 ## View layers
@@ -215,6 +231,19 @@ To enable alt text functionality, [add a content placeholder](/help/user-guide/c
    1. Click **[!UICONTROL Generate]** again if you are not satisfied with the initial result.
    1. Click **[!UICONTROL Apply]**.
 1. Repeat for each image in your variants set.
+
+## Add accessibility labels
+
+Provide an accessible name for image and call-to-action links in your variants by adding accessibility labels (Aria-labels). Accessibility labels supplement visible text to help users understand the purpose of the link or button.
+
+**To add accessibility labels to image or call-to-action links in your variants**:
+
+1. After generating a set of variants, click an image or call-to-action within a variant.
+1. Click the **[!UICONTROL ARIA-label]** button.
+1. Click into the text box and add a brief description that explains what the link or button does. For instance, you could use "Shop at WKND's official site" for a call to action button link.
+1. Click **[!UICONTROL Apply]**.
+
+To enable accessibility label functionality, [add a content placeholder](/help/user-guide/content/customize-template.md) in the template.
 
 ## Preview for device
 
