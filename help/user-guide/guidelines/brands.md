@@ -26,6 +26,10 @@ Deleted [!DNL Brands] are archived for 30 days and can be recovered within that 
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
+>[!NOTE]
+>
+>If you upload brand guidelines written in a non-English language—or manually create a brand using a non-English language—GenStudio for Performance Marketing displays those guidelines in that same language.
+
 Some channel guidelines, abstracted from [platform guidelines and ADA accessibility standards](/help/user-guide/guidelines/overview.md#compliance), are pre-populated as default values.
 
 ![Brand guidelines](/help/assets/brands.png){width="600" zoomable="yes"}
