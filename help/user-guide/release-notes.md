@@ -19,7 +19,7 @@ You can now select from a Meta or LinkedIn ad starter template. [Starter templat
 
 * Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
 
-* The [Workfront Proof integration](/help/user-guide/approvals/proof-integration.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved. 
+* The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
 
 ## Earlier release notes
 
