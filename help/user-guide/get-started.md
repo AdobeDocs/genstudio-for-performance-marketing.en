@@ -22,15 +22,14 @@ System managers set up Adobe GenStudio for Performance Marketing by entering or 
 
 ### Step 1: Add guidelines
 
-Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of content editors and collaborators. Brand components encompass intangible aspects such as tone of voice but also more strictly defined features such as logos and color palettes. Understanding of your organization's brands, personas, and products. [Guidelines](/help/user-guide/guidelines/overview.md) capture brand, persona, and product characteristics to inform the creation of content that is closely tailored to your organization's standards and values. 
+Brand [guidelines](/help/user-guide/guidelines/overview.md) capture brand characteristics. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide content generation. You can either upload [[!DNL Brands] guideline](/help/user-guide/guidelines/brands.md) documents or manually enter brand information. 
 
-Learn about how [GenStudio for Performance Marketing defines brand components](/help/user-guide/guidelines/brands.md)
+Content editors and collaborators cannot begin their work until the foundational elements of your organization's [brand identity](/help/user-guide/guidelines/brands.md) are established. These brand components include both:
 
-Create your brand [guidelines](/help/user-guide/guidelines/overview.md) to capture brand characteristics. GenStudio for Performance Marketing's underlying generative AI capabilities use these guidelines to establish guardrails that guide the content generation.You can either upload [[!DNL Brands] guidelines](/help/user-guide/guidelines/brands.md) documents or manually enter brand information. 
+* Intangible elements, such as tone of voice
+* Tangible assets, like logos, color palettes, and typography.
 
-
-[[!DNL Personas] guidelines](/help/user-guide/guidelines/personas.md) and [[!DNL Products] guidelines](/help/user-guide/guidelines/products.md) are important, too.
-
+Before creating guidelines, learn about how GenStudio for Performance Marketing defines [brand components](/help/user-guide/guidelines/brands.md)
 
 #### Prepare your guideline documents
 
