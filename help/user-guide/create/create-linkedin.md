@@ -90,6 +90,7 @@ Before sending variants for approval or publishing to [!DNL Content], you can ed
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [add or swap assets (image or video) in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an asset (or the asset area) and click the **[!UICONTROL Swap from content]** icon.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
+* **To [add accessibility labels](/help/user-guide/create/manage-variants.md#add-accessibility-labels) to your variants** click on an image or call-to-action link, then provide a brief description that explains what the link or button does.
 * **To [delete a LinkedIn ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
 
 ### Manage videos
