@@ -22,7 +22,7 @@ Published brands can be edited (changes are immediately available), duplicated, 
 
 Deleted [!DNL Brands] are archived for 30 days and can be recovered within that period.
 
-## [!DNL Brands] guidelines
+## Brands guidelines
 
 Guidelines give GenStudio for Performance Marketing a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
@@ -131,7 +131,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### Logos
 
-[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos (not to exceed 1GB per file) for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_.
+[!DNL Brand] logos serve as visual symbols representing a company's identity, values, and products. You can upload one or multiple logos (not to exceed 1GB per file) for a [!DNL Brand] in JPG, JPEG, SVG, or PNG formats. Logos can be added during [!DNL Brand] creation or from the individual _[!DNL Brands] view_. Logos can be used as the thumbnail image for a specific [!DNL Brand].
 
 Each uploaded logo includes the following details within the logo tile:
 
@@ -139,7 +139,13 @@ Each uploaded logo includes the following details within the logo tile:
 - File size
 - Resolution
 
-From the actions menu (three dots) for a color, you can **[!UICONTROL Download]**, **[!UICONTROL Rename]**, or **[!UICONTROL Delete]** a color.
+From the actions menu (three dots) for a logo, you can [view details for and manage](/help/user-guide/guidelines/add-guidelines.md#manage-brands) an individual logo:
+
+- **[!UICONTROL View details]**
+- **[!UICONTROL Download]**
+- [**[!UICONTROL Use as brand thumbnail]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
+- **[!UICONTROL Rename]**
+- **[!UICONTROL Delete]**
 
 ### Colors
 

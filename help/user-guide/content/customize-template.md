@@ -118,6 +118,14 @@ In this example:
 - `{{image}}` is the placeholder for the image source URL.
 - `{{imageDescription}}` is the placeholder for the alt text, which provides a description of the image for accessibility and SEO purposes.
 
+### Accessibility label
+
+The `aria-label` attribute is used to define an accessible name for elements that do not have visible labels. This attribute is especially useful in templates where it is important to provide context for interactive elements, such as a CTA button.
+
+```html
+<a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
+```
+
 ### On image text
 
 The `{{on_image_text}}` placeholder is used to specify a text overlay of short impactful messages, placed directly on the image in an experience.
@@ -166,10 +174,38 @@ To create an editable section, add double brackets around the section name:
 </tbody>
 ```
 
+### Rich text editing
+
+Enhance your creative content during the [!DNL Create] process with rich text editing. The canvas determines rich text capability based on the location of the content placeholder. Rich text capability is available only when you use content placeholders as standalone elements or within block-level HTML tags, such as `<p>`, `<div>`, or `<span>`.
+
+Rich text edit is available for standalone content in a paragraph:
+
+```html
+<p>{{body}}</p>
+```
+
+If you use a content placeholder inside an HTML attribute (such as `alt`, `href`, or `src`), rich text editing is not supported for that field.
+
+Rich text edit is **not** available for `alt` content:
+
+```html
+<img src="image.jpg" alt="{{image_description}}">
+```
+
+If a field appears more than once, the rich text capability is determined based on whether it is used as an HTML attribute in any of the instances. For example, when headline is used as a heading and as alternative text for an image, the `alt` tag takes precedence.
+
+Rich text edit is **not** available for `headline` since it is used as `alt` content:
+
+```html
+<h1>{{headline}}</h1>
+<img src="image.jpg" alt="{{headline}}">
+```
+
+Rich text editing may be available for certain fields within specific channels, such as `on_image_text` in social channels (Meta, LinkedIn).
+
 ## Sections or groups
 
 You can use sections in a marketing email template when you have two or three groupings of fields. _Sections_ inform GenStudio for Performance Marketing that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
-
 
 Use a group name of your choice as a prefix to indicate that a field is part of a section or group. Use a field name (such as `headline`, `body`, `image`, or `cta`) after the underscore (`_`).
 
@@ -187,17 +223,14 @@ Each section can use only one of each field type. For example, the following fie
 
 Because of this rule, the sections cannot be nested.
 
-Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in the _Best practices for using templates_ topic.
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](/help/user-guide/content/best-practices-for-templates.md) in the _Best practices for using templates_ topic.
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
 - `pre_header`
-- `pod1_headline`
-- `pod1_body`
-- `pod2_headline`
-- `pod2_body`
-- `pod3_headline`
-- `pod3_body`
+- `pod1_headline`, `pod1_body`
+- `pod2_headline`, `pod2_body`
+- `pod3_headline`, `pod3_body`
 - `cta`
 
 GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
@@ -246,138 +279,3 @@ External files are temporarily embedded only for the purpose of creating the tem
 ### Refresh content
 
 If the source changes after creating the initial preview, use the [refresh](/help/user-guide/content/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.
-
-## Template examples
-
-+++Example: Email template with one section
-
-The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre_header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
-
-```html {line-numbers="true" highlight="13"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
-            <p>{{body}}</p>
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++Example: Email template with multiple sections
-
-The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Adobe</title>
-        <style>
-            .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            }
-            .pod {
-            background-color: #f8f8f8;
-            margin: 10px;
-            padding: 20px;
-            border-radius: 5px;
-            }
-            .pod h2 {
-            color: #333;
-            }
-            .pod p {
-                color: #666;
-            }
-        </style>
-    </head>
-    <body>{{pre_header}}
-        <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
-            <!-- Pod1 -->
-            <div class="pod">
-                <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod1_body}}</p>
-            </div>
-            <!-- End of Pod1 -->
-            <!-- Pod2 -->
-            <div class="pod">
-                <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
-                <p>{{pod2_body}}</p>
-            </div>
-            <!-- End of Pod2 -->
-        </div>
-    </body>
-</html>
-```
-
-+++
-
-+++Example: Meta ad template
-
-The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders), such as `image` and `on_image_text`, to indicate where GenStudio for Performance Marketing can generate content.
-
-```html {line-numbers="true" highlight="33"}
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Adobe</title>
-        <style>
-            .ad-container {
-            font-family: Helvetica, sans-serif;
-            position: relative;
-            text-align: center;
-            height: 100%;
-            }
-            .ad-image {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            }
-            .ad-text {
-            position: absolute;
-            top: 0;
-            left: 0;
-            margin: 1em;
-            background-color: rgba(0, 0, 0, 0.5);
-            color: white;
-            padding: 1em;
-            font-size: 75px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="ad-container">
-            <img src="{{image}}" alt="Ad Image" class="ad-image" />
-            <div class="ad-text">{{on_image_text}}</div>
-        </div>
-    </body>
-</html>
-```
-
-+++

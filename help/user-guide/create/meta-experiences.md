@@ -12,7 +12,11 @@ With Adobe GenStudio for Performance Marketing, you can use generative AI to str
 
 When generating Meta experiences, four variations are created and shown in the Canvas. GenStudio for Performance Marketing supports both [standard and custom size Meta ads](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
-Editable sections of a Meta experience include:
+When generating Meta experiences four variations are created and shown in the Canvas.
+
+GenStudio for Performance Marketing supports both [standard and custom size Meta ads](/help/user-guide/templates/meta-template.md).
+
+Editable sections of an email experience include:
 
 * Headline
 * Body

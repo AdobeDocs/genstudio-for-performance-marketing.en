@@ -57,12 +57,10 @@ The following table displays the default editor permissions:
 |   [!DNL Content] |     yes  |   yes     |    yes   |   yes      |
 |   [!DNL Create] |     yes  |   yes     |    yes   |   yes      |
 |   [!DNL Insights] |  can configure connectors only  |    |     |   yes  |
-|   [!DNL Personas] | yes    |   yes*      |  yes*       |    yes       |
-|   [!DNL Products] | yes    |   yes*      |  yes*       |    yes       |
+|   [!DNL Personas] | yes    |   yes      |  yes       |    yes       |
+|   [!DNL Products] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Reviews and approvals]  |   yes     |  yes   |    yes     |    yes     |
 |   [!DNL Templates]| no  | no | no |  yes |
-
-Editors can edit and delete [!DNL Personas] and [!DNL Products] that they have created.
 
 GenStudio system managers can give editors permission to edit and delete a [!DNL Brand].
 

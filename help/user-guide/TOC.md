@@ -55,12 +55,18 @@ role: User
   + [Manage assets and experiences](content/manage-assets.md)
   + [Connect an AEM repository](content/connect-aem-repo.md)
   + [Asset details](content/asset-details.md)
-  + Templates {#templates}
-    + [Work with templates](content/use-templates.md)
-    + [Customize a template](content/customize-template.md)
-    + [Template code editor](content/code-editor.md)
-    + [Create accessible templates](content/accessibility-for-templates.md)
-    + [Best practices for templates](content/best-practices-for-templates.md)
++ Templates {#templates}
+  + [Work with templates](content/use-templates.md)
+  + [Starter templates](templates/starter-templates.md)
+  + [Customize a template](content/customize-template.md)
+  + [Template code editor](content/code-editor.md)
+  + [Create accessible templates](content/accessibility-for-templates.md)
+  + [Best practices for templates](content/best-practices-for-templates.md)
+  + Channel best practice {#channel-best-practice}
+    + [Display ads guide](templates/display-template.md)
+    + [Email guide](templates/email-template.md)
+    + [LinkedIn ads guide](templates/linkedin-template.md)
+    + [Meta ads guide](templates/meta-template.md)
 + Campaigns {#campaigns}
   + [Campaigns overview](campaigns/overview.md)
   + [Create campaigns](campaigns/create-campaign.md)
@@ -72,6 +78,7 @@ role: User
   + [Optimize activations](activation/troubleshooting.md)
   + Paid media ads {#paid-media-ads}
     + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
+    + [LinkedIn](activation/activate-linkedin-ad.md)
     + [Meta](activation/activate-meta-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)

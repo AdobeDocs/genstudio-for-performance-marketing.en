@@ -85,6 +85,21 @@ To see your created [!DNL Brands], click the back arrow near the top of the _[!U
 
 You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
+### Change brand thumbnail
+
+After manually adding a [!DNL Brand], you can change the thumbnail image to ensure it is easily distinguishable within your [!DNL Brands] list.
+
+If a [!DNL Brand] is created by document extraction (instead of being manually added), an available logo within those documents is automatically implemented as the thumbnail image.
+
+**To manually change the thumbnail image for a [!DNL Brand]**:
+
+1. Select **[!UICONTROL Change thumbnail]** from the actions menu.
+1. Upload a new image in the _Upload_ tab.
+1. In _[!UICONTROL Change thumbnail]_, change the uploaded image.
+1. Select **[!UICONTROL Update]** to save the image as your [!DNL Brand] thumbnail image.
+
+You can select an existing [!DNL Brand] logo in the [!UICONTROL Logos] tab view for a [!DNL Brand]. Click to open a logo and select **[!UICONTROL Use as brand thumbnail]** from the action menu.
+
 ### Publish brand
 
 Before publishing a [!DNL Brand] draft, click through all the guidelines sections to review all the populated information. Make changes to the brand guidelines as needed.
@@ -123,6 +138,12 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 
 1. In **[!DNL Brands]**, click to open a defined brand.
 1. To view individual details or modify guidelines, click [**[!UICONTROL Brand voice guidelines]**](brands.md#brand-voice-guidelines), [**[!UICONTROL Image guidelines]**](brands.md#image-guidelines), [**[!UICONTROL Channel guidelines]**](brands.md#channel-guidelines), [**[!UICONTROL Logos]**](brands.md#logos), or [**[!DNL Colors]**](brands.md#colors) at the top.
+1. To manage a brand logo, click [**[!UICONTROL Logos]**](brands.md#logos) at the top and click the action menu (three dots).
+   1. Select **[!UICONTROL View details]** to see information for the [!DNL Brand] such as _Format_ and _Size_.
+   1. Select **[!UICONTROL Download]** to download the logo.
+   1. Select [**[!UICONTROL Use as brand thumbnail]](#change-brand-thumbnail) to set the logo as the thumbnail image.
+   1. Select **[!UICONTROL Rename]** to rename the logo.
+   1. Select **[!UICONTROL Delete]** to delete the logo.
 1. To rename an existing brand, click into the title and enter a new title.
 1. To duplicate an existing brand, select **[!UICONTROL Duplicate]** from the _[!DNL Brands]_ action menu.
    1. Enter a brand name in the _Duplicate brand_ popup and click **[!UICONTROL Duplicate brand]**.
