@@ -31,7 +31,7 @@ GenStudio for Performance Marketing guidelines:
 * Define the complexities of your brand identity
 * Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
-* Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#brand-validation)
+* Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#content-checks)
 * Implements ADA accessibility and platform guidelines for generated variants
 
 By incorporating brand, product, and persona data into GenStudio for Performance Marketing, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
@@ -41,7 +41,7 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 [!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enable two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in [[!DNL Create]](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
-* [**Brand validation**](#brand-validation), which happens as part of the content creation process
+* [**Brand validation**](#content-checks), which happens as part of the content creation process
 
 ## Content checks
 
@@ -57,5 +57,5 @@ Adobe GenStudio for Performance Marketing integrates external platform guidance 
 
 These cumulative compliance checks include:
 
-* **ADA accessibility**—Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users. GenStudio for Performance Marketing currently references ADA Level A copy (text) accessibility standards.
+* **ADA accessibility**—Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users. GenStudio for Performance Marketing currently references ADA Level AA copy (text) accessibility standards.
 * **Platform compliance**: Vital for adhering to the specific guidelines of each platform—such as Meta or LinkedIn—and following industry best practices. These are default guidelines present in the system and pre-populated in [[!DNL Brand] guidelines](/help/user-guide/guidelines/brands.md#brands-guidelines).

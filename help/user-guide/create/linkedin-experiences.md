@@ -9,9 +9,7 @@ exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
 ---
 # LinkedIn experiences
 
-With Adobe GenStudio for Performance Marketing, you can leverage generative AI to efficiently [create powerful LinkedIn experiences](/help/user-guide/create/create-linkedin.md).
-
-[!DNL Create] enables content creators and marketers to employ [guidelines](/help/user-guide/guidelines/overview.md), image assets, and an [instructive prompt](/help/user-guide/effective-prompts.md) to [generate brand-adhered LinkedIn experiences](/help/user-guide/create/create-email-experience.md).
+With Adobe GenStudio for Performance Marketing, you can leverage generative AI to efficiently [create powerful LinkedIn experiences](/help/user-guide/create/create-linkedin.md). [!DNL Create] enables content creators and marketers to employ [guidelines](/help/user-guide/guidelines/overview.md), image assets, and an [instructive prompt](/help/user-guide/effective-prompts.md) to [generate brand-adhered LinkedIn experiences](/help/user-guide/create/create-email-experience.md).
 
 When generating LinkedIn experiences, four variations are created and shown in the Canvas.
 
@@ -21,7 +19,7 @@ Editable sections of a LinkedIn experience include:
 * Introductory text
 * Description
 * Call to action (CTA)
-* Image
+* Image/Video
 
 See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
 

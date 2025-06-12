@@ -9,7 +9,45 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.05.15 {#latest}
+## 2025.06 {#latest}
+
+### Starter templates available
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+[Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jumpstart the creative process. You can now select from a Meta or LinkedIn ad starter template.
+
+### Generative Expand AI functionality
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) to expand the dimensions of images and add generative content to fit your ad templates in paid media variants.
+
+### Add videos to ads
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Along with image content, you can now add videos to [LinkedIn](/help/user-guide/create/create-linkedin.md#manage-videos) and [Meta](/help/user-guide/create/create-meta-ad.md#manage-videos) ads. See autoplay previews of the videos directly in GenStudio for Performance Marketing as you choose and add videos to your variants.
+
+### Fixes and enhancements
+
+* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
+
+* The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
+
+* Added ability to [provide accessible names for images and call-to-action links](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in your variants by adding accessibility labels (Aria-labels).
+
+* When adding or revising [Brand guidelines](/help/user-guide/guidelines/brands.md) in a non-English language, GenStudio for Performance Marketing displays those guidelines in the same language.
+
+* After manually adding a [!DNL Brand], or creating a [!DNL Brand] by manual extraction from a document, you can [change or add brand thumbnail images](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail) to ensure each brand is easily distinguishable within your [!DNL Brands] list.
+
+* You can now [use rich text editing formatting for text](/help/user-guide/create/manage-variants.md#manually-edit-text) in your generated variants. Experiment with myriad formatting options for variant text, such as color, size, lists, and more.
+
+* You can now [create a new ad set](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign.
+
+## Earlier release notes
+
++++Notes from 2025.05.15
 
 ### Fixes and enhancements
 
@@ -18,7 +56,7 @@ This release information details the latest updates to the GenStudio for Perform
 * Now you can choose more than one experience for export or download. See [Export experiences](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
-## Earlier release notes
++++
 
 +++Notes from 2025.04.15
 
@@ -28,6 +66,8 @@ This release information details the latest updates to the GenStudio for Perform
 * Enabled functionality to [view and select individual layers](/help/user-guide/create/manage-variants.md#view-layers)—editable text fields or editable images—of an experience to highlight them for revisions, such as regenerating content or cropping images.
 * Added a [new template field](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
 * Added support for [publishing ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing into Google Campaign Manager 360. Activate supports detailed Google Campaign Manager 360 ad previews before publishing to a Campaign Manager 360 advertiser. Ads published through Activate are automatically pulled into the Insights once live, enabling users to track and report on ad performance.
+
++++
 
 +++Notes from 2025.03.13
 

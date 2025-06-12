@@ -17,10 +17,15 @@ Before you begin generating a Meta ad experience, it is important to [incorporat
 
 To get started generating a new Meta ad experience, use an available template to provide the framework for your content. See [Meta ad template guidelines](/help/user-guide/templates/meta-template.md) for information about supported Meta ad aspect ratios.
 
+When selecting a template, you have the option of using one of your uploaded templates or a starter template.
+
 **To choose a Meta ad template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]**.
-1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
+1. Select **[!UICONTROL Custom templates]** to browse your uploaded templates or **[!UICONTROL Starter templates]** to browse the pre-built templates.
+
+      If you plan to add video assets to your Meta variants, you must choose a starter template. They are preloaded with system-defined content areas that facilitate the use of videos.
+
 1. Click to select a template and click **[!UICONTROL Use]**.
 
    This action opens the Canvas, which is the central hub for content creation.
@@ -40,14 +45,17 @@ If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL P
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Add content for use in the experience *and* to influence content generation:
-   * Click **[!UICONTROL Select from Content]** to select assets (images) from your [!DNL Content] repository, filter and select one or more images.
+1. Add content (images or videos) for use in the experience *and* to influence content generation:
+   * Click **[!UICONTROL Select from Content]** to select assets from your [!DNL Content] repository, filter and select one or more images.
+
+      If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
 
       ![Choose visual content](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
       To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Or, drag and drop assets into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
+   * Or, drag and drop images into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
+
 1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
@@ -62,6 +70,8 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
+   
+   See [Manage videos](#manage-videos) to understand how they are generated and how to manage them.
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
@@ -87,13 +97,23 @@ To highlight an individual layer to revise, click an editable field or image and
 * **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the ad sections (such as the subject line,
 header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _Link_, enter a URL for the call-to-action text.
+* **To [apply text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text)** in a variant, click the on-image text or in-line link for a variant and click **[!UICONTROL Format text]**.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
+* **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, click an image, click **[!UICONTROL Edit]** (pencil icon) and then **[!UICONTROL Crop]**. Adjust the image size and placement.
+* **To [use Generative Expand to size and fit images](/help/user-guide/create/manage-variants.md#use-generative-expand) to your working template**, click an image, click **[!UICONTROL Edit]** (pencil icon) and then **[!UICONTROL Expand]**. Adjust the image to fit the needed aspect ratio and template.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
+* **To [add accessibility labels](/help/user-guide/create/manage-variants.md#add-accessibility-labels) to your variants** click on an image or call-to-action link, then provide a brief description that explains what the link or button does.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options menu for a variant and click **[!UICONTROL Delete variant]**.
+
+### Manage videos
+
+Hover over each of the videos to see looped autoplay.
+
+Videos are reframed to fit the selected aspect ratio during generation. Revert back to the original non-reframed video by clicking **[!UICONTROL Reframe Video]** and toggling it off.
 
 ## Submit generation feedback
 

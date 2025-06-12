@@ -22,12 +22,16 @@ Follow these design best practices when customizing Banner and Display ad templa
 
 ## Recognized field names
 
-For banner and display ads, GenStudio for Performance Marketing automatically generates the `cta` field. When customizing your template, use content placeholders for the following required fields:
+When customizing your banner or display ad template, use content placeholders for the following required fields:
 
 - `headline`
 - `sub_headline`
 - `body`
 - `image` (required, selected from Content JPEG, PNG, or GIF)
+
+GenStudio for Performance Marketing automatically generates the following fields. You do not have to apply content placeholders for:
+
+- `cta`
 
 See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) to understand more about using field names in templates.
 

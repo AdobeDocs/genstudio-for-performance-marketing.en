@@ -22,6 +22,7 @@ role: User
   + [Connect paid media](connectors/connect-channel.md)
   + Paid media accounts {#connect-account}
     + [Google Campaign Manager 360](connectors/google-cm360.md)
+    + [LinkedIn](connectors/linkedin-ads.md)
     + [Meta Ads](connectors/meta-ads.md)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
@@ -79,6 +80,7 @@ role: User
   + [Optimize activations](activation/troubleshooting.md)
   + Paid media ads {#paid-media-ads}
     + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
+    + [LinkedIn](activation/activate-linkedin-ad.md)
     + [Meta](activation/activate-meta-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
