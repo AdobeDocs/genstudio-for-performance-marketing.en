@@ -25,7 +25,6 @@ Before launching an activation, [sign in to](https://www.linkedin.com/campaignma
 
 * LinkedIn ad accounts with full permission to create ads and post content on LinkedIn pages.
 
-
 >[!ENDSHADEBOX]
 
 ## Step 2: Connect to your LinkedIn accounts
@@ -68,11 +67,11 @@ Editable experience details include:
 
 After preparing your ad experiences, you must confirm your LinkedIn account information. The _LinkedIn ad setup_ view is populated with options that are derived from the configured LinkedIn accounts.
 
-_Campaign groups_ are an essential component of LinkedIn  Campaign Manager. Campaign groups organize discrete campaigns under a shared objective. Campaigns can inherit budget limitations, objectives, and schedules from the campaign group to which they belong.
+_Campaign groups_ are an essential component of LinkedIn Campaign Manager. Campaign groups organize discrete campaigns under a shared objective. Campaigns can inherit budget limitations, objectives, and schedules from the campaign group to which they belong.
 
 **To confirm your account setup**:
 
-1. Select an account from the **[!UICONTROL Account]**  drop-down menu. Options are LinkedIn accounts that have been connected to GenStudio for Performance Marketing.
+1. Select an account from the **[!UICONTROL Account]** drop-down menu. Options are LinkedIn accounts that have been connected to GenStudio for Performance Marketing.
 
 1. Select a campaign group from the **[!UICONTROL Campaign group]** drop-down menu. This is the LinkedIn campaign group where the experience is published.
 

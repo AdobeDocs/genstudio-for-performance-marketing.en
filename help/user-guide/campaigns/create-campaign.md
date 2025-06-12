@@ -11,12 +11,11 @@ A GenStudio for Performance Marketing campaign defines key digital campaign trai
 
 The key elements of your campaign are stored in a campaign object, which creates a shared context for all assets and experiences labeled with the same unique campaign name. This label identifies the campaign throughout GenStudio for Performance Marketing.
 
-GenStudio system managers and Genstudio editors can create campaigns.
+GenStudio system managers and GenStudio editors can create campaigns.
 
 ## Define campaign details
 
 {{$include /help/_includes/campaign-details.md}}
-
 
 **To enter campaign details**:
 

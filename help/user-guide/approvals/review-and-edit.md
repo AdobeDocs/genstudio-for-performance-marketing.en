@@ -18,7 +18,7 @@ Content editors can make in-process edits to content in response to review comme
 
 As a designated approver, you can access the content that you are asked to review and approve in several ways:
 
-* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification.  The Canvas that displays the asset or experience opens. The _Approval_ panel is displayed on the right.
+* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. The Canvas that displays the asset or experience opens. The _Approval_ panel is displayed on the right.
 
 * **Access the draft for review from the list of approval requests**. If you are asked to review multiple content drafts, your notification email includes a **[!UICONTROL View all notifications]** button. Click this button to navigate to a page that displays all the notifications that you have received, including approval requests and notifications that you have enabled from other Adobe Experience Cloud products.
 
