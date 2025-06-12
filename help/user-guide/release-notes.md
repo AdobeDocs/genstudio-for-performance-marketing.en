@@ -21,6 +21,8 @@ You can now select from a Meta or LinkedIn ad starter template. [Starter templat
 
 * The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
 
+* You can now [create a new ad set](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign.
+
 ## Earlier release notes
 
 +++Notes from 2025.05.15
