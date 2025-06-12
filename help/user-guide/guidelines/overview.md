@@ -57,5 +57,5 @@ Adobe GenStudio for Performance Marketing integrates external platform guidance 
 
 These cumulative compliance checks include:
 
-* **ADA accessibility**—Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users. GenStudio for Performance Marketing currently references ADA Level A copy (text) accessibility standards.
+* **ADA accessibility**—Essential for ensuring the development of inclusive content and digital experiences that cater to users with varying abilities. These ensure alignment with web accessibility features and provide equitable access to all users. GenStudio for Performance Marketing currently references ADA Level AA copy (text) accessibility standards.
 * **Platform compliance**: Vital for adhering to the specific guidelines of each platform—such as Meta or LinkedIn—and following industry best practices. These are default guidelines present in the system and pre-populated in [[!DNL Brand] guidelines](/help/user-guide/guidelines/brands.md#brands-guidelines).
