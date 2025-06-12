@@ -42,9 +42,9 @@ Ad formats refer to the various creative elements and layouts used to align with
 
 [!DNL Insights] in GenStudio for Performance Marketing currently supports the following available ad formats.
 
-| Supported | Unsupported |
-|-----------|-------------|
-| Asset Feed Spec (Placement Optimization)<br>Single image or video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image and video)<br>App (image and video)<br>Messaging<br>Lead (image and video)<br>Slideshow (video)<br>Collection (image and video hero asset)<br>Shop (image and video)<br>Photo or Video from Page Post, Instagram Post<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
+| Supported                        | Unsupported                       |
+|----------------------------------|-----------------------------------|
+| Dynamic Ads<br>Link Ads<br>Simple Image Ads<br>Simple Video Ads | Shop Ads<br>Advantage+ Shopping Ads<br>Advantage+ Catalog Ads<br>Carousel Ads<br>Messenger Ads<br>Lead Ads<br>Collection Ads<br>Call Ads<br>Owned Page Post Ads<br>Partnership Ads<br>Flexible Ads |
 
 ### Ad placements
 
