@@ -41,7 +41,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 * After manually adding a [!DNL Brand], or creating a [!DNL Brand] by manual extraction from a document, you can [change or add brand thumbnail images](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail) to ensure each brand is easily distinguishable within your [!DNL Brands] list.
 
-* You can now [use rich text editing formatting for text](/help/user-gui de/create/manage-variants.md#manually-edit-text) in your generated variants. Experiment with myriad formatting options for variant text, such as color, size, lists, and more.
+* You can now [use rich text editing formatting for text](/help/user-guide/create/manage-variants.md#manually-edit-text) in your generated variants. Experiment with myriad formatting options for variant text, such as color, size, lists, and more.
 
 * You can now [create a new ad set](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign.
 
