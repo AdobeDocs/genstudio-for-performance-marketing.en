@@ -17,9 +17,31 @@ This release information details the latest updates to the GenStudio for Perform
 
 You can now select from a Meta or LinkedIn ad starter template. [Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jumpstart the creative process.
 
+### Generative Expand AI functionality
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) to expand the dimensions of images and add generative content to fit your ad templates in paid media variants.
+
+### Add videos to ads
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Along with image content, you can now add videos to [LinkedIn](/help/user-guide/create/create-linkedin.md#manage-videos) and [Meta](/help/user-guide/create/create-meta-ad.md#manage-videos) ads. See autoplay previews of the videos directly in GenStudio for Performance Marketing as you choose and add videos to your variants.
+
+### Fixes and enhancements
+
 * Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
 
 * The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
+
+* Adding ability to [provide accessible names for images and call-to-action links](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in your variants by adding accessibility labels (Aria-labels).
+
+* When adding or revising [Brand guidelines](/help/user-guide/guidelines/brands.md) in a non-English language, GenStudio for Performance Marketing will now display those guidelines in the same language.
+
+* After manually adding a [!DNL Brand], or creating a [!DNL Brand] by manual extraction from a document, you can [change or add brand thumbnail images](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail) to ensure each brand is easily distinguishable within your [!DNL Brands] list.
+
+* You can now [use rich text editing formatting for text](/help/user-guide/create/manage-variants.md#manually-edit-text) in your generated variants. Experiment with myriad formatting options for variant text, such as colo, size, lists, and more.
 
 ## Earlier release notes
 
