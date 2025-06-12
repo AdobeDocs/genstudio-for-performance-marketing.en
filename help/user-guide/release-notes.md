@@ -35,7 +35,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 * The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
 
-* Adding ability to [provide accessible names for images and call-to-action links](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in your variants by adding accessibility labels (Aria-labels).
+* Added ability to [provide accessible names for images and call-to-action links](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in your variants by adding accessibility labels (Aria-labels).
 
 * When adding or revising [Brand guidelines](/help/user-guide/guidelines/brands.md) in a non-English language, GenStudio for Performance Marketing will now display those guidelines in the same language.
 
