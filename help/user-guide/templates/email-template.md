@@ -21,14 +21,18 @@ Follow these design best practices when customizing email templates to work with
 
 ## Recognized field names
 
-GenStudio for Performance Marketing automatically generates the `subject` field for emails. When you customize your template, use content placeholders for the following required fields:
+When you customize your email template, use content placeholders for the following required fields:
 
-- `pre_header` (rich text not enabled)
 - `headline`
 - `sub_headline`
 - `body`
 - `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
+
+GenStudio for Performance Marketing automatically generates the following fields. Rich text is not enabled. You do not have to apply content placeholders for:
+
+- `pre_header`
+- `subject`
 
 The maximum fields allowed in a template are 20. See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) to understand more about using field names in templates.
 
@@ -50,30 +54,46 @@ Example field names for two sections:
 
 +++Example: Email template with one section
 
-The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre_header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketing to inject content during the email generation process.
+The following is a basic example of an HTML email template with one section. The `<head>` includes simple inline CSS for styling, and the `<body>` uses content placeholders such as `pre_header`, `headline`, `sub_headline`, `body`, `cta`, and `image` with link, and. These placeholders allow GenStudio for Performance Marketing to inject dynamic content during email generation.
 
-```html {line-numbers="true" highlight="13"}
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Adobe</title>
+        <title>Marketing Email</title>
         <style>
             .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
+                width: 100%;
+                padding: 20px;
+                font-family: Arial, sans-serif;
+            }
+            .cta-button {
+                display: inline-block;
+                background-color: #fff;
+                color: #000;
+                border: 2px solid #000;
+                padding: 10px 20px;
+                text-decoration: none;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600;
+                font-size: 14px;
+                margin-top: 20px;
+                text-align: center;
             }
         </style>
     </head>
-    <body>{{pre_header}}
+    <body>
         <div class="container">
+            {{pre_header}}
             <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
+            <p>
+                <a href="{{link}}">
+                    <img alt="banner headline" src="{{image}}" width="600" height="600">
+                </a>
+            </p>
+            <h2>{{sub_headline}}</h2>
             <p>{{body}}</p>
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>
@@ -108,6 +128,19 @@ The following is the same HTML template in the example above, but with two more 
             .pod p {
                 color: #666;
             }
+            .cta-button {
+            display: inline-block;
+            background-color: #fff; /* Background color to white */
+            color: #000; /* Text color to black */
+            border: 2px solid #000; /* Border color to black */
+            padding: 10px 20px;
+            text-decoration: none;            
+            font-family: 'Source Sans Pro', Arial, sans-serif;
+            font-weight: 600; /* Semibold */
+            font-size: 14px;
+            margin-top: 20px;
+            text-align: center;
+            }
         </style>
     </head>
     <body>{{pre_header}}
@@ -117,17 +150,18 @@ The following is the same HTML template in the example above, but with two more 
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic1" src="{{pod1_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod1_body}}</p>
             </div>
             <!-- End of Pod1 -->
             <!-- Pod2 -->
             <div class="pod">
                 <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic2" src="{{pod2_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod2_body}}</p>
             </div>
             <!-- End of Pod2 -->
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>
