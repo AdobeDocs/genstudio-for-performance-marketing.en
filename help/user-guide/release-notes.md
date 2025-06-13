@@ -45,7 +45,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 * You can now [create a new ad set](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) during platform setup by cloning an existing ad set during platform setup. Meta ad sets define the timing, channel details, and audience for a specific ad. A Meta campaign can contain multiple ad sets, but an ad set is exclusively associated with one campaign.
 
-* You can now export campaign details as externally accessible campaign briefs.  Select a campaign, then click **[!UICONTROL Export]** (upper right corner). Your export options include Microsoft Word or Adobe PDF.
+* You can now export campaign details, Word or PDF, to make them externally accessible as campaign briefs.
 
 ## Earlier release notes
 
