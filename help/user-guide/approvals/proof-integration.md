@@ -2,6 +2,7 @@
 title: Workfront Proof integration with review and approvals
 description: Workfront Proof integration with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
+exl-id: 149db773-4787-4cfb-b29e-c49f13abf39a
 ---
 # Workfront Proof integration with GenStudio for Performance Marketing
 

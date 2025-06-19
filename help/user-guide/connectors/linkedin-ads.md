@@ -5,6 +5,7 @@ level: Intermediate
 role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
+exl-id: 8ad10ce2-8558-430c-8cc3-4c29bfa970c6
 ---
 # Connect to LinkedIn Ads
 
