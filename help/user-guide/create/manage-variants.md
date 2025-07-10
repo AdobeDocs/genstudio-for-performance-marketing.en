@@ -196,21 +196,20 @@ You can add or swap images in generated variants right from the Canvas.
 
    The image is added or swapped into the applicable variant.
 
-## Add image link
+## Add links
 
-Similar to adding or swapping images in generated variants, you can add a link to images. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
+You can add a link to text, images, and CTA buttons within your variants. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
 
-**To add an image link in a variant**:
+**To add a link in a variant**:
 
-1. After generating a set of variants, click an image asset.
-
-   If the variant does not currently have a placed image asset, click the image asset area.
-
-1. Click the link icon.
-1. Click **[!UICONTROL Remove link]** to remove the existing default link.
-1. Add a link in the text field and click **[!UICONTROL Apply]**.
-
-   The defined link is applied to all images in the variant set.
+1. When editing an ad, click on the element variable and find the **[!UICONTROL Add link]** or **[!UICONTROL Edit link]** icon.
+2. Click the icon to open the window to the text field.
+3. Input the destination. Links that include URL addresses, email addresses, or phone numbers are accepted:
+   * `https://`
+   * `mailto:`
+   * `tel:`
+   * `sms:`
+   * `https://wa.me/` or `whatsapp://`
 
 ## Add alt text for images
 
