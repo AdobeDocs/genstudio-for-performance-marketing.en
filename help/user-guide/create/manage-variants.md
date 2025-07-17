@@ -35,7 +35,7 @@ Available text formatting includes:
 * Text size
 * Link
 
-Text formatting options will vary per channel (Meta, email, etc.)
+Text formatting options vary per channel (Meta, email, etc.)
 
 **To edit text manually in generated variants**:
 
@@ -164,7 +164,7 @@ You can quickly change the [aspect ratio of Meta ads](/help/user-guide/templates
 
 **To change the aspect ratio of generated Meta ads**:
 
-1. After generating a set of variants, select the aspect ratio resize icon (arrow pointing to box corner) on the left side of the Canvas.
+1. After generating a set of variants, click **[!UICONTROL Aspect ratio resize]** (arrow pointing to box corner) on the left side of the Canvas.
 
    The aspect ratio that is currently used for your ads is shown in the top portion of the _[!UICONTROL Resize]_ window.
 
