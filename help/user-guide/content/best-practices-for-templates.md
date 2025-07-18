@@ -47,7 +47,7 @@ When creating templates, ensure they meet the specific requirements of the inten
 
 {{note-css-effects}}
 
-See further tips and constraints when working with each template type to ensure optimal performance and compatibility:
+See further tips and constraints when working with each template type to ensure optimal performance:
 
 - [Emails](/help/user-guide/templates/email-template.md)
 - [Display and banner ads](/help/user-guide/templates/display-template.md)
