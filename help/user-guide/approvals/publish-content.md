@@ -10,7 +10,7 @@ The final stage of creating brand-aligned, approved content is saving it to [!DN
 
 When all designated approvers approve a draft, the draft status changes to **Approved**. Adobe GenStudio for Performance Marketing displays the _Approved variants ready to publish_ pop-up on the editor's Canvas.
 
-You can then finalize the draft by publishing it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio for Performance Marketing users until you publish the draft to [!DNL Content].
+You can then finalize the draft by publishing it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio for Performance Marketing users until you publish the draft to [!DNL Content]. 
 
 **To publish approved content**:
 
