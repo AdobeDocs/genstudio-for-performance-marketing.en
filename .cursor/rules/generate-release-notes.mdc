@@ -35,6 +35,7 @@ This release information details the latest updates to the GenStudio for Perform
 ### 4. Feature Sections
 - Use `###` for major feature categories
 - Each feature should have a descriptive title
+- Content should be 1-3 sentences summarizing the feature
 - Include appropriate badges for Beta features
 - Add documentation links where applicable
 
@@ -55,6 +56,7 @@ Always include relevant documentation links using the format:
 - Include issue tracking numbers in HTML comments: `<!-- GS-XXXX -->`
 - Link to relevant documentation where applicable
 - Use proper technical terminology
+- Content should be 1-3 sentences summarizing the fix or enhancement
 
 ### 8. Archival Structure
 - Move the previous latest release to the "Earlier release notes" section
