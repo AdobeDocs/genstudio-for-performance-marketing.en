@@ -82,6 +82,9 @@ Always include relevant documentation links using the format:
 - Link to overview pages for general features
 - Ensure all new features have corresponding documentation links
 - Use descriptive link text
+- **When content includes user-facing documentation links, incorporate them into the release notes summary**
+- **Link to the most relevant phrase or concept that users would want to learn more about**
+- **Example**: Link "unsupported image and video assets" to the ad formats documentation page
 
 ### Issue Tracking
 - **NEVER include Jira tracking IDs or internal issue information in release notes**
@@ -139,6 +142,13 @@ Always include relevant documentation links using the format:
 Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) to expand the dimensions of images and add generative content to fit your ad templates in paid media variants.
 ```
 
+### Good Feature Description with Documentation Link
+```markdown
+### Compatible assets filter
+
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience.
+```
+
 ### Good Fix/Enhancement
 ```markdown
 * Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
@@ -170,4 +180,5 @@ Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generativ
 7. **Links**: Include relevant documentation links for all features and fixes
 8. **Internal Information**: NEVER include Jira tracking IDs, internal issue information, or corporate wiki references
 9. **Content Classification**: Only add items to "Fixes and enhancements" if content is specifically labeled as such
+10. **Documentation Integration**: When content includes user-facing documentation links, incorporate them into the release notes summary by linking to the most relevant phrase or concept
 
