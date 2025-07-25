@@ -1,5 +1,5 @@
 ---
-title: Adobe GenStudio for Performance Marketing release notes
+title: Adobe GenStudio for Performance Marketing Release Notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
 role: User
@@ -8,6 +8,15 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 # GenStudio for Performance Marketing release notes
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
+
+## 2025.07 {#latest}
+
+### Non-English content generation
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+The new Language Selector dropdown menu in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages and 5 Beta languages, with the language list providing a defined workflow and a clear language directive to the LLM for more consistent outputs.
+
 
 ## Earlier release notes
 
