@@ -7,7 +7,7 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
-This release information details the latest updates to the GenStudio for Performance Marketing application.
+This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
 ## 2025.07 {#latest}
 
@@ -17,15 +17,15 @@ Meta has been migrated to Unified Canvas components, providing a more consistent
 
 ### Compatible assets filter
 
-A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter to provide comprehensive asset filtering capabilities.
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter.
 
 ### Multi-Asset Activation for Meta
 
-Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload and activate multiple image assets in different aspect ratios under a single ad creative. This feature enables one ad to deliver the right creative fit for various Meta placements such as Feed, Stories, and Reels, improving performance and creative consistency. Advertisers can preview how each image will render across placements and publish all versions to Meta in a single API call.
+Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload and activate multiple image assets in different aspect ratios under a single ad creative. This feature enables one ad to deliver the right creative fit for various Meta placements such as Feed, Stories, and Reels. Advertisers can preview how each image will render across placements and publish all versions to Meta in a single API call.
 
 ### Rich text formatting in variants
 
-[Edit text fields in generated variants with rich text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text) options including bold, italic, underline, text alignment, lists, text color, text size, and links. This allows you to refine text for your audience by experimenting with different phrases and applying formatting to accommodate layout requirements.
+[Edit text fields in generated variants with rich text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text) options including bold, italic, underline, text alignment, lists, text color, text size, and links. This allows you to refine text and phrasing for your audience and apply formatting to accommodate layout requirements.
 
 ### Accessibility labels for images and links
 
