@@ -11,7 +11,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.07 {#latest}
 
-### Migrate Meta to Unified Canvas
+### Meta migrated to Unified Canvas
 
 Meta has been migrated to Unified Canvas components, providing a more consistent and streamlined experience across all ad creation workflows. This migration leverages existing Unified Canvas components and introduces new components specifically for Meta ads.
 
@@ -30,6 +30,10 @@ Template selection is now optional with Meta ads, allowing users to create ads w
 ### Compatible assets filter
 
 A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter to provide comprehensive asset filtering capabilities.
+
+### Multi-Asset Activation for Meta
+
+Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload and activate multiple image assets in different aspect ratios under a single ad creative. This feature enables one ad to deliver the right creative fit for various Meta placements such as Feed, Stories, and Reels, improving performance and creative consistency. Advertisers can preview how each image will render across placements and publish all versions to Meta in a single API call.
 
 
 ## Earlier release notes
