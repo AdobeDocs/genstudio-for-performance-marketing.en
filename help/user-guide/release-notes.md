@@ -11,6 +11,10 @@ This release information details the latest updates to the GenStudio for Perform
 
 ## 2025.07 {#latest}
 
+### Migrate Meta to Unified Canvas
+
+Meta has been migrated to Unified Canvas components, providing a more consistent and streamlined experience across all ad creation workflows. This migration leverages existing Unified Canvas components and introduces new components specifically for Meta ads.
+
 ### Non-English content generation
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
