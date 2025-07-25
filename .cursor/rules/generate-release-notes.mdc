@@ -53,7 +53,7 @@ Always include relevant documentation links using the format:
 
 ### 7. Fixes and Enhancements
 - Use bullet points with `*` for each item
-- Include issue tracking numbers in HTML comments: `<!-- GS-XXXX -->`
+- **Only add items to this section if content is specifically labeled as a fix or enhancement**
 - Link to relevant documentation where applicable
 - Use proper technical terminology
 - Content should be 1-3 sentences summarizing the fix or enhancement
@@ -84,9 +84,9 @@ Always include relevant documentation links using the format:
 - Use descriptive link text
 
 ### Issue Tracking
-- Include issue numbers in HTML comments: `<!-- GS-XXXX -->`
-- Place comments at the end of each bullet point
-- Use consistent formatting for all issue references
+- **NEVER include Jira tracking IDs or internal issue information in release notes**
+- Do not reference internal tracking systems or corporate wikis
+- Focus on user-facing information only
 
 ## Process for Adding New Releases
 
@@ -144,6 +144,8 @@ Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generativ
 * Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
 ```
 
+**Note**: Only include items in "Fixes and enhancements" if the content is specifically labeled as a fix or enhancement.
+
 ### Good Archival Section
 ```markdown
 +++Notes from 2025.05.15
@@ -166,4 +168,6 @@ Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generativ
 5. **Archival**: Always move previous releases to the collapsible sections
 6. **Badges**: Use Beta badges appropriately for new features
 7. **Links**: Include relevant documentation links for all features and fixes
+8. **Internal Information**: NEVER include Jira tracking IDs, internal issue information, or corporate wiki references
+9. **Content Classification**: Only add items to "Fixes and enhancements" if content is specifically labeled as such
 
