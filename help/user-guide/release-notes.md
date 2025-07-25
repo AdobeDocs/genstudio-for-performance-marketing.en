@@ -35,6 +35,14 @@ A new filter in the [!DNL Insights] module automatically hides [unsupported imag
 
 Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload and activate multiple image assets in different aspect ratios under a single ad creative. This feature enables one ad to deliver the right creative fit for various Meta placements such as Feed, Stories, and Reels, improving performance and creative consistency. Advertisers can preview how each image will render across placements and publish all versions to Meta in a single API call.
 
+### Rich text formatting in variants
+
+[Edit text fields in generated variants with rich text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text) options including bold, italic, underline, text alignment, lists, text color, text size, and links. This allows you to refine text for your audience by experimenting with different phrases and applying formatting to accommodate layout requirements.
+
+### Accessibility labels for images and links
+
+Add accessibility labels (Aria-labels) to images and call-to-action links in your variants to provide accessible names that help users understand the purpose of interactive elements. See [Manage variants](/help/user-guide/create/manage-variants.md) for detailed instructions.
+
 
 ## Earlier release notes
 
