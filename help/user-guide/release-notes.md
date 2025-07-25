@@ -9,7 +9,9 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information details the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.06 {#latest}
+## Earlier release notes
+
++++Notes from 2025.06.15
 
 ### Starter templates available
 
@@ -31,7 +33,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 ### Fixes and enhancements
 
-* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
+* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
 
 * The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
 
@@ -47,7 +49,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 * You can now export campaign details to make them externally accessible as campaign briefs in Word or PDF. Select a campaign, then click **[!UICONTROL Export]** (upper right corner).
 
-## Earlier release notes
++++
 
 +++Notes from 2025.05.15
 
