@@ -11,10 +11,6 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2025.07 {#latest}
 
-### Meta migrated to Unified Canvas
-
-Meta has been migrated to Unified Canvas components, providing a more consistent and streamlined experience across all ad creation workflows. This migration leverages existing Unified Canvas components and introduces new components specifically for Meta ads.
-
 ### Compatible assets filter
 
 A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter.
