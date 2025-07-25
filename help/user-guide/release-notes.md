@@ -17,6 +17,12 @@ This release information details the latest updates to the GenStudio for Perform
 
 The new Language Selector dropdown menu in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages and 5 Beta languages, with the language list providing a defined workflow and a clear language directive to the LLM for more consistent outputs.
 
+### Template selection optional for Meta ads
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
+
 
 ## Earlier release notes
 
