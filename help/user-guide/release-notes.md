@@ -27,6 +27,10 @@ The new Language Selector dropdown menu in the prompt drawer supports multilingu
 
 Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
 
+### Compatible assets filter
+
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter to provide comprehensive asset filtering capabilities.
+
 
 ## Earlier release notes
 
