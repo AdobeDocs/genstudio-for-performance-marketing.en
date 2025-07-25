@@ -15,18 +15,6 @@ This release information details the latest updates to the GenStudio for Perform
 
 Meta has been migrated to Unified Canvas components, providing a more consistent and streamlined experience across all ad creation workflows. This migration leverages existing Unified Canvas components and introduces new components specifically for Meta ads.
 
-### Non-English content generation
-
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-The new Language Selector dropdown menu in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages and 5 Beta languages, with the language list providing a defined workflow and a clear language directive to the LLM for more consistent outputs.
-
-### Template selection optional for Meta ads
-
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
-
 ### Compatible assets filter
 
 A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter to provide comprehensive asset filtering capabilities.
@@ -42,6 +30,18 @@ Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload an
 ### Accessibility labels for images and links
 
 Add accessibility labels (Aria-labels) to images and call-to-action links in your variants to provide accessible names that help users understand the purpose of interactive elements. See [Manage variants](/help/user-guide/create/manage-variants.md) for detailed instructions.
+
+### Non-English content generation
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+The new Language Selector dropdown menu in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages and 5 Beta languages, with the language list providing a defined workflow and a clear language directive to the LLM for more consistent outputs.
+
+### Template selection optional for Meta ads
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
 
 
 ## Earlier release notes
