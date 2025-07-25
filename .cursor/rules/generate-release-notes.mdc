@@ -28,7 +28,7 @@ This release information details the latest updates to the GenStudio for Perform
 ```
 
 ### 3. Latest Release Section
-- Use the format: `## YYYY.MM {#latest}`
+- Use the format: `## YYYY.MM {#latest}` for the newest collection of features added
 - Place the newest release at the top
 - Use the `{#latest}` anchor for navigation
 

@@ -15,7 +15,7 @@ This release information details the latest updates to the GenStudio for Perform
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-[Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jumpstart the creative process. You can now select from a Meta or LinkedIn ad starter template.
+[Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jump-start the creative process. You can now select from a Meta or LinkedIn ad starter template.
 
 ### Generative Expand AI functionality
 
