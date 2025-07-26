@@ -1,0 +1,184 @@
+---
+description: A ruleset for generating release notes from new content for Adobe GenStudio for Performance Marketing.
+alwaysApply: false
+---
+# Generate Release Notes Rules
+
+This ruleset provides guidelines for generating new release notes for Adobe GenStudio for Performance Marketing, ensuring consistency with existing formatting, proper documentation linking, and archival structure.
+
+## Structure and Formatting
+
+### 1. File Header
+Always maintain the existing frontmatter structure:
+```yaml
+---
+title: Adobe GenStudio for Performance Marketing release notes
+description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
+recommendations: noDisplay
+role: User
+exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
+---
+```
+
+### 2. Main Title and Introduction
+```markdown
+# GenStudio for Performance Marketing release notes
+
+This release information details the latest updates to the GenStudio for Performance Marketing application.
+```
+
+### 3. Latest Release Section
+- Use the format: `## YYYY.MM {#latest}` for the newest collection of features added
+- Place the newest release at the top
+- Use the `{#latest}` anchor for navigation
+
+### 4. Feature Sections
+- Use `###` for major feature categories
+- Each feature should have a descriptive title
+- Content should be 1-3 sentences summarizing the feature
+- Include appropriate badges for Beta features
+- Add documentation links where applicable
+
+### 5. Badge Usage
+Use the Beta badge for new features:
+```markdown
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+```
+
+### 6. Documentation Links
+Always include relevant documentation links using the format:
+```markdown
+[Feature name](/help/user-guide/section/page.md#anchor)
+```
+
+### 7. Fixes and Enhancements
+- Use bullet points with `*` for each item
+- **Only add items to this section if content is specifically labeled as a fix or enhancement**
+- Link to relevant documentation where applicable
+- Use proper technical terminology
+- Content should be 1-3 sentences summarizing the fix or enhancement
+
+### 8. Archival Structure
+- Move the previous latest release to the "Earlier release notes" section
+- Use collapsible sections with `+++Notes from YYYY.MM.DD+++`
+- Maintain chronological order (newest to oldest)
+
+## Content Guidelines
+
+### Feature Descriptions
+- Write in present tense for new features
+- Use clear, concise language
+- Include "what" and "why" information
+- Reference specific user actions when possible
+
+### Technical Terminology
+- Use proper product names: `[!DNL Create]`, `[!DNL Content]`, `[!DNL Insights]`, etc.
+- Use `[!UICONTROL Button Name]` for UI elements
+- Use `_italics_` for section names and UI areas
+- Use `**bold**` for emphasis on important terms
+
+### Documentation Linking Strategy
+- Link to specific sections using `#anchor` when possible
+- Link to overview pages for general features
+- Ensure all new features have corresponding documentation links
+- Use descriptive link text
+- **When content includes user-facing documentation links, incorporate them into the release notes summary**
+- **Link to the most relevant phrase or concept that users would want to learn more about**
+- **Example**: Link "unsupported image and video assets" to the ad formats documentation page
+
+### Issue Tracking
+- **NEVER include Jira tracking IDs or internal issue information in release notes**
+- Do not reference internal tracking systems or corporate wikis
+- Focus on user-facing information only
+
+## Process for Adding New Releases
+
+### 1. Archive Current Latest Release
+- Move the current `## YYYY.MM {#latest}` section to "Earlier release notes"
+- Change the heading to `+++Notes from YYYY.MM.DD+++`
+- Remove the `{#latest}` anchor
+
+### 2. Create New Latest Release
+- Add new `## YYYY.MM {#latest}` section at the top
+- Organize features into logical categories
+- Add appropriate badges for Beta features
+- Include comprehensive documentation links
+
+### 3. Content Organization
+- Group related features together
+- Use descriptive section headers
+- Separate major features from fixes/enhancements
+- Include localization notes when applicable
+
+### 4. Quality Checks
+- Verify all documentation links are valid
+- Ensure proper badge usage for Beta features
+- Check technical terminology consistency
+- Validate issue tracking number format
+
+## Common Documentation Paths
+
+### User Guide Sections
+- `/help/user-guide/create/` - Creation features
+- `/help/user-guide/content/` - Content management
+- `/help/user-guide/activation/` - Publishing features
+- `/help/user-guide/approvals/` - Review and approval
+- `/help/user-guide/insights/` - Analytics and reporting
+- `/help/user-guide/guidelines/` - Brand and compliance
+- `/help/user-guide/templates/` - Template features
+- `/help/user-guide/campaigns/` - Campaign management
+
+### Extensibility
+- `/help/extensibility/` - Developer and integration features
+
+## Examples
+
+### Good Feature Description
+```markdown
+### Generative Expand AI functionality
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) to expand the dimensions of images and add generative content to fit your ad templates in paid media variants.
+```
+
+### Good Feature Description with Documentation Link
+```markdown
+### Compatible assets filter
+
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience.
+```
+
+### Good Fix/Enhancement
+```markdown
+* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
+```
+
+**Note**: Only include items in "Fixes and enhancements" if the content is specifically labeled as a fix or enhancement.
+
+### Good Archival Section
+```markdown
++++Notes from 2025.05.15
+
+### Fixes and enhancements
+
+* Enabled functionality for [adding alternative (alt) text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) to an image for an individual variant.
+* Added a [new Meta aspect ratio](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —Landscape 1.19:1 (1080 pixel width).
+* Now you can choose more than one experience for export or download. See [Export experiences](/help/user-guide/content/manage-assets.md#export-experiences).
+
++++
+```
+
+## Important Notes
+
+1. **Consistency**: Maintain the exact formatting and structure of existing release notes
+2. **Completeness**: Ensure all new features have corresponding documentation links
+3. **Accuracy**: Verify all technical details and issue numbers
+4. **Accessibility**: Use proper terminology and clear descriptions
+5. **Archival**: Always move previous releases to the collapsible sections
+6. **Badges**: Use Beta badges appropriately for new features
+7. **Links**: Include relevant documentation links for all features and fixes
+8. **Internal Information**: NEVER include Jira tracking IDs, internal issue information, or corporate wiki references
+9. **Content Classification**: Only add items to "Fixes and enhancements" if content is specifically labeled as such
+10. **Documentation Integration**: When content includes user-facing documentation links, incorporate them into the release notes summary by linking to the most relevant phrase or concept
+

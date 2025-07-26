@@ -1,5 +1,5 @@
 ---
-title: Adobe GenStudio for Performance Marketing release notes
+title: Adobe GenStudio for Performance Marketing Release Notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
 role: User
@@ -7,15 +7,48 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 ---
 # GenStudio for Performance Marketing release notes
 
-This release information details the latest updates to the GenStudio for Performance Marketing application.
+This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.06 {#latest}
+## 2025.07.25 {#latest}
+
+### Compatible assets filter
+
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter.
+
+### Multi-Asset Activation for Meta
+
+Multi-Aspect Ratio Image Activation for Meta Ads allows advertisers to upload and activate multiple image assets in different aspect ratios under a single ad creative. This feature enables one ad to deliver the right creative fit for various Meta placements such as Feed, Stories, and Reels. Advertisers can preview how each image will render across placements and publish all versions to Meta in a single API call.
+
+### Rich text formatting in variants
+
+[Edit text fields in generated variants with rich text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text) options including bold, italic, underline, text alignment, lists, text color, text size, and links. This allows you to refine text and phrasing for your audience and apply formatting to accommodate layout requirements.
+
+### Accessibility labels for images and links
+
+Add accessibility labels (Aria-labels) to images and call-to-action links in your variants to provide accessible names that help users understand the purpose of interactive elements. See [Manage variants](/help/user-guide/create/manage-variants.md) for detailed instructions.
+
+### Non-English content generation
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+The new Language Selector dropdown menu in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages and 5 Beta languages, with the language list providing a defined workflow and a clear language directive to the LLM for more consistent outputs.
+
+### Template selection optional for Meta ads
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
+
+
+## Earlier release notes
+
++++Notes from 2025.06.15
 
 ### Starter templates available
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-[Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jumpstart the creative process. You can now select from a Meta or LinkedIn ad starter template.
+[Starter templates](/help/user-guide/templates/starter-templates.md) provide a way to jump-start the creative process. You can now select from a Meta or LinkedIn ad starter template.
 
 ### Generative Expand AI functionality
 
@@ -31,7 +64,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 ### Fixes and enhancements
 
-* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
+* Added support for [publishing ad experiences](/help/user-guide/activation/activate-linkedin-ad.md) from GenStudio for Performance Marketing into LinkedIn Campaign Manager. [!DNL Activate] supports detailed LinkedIn ad previews before publishing to LinkedIn Campaign Manager.
 
 * The [Workfront Proof integration](/help/user-guide/approvals/overview.md) brings Proof's robust review-and-approval capabilities to GenStudio for Performance Marketing. Content reviewed in GenStudio for Performance Marketing syncs to Workfront Proof, and review comments and status are preserved.
 
@@ -47,7 +80,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 * You can now export campaign details to make them externally accessible as campaign briefs in Word or PDF. Select a campaign, then click **[!UICONTROL Export]** (upper right corner).
 
-## Earlier release notes
++++
 
 +++Notes from 2025.05.15
 
