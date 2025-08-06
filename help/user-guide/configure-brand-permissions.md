@@ -1,5 +1,5 @@
 ---
-title: Assign [!DNL Brand] permissions
+title: Assign [!DNL Brand] Permissions
 description: Learn about assigning entitlements for GenStudio for Performance Marketing [!DNL Brand] creators and editors.
 level: Intermediate
 feature: Brand Personalization, Generative AI
@@ -7,9 +7,15 @@ exl-id: fc33ecd3-4403-4045-87af-012a0377226c
 ---
 # Assign [!DNL Brand] permissions
 
-By default, GenStudio system managers can create and edit [!DNL Brands]. The content editor and collaborator roles have editing and creation permissions, but may not require any system management entitlements. To grant content editors and collaborators these [!DNL Brand]-related entitlements, an Adobe system administrator must perform some additional configuration tasks in the Adobe Admin Console. See [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) in _Enterprise and Teams administration guide_.
+By default, GenStudio system managers can create and edit [!DNL Brands]. The content editor and collaborator roles have editing and creation permissions, but may not require any system management entitlements. 
+
+To grant content editors and collaborators these [!DNL Brand]-related entitlements, an Adobe system administrator must perform some additional configuration tasks in the Adobe Admin Console. See [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) in _Enterprise and Teams administration guide_.
 
 Adding users and user groups are basic tasks common to all Adobe products with entitlements that are managed through the Admin Console. See [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html) in _Enterprise and Teams administration guide_ for an overview of user management and procedures for adding users and user groups.
+
+Watch this video walkthrough or follow the steps below.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3470499/?learn=on&enablevpops)
 
 ## Step 1: Create a user group
 
