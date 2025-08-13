@@ -1,5 +1,5 @@
 ---
-title: Template code editor
+title: Template Code Editor
 description: Learn how to use the template code editor in GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer
@@ -22,13 +22,32 @@ The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStu
 
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
-### Make a correction
+## Multi-role field selection 
+
+You can select and change field roles (for example, headline, body, CTA) with a dropdown in the Structure Check step. Field role selections persist during template edits, preventing the loss of customizations and improving workflow efficiency.
+
+Each channel supports its own set of roles:
+
+  - For Email & Display: `headline`, `sub_headline`, `body`, `cta`, `other`.
+  - For Meta & LinkedIn: `on_image_text`, `other`.
+
+Field roles are validated based on channel-specific rules. Role changes are tracked and maintained through template modifications.
+
+>[!NOTE]
+>
+>Only other `custom/manual` fields can be selected multiple times per template; support for multi-select on other roles will come in a future update. 
+
+![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
+
+
+
+## Make a correction
 
 If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field does not conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
 
 ![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
-The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you are satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).
+The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you're satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).
 
 ## Common template issues and solutions
 
