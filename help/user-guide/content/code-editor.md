@@ -24,7 +24,7 @@ If you notice that a field is missing from the list, search your template code a
 
 ## Multi-role field selection 
 
-You can select and change field roles (for example, headline, body, CTA) with a dropdown in the Structure Check step. Field role selections persist during template edits, preventing the loss of customizations and improving workflow efficiency.
+You can select and change field roles (for example, `headline`, `body`, `cta`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
 
 Each channel supports its own set of roles:
 
@@ -35,7 +35,7 @@ Field roles are validated based on channel-specific rules. Role changes are trac
 
 >[!NOTE]
 >
->Only other `custom/manual` fields can be selected multiple times per template; support for multi-select on other roles will come in a future update. 
+>Only `custom/manual` fields can be selected multiple times per template. Support for multi-select on other roles will come in a future update. 
 
 ![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
 
