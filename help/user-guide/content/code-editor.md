@@ -34,7 +34,7 @@ You can select and change field roles for text-based field roles (for example, `
 
 To assign a role to a variable:
 
-1. Find the variable in the _[!UICONTROL Check detected fields]_ column. These variables are automatically discovered.
+1. Find the variable in the _[!UICONTROL Check detected fields]_ pane. These variables are automatically discovered.
 2. Review the roles assigned to each variable. Roles are automatically assigned but can be adjusted using the dropdown for any variable in the template.
 3. Adjust a role by selecting a new role from the dropdown.
 4. Click **[!UICONTROL Next]** to continue.
