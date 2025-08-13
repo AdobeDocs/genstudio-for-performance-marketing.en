@@ -22,28 +22,29 @@ The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStu
 
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
-## Multi-role field selection 
+## Adjusting roles for a variable
 
 You can select and change field roles (for example, `headline`, `body`, `cta`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
 
 Each channel supports its own set of roles:
 
-  - For Email & Display: `headline`, `sub_headline`, `body`, `cta`, `other`.
-  - For Meta & LinkedIn: `on_image_text`, `other`.
+  - For Email & Display: `headline`, `sub_headline`, `body`, `cta`, `custom`.
+  - For Meta & LinkedIn: `on_image_text`, `custom`.
 
 Field roles are validated based on channel-specific rules. Role changes are tracked and maintained through template modifications.
 
->[!NOTE]
->
->Only `custom/manual` fields can be selected multiple times per template. Support for multi-select on other roles will come in a future update. 
-
 ![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
 
+To assign a role to a variable:
 
+1. Find the variable in the _[!UICONTROL Check detected fields]_ column. These variables are automatically discovered.
+2. Review the roles assigned to each variable. Roles are automatically assigned but can be adjusted using the dropdown for any variable in the template.
+3. Adjust a role by selecting a new role from the dropdown.
+4. Click **[!UICONTROL Next]** to continue.
 
 ## Make a correction
 
-If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field does not conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
+If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field doesn't conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
 
 ![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
