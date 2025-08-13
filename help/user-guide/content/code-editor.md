@@ -22,7 +22,7 @@ The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStu
 
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
-## Adjusting roles for a variable
+## Adjust roles for a variable
 
 You can select and change field roles (for example, `headline`, `body`, `cta`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
 
