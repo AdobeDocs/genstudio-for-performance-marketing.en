@@ -24,14 +24,11 @@ If you notice that a field is missing from the list, search your template code a
 
 ## Adjust roles for a variable
 
-You can select and change field roles (for example, `headline`, `body`, `cta`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
+You can select and change field roles for text-based field roles (for example, `headline`, `sub_headline`, `body`, `cta`, `on_image_text`, `custom`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
 
-Each channel supports its own set of roles:
-
-  - For Email & Display: `headline`, `sub_headline`, `body`, `cta`, `custom`.
-  - For Meta & LinkedIn: `on_image_text`, `custom`.
-
-Field roles are validated based on channel-specific rules. Role changes are tracked and maintained through template modifications.
+>[!NOTE]
+>
+>Image variables cannot have their roles adjusted.
 
 ![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
 
