@@ -11,7 +11,19 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2025.08.15 {#latest}
 
-*Release notes for August will be added here.*
+### Image Generation: Firefly Image Model 4 Support
+
+### Multi-Language: Out-of-the-Box Translation for Email
+
+### Multi-Language: Non-English Content Generation with Brand Validation
+
+### Generative Expand for Paid Media
+
+### Video Ads Activation Support
+
+### Core Experience Improvements
+
+### Multiple Text Fields for Same Role
 
 ## Earlier release notes
 
