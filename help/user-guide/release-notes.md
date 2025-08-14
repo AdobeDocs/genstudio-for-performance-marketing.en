@@ -9,7 +9,13 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.07.25 {#latest}
+## 2025.08.15 {#latest}
+
+*Release notes for August will be added here.*
+
+## Earlier release notes
+
++++Notes from 2025.07.25
 
 ### Compatible assets filter
 
@@ -39,8 +45,7 @@ The new Language Selector dropdown menu in the prompt drawer supports multilingu
 
 Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
 
-
-## Earlier release notes
++++
 
 +++Notes from 2025.06.15
 
