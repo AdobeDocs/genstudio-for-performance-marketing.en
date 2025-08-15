@@ -9,7 +9,60 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.07.25 {#latest}
+## 2025.08.15 {#latest}
+
+### Insights for text attributes
+
+Text Attribute Insights in Adobe GenStudio analyze the emotional tone, persuasion techniques, and narrative style used in ad copy. Once a campaign is live, GenStudio tracks how these text attributes correlate with key performance metrics like CTR, CPA, CPC, impressions, and spend. 
+
+This is currently available only for ads in English. See [Text Features](/help/user-guide/insights/text-features.md) for detailed information.
+
+### Insights template improvements
+
+* The Ad preview card now includes a "See more" option for text.
+* New templates for Ads Page Masonry cards.
+
+### Generate multi-language content with brand validation
+
+The new Language selector in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 languages. 
+
+### Video asset support on templates
+
+* Video assets can be added on Meta and LinkedIn templates.
+
+### Activate experience improvements
+
+* New functionality to save drafts of activations.
+* New functionality to retry failed activations.
+
+### Use the same role in multiple text fields
+
+Multiple text fields with the same role are now supported (for example, 'body', 'cta', 'on image text', etc.) for complex customer templates. 
+
+Explore the details in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
+
+### New Clio 4 Standard & Clio 4 Ultra image generation models supported
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Adobe GenStudio for Performance Marketing now supports the latest Firefly Image Model 4 suite, including two powerful variants:
+
+**Clio 4 Standard**: Optimized for speed and simplicity, ideal for generating illustrations, icons, basic object photos, and single-subject portraits—covering 90% of everyday creative needs.
+
+**Clio 4 Ultra**: Prioritizes photorealism and precision, excelling at rendering human portraits, medium-sized groups, and complex scenes for high-end creative tasks.
+
+See [Generate assets](/help/user-guide/create/generate-assets.md) for detailed information on using these new image generation models.
+
+### Out-of-the-box translation for email
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Adobe GenStudio for Performance Marketing now offers built-in email translation capabilities that allow marketers to efficiently scale their email campaigns globally. This feature enables you to take an approved email experience and translate it into multiple target languages using Azure Open AI translation services.
+
+
+## Earlier release notes
+
++++Notes from 2025.07.25
 
 ### Compatible assets filter
 
@@ -39,8 +92,7 @@ The new Language Selector dropdown menu in the prompt drawer supports multilingu
 
 Template selection is now optional with Meta ads, allowing users to create ads without requiring text and logo at the top of the media. This enhancement allows for other media types such as animated GIFs and videos that may not require text overlays or logo placement.
 
-
-## Earlier release notes
++++
 
 +++Notes from 2025.06.15
 

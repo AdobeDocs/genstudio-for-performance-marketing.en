@@ -86,6 +86,21 @@ Always include relevant documentation links using the format:
 - **Link to the most relevant phrase or concept that users would want to learn more about**
 - **Example**: Link "unsupported image and video assets" to the ad formats documentation page
 
+### Internal Documentation Sources
+When generating feature summaries from Knowledge Transfer (KT) documents, extract information from these key fields:
+- **Description**: Core feature explanation
+- **Elevator Pitch**: High-level value proposition
+- **Feature(s) Delivered**: Specific functionality provided
+- **Problem Statement**: User pain point addressed
+- **Release Type & Date**: Timing and release category
+
+When determining release items from Release wiki pages, focus on these fields:
+- **Release Date (Fix Version)**: Groups items for a specific release
+- **Initiative (wiki link)**: Links to project details
+- **PM presents the feature using KT**: Indicates which features have KT documentation
+
+**Note**: All items sharing the same Release Date (Fix Version) should be included in the same release notes. KT documents are internal sources for information extraction. The final release notes should focus on user-facing benefits and functionality, not reference the internal documentation itself.
+
 ### Issue Tracking
 - **NEVER include Jira tracking IDs or internal issue information in release notes**
 - Do not reference internal tracking systems or corporate wikis
