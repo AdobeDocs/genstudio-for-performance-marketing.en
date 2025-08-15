@@ -11,19 +11,33 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2025.08.15 {#latest}
 
-### Image Generation: Firefly Image Model 4 Support
+### Insights for text attributes are now available
 
-### Multi-Language: Out-of-the-Box Translation for Email
+Text Attribute Insights in Adobe GenStudio analyze the emotional tone, persuasion techniques, and narrative style used in ad copy. Once a campaign is live, GenStudio tracks how these text attributes correlate with key performance metrics like CTR, CPA, CPC, impressions, and spend. 
 
-### Multi-Language: Non-English Content Generation with Brand Validation
+This is currently available only for ads in English. See [Text features](/help/user-guide/insights/text-features) for detailed information.
 
-### Generative Expand for Paid Media
+### Insights template improvements
 
-### Video Ads Activation Support
+* The Ad preview card now includes a "See more" option for text.
+* New templates have been added for Ads Page Masonry cards.
+
+### Generate multi-language content with brand validation
+
+The new Language selector in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages (tested/validated) and 5 Beta languages (which will continue to grow). 
+
+### Video asset support on templates
+
+* Users can now add video assets on Meta and LinkedIn templates.
 
 ### Core Experience Improvements
 
-### Multiple Text Fields for Same Role
+* You can now save drafts of activations.
+* You can now retry failed activations.
+
+### Support for multiple text fields with the same role
+
+Added support for multiple text fields of the same role (for example, multiple 'body', 'cta', 'on image text', etc.) to support complex customer templates. Explore this feature in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
 
 ## Earlier release notes
 
