@@ -15,7 +15,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 Text Attribute Insights in Adobe GenStudio analyze the emotional tone, persuasion techniques, and narrative style used in ad copy. Once a campaign is live, GenStudio tracks how these text attributes correlate with key performance metrics like CTR, CPA, CPC, impressions, and spend. 
 
-This is currently available only for ads in English. See [Text Features](/help/user-guide/insights/text-features) for detailed information.
+This is currently available only for ads in English. See [Text Features](/help/user-guide/insights/text-features.md) for detailed information.
 
 ### Insights template improvements
 
