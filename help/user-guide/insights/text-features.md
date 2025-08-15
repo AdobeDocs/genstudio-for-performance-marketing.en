@@ -1,5 +1,5 @@
 ---
-title: Text features
+title: Text Features
 description: Learn about the text feature of attribute categories used in GenStudio for Performance Marketing.
 feature: Reporting and Insights, Text Attributes, Generative AI
 exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3

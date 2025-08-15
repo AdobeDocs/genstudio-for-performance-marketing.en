@@ -11,33 +11,35 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2025.08.15 {#latest}
 
-### Insights for text attributes are now available
+### Insights for text attributes
 
 Text Attribute Insights in Adobe GenStudio analyze the emotional tone, persuasion techniques, and narrative style used in ad copy. Once a campaign is live, GenStudio tracks how these text attributes correlate with key performance metrics like CTR, CPA, CPC, impressions, and spend. 
 
-This is currently available only for ads in English. See [Text features](/help/user-guide/insights/text-features) for detailed information.
+This is currently available only for ads in English. See [Text Features](/help/user-guide/insights/text-features) for detailed information.
 
 ### Insights template improvements
 
 * The Ad preview card now includes a "See more" option for text.
-* New templates have been added for Ads Page Masonry cards.
+* New templates for Ads Page Masonry cards.
 
 ### Generate multi-language content with brand validation
 
-The new Language selector in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 GA languages (tested/validated) and 5 Beta languages (which will continue to grow). 
+The new Language selector in the prompt drawer supports multilingual content creation, allowing regional marketers to develop on-brand content for their local audiences. This feature currently supports 12 languages. 
 
 ### Video asset support on templates
 
-* Users can now add video assets on Meta and LinkedIn templates.
+* Video assets can be added on Meta and LinkedIn templates.
 
-### Core Experience Improvements
+### Core Experience improvements
 
-* You can now save drafts of activations.
-* You can now retry failed activations.
+* New functionality to save drafts of activations.
+* New functionality to retry failed activations.
 
-### Support for multiple text fields with the same role
+### Use the same role in multiple text fields
 
-Added support for multiple text fields of the same role (for example, multiple 'body', 'cta', 'on image text', etc.) to support complex customer templates. Explore this feature in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
+Multiple text fields with the same role are now supported (for example, 'body', 'cta', 'on image text', etc.) for complex customer templates. 
+
+Explore the details in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
 
 ## Earlier release notes
 
