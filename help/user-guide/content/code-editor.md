@@ -1,5 +1,5 @@
 ---
-title: Template code editor
+title: Template Code Editor
 description: Learn how to use the template code editor in GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer
@@ -22,13 +22,30 @@ The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStu
 
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
-### Make a correction
+## Adjust roles for a variable
 
-If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field does not conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
+You can select and change field roles for text-based field roles (for example, `headline`, `sub_headline`, `body`, `cta`, `on_image_text`, `custom`) with a dropdown during the template structure check. Field role selections persist during template edits so customizations aren't lost, improving workflow efficiency.
+
+>[!NOTE]
+>
+>Image variables cannot have their roles adjusted.
+
+![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
+
+To assign a role to a variable:
+
+1. Find the variable in the _[!UICONTROL Check detected fields]_ pane. These variables are automatically discovered.
+2. Review the roles assigned to each variable. Roles are automatically assigned but can be adjusted using the dropdown for any variable in the template.
+3. Adjust a role by selecting a new role from the dropdown.
+4. Click **[!UICONTROL Next]** to continue.
+
+## Make a correction
+
+If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field doesn't conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
 
 ![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
-The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you are satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).
+The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you're satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).
 
 ## Common template issues and solutions
 
