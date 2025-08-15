@@ -30,7 +30,7 @@ The new Language selector in the prompt drawer supports multilingual content cre
 
 * Video assets can be added on Meta and LinkedIn templates.
 
-### Core Experience improvements
+### Activate experience improvements
 
 * New functionality to save drafts of activations.
 * New functionality to retry failed activations.
