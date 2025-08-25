@@ -41,15 +41,15 @@ Multiple text fields with the same role are now supported (for example, 'body', 
 
 Explore the details in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
 
-### New Clio 4 Standard & Clio 4 Ultra image generation models supported
+### New Firefly image generation models supported
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
 Adobe GenStudio for Performance Marketing now supports the latest Firefly Image Model 4 suite, including two powerful variants:
 
-**Clio 4 Standard**: Optimized for speed and simplicity, ideal for generating illustrations, icons, basic object photos, and single-subject portraits—covering 90% of everyday creative needs.
+**Firefly Image 4**: Optimized for speed and simplicity, ideal for generating illustrations, icons, basic object photos, and single-subject portraits—covering 90% of everyday creative needs.
 
-**Clio 4 Ultra**: Prioritizes photorealism and precision, excelling at rendering human portraits, medium-sized groups, and complex scenes for high-end creative tasks.
+**Firefly Image 4 Ultra**: Prioritizes photorealism and precision, excelling at rendering human portraits, medium-sized groups, and complex scenes for high-end creative tasks.
 
 See [Generate assets](/help/user-guide/create/generate-assets.md) for detailed information on using these new image generation models.
 
