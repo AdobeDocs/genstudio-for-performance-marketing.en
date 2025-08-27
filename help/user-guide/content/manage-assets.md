@@ -136,7 +136,7 @@ You can select one or more approved experiences for download in a format compati
 
 >[!WARNING]
 >
->Retrieved assets are unsafe to display without sanitization. All users must handle cross-site scripting (XSS) from the templates by using input sanitation techniques on their end.
+>Retrieved assets are unsafe to display without sanitization. All users must handle cross-site scripting (XSS) from the templates by using input sanitization techniques on their end.
 
 **To export or download experiences**:
 
