@@ -1,5 +1,5 @@
 ---
-title: Manage assets and experiences
+title: Manage Assets and Experiences
 description: Simplify and enhance the management of brand-approved assets for use and reuse in your digital marketing journey.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
@@ -84,7 +84,7 @@ The following table lists the management tasks available for assets, experiences
 
 ### Add assets
 
-When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
+When adding assets to [!DNL Content], they are stored in the `GenStudio assets` repository by default. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
 
 ![Location field](/help/assets/content-location.png "Location field"){width="350"}
 
@@ -92,11 +92,11 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
 1. In _[!DNL Content]_, click **[!UICONTROL Add assets]**.
 
-1. In the _Add your approved assets_ view, drop a file or files in the drop space. Optionally, you can select from local files using **[!UICONTROL Browse]** or import files from Dropbox or Microsoft OneDrive.
+2. In the _Add your approved assets_ view, drop a file or files in the drop space. Optionally, you can select from local files using **[!UICONTROL Browse]** or import files from Dropbox or Microsoft OneDrive.
 
-1. In the _Add details_ section, select a **[!UICONTROL Campaign name]** or enter a new name.
+3. In the _Add details_ section, select a **[!UICONTROL Campaign name]** or enter a new name.
 
-1. To improve discoverability, add optional details such as _Brand name_, _Personas_, _Region_ and _Keywords_ in the **More details** section.
+4. For discoverability, add optional details such as _Brand name_, _Personas_, _Region_ and _Keywords_ in the **More details** section.
 
    The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
@@ -104,11 +104,11 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
 
    See [Metadata details](/help/user-guide/content/asset-details.md#system-metadata).
 
-1. Click **[!UICONTROL Add assets]**.
+5. Click **[!UICONTROL Add assets]**.
 
-1. When the asset upload is completed, click **Done**.
+6. When the asset upload is completed, click **Done**.
 
-1. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
+7. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
 
 ### Download assets
 
@@ -136,7 +136,7 @@ You can select one or more approved experiences for download in a format compati
 
 >[!WARNING]
 >
->Retrieved assets are unsafe to display without sanitization. All users must handle cross-site scripting (XSS) from the templates with input sanitation on their end.
+>Retrieved assets are unsafe to display without sanitization. All users must handle cross-site scripting (XSS) from the templates by using input sanitation techniques on their end.
 
 **To export or download experiences**:
 
