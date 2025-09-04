@@ -66,7 +66,7 @@ For example, you may want to find a template of a specific channel type or aspec
 
 The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
-![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
+![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650"}
 
 The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
@@ -86,24 +86,24 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
    >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
 
-1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+2. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
+3. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
    - **Banner and Display ad**: requires Dimensions
 
-1. Add as many details as you can to improve template identification in searches and filtering.
+4. Add as many details as you can to improve template identification in searches and filtering.
 
-1. Click **[!UICONTROL Done]**.
+5. Click **[!UICONTROL Done]**.
 
 ### Refresh template
 
