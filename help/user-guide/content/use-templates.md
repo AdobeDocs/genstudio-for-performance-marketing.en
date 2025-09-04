@@ -78,11 +78,11 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click **[!UICONTROL Add template]**.
+2. Click **[!UICONTROL Add template]**.
 
-1. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
+3. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
+4. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
    Example Preview for an email template:
 
@@ -92,18 +92,18 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
    >
    >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
 
-2. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-3. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
+6. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
    - **Banner and Display ad**: requires Dimensions
 
-4. Add as many details as you can to improve template identification in searches and filtering.
+7. Add as many details as you can to improve template identification in searches and filtering.
 
-5. Click **[!UICONTROL Done]**.
+8. Click **[!UICONTROL Done]**.
 
 ### Refresh template
 
@@ -113,9 +113,9 @@ Templates may include static files, such as icons or logos. [Static content](/he
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click on a template for a full view and a list of details.
+2. Click on a template for a full view and a list of details.
 
-1. Click **[!UICONTROL Refresh]** (circling arrows) from the upper right corner to perform a refresh of all assets used in the template.
+3. Click **[!UICONTROL Refresh]** (circling arrows) from the upper right corner to perform a refresh of all assets used in the template.
 
 ### Create an experience with a template
 
@@ -125,11 +125,11 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click on a template for a full view and a list of details.
+2. Click on a template for a full view and a list of details.
 
-1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
+3. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
-1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
+4. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
 
 ## Templates from AJO and Marketo
 
