@@ -66,7 +66,7 @@ For example, you may want to find a template of a specific channel type or aspec
 
 The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
-![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
+![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650"}
 
 The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
@@ -78,32 +78,32 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click **[!UICONTROL Add template]**.
+2. Click **[!UICONTROL Add template]**.
 
-1. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
+3. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
+4. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
    >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
 
-1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
+6. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
    - **Meta**: requires Aspect ratio
    - **Banner and Display ad**: requires Dimensions
 
-1. Add as many details as you can to improve template identification in searches and filtering.
+7. Add as many details as you can to improve template identification in searches and filtering.
 
-1. Click **[!UICONTROL Done]**.
+8. Click **[!UICONTROL Done]**.
 
 ### Refresh template
 
@@ -113,9 +113,9 @@ Templates may include static files, such as icons or logos. [Static content](/he
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click on a template for a full view and a list of details.
+2. Click on a template for a full view and a list of details.
 
-1. Click **[!UICONTROL Refresh]** (circling arrows) from the upper right corner to perform a refresh of all assets used in the template.
+3. Click **[!UICONTROL Refresh]** (circling arrows) from the upper right corner to perform a refresh of all assets used in the template.
 
 ### Create an experience with a template
 
@@ -125,11 +125,11 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-1. Click on a template for a full view and a list of details.
+2. Click on a template for a full view and a list of details.
 
-1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
+3. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 
-1. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
+4. Continue to [Create](/help/user-guide/create/overview.md#create-use-cases) an experience.
 
 ## Templates from AJO and Marketo
 

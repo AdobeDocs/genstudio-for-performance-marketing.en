@@ -18,7 +18,7 @@ The template code editor is designed to help you verify and refine your template
 
 The _[!UICONTROL Check detected fields]_ pane shows a list of fields that GenStudio for Performance Marketing recognizes in your template. Review the list, and you can scroll through the HTML code to look at the formation of your template.
 
-![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="600" zoomable="yes"}
+![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="600"}
 
 If you notice that a field is missing from the list, search your template code and find the location for the missing field. Insert the correct placeholder using the Handlebars syntax and a [recognized field name](/help/user-guide/content/customize-template.md#recognized-field-names). Use the Find and Replace form, which appears at the bottom of the code editor, to search for specific strings in the code. (Windows `CTRL`+`F` or macOS `CMD`+`F`)
 
@@ -30,7 +30,7 @@ You can select and change field roles for text-based field roles (for example, `
 >
 >Image variables cannot have their roles adjusted.
 
-![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600" zoomable="yes"}
+![Multi-role field selection](/help/assets/multirole-dropdown-field.png "Multi-role field selection"){width="600"}
 
 To assign a role to a variable:
 
@@ -43,7 +43,7 @@ To assign a role to a variable:
 
 If there are errors in your template, you may see a `Template is invalid` message that includes a brief explanation of the issue. In the following example, the message indicates that the `_image` field doesn't conform to the field naming convention established in the multi-pod template. The message further advises that you need to update the field name with the correct prefix. Find the `_image` field in the template code editor, and update the name as advised.
 
-![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
+![Correct invalid template](/help/assets/animation/template-code-editor.gif){width="600"}
 
 The _[!UICONTROL Check detected fields]_ pane updates to reflect the changes that you made. Once you're satisfied that the fields are correct and complete, click **[!UICONTROL Next]** to continue [uploading your template](/help/user-guide/content/use-templates.md#add-a-template).
 
