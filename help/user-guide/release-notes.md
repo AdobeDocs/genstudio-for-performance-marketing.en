@@ -9,7 +9,17 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.08.15 {#latest}
+## 2025.09.11 {#latest}
+
+### New Generative Expand AI functionality for paid media
+
+The new GenExpand feature lets marketers dynamically adapt their creative assets to support different aspect ratios across paid media channels like Meta, LinkedIn, Display Ads, and Banners. When an image doesn't match the intended aspect ratio, such as adding a narrow image to a wide layout, you can use GenExpand to revise the image to fit.
+
+This feature streamlines the image editing and resize process directly in GenStudio for Performance Marketing. See [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) for detailed information.
+
+## Earlier release notes
+
++++Notes from 2025.08.15
 
 ### Insights for text attributes
 
@@ -59,8 +69,7 @@ See [Generate assets](/help/user-guide/create/generate-assets.md) for detailed i
 
 Adobe GenStudio for Performance Marketing now offers built-in email translation capabilities that allow marketers to efficiently scale their email campaigns globally. This feature enables you to take an approved email experience and translate it into multiple target languages using Azure Open AI translation services.
 
-
-## Earlier release notes
++++
 
 +++Notes from 2025.07.25
 
