@@ -15,7 +15,7 @@ Adding users and user groups are basic tasks common to all Adobe products with e
 
 Watch this video walkthrough or follow the steps below.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470499/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
 
 ## Step 1: Create a user group
 
