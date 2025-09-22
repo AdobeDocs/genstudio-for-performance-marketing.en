@@ -6,7 +6,7 @@ exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 ---
 # Deploy your app
 
-Running your app provides a preliminary snapshot of your Add-on behavior before deploying it. This information can facilitate debugging. You can force build and deployment of a deployed your app without re-submitting it for approval.
+Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This information can facilitate debugging. 
 
 **To run the app**:
 
@@ -18,13 +18,13 @@ aio app run
 
 **To deploy the app**:
 
-1. Navigate to your Deployment workspace. For example, to navigate to the Production workspace:
+1. Navigate to your Deployment workspace:
 
    ```bash
-   aio app use -w Production
+   aio app use -w [deployment_workspace]
    ```
 
-1. Deploy the app:
+2. Deploy the app:
 
    ```bash
    aio app deploy
@@ -32,9 +32,11 @@ aio app run
 
 **To force re-deployment**:
 
+You can force a build and deployment of your app without re-submitting it for approval.
+
 >[!NOTE]
 >
->Forcing build and deployment overwrites your existing deployment. Thoroughly test your app in a test environment first.
+>Forcing a build and deployment overwrites your existing deployment. **Thoroughly test your app** in a test environment first.
 
    ```bash
    aio app build --force-build
@@ -56,6 +58,6 @@ After deployment, you can view the app in GenStudio for Performance Marketing by
 
 `https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.net/index.html#/@<ims-org>/genstudio/create`
 
-If you are satisfied with your Add-on, you are ready to distribute it without the `query` parameter.
+If you're satisfied with your Add-on, you're ready to distribute it without the `query` parameter.
 
-You can now [distribute your app](distribute-app.md).
+Now, you can [distribute your app](distribute-app.md).
