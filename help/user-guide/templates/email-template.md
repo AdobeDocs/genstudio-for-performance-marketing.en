@@ -1,5 +1,5 @@
 ---
-title: Email template guidelines
+title: Email Template Guidelines
 description: Follow best practices when using email templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer, User
@@ -29,7 +29,7 @@ When you customize your email template, use content placeholders for the followi
 - `cta`
 - `image` (selected from Content JPEG, PNG, or GIF)
 
-GenStudio for Performance Marketing automatically generates the following fields. Rich text is not enabled. You do not have to apply content placeholders for:
+GenStudio for Performance Marketing automatically generates the following fields. Rich text is not enabled. You don't have to apply content placeholders for:
 
 - `pre_header`
 - `subject`
@@ -38,23 +38,24 @@ The maximum fields allowed in a template are 20. See [Content placeholders](/hel
 
 ## Multi-section email
 
-_Sections_ allow you to organize content into distinct groups, which supports more complex layouts. In Genstudio for Performance Marketing, you can define each section using a group naming convention. See [Customize template sections](/help/user-guide/content/customize-template.md#sections-or-groups).
+_Sections_ allow you to organize content into distinct groups, supporting more complex layouts. In GenStudio for Performance Marketing, you can define each section using a group naming convention. See [Customize template sections](/help/user-guide/content/customize-template.md#sections-or-groups).
 
 Multi-section templates can have 0, 2, or 3 sections:
 
-- A basic template (zero sections) can generate a single set of template elements, which does not require the group naming convention.
-- A complex template (multiple sections) can generate up to three sets of template elements, which requires you to adhere to the group naming convention: (`groupname_fieldname`)
+- A basic template (zero sections) can generate a single set of template elements, which doesn't require the group naming convention.
+- A complex template (multiple sections) can generate up to three sets of template elements, which requires you to adhere to the group naming convention: `<groupname_fieldname>`. 
+- When using multiple sections, any elements left standalone, outside of a section, will not be populated.
 
-Example field names for two sections:
+Here are examples of field names, using the group naming convention, for two sections:
 
-- `pod1_headline`, `pod1_body`, `pod1_cta`
-- `pod2_headline`, `pod2_body`, `pod2_cta`
+- In section 1:`pod1_headline`, `pod1_body`, `pod1_cta`
+- In section 2:`pod2_headline`, `pod2_body`, `pod2_cta`
 
 ## Template examples
 
 +++Example: Email template with one section
 
-The following is a basic example of an HTML email template with one section. The `<head>` includes simple inline CSS for styling, and the `<body>` uses content placeholders such as `pre_header`, `headline`, `sub_headline`, `body`, `cta`, and `image` with link, and. These placeholders allow GenStudio for Performance Marketing to inject dynamic content during email generation.
+Here is a basic example of an HTML email template with one section. The `<head>` includes simple inline CSS for styling, and the `<body>` uses content placeholders such as `pre_header`, `headline`, `sub_headline`, `body`, `cta`, and `image` with link, and. These placeholders allow GenStudio for Performance Marketing to inject dynamic content during email generation.
 
 ```html
 <!DOCTYPE html>
@@ -103,7 +104,7 @@ The following is a basic example of an HTML email template with one section. The
 
 +++Example: Email template with multiple sections
 
-The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
+Here is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
 
 ```html
 <!DOCTYPE html>
@@ -145,8 +146,6 @@ The following is the same HTML template in the example above, but with two more 
     </head>
     <body>{{pre_header}}
         <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
