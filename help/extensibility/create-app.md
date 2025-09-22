@@ -1,6 +1,6 @@
 ---
-title: Create an App Builder app to extend GenStudio for Performance Marketing
-description: Start building an app, or Add-on.
+title: Create an App Builder App
+description: Start building an app, or Add-on, to extend GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
 ---
@@ -16,7 +16,7 @@ Developers extending GenStudio for Performance Marketing's native capabilities u
 
 * npm (packaged with Node.js)
 
-* Adobe Developer command-line interface (CLI). To install: `npm install -g @adobe/aio-cli`
+* Adobe Developer command-line interface (CLI). To install it with npm, run: `npm install -g @adobe/aio-cli`
 
 >[!ENDSHADEBOX] 
 
@@ -41,10 +41,10 @@ Key components of App Builder apps include these build and configuration files. 
 * App Builder config files: 
 
   * `app.config.yaml`  
-  * `ext.config.yaml`: configuration file for the Add-on
-  * `app.config.yaml`: configuration file for the Add-on (includes defining your app as a GenStudio for Performance Marketing Add-on)
+  * `ext.config.yaml`: Configuration file for the Add-on.
+  * `app.config.yaml`: Configuration file for the Add-on (includes defining your app as a GenStudio for Performance Marketing Add-on).
   * `.aio`
-  * `.env`: Do not commit the `.env` file to source control
+  * `.env`: Do not commit the `.env` file to source control.
 
 ### Source code
 
@@ -64,7 +64,7 @@ Key components of App Builder apps include these build and configuration files. 
  
 ### Source code components
 
-* `ExtensionRegistration.tsx`: Defines the necessary APIs that the host app (GenStudio for Performance Marketing) needs to load and display the Add-on.
+* `ExtensionRegistration.tsx`: Defines the necessary APIs for the host app (GenStudio for Performance Marketing) to load and display the Add-on.
 
 * `App.tsx`: Main app component that defines routing to other components.
 
@@ -82,7 +82,7 @@ You can use an example app to jump-start creation of your Add-on.
 
 1. Download an example app from the [GenStudio UIX Examples](https://github.com/adobe/genstudio-uix-examples) repository.
 
-1. From the App Builder Project workspace on [Adobe Developer Console](https://developer.adobe.com/console/), select **[!UICONTROL Download All]** to download Project details.
+1. From the App Builder Project workspace on [Adobe Developer Console](https://developer.adobe.com/console/), select [!UICONTROL Download All] to download Project details.
 
 1. Open your example app locally in your preferred Integrated Development Environment (IDE).
 
@@ -100,22 +100,22 @@ You can use an example app to jump-start creation of your Add-on.
 
 ## Add custom code to your Add-on
 
-You define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the Add-on.
+Define your Add-on code in `AdditionalContextDialog.tsx` and `RightPanel.tsx` files. These two files define pop-up appearance and behavior when users access the Add-on.
 
 * `AdditionalContextDialog.tsx`: Define this component if you plan to use the _Add Context_ Add-on. Users interact with this component when clicking on _Add-ons_ in the prompt drawer in [!DNL Create].
 
 * `RightPanel.tsx`: Define this component if you plan to use the _Right Panel_ Add-on (experience validation). Users interact with this component when clicking on the validation Add-on in the right panel in a [!DNL Create] experience draft.
 
-You are now ready to [Deploy your app](deploy-app.md)
-
 ## Best practices for app development
 
-Maintaining your development environment can help you avoid app development and deployment errors: 
+Maintaining your development environment can help avoid app development and deployment errors: 
 
-* If you are using an older version of a sample app, upgrade the dependencies by re-installing them:
+* If you're using an older version of a sample app, upgrade the dependencies by re-installing them:
 
    ```bash
    rm -rf node_modules package-lock.json && npm i
    ```
 
-* Upgrade the GenStudio UIX SDK. Confirm that you are using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [GenStudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
+* Upgrade the GenStudio UIX SDK. Confirm that you're using the most recent version of the [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk). Refer to the [GenStudio UIX Example repository](https://github.com/adobe/genstudio-uix-examples) to learn how to use the most recent SDK changes.
+
+Now you're ready to [Deploy your app](deploy-app.md)

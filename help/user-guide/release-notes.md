@@ -189,7 +189,7 @@ As part of the brand validation process, [compliance standards](/help/user-guide
 
 ### Extensibility
 
-The new GenStudio for Performance Marketing [extensibility framework](/help/extensibility/overview.md) provides tools for organizations to incorporate their own claims compliance protocols into content creation workflow and validation through Add-ons, or extensible applications.
+The new GenStudio for Performance Marketing [extensibility framework](/help/extensibility/setup.md) provides tools for organizations to incorporate their own claims compliance protocols into content creation workflow and validation through Add-ons, or extensible applications.
 
 ### Templates
 

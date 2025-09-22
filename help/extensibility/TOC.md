@@ -11,7 +11,7 @@ role: Developer
 
 + [Extensibility Guide](home.md)
 + Get started {#get-started}
-  + [Overview](overview.md)
+  + [Set up your environment](setup.md)
 + App development {#apps}
   + [Create an App Builder Project](create-project.md)
   + [Develop an App Builder app](create-app.md)
