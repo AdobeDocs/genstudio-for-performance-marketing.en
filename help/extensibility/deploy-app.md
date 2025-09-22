@@ -1,5 +1,5 @@
 ---
-title: Deploy your App Builder app
+title: Deploy your App Builder App
 description: Deploy your App Builder app, or Add-on, for GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
