@@ -56,7 +56,9 @@ You can force a build and deployment of your app without re-submitting it for ap
 
 After deployment, you can view the app in GenStudio for Performance Marketing by adding a `query` parameter to the GenStudio for Performance Marketing URL:
 
-`https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.net/index.html#/@<ims-org>/genstudio/create`
+```txt
+https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.net/index.html#/@<ims-org>/genstudio/create
+```
 
 If you're satisfied with your Add-on, you're ready to distribute it without the `query` parameter.
 
