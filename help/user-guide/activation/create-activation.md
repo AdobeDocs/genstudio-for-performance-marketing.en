@@ -1,5 +1,5 @@
 ---
-title: Activation workflow
+title: Activation Workflow
 description: Learn about the activation workflow for ad experiences.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6

@@ -1,5 +1,5 @@
 ---
-title: Video features
+title: Video Features
 description: Learn about the video feature of attribute categories used in GenStudio for Performance Marketing.
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI

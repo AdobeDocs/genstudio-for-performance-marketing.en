@@ -1,5 +1,5 @@
 ---
-title: Test page for markdown
+title: Test Page for Markdown
 description: This article is hidden for testing different markdown transforms.
 hide: yes
 hidefromtoc: yes
