@@ -1,5 +1,5 @@
 ---
-title: Create an email experience
+title: Create an Email Experience
 description: Learn how to create email experiences in Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
