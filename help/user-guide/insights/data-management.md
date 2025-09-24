@@ -1,5 +1,5 @@
 ---
-title: Data management
+title: Data Management
 description: Learn about data ingestion and storage for [!DNL Insights] in GenStudio for Performance Marketing.
 feature: Reporting and Insights
 level: Experienced
