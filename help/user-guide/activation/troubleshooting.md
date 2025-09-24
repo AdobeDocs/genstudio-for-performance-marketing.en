@@ -1,5 +1,5 @@
 ---
-title: Optimize your activation
+title: Optimize Your Activation
 description: Learn how to optimize activations to third-party paid ad channels.
 level: Intermediate
 feature: Ad Activation

@@ -1,5 +1,5 @@
 ---
-title: Activate a Meta ad
+title: Activate a Meta Ad
 description: Learn how to activate a Meta ad experience.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
