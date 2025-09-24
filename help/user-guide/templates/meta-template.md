@@ -1,5 +1,5 @@
 ---
-title: Meta ad template guidelines
+title: Meta Ad Template Guidelines
 description: Follow best practices when using Meta ad templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer, User

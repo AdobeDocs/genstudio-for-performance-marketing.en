@@ -1,5 +1,5 @@
 ---
-title: Best practices for templates
+title: Best Practices for Templates
 description: Follow best practices when using templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer, User

@@ -1,5 +1,5 @@
 ---
-title: Create accessible templates
+title: Create Accessible Templates
 description: Build templates in Adobe GenStudio for Performance Marketing that are capable of reaching more of your audience and providing an optimal experience.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238

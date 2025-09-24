@@ -1,5 +1,5 @@
 ---
-title: Add guidelines to Adobe GenStudio for Performance Marketing
+title: Add Guidelines to Adobe GenStudio for Performance Marketing
 description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe GenStudio for Performance Marketing.
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 role: User
