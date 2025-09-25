@@ -1,5 +1,5 @@
 ---
-title: Review and edit content
+title: Review and Edit Content
 description: Learn how to review and edit content iteratively with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39

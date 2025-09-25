@@ -1,5 +1,5 @@
 ---
-title: Display ad experiences
+title: Display Ad Experiences
 description: Learn about display ad experiences in Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Media Templates
 role: User

@@ -1,5 +1,5 @@
 ---
-title: Banner experiences
+title: Banner Experiences
 description: Learn about banner experiences in Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Media Templates
 badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."

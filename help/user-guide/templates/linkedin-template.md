@@ -1,5 +1,5 @@
 ---
-title: LinkedIn template guidelines
+title: LinkedIn Template Guidelines
 description: Follow best practices when using LinkedIn templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer, User

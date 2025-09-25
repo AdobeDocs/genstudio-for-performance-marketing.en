@@ -1,5 +1,5 @@
 ---
-title: Media overview
+title: Media Overview
 description: Learn how to evaluate media performance in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes

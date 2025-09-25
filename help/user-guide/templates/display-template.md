@@ -1,5 +1,5 @@
 ---
-title: Display ad template guidelines
+title: Display Ad Template Guidelines
 description: Follow best practices when using display ad and banner templates with Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer, User

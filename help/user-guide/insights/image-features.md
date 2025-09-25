@@ -1,5 +1,5 @@
 ---
-title: Image features
+title: Image Features
 description: Learn about the image feature of attribute categories used in GenStudio for Performance Marketing.
 level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI

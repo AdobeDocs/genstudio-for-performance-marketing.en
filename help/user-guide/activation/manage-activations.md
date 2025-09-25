@@ -1,5 +1,5 @@
 ---
-title: Manage activations
+title: Manage Activations
 description: Learn how to manage activated experiences with Adobe GenStudio for Performance Marketing.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818

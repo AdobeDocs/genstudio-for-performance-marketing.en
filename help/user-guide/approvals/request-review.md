@@ -1,5 +1,5 @@
 ---
-title: Request reviews and approvals
+title: Request Reviews and Approvals
 description: Request a review of generated content with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4

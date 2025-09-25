@@ -1,5 +1,5 @@
 ---
-title: Create a LinkedIn experience
+title: Create a LinkedIn Experience
 description: Learn how to create brand-compliant LinkedIn experiences with Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User

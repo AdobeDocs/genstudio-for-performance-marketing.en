@@ -1,5 +1,5 @@
 ---
-title: Adobe GenStudio for Performance Marketing user roles and permissions
+title: Adobe GenStudio for Performance Marketing User Roles and Permissions
 description: Learn about GenStudio for Performance Marketing user roles and permissions.
 level: Beginner
 feature: Generative AI, Guidelines

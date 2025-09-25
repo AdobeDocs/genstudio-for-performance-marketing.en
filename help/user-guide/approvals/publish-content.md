@@ -1,5 +1,5 @@
 ---
-title: Publish approved content
+title: Publish Approved Content
 description: Learn how to publish approved content with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4

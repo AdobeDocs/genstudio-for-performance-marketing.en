@@ -1,5 +1,5 @@
 ---
-title: Prepare an email template for GenStudio for Performance Marketing
+title: Prepare an Email Template for GenStudio for Performance Marketing
 description: Learn how to prepare an email template for use in Adobe GenStudio for Performance Marketing.
 level: Beginner
 feature: Media Templates

@@ -1,5 +1,5 @@
 ---
-title: Filter Insights views
+title: Filter Insights Views
 description: Learn how to use the enhanced filter capabilities with Insights.
 level: Intermediate
 feature: Reporting and Insights

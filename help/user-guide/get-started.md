@@ -1,5 +1,5 @@
 ---
-title: Get started with Adobe GenStudio for Performance Marketing
+title: Get Started with Adobe GenStudio for Performance Marketing
 description: Learn how to get started with GenStudio for Performance Marketing to generate brand-aligned marketing content and accelerate campaign management.
 level: Beginner
 role: User

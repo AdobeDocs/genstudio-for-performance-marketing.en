@@ -1,5 +1,5 @@
 ---
-title: Meta experiences
+title: Meta Experiences
 description: Learn all about Meta experiences in Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Media Templates
 role: User

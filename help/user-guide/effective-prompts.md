@@ -1,5 +1,5 @@
 ---
-title: Write effective prompts
+title: Write Effective Prompts
 description: Learn how to write effective prompts for Adobe GenStudio for Performance Marketing.
 role: User
 level: Beginner

@@ -1,5 +1,5 @@
 ---
-title: Activate a LinkedIn ad
+title: Activate a LinkedIn Ad
 description: Learn how to activate a LinkedIn ad experience.
 feature: Ad Activation
 exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50

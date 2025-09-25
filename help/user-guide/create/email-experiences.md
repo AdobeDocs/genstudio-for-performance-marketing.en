@@ -1,5 +1,5 @@
 ---
-title: Email experiences
+title: Email Experiences
 description: Learn about email experiences in Adobe GenStudio for Performance Marketing.
 feature: Create Canvas, Media Templates
 role: User

@@ -1,5 +1,5 @@
 ---
-title: Adobe GenStudio for Performance Marketing concepts
+title: Adobe GenStudio for Performance Marketing Concepts
 description: Learn Adobe GenStudio for Performance Marketing concepts and terminology.
 feature: Generative AI
 role: User
