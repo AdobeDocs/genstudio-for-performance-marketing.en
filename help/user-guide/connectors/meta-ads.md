@@ -65,14 +65,14 @@ Use **[!UICONTROL Add account]** to add more accounts to the list. The authoriza
 
 ## Disconnecting and troubleshooting a Meta Ads integration
 
-Sometimes a GenStudio for Performance Marketing instance is connected to a Meta ad account incorrectly. Common setups that can cause issues include:
+Sometimes a GenStudio for Performance Marketing instance is connected to a Meta Ads Account incorrectly. Common setups that can cause issues include:
 
-- An Instagram account is selected without selectings its associated Facebook page
-- Revoked permissions for a user that did the initial connection
+- An Instagram account is selected without selecting its associated Facebook page
+- Revoked permissions for a user that performed the initial connection
 
-In these situations, it is best to re-connect the Meta Ad Account to the GenStudio for Performance Marketing instance. To do so, the user must first remove the app integration directly from their Meta Business Manager to create a clean slate for resetting permissions.
+In these situations, it's best to reconnect the Meta Ad Account to the GenStudio for Performance Marketing instance. First, the user must remove the app integration directly from their Meta Business Manager, creating a clean slate for resetting permissions. This requires admin access to the Meta Business Manager. 
 
-This can only be done by users with admin access to the Meta Business Manager. These steps clear cached permissions and reset the integration flow:
+These steps clear cached permissions and reset the integration flow:
 
 1. Access [Meta Business Manager](https://business.facebook.com) by visiting the Facebook website.
 1. Log in with your account. The account must have admin access to the Business Manager.
@@ -84,4 +84,4 @@ This can only be done by users with admin access to the Meta Business Manager. T
 1. Click **[!UICONTROL Remove]**.
 1. Confirm the removal when prompted.
 
-You can now re-connect your Meta ad accounts, Instagram profiles, and Facebook pages.
+You can now reconnect your Meta ad accounts, Instagram profiles, and Facebook pages.
