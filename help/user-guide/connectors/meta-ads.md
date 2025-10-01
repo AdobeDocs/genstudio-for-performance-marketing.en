@@ -9,7 +9,7 @@ exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
 ---
 # Connect to Meta Ads
 
-Connect your Meta Ads profile account to GenStudio for Performance Marketing to manage campaigns, export content, and access advertising data for your active campaigns.
+This page explains how to connect and manage your Meta Ads profile account to GenStudio for Performance Marketing to manage campaigns, export content, and access advertising data for your active campaigns.
 
 >[!BEGINSHADEBOX]
 
@@ -24,11 +24,11 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
   - Manage Creative Hub mockups
   - Advanced analytics
 
-- Remove any pop-up blockers in your browser
+- Disable any pop-up blockers in your browser
 
 >[!ENDSHADEBOX]
 
-**To connect a Meta ads account**:
+## Connect a Meta ads account
 
 1. Click **[!UICONTROL More]** > **[!UICONTROL Settings]**.
 
@@ -62,3 +62,26 @@ Connect your Meta Ads profile account to GenStudio for Performance Marketing to 
    ![Meta accounts list](/help/assets/meta/meta-accounts-list.png "List of connected Meta accounts"){zoomable="yes"}
 
 Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You select only the new Meta Ads accounts during the connection process.
+
+## Disconnecting and troubleshooting a Meta Ads integration
+
+Sometimes a GenStudio for Performance Marketing instance is connected to a Meta ad account incorrectly. Common setups that can cause issues include:
+
+- An Instagram account is selected without selectings its associated Facebook page
+- Revoked permissions for a user that did the initial connection
+
+In these situations, it is best to re-connect the Meta Ad Account to the GenStudio for Performance Marketing instance. To do so, the user must first remove the app integration directly from their Meta Business Manager to create a clean slate for resetting permissions.
+
+This can only be done by users with admin access to the Meta Business Manager. These steps clear cached permissions and reset the integration flow:
+
+1. Access [Meta Business Manager](https://business.facebook.com) by visiting the Facebook website.
+1. Log in with your account. The account must have admin access to the Business Manager.
+1. Click the **[!UICONTROL Settings]** cog icon in the lower left to navigate to your Business Portfolio settings.
+1. In the left-hand menu, click **[!UICONTROL Integrations]**.
+1. Select **[!UICONTROL Connected Apps]**. You'll see Adobe GenStudio in the list of Connected apps. 
+![Meta Business Manager Connected Apps](./meta-connected-apps.png "Meta Business Manager Connected Apps pane")
+1. Click the app name.
+1. Click **[!UICONTROL Remove]**.
+1. Confirm the removal when prompted.
+
+You can now re-connect your Meta ad accounts, Instagram profiles, and Facebook pages.
