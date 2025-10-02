@@ -28,7 +28,7 @@ This page explains how to connect and manage your Meta Ads profile account to Ge
 
 >[!ENDSHADEBOX]
 
-## Connect a Meta ads account
+## Connect a Meta Ads account
 
 1. Click **[!UICONTROL More]** > **[!UICONTROL Settings]**.
 
