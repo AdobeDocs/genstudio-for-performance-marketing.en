@@ -75,7 +75,7 @@ New extensions are found in different locations in the UI, depending on the type
 * Template extension
 * Translation extension
 
-**Find prompt extensions**
+#### Find prompt extensions
 
 Prompt extenstions are found in the **Add-ons** dropdown, in the **parameters section** of a template.
 
@@ -85,7 +85,7 @@ The add-on dialog will open, allowing you to select the additional context to ad
 
 ![Prompt extension dropdown](./select-prompt-dropdown.png){width="600" zoomable="yes"}
 
-**Find validation extensions**
+#### Find validation extensions
 
 Validation extensions can be found after a prompt generation, in the right sidenav displayed with the results.
 
@@ -95,20 +95,20 @@ Run the extension you selected to validate the generated content.
 
 ![Valid Validation](./validation-valid.png){width="600" zoomable="yes"}
 
-**Find DAM extensions**
+#### Find DAM extensions
 
 Digital Asset Management (DAM) extensions are found when selecting content in the **parameters section** of a template. See the bottom of the **Select location** dropdown to see any add-ons.
 
 ![DAM extensions](./dam-ext.png){width="600" zoomable="yes"}
 
-**Find template extensions**
+#### Find template extensions
 
 Template extensions are found in the **External Template App** tab when selecting a template. This tab appears only when there are template apps to select.
 
 ![Template extensions](./template-ext.png){width="600" zoomable="yes"}
 
 
-**Find translation extensions**
+#### Find translation extensions
 
 Use Translation Extension Points to bring your own translation service through a proxy instead of using GenStudio default translation.
 There's no UI location for these extensions. 
