@@ -8,9 +8,7 @@ exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 
 Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This can help with debugging. 
 
-## Build and deploy
-
-### Run the app
+## Run the app
 
 Run the app in `https://localhost:9080`:
 
@@ -18,7 +16,7 @@ Run the app in `https://localhost:9080`:
 aio app run
 ```
 
-### Deploy the app
+## Deploy the app
 
 1. Navigate to your Deployment workspace:
 
@@ -32,7 +30,7 @@ aio app run
    aio app deploy
    ```
 
-### Force re-deployment
+## Force re-deployment
 
 You can force a build and deployment of your app without re-submitting it for approval.
 
@@ -48,7 +46,7 @@ You can force a build and deployment of your app without re-submitting it for ap
    aio app deploy --force-deploy
    ```
 
-### Build and deploy at the same time
+## Build and deploy at the same time
 
    ```bash
    aio app deploy --force-build --force-deploy
@@ -70,18 +68,20 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 
 New extensions are found in different locations in the UI, depending on the type of extension you deployed. The currently available extension points are:
 
-* Compliance extension, which includes *prompt extension points*, which allow customers to add additional context to LLM generation, and *validation extension points*, which allow customers to validate the generated content from the LLM. Validation is often paired with Prompt extension to make sure content generated with an extended prompt is complaint with customer requirements (for example, medical drug claims, or legal)
+* Compliance extension, which includes: 
+  * *prompt extension points*, which allow customers to add additional context to LLM generation, and 
+  * *validation extension points*, which allow customers to validate the generated content from the LLM. Validation is often paired with Prompt extension to make sure content generated with an extended prompt is complaint with customer requirements (for example, medical drug claims, or legal)
 * Digital Asset Management (DAM) extension
 * Template extension
 * Translation extension
 
 **Find prompt extensions**
 
-Prompt extenstions are found in the **add-ons** dropdown, in the **parameters section** of a template.
+Prompt extenstions are found in the **Add-ons** dropdown, in the **parameters section** of a template.
 
 ![Prompt extensions](./select-prompt-ext.png){width="600" zoomable="yes"}
 
-The add-on dialog will open, allowing you to select the additional context to add to the LLM generation.
+The add-on dialog will open, allowing you to select the additional context to add for the LLM generation.
 
 ![Prompt extension dropdown](./select-prompt-dropdown.png){width="600" zoomable="yes"}
 
@@ -91,13 +91,13 @@ Validation extensions can be found after a prompt generation, in the right siden
 
 ![Validation extensions](./validation-ext.png){width="600" zoomable="yes"}
 
-Run the extension to validate the generated content.
+Run the extension you selected to validate the generated content.
 
 ![Valid Validation](./validation-valid.png){width="600" zoomable="yes"}
 
 **Find DAM extensions**
 
-Digital Asset Management (DAM) extensions are found when selecting content in the **parameters section** of a template. See the bottom of the *Select location* dropdown to find any add-ons.
+Digital Asset Management (DAM) extensions are found when selecting content in the **parameters section** of a template. See the bottom of the **Select location** dropdown to see any add-ons.
 
 ![DAM extensions](./dam-ext.png){width="600" zoomable="yes"}
 
@@ -111,7 +111,7 @@ Template extensions are found in the **External Template App** tab when selectin
 **Find translation extensions**
 
 Use Translation Extension Points to bring your own translation service through a proxy instead of using GenStudio default translation.
-There is no UI location for these extensions. 
+There's no UI location for these extensions. 
 
 If the extension is registered, the provided translation service is used. Otherwise the default GenStudio translation service is used.
 
