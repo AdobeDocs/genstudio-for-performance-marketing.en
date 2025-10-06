@@ -6,9 +6,11 @@ exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 ---
 # Deploy your app
 
-Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This information can facilitate debugging. 
+Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This can help with debugging. 
 
-**To run the app**:
+## Build and deploy
+
+### Run the app
 
 Run the app in `https://localhost:9080`:
 
@@ -16,7 +18,7 @@ Run the app in `https://localhost:9080`:
 aio app run
 ```
 
-**To deploy the app**:
+### Deploy the app
 
 1. Navigate to your Deployment workspace:
 
@@ -30,7 +32,7 @@ aio app run
    aio app deploy
    ```
 
-**To force re-deployment**:
+### Force re-deployment
 
 You can force a build and deployment of your app without re-submitting it for approval.
 
@@ -46,19 +48,74 @@ You can force a build and deployment of your app without re-submitting it for ap
    aio app deploy --force-deploy
    ```
 
-**To build and deploy at the same time**: 
+### Build and deploy at the same time
 
    ```bash
    aio app deploy --force-build --force-deploy
    ```
 
-**To view the app**:
+## Find your new app
 
-After deployment, you can view the app in GenStudio for Performance Marketing by adding a `query` parameter to the GenStudio for Performance Marketing URL:
+After deployment, you can view the new app in GenStudio for Performance Marketing.
+
+### View with a URL
+
+See the new app by adding a `query` parameter to the GenStudio for Performance Marketing URL:
 
 ```txt
 https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.net/index.html#/@<ims-org>/genstudio/create
 ```
+
+### View in the UI
+
+New extensions are found in different locations in the UI, depending on the type of extension you deployed. The currently available extension points are:
+
+* Compliance extension, which includes *prompt extension points*, which allow customers to add additional context to LLM generation, and *validation extension points*, which allow customers to validate the generated content from the LLM. Validation is often paired with Prompt extension to make sure content generated with an extended prompt is complaint with customer requirements (for example, medical drug claims, or legal)
+* Digital Asset Management (DAM) extension
+* Template extension
+* Translation extension
+
+**Find prompt extensions**
+
+Prompt extenstions are found in the **add-ons** dropdown, in the **parameters section** of a template.
+
+![Prompt extensions](./select-prompt-ext.png){width="600" zoomable="yes"}
+
+The add-on dialog will open, allowing you to select the additional context to add to the LLM generation.
+
+![Prompt extension dropdown](./select-prompt-dropdown.png){width="600" zoomable="yes"}
+
+**Find validation extensions**
+
+Validation extensions can be found after a prompt generation, in the right sidenav displayed with the results.
+
+![Validation extensions](./validation-ext.png){width="600" zoomable="yes"}
+
+Run the extension to validate the generated content.
+
+![Valid Validation](./validation-valid.png){width="600" zoomable="yes"}
+
+**Find DAM extensions**
+
+Digital Asset Management (DAM) extensions are found when selecting content in the **parameters section** of a template. See the bottom of the *Select location* dropdown to find any add-ons.
+
+![DAM extensions](./dam-ext.png){width="600" zoomable="yes"}
+
+**Find template extensions**
+
+Template extensions are found in the **External Template App** tab when selecting a template. This tab appears only when there are template apps to select.
+
+![Template extensions](./template-ext.png){width="600" zoomable="yes"}
+
+
+**Find translation extensions**
+
+Use Translation Extension Points to bring your own translation service through a proxy instead of using GenStudio default translation.
+There is no UI location for these extensions. 
+
+If the extension is registered, the provided translation service is used. Otherwise the default GenStudio translation service is used.
+
+
 
 If you're satisfied with your Add-on, you're ready to distribute it without the `query` parameter.
 
