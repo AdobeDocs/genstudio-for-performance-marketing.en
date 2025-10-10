@@ -15,16 +15,15 @@ This page explains how to connect and manage your Meta Ads profile account to Ge
 
 **Prerequisites**:
 
-- Facebook/Meta login that can access all Meta services
-
+- A Facebook/Meta login that can access all Meta services
 - _Full control_ over Meta Business Portfolio and Ad Accounts, including:
-
   - Manage campaigns
   - View performance
   - Manage Creative Hub mockups
   - Advanced analytics
-
 - Disable any pop-up blockers in your browser
+- Verify any Instagram account page associations in Meta Business Manager before attempting a connection
+- Confirm admin access to all assets being connected
 
 >[!ENDSHADEBOX]
 
@@ -63,6 +62,16 @@ This page explains how to connect and manage your Meta Ads profile account to Ge
 
 Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You select only the new Meta Ads accounts during the connection process.
 
+## Connection best practices
+
+To prevent any errors, consider these best practices when setting up connections:
+
+- [ ] Start with minimal asset selection (a single page only) for the initial connection
+- [ ] Add Instagram accounts only after confirming that page access works
+- [ ] Ensure Instagram accounts are properly associated with the selected Facebook page in Meta Business Manager
+- [ ] Use a phased approach: establish basic connection first, then expand assets
+- [ ] Verify admin permissions for all assets before attempting connection
+
 ## Disconnecting and troubleshooting a Meta Ads integration
 
 Sometimes a GenStudio for Performance Marketing instance is connected to a Meta Ads Account incorrectly. Common setups that can cause issues include:
@@ -84,4 +93,25 @@ These steps clear cached permissions and reset the integration flow:
 1. Click **[!UICONTROL Remove]**.
 1. Confirm the removal when prompted.
 
-You can now reconnect your Meta ad accounts, Instagram profiles, and Facebook pages.
+You can now reconnect your Meta Ad Accounts, Instagram profiles, and Facebook pages.
+
+## Instagram account connection issues
+
+Issues can occur when Instagram accounts are selected without connecting an associated Facebook page during the connection setup. This may cause errors like:
+
+- "Could not connect to {Page_Name}" or generic connection failures.
+- Connection timeouts during Facebook Login for Business flow.
+- Silent failures when multiple assets are selected.
+- Connection fails when selecting Instagram, and Page, and Ad Account simultaneously.
+
+### Resolution steps:
+
+1. Navigate to [Meta Business Manager](https://business.facebook.com) > Integrations > Connected Apps.
+1. Remove the existing "Adobe GenStudio" integration, if there is one. Click **Remove**.
+1. Return to GenStudio and retry the connection process.
+1. Select ONLY the target Facebook page during the initial connection.
+1. DO NOT select the Instagram account during the first connection attempt.
+1. Verify the connection is successful before adding other assets.
+1. Once the Page connection is stable, add Instagram accounts separately.
+
+
