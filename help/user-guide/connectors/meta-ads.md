@@ -99,7 +99,7 @@ You can now reconnect your Meta Ad Accounts, Instagram profiles, and Facebook pa
 
 Issues can occur when Instagram accounts are selected without connecting an associated Facebook page during the connection setup. This may cause errors like:
 
-- "Could not connect to [Page Name]" or generic connection failures.
+- "Could not connect to {Page_Name}" or generic connection failures.
 - Connection timeouts during Facebook Login for Business flow.
 - Silent failures when multiple assets are selected.
 - Connection fails when selecting Instagram, and Page, and Ad Account simultaneously.
