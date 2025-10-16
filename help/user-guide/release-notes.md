@@ -9,9 +9,9 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.10.26 {#latest}
+## 2025.10.16 {#latest}
 
-### New GenStudio Plugins for Photoshop and Figma
+### New GenStudio plugins for Photoshop and Figma
 
 * Create on-brand and personalized ads directly using the new GenStudio Plugins for Adobe Photoshop and Figma design tools.
 
