@@ -9,7 +9,54 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.09.11 {#latest}
+## 2025.10.26 {#latest}
+
+### New GenStudio Plugins for Photoshop and Figma
+
+* Create on-brand and personalized ads directly using the new GenStudio Plugins for Adobe Photoshop and Figma design tools.
+
+### Expanded video capabilities
+
+* Marketers can now easily add intro and outro clips to frame video ads with pre-produced branding or messages.
+* Add image, text, and logo overlays throughout the length of the video
+
+### Extended Insights for LinkedIn, Meta, and TikTok
+
+* GenStudio Insights now includes LinkedIn Ads performance reporting, enabling marketers to view and analyze the performance of their campaigns and ads directly within the platform for:
+  * LinkedIn Ads
+  * Meta Ads
+  * TikTok Ads
+  
+### Amazon Ads activation
+
+* GenStudio now supports the activation of Display ads directly into the Amazon Ads Platform.
+
+### Flashtalking activation
+
+* GenStudio now supports activation of Display ads directly into Flashtalking (Innovid) Ad Serving Platform.
+* Users must manually configure their Flashtalking API token in coordination with the Activate Engineering team. Self-service token configuration will be added in a future release.
+
+### Integration with Adobe Campaign V8
+
+* GenStudio for Performance Marketing now integrates with Adobe Campaign V8, enabling marketers to seamlessly leverage AI-powered content creation alongside Campaign's advanced orchestration capabilities.
+
+### Video autoplay
+
+* Videos now autoplay across [!DNL Create], [!DNL Content], and [!DNL Insights] modules, providing seamless preview experiences.
+
+### Third-party email template import
+
+* GenStudio for Performance Marketing now supports seamless integration with third-party email design systems through an extensibility framework. Key capabilities include:
+
+  * Automatically import templates from third-party email design systems during content creation
+  * Bring template metadata along with imported templates
+  * Maintain single source of truth by connecting directly to third-party systems
+  * SDK and sample app provided for building custom integrations
+
+
+## Earlier release notes
+
++++Notes from 2025.09.11
 
 ### New Generative Expand AI functionality for paid media
 
@@ -17,7 +64,7 @@ The new GenExpand feature lets marketers dynamically adapt their creative assets
 
 This feature streamlines the image editing and resize process directly in GenStudio for Performance Marketing. See [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) for detailed information.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.08.15
 
