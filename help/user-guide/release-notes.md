@@ -46,13 +46,12 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Third-party email template import
 
-GenStudio for Performance Marketing now supports seamless integration with third-party email design systems through an extensibility framework.
-Key capabilities include:
+* GenStudio for Performance Marketing now supports seamless integration with third-party email design systems through an extensibility framework. Key capabilities include:
 
-* Automatically import templates from third-party email design systems during content creation
-* Bring template metadata along with imported templates
-* Maintain single source of truth by connecting directly to third-party systems
-* SDK and sample app provided for building custom integrations
+  * Automatically import templates from third-party email design systems during content creation
+  * Bring template metadata along with imported templates
+  * Maintain single source of truth by connecting directly to third-party systems
+  * SDK and sample app provided for building custom integrations
 
 
 ## Earlier release notes
