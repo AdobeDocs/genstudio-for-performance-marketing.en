@@ -9,7 +9,28 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.09.11 {#latest}
+## 2025.10.26 {#latest}
+
+### New GenStudio Plugins for Photoshop and Figma
+
+* Create on-brand and personalized ads directly using the new GenStudio Plugins for Adobe Photoshop and Figma design tools.
+
+### Expanded video capabilities
+
+* Marketers can now easily add intro and outro clips to frame video ads with pre-produced branding or messages.
+* Add image, text, and logo overlays throughout the length of the video
+
+### Insights for LinkedIn
+
+* GenStudio Insights now includes LinkedIn Ads performance reporting, enabling marketers to view and analyze the performance of their LinkedIn campaigns and ads directly within the platform.
+
+### Amazon Ads activation
+
+* GenStudio now supports the activation of Display ads directly into the Amazon Ads Platform.
+
+## Earlier release notes
+
++++Notes from 2025.09.11
 
 ### New Generative Expand AI functionality for paid media
 
@@ -17,7 +38,7 @@ The new GenExpand feature lets marketers dynamically adapt their creative assets
 
 This feature streamlines the image editing and resize process directly in GenStudio for Performance Marketing. See [Generative Expand AI capabilities](/help/user-guide/create/manage-variants.md#use-generative-expand) for detailed information.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.08.15
 
