@@ -5,7 +5,7 @@ feature:
 ---
 # GenStudio Experience Selector MFE 
 
-Experience Selector is a Micro Frontend (MFE) that provides an `ExperienceSelectorDialog` component for selecting GenStudio experiences. The component can be consumed in your application by importing the `renderExperienceSelectorWithSUSI` function from the standalone JavaScript bundle, which automatically loads the latest deployed Micro Frontend and presents a natural component interface.
+Experience Selector is a Micro Frontend (MFE) that provides an `ExperienceSelectorDialog` component for selecting GenStudio experiences. Use the component in your application by importing the `renderExperienceSelectorWithSUSI` function from the standalone JavaScript bundle, which automatically loads the latest deployed Micro Frontend and presents a natural component interface.
 
 The GenStudio Experience Selector MFE allows users to:
 
@@ -43,7 +43,7 @@ The `renderExperienceSelectorWithSUSI` function accepts a configuration object w
 | `susiConfig` | object | Yes | [SUSI authentication configuration](#susi-configuration) |
 | `onSelectionConfirmed` | function | Yes | Callback when selection is confirmed |
 | `onDismiss` | function | Yes | Callback when dialog is dismissed |
-| `locale` | string | No | Language locale (e.g., `en-US`) |
+| `locale` | string | No | Language locale (for example, `en-US`) |
 | `isOpen` | boolean | No | Initial dialog state |
 | `selectionType` | string | No | The selection mode (`single` or `multiple`) |
 | `customFilters` | array | No | Custom filter criteria |
