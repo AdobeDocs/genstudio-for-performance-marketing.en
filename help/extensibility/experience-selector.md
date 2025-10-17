@@ -1,7 +1,7 @@
 ---
 title: GenStudio Experience Selector MFE
 description: Understand an implement the Experience Selector Micro FrontEnd for your GenStudio apps and add-ons.
-feature:
+feature: Extensibility, Extensions, Experiences
 ---
 # GenStudio Experience Selector MFE 
 
