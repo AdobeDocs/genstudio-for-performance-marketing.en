@@ -101,15 +101,15 @@ The `susiConfig` object may include:
 
 This repository includes working examples for different frameworks:
 
-- [A complete React application demonstrating integration with Vite build system](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [A **complete React application** demonstrating integration with Vite build system](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
-- [A Vue 3 application with Composition API integration](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
+- [A **Vue 3 application** with Composition API integration](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
-- [Two vanilla JavaScript implementations](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
+- [Two **Vanilla JavaScript implementations**](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
 
-- [This Vanilla ESM version uses ES6 modules and modern JavaScript](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
+  - [This **Vanilla ESM** version uses ES6 modules and modern JavaScript](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
 
-- [This Vanilla UMD version uses UMD bundle loaded via script tag](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
+  - [This **Vanilla UMD** version uses UMD bundle loaded via script tag](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
 
 ## Authentication Flow
 
