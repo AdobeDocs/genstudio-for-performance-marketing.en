@@ -111,7 +111,7 @@ This repository includes working examples for different frameworks:
 
   - [This **Vanilla UMD** version uses UMD bundle loaded via script tag](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var).
 
-## Authentication Flow
+## Authentication flow
 
 The Experience Selector handles authentication automatically through SUSI:
 
