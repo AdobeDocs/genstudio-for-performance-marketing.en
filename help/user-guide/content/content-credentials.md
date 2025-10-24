@@ -49,7 +49,7 @@ In the Content gallery, credentials are displayed on imported assets.
 
 The Content Credential badge in the upper right corner of the thumbnail indicates "Brand signed" content. 
 
-![An imported asset with credentials](./images/import-discovery1.png){width="60%"}
+![An imported asset with credentials](./images/import-discovery1.png)
 
 Selecting signed content displays the detailed metadata: published brand, recorder, tool used, timestamp. 
 
