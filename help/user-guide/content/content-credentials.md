@@ -10,7 +10,7 @@ Learn how tamper-proof credentials for content that prove brand authenticity and
 
 >[!WARNING]
 >
->This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative to be enrolled.
+>This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link] to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr)
 
 
 ## Get started with Content Credentials 
@@ -75,7 +75,7 @@ During exports from a draft, modified assets are automatically re-signed and the
 
 In the Review and Approve preview, credential status is displayed for assets on the right rail. 
 
-![Credential data on an approved asset](./images/review-and-approve1.png){width="300"}
+![Credential data on an approved asset](./images/review-and-approve1.png){width="60%"}
 
 Per-variant credential details are shown as reviewers inspect the assets. Approved experiences are re-signed when users click **[!UICONTROL Save to Content]**. 
 
