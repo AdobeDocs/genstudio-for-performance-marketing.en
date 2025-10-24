@@ -49,7 +49,7 @@ In the Content gallery, credentials are displayed on imported assets.
 
 The Content Credential badge in the upper right corner of the thumbnail indicates "Brand signed" content. 
 
-![An imported asset with credentials](./images/import-discovery1.png){width="350"}
+![An imported asset with credentials](./images/import-discovery1.png){width="60%"}
 
 Selecting signed content displays the detailed metadata: published brand, recorder, tool used, timestamp. 
 
@@ -69,7 +69,7 @@ Credential metadata is preserved as assets are selected for experiences to maint
 
 During exports from a draft, modified assets are automatically re-signed and the new credential links to the original.  
 
-![Credential data on an exported asset](./images/edit-and-transformation1.png){width="300"}
+![Credential data on an exported asset](./images/edit-and-transformation1.png){width="60%"}
 
 ### Review and approval 
 
@@ -85,7 +85,7 @@ Per-variant credential details are shown as reviewers inspect the assets. Approv
 
 During Activation, credential status shows in the Experience selector. 
 
-![Credential data on an activated asset](./images/activate-export1.png){width="350"}
+![Credential data on an activated asset](./images/activate-export1.png){width="60%"}
 
 Exported files will have C2PA-compliant credentials embedded. 
 
