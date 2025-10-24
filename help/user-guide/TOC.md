@@ -57,6 +57,7 @@ role: User
   + [Manage assets and experiences](content/manage-assets.md)
   + [Connect an AEM repository](content/connect-aem-repo.md)
   + [Asset details](content/asset-details.md)
+  + [Content Credentials](content/content-credentials.md)
 + Templates {#templates}
   + [Work with templates](content/use-templates.md)
   + [Starter templates](templates/starter-templates.md)
