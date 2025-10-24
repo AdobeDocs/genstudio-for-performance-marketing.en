@@ -38,6 +38,8 @@ Brand-signed content plays a significant role in promoting brand integrity and u
 
 In addition to brand signing, enterprises can attach asset IDs directly to their content. This facilitates efficient tracking of assets, particularly when they are shared or posted on social media platforms. By incorporating asset IDs, organizations can trace the origin and distribution path of their content, enhancing oversight and accountability. 
 
+## Content Credentials in the marketing workflow
+
 Applying Content Credentials can be done throughout the marketing workflow directly in GenStudio for Performance Marketing, from import and content discovery to activation and export. You'll also find credentials displayed on content for review throughout the app. 
 
 ### Import and discovery 
