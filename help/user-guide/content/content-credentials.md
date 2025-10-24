@@ -8,11 +8,12 @@ feature: Content Management, Content Attributes
 
 Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow. 
 
-## Get started with Content Credentials 
-
->[!NOTE]
+>[!WARNING]
 >
 >This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative to be enrolled.
+
+
+## Get started with Content Credentials 
 
 After Content Credentials have been activated in the Admin Console, GenStudio for Performance Marketing users can turn on Content Credentials for all assets globally in the app. If the global option to apply credentials is turned off, users have the choice to apply Content Credentials for each individual asset.  
 
