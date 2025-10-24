@@ -10,7 +10,7 @@ Learn how tamper-proof credentials for content that prove brand authenticity and
 
 >[!WARNING]
 >
->This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link] to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr)
+> This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
 
 
 ## Get started with Content Credentials 
@@ -49,7 +49,7 @@ In the Content gallery, credentials are displayed on imported assets.
 
 The Content Credential badge in the upper right corner of the thumbnail indicates "Brand signed" content. 
 
-![An imported asset with credentials](./images/import-discovery1.png){width="60%"}
+![An imported asset with credentials](./images/import-discovery1.png)
 
 Selecting signed content displays the detailed metadata: published brand, recorder, tool used, timestamp. 
 
