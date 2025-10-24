@@ -4,7 +4,7 @@ description: Learn about how to apply and review Content Credentials in GenStudi
 level: Intermediate
 feature: Content Management, Content Attributes
 ---
-# Content Credentials for Organizations
+# Content Credentials for organizations
 
 Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow. 
 
