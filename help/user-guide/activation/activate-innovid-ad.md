@@ -28,17 +28,17 @@ Start the publication process from either the Content Experiences gallery or the
 To select experiences:
 
 1. Use the Content gallery's search and filter tools to identify the experience you want to activate. Then click **[!UICONTROL Use]**. Alternatively, you can select an experience from Activate by clicking **[!UICONTROL New]** on the Innovid product card.
-2. You'll be prompted to select a platform before continuing with activation. Select *Innovid*. The Innovid Experience setup page opens for this experience. It's pre-populated with the experience's details and cannot be revised. 
-3. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
-4. Click **[!UICONTROL Next]** to confirm your Innovid platform setup. The **[!UICONTROL Platform setup]** view opens.This view shows options derived from your configured Innovid accounts.
+1. You'll be prompted to select a platform before continuing with activation. Select *Innovid*. The Innovid Experience setup page opens for this experience. It's pre-populated with the experience's details and cannot be revised. 
+1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
+1. Click **[!UICONTROL Next]** to confirm your Innovid platform setup. The **[!UICONTROL Platform setup]** view opens.This view shows options derived from your configured Innovid accounts.
 
 ## Step 4: Confirm Innovid platform setup
 
 1. Select an account from the **[!UICONTROL Account]** drop-down menu. 
 1. Select a Creative Library from the **[!UICONTROL Creative Library]** drop down. Your Innovid account settings determine the Creative Libraries available. Your creative experience is delivered to this Creative Library in Innovid when activation is complete.
-2. Add a name to the **[!UICONTROL Creative name]** field. Innovid identifies the experience by this name.
-3. Repeat for each selected experience.
-4. Click **[!UICONTROL Next]** to confirm your Innovid setup.
+1. Add a name to the **[!UICONTROL Creative name]** field. Innovid identifies the experience by this name.
+1. Repeat for each selected experience.
+1. Click **[!UICONTROL Next]** to confirm your Innovid setup.
 
 ## Step 5: Preview and activate your ad   
 
