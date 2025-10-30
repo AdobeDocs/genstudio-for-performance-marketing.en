@@ -83,6 +83,8 @@ role: User
     + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
     + [LinkedIn](activation/activate-linkedin-ad.md)
     + [Meta](activation/activate-meta-ad.md)
+    + [Amazon](activation/activate-amazon-ad.md)
+    + [Innovid](activation/activate-innovid-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)
