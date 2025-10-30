@@ -75,7 +75,7 @@ The following table displays the default collaborator permissions:
 | Feature | Create  | Update | Delete | View |
 |-----------|----------------|----------------|----------------|----------------|
 |   [!DNL Brands]| no  | no | no |  yes |
-|   [!DNL Campaigns] | no    |   no      |  no       |    yes       |
+|   [!DNL Campaigns] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Content] |     no  |   no     |    no   |   yes      |
 |   [!DNL Create] |     no  |   no     |    no   |   yes      |
 |   [!DNL Insights] |    no |  no  |   no  |   yes  |
