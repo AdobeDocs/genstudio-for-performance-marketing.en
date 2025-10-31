@@ -53,9 +53,7 @@ When a display template features an edge-to-edge (full bleed) image, the selecte
 
 There's no "autofit" functionality for images in display ad templates.
 
-To resolve image cropping, users must define the aspect ratio of the image in the template when it's uploaded to the content repository.
-
-When uploading an approved display ad template:
+To resolve image cropping, users must define the aspect ratio of the image in the template when it's uploaded to the content repository. When uploading an approved display ad template:
 
 1. [Proceed through the template upload process](/help/user-guide/content/use-templates.md#add-a-template) until you reach the **[!UICONTROL Add details]** page.
 
@@ -76,10 +74,12 @@ To determine an image's size and aspect ratio in browser:
    
 1. Note the aspect ratio. Use this to define the aspect ratio of the image in the template.
 
-When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that do not match that aspect ratio exactly will appear cropped.
+When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that don't match that aspect ratio exactly will appear cropped.
 
 ![Image cropped in a display ad](./cropped-display.png "Image cropping"){width="60%"}
+
 **❌ Cropped image in a display ad template**
 
 ![Image displayed in a display ad](./full-fit.png "Image displayed in display ad"){width="60%"}
+
 **✅ Image fully displayed**
