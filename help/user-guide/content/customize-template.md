@@ -253,7 +253,7 @@ See [Template code editor](/help/user-guide/content/code-editor.md).
 
 You can control the visibility of special content by using Built-in Helpers (special expressions in the [!DNL Handlebars] template language that perform certain actions). For example, you can add a conditional statement that adds tracking parameters to links in the exported template while keeping the preview links clean.
 
-The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
+The `_genStudio.canvas` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -264,7 +264,7 @@ The `_genStudio.browser` value is set when rendering a template, and the `genStu
 Another example may be to prevent the use of tracking codes when previewing a template in GenStudio for Performance Marketing. The following example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
 
 ```html
-<a class="button" {{#if _genStudio.browser }}
+<a class="button" {{#if _genStudio.canvas }}
    href="{{link}}"{{/if}}{{#if _genStudio.export }}
    href="{{link}}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
    target="_blank">{{cta}}</a>
