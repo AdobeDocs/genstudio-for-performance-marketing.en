@@ -55,7 +55,7 @@ Selecting signed content displays the detailed metadata: published brand, record
 
 Content can be filtered by credential status. 
 
-![Credential data on an asset](./images/import-discovery2.png)
+![Credential data on an asset](./images/import-discovery2.jpg)
 
 ### Creation and selection 
 
