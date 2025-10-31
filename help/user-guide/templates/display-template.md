@@ -74,7 +74,7 @@ To determine an image's size and aspect ratio in browser:
    
 1. Note the aspect ratio. Use this to define the aspect ratio of the image in the template.
 
-When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that do not match that aspect ratio exactly will appear cropped.
+When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that don't match that aspect ratio exactly will appear cropped.
 
 ![Image cropped in a display ad](./cropped-display.png "Image cropping"){width="60%"}
 
