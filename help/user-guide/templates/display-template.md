@@ -50,6 +50,12 @@ Width x Height (pixels) must be set.
 Images used in display ads should come from the content repository, and need to be uploaded correctly to ensure the image is displayed accurately in the template.
 When a display template features an edge-to-edge (full bleed) image, the selected image is automatically resized to fit the template dimensions. However, if the image doesn't match the template aspect ratio, the image is cropped to fit the template dimensions and may not display as expected. 
 
+![Image cropped in a display ad](./cropped-display.png "Image cropping"){width="60%"}
+**❌ Cropped image in a display ad template**
+
+![Image displayed in a display ad](./full-fit.png "Image displayed in display ad"){width="60%"}
+**✅ Image fully displayed in template**
+
 There's no "autofit" functionality for images in display ad templates.
 
 To resolve image cropping, users must upload the image to the content repository
@@ -61,15 +67,15 @@ For templates where image does not = aspect ratio of entire template:
 
 1. Define the aspect ratio of the image in the template.
 
-1. Select "Cropped to a fixed size".
-   ![Cropped to a fixed size](/help/assets/cropped-to-fixed-size.png "Cropped to a fixed size"){width="30%"}
+2. Select "Cropped to a fixed size".
+   ![Cropped to a fixed size](./crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
 
 To inspect an image's size and aspect ratio in browser:
 
 1. Inspect the image.
    
-1. Hover over the image.
+2. Hover over the image.
    
-1. Note the aspect ratio. Use this to define the aspect ratio of the image in the template.
+3. Note the aspect ratio. Use this to define the aspect ratio of the image in the template.
 
 If this workflow is not applied during upload, the image is assumed to be the entire aspect ratio and the cropping will not show as expected on customer side.
