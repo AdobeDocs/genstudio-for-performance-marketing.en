@@ -37,6 +37,45 @@ Review and define your Brand's [channel guidelines](/help/user-guide/guidelines/
 
 Learn how [Brands, Products, and Personas guidelines](/help/user-guide/guidelines/overview.md) influence generated content and how to tailor them for your marketing goals.
 
+## Uploading images for templates
+
+Images used in templates should come from the content repository, and need to be uploaded correctly to ensure the image is displayed accurately.
+
+When a template features an edge-to-edge (full bleed) image, the selected image is automatically resized to fit the full template dimensions. However, if the image doesn't match the template aspect ratio, the image is cropped to fit the template dimensions and may not display as expected. 
+
+There's no "autofit" functionality for images included in templates.
+
+To resolve image cropping, users must define the aspect ratio of the image to be used in the template when it's uploaded to the content repository. When uploading an approved template:
+
+1. [Proceed through the template upload process](/help/user-guide/content/use-templates.md#add-a-template) until you reach the **[!UICONTROL Add details]** page.
+
+2. Define the aspect ratio of the image to be used in the template in **[!UICONTROL Ad width (px)]** and **[!UICONTROL Ad height (px)]**. This will define the image window for the section of the template displaying the image.
+
+3. In the **[!UICONTROL More details]** section, select the **[!UICONTROL Image size]** dropdown and choose _Crop to a fixed size_.
+   ![Cropped to a fixed size](./images/crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
+
+To determine an image's size and aspect ratio in browser:
+
+1. Inspect the image.
+   - Windows/Linux:
+     - Press F12.
+   - macOS:
+     - Press Command + Option + I.
+   
+1. Hover over the image.
+   
+1. Note the aspect ratio. Use this to define the aspect ratio of the image in the template.
+
+When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that don't match that aspect ratio exactly will appear cropped.
+
+![Image cropped in a display ad](./images/cropped-display.png "Image cropping"){width="60%"}
+
+**❌ Cropped image in a display ad template**
+
+![Image displayed in a display ad](./images/full-fit.png "Image displayed in display ad"){width="60%"}
+
+**✅ Image fully displayed**
+
 ## Follow channel-specific template guidelines
 
 When creating templates, ensure they meet the specific requirements of the intended channel. Build templates that accommodate the layout and visual requirements for each channel. There are general guidelines that apply to any template, such as:
