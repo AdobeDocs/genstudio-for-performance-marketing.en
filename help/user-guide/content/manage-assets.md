@@ -152,10 +152,9 @@ You can select one or more approved experiences for download in a format compati
 
    If you selected multiple experiences from different channels, you have the opportunity to select the format for each channel type.
 
-   - Email, LinkedIn: `HTML`, `CSV`
-   - Meta, Banner, and Display ad: `HTML`, `JPEG`, `PNG`
+   - Email, LinkedIn: `HTML`, `CSV`, `PDF`
+   - Meta, Banner, and Display ad: `HTML`, `JPEG`, `PNG`, `PDF`
 
-   ![Download experiences](/help/assets/content-bulk-export.png "Download multiple experiences"){width=350}
 
 ## Edit in Express
 
