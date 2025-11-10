@@ -34,7 +34,7 @@ When selecting a template, you have the option of using one of your uploaded tem
 
 Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
 
-If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to your variants. You can change them if desired.
+If you are using a template with pre-defined guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products]) these guidelines apply to your variants. You can change them if desired.
 
 **To add parameters and assets**:
 

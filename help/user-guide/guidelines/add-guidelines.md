@@ -16,7 +16,7 @@ Adding guidelines to GenStudio for Performance Marketing is an important step in
 
 Guidelines can be user-defined or exist as default guidelines, such as the [default [!DNL Brand] channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines).
 
-When creating variants from a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to the variants. You can change them if desired.
+When creating variants from a template with pre-defined channel guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products]) these guidelines apply to the variants. You can change them if desired.
 
 {{in-academy}}
 
