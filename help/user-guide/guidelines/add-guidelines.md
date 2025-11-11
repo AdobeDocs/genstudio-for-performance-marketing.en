@@ -8,9 +8,7 @@ exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
 ---
 # Add guidelines
 
-GenStudio for Performance Marketing allows you to set user-defined guidelines that ensure any AI-generated content is customized to align with a brand identity.
-
-See the [guidelines overview](/help/user-guide/guidelines/overview.md).
+GenStudio for Performance Marketing allows you to set user-defined guidelines that ensure any AI-generated content is customized to align with a brand identity. This page offers instructions to set and use each specific available guideline. For a general explanation,see the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts, [accessibility and content checks](overview.md#compliance), and Adobe generative AI technology, to craft impactful assets.
 
@@ -157,7 +155,7 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 
 ## Add [!DNL Personas]
 
-To add a persona, [upload a persona guide](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
+To add a persona, [upload a persona](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
 
 In the left navigation area, click **[!DNL Personas]** from the _Shared_ list. In the _[!DNL Personas]_ panel, select **Add Persona**.
 
@@ -225,9 +223,10 @@ In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to
 
 ## Add [!DNL Products]
 
-To add a product, [upload a product guide](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
+To add a product: 
 
-In the left navigation area, click **[!DNL Products]** from the _Shared_ list. In the _[!DNL Products]_ panel, select **Add product**.
+1. In the left navigation area, click **[!DNL Products]** from the _Shared_ list. In the _[!DNL Products]_ panel, select **Add product**.
+1. Choose to [upload a product](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
 
 ![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
 
@@ -276,7 +275,7 @@ You can manually add product details, instead of uploading existing product docu
       You can also delete or crop an existing thumbnail image in the _Upload_ tab.
 
    1. Click **[!UICONTROL Use image]**.
-1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
+   1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
    1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
    1. Click **[!UICONTROL Use image]**.
    1. To reposition the cover image click **[!UICONTROL Reposition]** from the action menu, drag the image into the desired position, and click **[!UICONTROL Save]**.
@@ -290,3 +289,26 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 - Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
 - Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
 - Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
+
+## Add [!DNL Audiences]
+
+Audiences provide targeted customer segments from Adobe Real-Time Customer Data Platform (RTCDP), bringing precise targeting data into your content generation workflow. GenStudio for Performance Marketing leverages audience definitions to help you create tailored marketing content aligned with specific customer segments.
+
+During onboarding, audience definitions are imported and transformed into a GenStudio-compatible format. This process typically takes a few days to complete. Contact your Adobe team to initiate it.
+
+**Prerequisites**:
+
+- Organizational access to Adobe Real-Time Customer Data Platform
+- Existing audiences already configured in RTCDP sandboxes
+- The Audience integration requires a manual onboarding process by the Adobe team. 
+
+### Add Audience guidelines
+
+Audiences appear as a parameter in the Create workflow, positioned below the persona selection.
+
+**To select an audience**:
+
+1. In the Create workflow, select a **[!UICONTROL Persona]**.
+1. In the parameters list, click the **[!UICONTROL Audience]** dropdown to view all the available audiences.
+1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected persona.
+1. Click **[!UICONTROL See Audience Details]** to view the expanded description and messaging preferences generated for the selected audience. The audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
