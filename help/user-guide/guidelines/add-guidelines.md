@@ -229,7 +229,7 @@ During onboarding, audience definitions are imported and transformed into a GenS
 - Existing audiences already configured in RTCDP sandboxes
 - The [!DNL Audience] integration requires a manual onboarding process by the Adobe team 
 
-Audiences appear as dropdown in the parameter pane, in the Create workflow.
+[!DNL Audiences] appear as a dropdown in the parameter pane, in the Create workflow.
 
 **To select an audience**:
 
