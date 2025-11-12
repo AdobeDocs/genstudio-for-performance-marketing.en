@@ -22,7 +22,7 @@
 
 >[!TIP]
 >
->Enrich your skills on this topic with [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+>Deepen your understanding of this topic with [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
 
 ## Tip on filtering tables {#filter-table}
 

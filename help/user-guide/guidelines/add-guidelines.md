@@ -300,11 +300,11 @@ During onboarding, audience definitions are imported and transformed into a GenS
 
 - Organizational access to Adobe Real-Time Customer Data Platform
 - Existing audiences already configured in RTCDP sandboxes
-- The Audience integration requires a manual onboarding process by the Adobe team. 
+- The [!DNL Audience] integration requires a manual onboarding process by the Adobe team 
 
 ### Add Audience guidelines
 
-Audiences appear as a parameter in the Create workflow, positioned below the persona selection.
+Audiences appear as dropdown in the parameter pane, in the Create workflow.
 
 **To select an audience**:
 
