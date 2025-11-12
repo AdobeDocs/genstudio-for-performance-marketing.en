@@ -237,7 +237,7 @@ Audiences appear as dropdown in the parameter pane, in the Create workflow.
 1. In the parameters list, click the _[!UICONTROL Audience]_ dropdown to view all the available audiences.
 ![Audience dropdown in the Persona parameters pane](./audience-dropdown.png){width=450}
 1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected persona.
-1. Click **[!UICONTROL See Audience Details]** to view the expanded description and messaging preferences generated for the selected audience. The audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
+1. Click **[!UICONTROL See audience details]** to view the expanded description and messaging preferences generated for the selected audience. Audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
 ![Audience details pane](./audience-details.png){width=450}
 
 ### Manage [!DNL Personas]
