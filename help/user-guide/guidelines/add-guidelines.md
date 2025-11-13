@@ -8,7 +8,7 @@ exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
 ---
 # Add guidelines
 
-GenStudio for Performance Marketing allows you to set user-defined guidelines that ensure any AI-generated content is customized to align with a brand identity. This page offers instructions to set and use each specific available guideline. For a general explanation,see the [guidelines overview](/help/user-guide/guidelines/overview.md).
+GenStudio for Performance Marketing allows you to set user-defined guidelines that ensure any AI-generated content is customized to align with a brand identity. This page offers instructions to set and use each specific available guideline. For a general explanation, see the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts, [accessibility and content checks](overview.md#compliance), and Adobe generative AI technology, to craft impactful assets.
 
@@ -91,9 +91,9 @@ You do not have to [publish](#publish-brand) your [!DNL Brand] to make the infor
 
 After manually adding a [!DNL Brand], you can change the thumbnail image to ensure it is easily distinguishable within your [!DNL Brands] list.
 
-If a [!DNL Brand] is created by document extraction (instead of being manually added), an available logo within those documents is automatically implemented as the thumbnail image.
+If a [!DNL Brand] is created with document extraction (instead of being manually added), an available logo within those documents is automatically implemented as the thumbnail image.
 
-**To manually change the thumbnail image for a [!DNL Brand]**:
+**Manually change the thumbnail image for a [!DNL Brand]**:
 
 1. Select **[!UICONTROL Change thumbnail]** from the actions menu.
 1. Upload a new image in the _Upload_ tab.
