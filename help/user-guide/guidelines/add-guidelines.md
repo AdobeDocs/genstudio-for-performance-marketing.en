@@ -217,29 +217,6 @@ You can manually add persona details, instead of uploading existing persona docu
 
    To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ view to navigate back to the _[!DNL Personas]_ home.
 
-### Add [!DNL Audiences]
-
-[!DNL Audiences] add specificity to [!DNL Personas] by provide targeted customer segments from Adobe Real-Time Customer Data Platform (RTCDP), bringing precise targeting data into your content generation workflow. GenStudio for Performance Marketing leverages audience definitions to help you create tailored marketing content aligned with specific customer segments.
-
-During onboarding, audience definitions are imported and transformed into a GenStudio-compatible format. This process typically takes a few days to complete. Contact your Adobe team to initiate it.
-
-**Prerequisites**:
-
-- Organizational access to Adobe Real-Time Customer Data Platform
-- Existing audiences already configured in RTCDP sandboxes
-- The [!DNL Audience] integration requires a manual onboarding process by the Adobe team 
-
-Audiences appear as dropdown in the parameter pane, in the Create workflow.
-
-**To select an audience**:
-
-1. In the Create workflow, select a _[!UICONTROL Persona]_.
-1. In the parameters list, click the _[!UICONTROL Audience]_ dropdown to view all the available audiences.
-![Audience dropdown in the Persona parameters pane](./audience-dropdown.png){width=450}
-1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected persona.
-1. Click **[!UICONTROL See audience details]** to view the expanded description and messaging preferences generated for the selected audience. Audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
-![Audience details pane](./audience-details.png){width=450}
-
 ### Manage [!DNL Personas]
 
 In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to edit or review it, or **delete a persona** from the list:
@@ -318,3 +295,30 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 - Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
 - Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
 - Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
+
+## Add [!DNL Audiences]
+
+>[!NOTE]
+>
+>The [!DNL Audiences] feature requires onboarding by the Adobe team to appear in GenStudio. If _[!DNL Audiences]_ doesn't appear in the template parameters, contact your Adobe representative.
+
+[!DNL Audiences] provide targeted customer segments from Adobe Real-Time Customer Data Platform (RTCDP), bringing precise targeting data into your content generation workflow. GenStudio for Performance Marketing leverages audience definitions to help you create tailored marketing content aligned with specific customer segments.
+
+[!DNL Audiences] appear as a dropdown in the parameter pane, in [the _[!DNL Create]_ workflow](../create/overview.md#templates). _[!DNL Audiences]_ can add specificity to _[!DNL Personas]_ when both guidelines are used, but can also be effectively used independently.
+
+During onboarding, audience definitions are imported and transformed into a GenStudio-compatible format. This process typically takes a few days to complete. Contact your Adobe team to initiate it.
+
+**Prerequisites**:
+
+- Organizational access to Adobe Real-Time Customer Data Platform
+- Existing audiences already configured in RTCDP sandboxes
+- The _[!DNL Audience]_ integration requires a manual onboarding process by the Adobe team 
+
+**To select an audience**:
+
+1. In [the _[!DNL Create]_ workflow](../create/overview.md#templates), select a template and click the **[!UICONTROL Use]** button to open the draft.
+1. In the parameters list, click the _[!UICONTROL Audience]_ dropdown to view all the available audiences.
+![Audience dropdown in the Persona parameters pane](./audience-dropdown.png){width=450}
+1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected [!DNL Persona], if a [!DNL Persona] is selected.
+1. Click **[!UICONTROL See audience details]** to view the expanded description and messaging preferences generated for the selected audience. Audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
+![Audience details pane](./audience-details.png){width=450}
