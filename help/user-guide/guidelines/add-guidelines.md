@@ -259,7 +259,7 @@ See [[!DNL Products]](/help/user-guide/guidelines/products.md).
 
    The view for your new product opens, showing the product guidelines details extracted from your documents. A popup notifies you _"Your product is ready to review"_ and reminds you to review the extracted content and make any necessary edits.
 
-### Manually add product
+### Manually add a product
 
 You can manually add product details, instead of uploading existing product documents, to populate a new [products](products.md).
 
