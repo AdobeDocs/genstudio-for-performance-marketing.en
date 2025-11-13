@@ -43,6 +43,12 @@ Marketers can now [activate Meta ads with single video assets](/help/user-guide/
 
 GenStudio for Performance Marketing now enables marketers to analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/ads.md) for Meta advertising campaigns. Instead of a single fixed metric, users can select from multiple action types—such as purchases, add-to-cart events, leads, video views, or custom conversions—to calculate and view CPA across campaigns, ads, assets, and attributes in [!DNL Insights]. This action-type-specific measurement ensures campaign metrics align with actual optimization goals, enabling faster and more accurate performance decisions.
 
+### Fixes and enhancements
+
+* An SDK extension has been added that allows customers to connect to their own DAMs instead of using AEM Assets as default for assets during content generation.
+* Users can now apply Brand tags in order to group Products and Persona records by Brand.
+* [!DNL Experience Translations] flow has been optimized.
+
 
 ## Earlier release notes
 
