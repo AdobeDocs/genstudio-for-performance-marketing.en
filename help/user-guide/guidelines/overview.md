@@ -1,18 +1,18 @@
 ---
-title: Overview of [!DNL Brands], [!DNL Products], and [!DNL Personas]
-description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio for Performance Marketing to create a comprehensive brand profile that includes all aspects of a brand's representation.
+title: Overview of Channel Guidelines 
+description: Add channel guidelines to GenStudio for Performance Marketing to create a comprehensive brand profile that includes all aspects of a brand's representation.
 level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
 ---
 # GenStudio for Performance Marketing guidelines
 
-GenStudio for Performance Marketing guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio for Performance Marketing, allowing users to establish brand guidelines that capture the essence of a brand's identity.
+GenStudio for Performance Marketing guidelines can be either uploaded or manually added to GenStudio for Performance Marketing, allowing users to establish brand guidelines that capture the essence of a brand's identity.
 
 The following guidelines help ensure that any AI-generated content is tailored to align with brand identity and accessibility specifications, enabling effective personalization of content:
 
 * [Default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) for [!DNL Brands] based on industry best practices and individual platform specifications 
-* User-defined guidelines for [!DNL Brands], [!DNL Products], and [!DNL Personas]
+* User-defined guidelines (such as [!DNL Brands], [!DNL Products], and [!DNL Personas])
 * Platform guidelines for channels such as Meta, LinkedIn, and more
 * [Americans with Disabilities Act (ADA) accessibility guidelines](#compliance)
 
@@ -22,7 +22,7 @@ Guidelines help ensure that any AI-generated content is tailored to align with t
 
 To create compelling marketing content using GenStudio for Performance Marketing, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
-See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add [!DNL Brands], [!DNL Products], and [!DNL Personas].
+See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add each type.
 
 ## Capabilities
 
@@ -38,14 +38,14 @@ By incorporating brand, product, and persona data into GenStudio for Performance
 
 ## Use cases
 
-[!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enable two main use cases to ensure that any generated content adheres to a brand's desired representation:
+Channel guidelines enable two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in [[!DNL Create]](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
 * [**Brand validation**](#content-checks), which happens as part of the content creation process
 
 ## Content checks
 
-In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
+Along with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketing content aligns with your brand identity.
 
 GenStudio for Performance Marketing conducts brand validation and content checks, including ADA accessibility standards and platform standards, and provides a checklist for generated content to highlight improvement areas.
 

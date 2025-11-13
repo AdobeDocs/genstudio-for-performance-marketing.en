@@ -8,7 +8,7 @@ exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
 
 [!DNL Personas] provide an authentic portrayal of your customer segments, encompassing their information, interests, pain points, preferences, and behavioral traits.
 
-GenStudio for Performance Marketing leverages the power of guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
+GenStudio for Performance Marketing leverages [the power of guidelines](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
 **To view or modify a persona**:
 

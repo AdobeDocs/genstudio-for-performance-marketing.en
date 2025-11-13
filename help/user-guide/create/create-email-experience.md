@@ -29,7 +29,7 @@ To create a new email experience, use an available template to provide the frame
 
 Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt drawer supercharges the content generation process and is an integral preparatory step for generating an email experience.
 
-If you are using a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to your variants. You can change them if desired.
+If you are using a template with pre-defined guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products]) these guidelines apply to your variants. You can change them if desired.
 
 **To add parameters and assets**:
 

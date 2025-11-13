@@ -1,6 +1,6 @@
 ---
 title: Add Guidelines to Adobe GenStudio for Performance Marketing
-description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe GenStudio for Performance Marketing.
+description: Learn how to add guidelines as parameters for your prompts in Adobe GenStudio for Performance Marketing.
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 role: User
 level: Beginner
@@ -8,15 +8,13 @@ exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
 ---
 # Add guidelines
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined guidelines in GenStudio for Performance Marketing that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
-
-See the [guidelines overview](/help/user-guide/guidelines/overview.md).
+GenStudio for Performance Marketing allows you to set user-defined guidelines that ensure any AI-generated content is customized to align with a brand identity. This page offers instructions to set and use each specific available guideline. For a general explanation, see the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding guidelines to GenStudio for Performance Marketing is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts, [accessibility and content checks](overview.md#compliance), and Adobe generative AI technology, to craft impactful assets.
 
 Guidelines can be user-defined or exist as default guidelines, such as the [default [!DNL Brand] channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines).
 
-When creating variants from a template with pre-defined guidelines---[!DNL Brands], [!DNL Personas], or [!DNL Products]---these guidelines apply to the variants. You can change them if desired.
+When creating variants from a template with pre-defined channel guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products]) these guidelines apply to the variants. You can change them if desired.
 
 {{in-academy}}
 
@@ -24,9 +22,11 @@ When creating variants from a template with pre-defined guidelines---[!DNL Brand
 
 To add a [!DNL Brand], [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
-If you upload brand guidelines written in a non-English language—or manually create a brand using a non-English language—GenStudio for Performance Marketing displays those guidelines in that same language.
+In the left navigation area, click **[!DNL Brands]** from the _Shared_ list.
 
-In the left navigation area, click **[!DNL Brands]** from the _Shared_ list. In the _[!DNL Brands]_ panel, select **Add brand**.
+![Guidelines in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
+
+If you upload brand guidelines written in a non-English language—or manually create a brand using a non-English language—GenStudio for Performance Marketing displays those guidelines in that same language.
 
 >[!TIP]
 >
@@ -40,7 +40,7 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 **To upload brand documents**:
 
-1. Select the **[!UICONTROL Add brand]** button.
+1. In the _[!DNL Brands]_ panel, select the **[!UICONTROL Add brand]** button.
 1. Choose **[!UICONTROL Upload PDFs]** and enter a brand name in the _Choose a way to add your brand_ popup.
 1. Select **[!UICONTROL Continue]**.
 1. Browse and attach or drag in your brand guidelines documents to the _[!UICONTROL Add your brand]_ popup.
@@ -91,9 +91,9 @@ You do not have to [publish](#publish-brand) your [!DNL Brand] to make the infor
 
 After manually adding a [!DNL Brand], you can change the thumbnail image to ensure it is easily distinguishable within your [!DNL Brands] list.
 
-If a [!DNL Brand] is created by document extraction (instead of being manually added), an available logo within those documents is automatically implemented as the thumbnail image.
+If a [!DNL Brand] is created with document extraction (instead of being manually added), an available logo within those documents is automatically implemented as the thumbnail image.
 
-**To manually change the thumbnail image for a [!DNL Brand]**:
+**Manually change the thumbnail image for a [!DNL Brand]**:
 
 1. Select **[!UICONTROL Change thumbnail]** from the actions menu.
 1. Upload a new image in the _Upload_ tab.
@@ -115,7 +115,7 @@ In _[!DNL Brands]_, any draft or published [!DNL Brands] appear as tiles. A stat
 **To publish a Brand draft**:
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
-1. Click to open an existing [!DNL Brand] draft.
+1. Click a thumbnail tile to open an existing [!DNL Brand] draft.
 1. Click the **[!UICONTROL Publish]** button (available for drafts only).
 1. In the _Publish brand_ popup, verify who has access to view and use the published [!DNL Brand].
 1. In the _Publish brand_ popup that appears, select **[!UICONTROL Publish]**.
@@ -132,7 +132,7 @@ The published brand is now available for use in [_[!DNL Create]_](/help/user-gui
 
 ### Manage Brands
 
-In the _[!DNL Brands]_ home, you can click to open an already-created brand to manage or publish it.
+In the _[!DNL Brands]_ home, you can click to open an already-created brand in order to manage or publish it.
 
 To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left navigation area and click to open an existing brand.
 
@@ -157,9 +157,11 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 
 ## Add [!DNL Personas]
 
-To add a persona, [upload a persona guide](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
+To add a persona, [upload a persona](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
 
-In the left navigation area, click **[!DNL Personas]** from the _Shared_ list. In the _[!DNL Personas]_ panel, select **Add Persona**.
+In the left navigation area, click **[!DNL Personas]** from the _Shared_ list.
+
+![Guidelines in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
 You can add a [!DNL Persona] in GenStudio for Performance Marketing to help target the content you create to your ideal audience.
 
@@ -171,7 +173,7 @@ You can upload your own persona documents to populate new personas.
 
 See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
-1. Select the **[!UICONTROL Add persona]** button.
+1. In the _[!DNL Personas]_ panel, select the **[!UICONTROL Add persona]** button.
 1. Choose **[!UICONTROL Upload files]** and enter a persona name in the _Choose a way to add your persona_ popup.
 1. Select **[!UICONTROL Continue]**.
 1. Browse and attach or drag in your persona guidelines documents to the _[!UICONTROL Add your persona]_ popup.
@@ -225,9 +227,12 @@ In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to
 
 ## Add [!DNL Products]
 
-To add a product, [upload a product guide](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
+To add a product: 
 
-In the left navigation area, click **[!DNL Products]** from the _Shared_ list. In the _[!DNL Products]_ panel, select **Add product**.
+1. In the left navigation area, click **[!DNL Products]** from the _Shared_ list. 
+![Guidelines in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
+1. In the _[!DNL Products]_ panel, select **Add product**.
+1. Choose to [upload a product](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
 
 ![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
 
@@ -254,7 +259,7 @@ See [[!DNL Products]](/help/user-guide/guidelines/products.md).
 
    The view for your new product opens, showing the product guidelines details extracted from your documents. A popup notifies you _"Your product is ready to review"_ and reminds you to review the extracted content and make any necessary edits.
 
-### Manually add product
+### Manually add a product
 
 You can manually add product details, instead of uploading existing product documents, to populate a new [products](products.md).
 
@@ -276,7 +281,7 @@ You can manually add product details, instead of uploading existing product docu
       You can also delete or crop an existing thumbnail image in the _Upload_ tab.
 
    1. Click **[!UICONTROL Use image]**.
-1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
+   1. To edit the cover image, hover over the cover and from the actions menu select **[!UICONTROL Edit cover]**.
    1. Choose an image from the gallery in the _Gallery_ tab _or_ upload a new image in the _Upload_ tab.
    1. Click **[!UICONTROL Use image]**.
    1. To reposition the cover image click **[!UICONTROL Reposition]** from the action menu, drag the image into the desired position, and click **[!UICONTROL Save]**.
@@ -290,3 +295,30 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 - Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
 - Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
 - Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
+
+## Add [!DNL Audiences]
+
+>[!NOTE]
+>
+>The [!DNL Audiences] feature requires onboarding by the Adobe team to appear in GenStudio. If _[!DNL Audiences]_ doesn't appear in the template parameters, contact your Adobe representative.
+
+[!DNL Audiences] provide targeted customer segments from Adobe Real-Time Customer Data Platform (RTCDP), bringing precise targeting data into your content generation workflow. GenStudio for Performance Marketing leverages audience definitions to help you create tailored marketing content aligned with specific customer segments.
+
+[!DNL Audiences] appear as a dropdown in the parameter pane, in [the _[!DNL Create]_ workflow](../create/overview.md#templates). _[!DNL Audiences]_ can add specificity to _[!DNL Personas]_ when both guidelines are used, but can also be effectively used independently.
+
+During onboarding, audience definitions are imported and transformed into a GenStudio-compatible format. This process typically takes a few days to complete. Contact your Adobe team to initiate it.
+
+**Prerequisites**:
+
+- Organizational access to Adobe Real-Time Customer Data Platform
+- Existing audiences already configured in RTCDP sandboxes
+- The _[!DNL Audience]_ integration requires a manual onboarding process by the Adobe team 
+
+**To select an audience**:
+
+1. In [the _[!DNL Create]_ workflow](../create/overview.md#templates), select a template and click the **[!UICONTROL Use]** button to open the draft.
+1. In the parameters list, click the _[!UICONTROL Audience]_ dropdown to view all the available audiences.
+![Audience dropdown in the Persona parameters pane](./audience-dropdown.png){width=450}
+1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected [!DNL Persona], if a [!DNL Persona] is selected.
+1. Click **[!UICONTROL See audience details]** to view the expanded description and messaging preferences generated for the selected audience. Audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
+![Audience details pane](./audience-details.png){width=450}

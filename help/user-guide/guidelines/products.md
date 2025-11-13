@@ -8,7 +8,7 @@ exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
 
 [!DNL Products] in GenStudio for Performance Marketing leverage a deep understanding of product specifications, advantages, and differentiating factors to generate impactful content.
 
-[!DNL Products] encompass all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, GenStudio for Performance Marketing guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](/help/user-guide/guidelines/overview.md)—work together to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
+[!DNL Products] encompass all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, GenStudio for Performance Marketing [guidelines](/help/user-guide/guidelines/overview.md)—work together to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
 
 **To view or modify a product**:
 

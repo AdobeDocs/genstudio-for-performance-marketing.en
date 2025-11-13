@@ -12,8 +12,9 @@ GenStudio for Performance Marketing conducts brand validation and other content 
 
 * Defined or default [!DNL Brand] guidelines
 * Platform guidelines
-<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * American with Disabilities Act (ADA) standards
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
+
 
 ## Content check summary
 
