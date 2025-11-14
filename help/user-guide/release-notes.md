@@ -13,41 +13,44 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Real-Time CDP audience integration
 
-GenStudio for Performance Marketing now integrates with Adobe Real-Time Customer Data Platform (RTCDP), enabling marketers to leverage audience definitions directly in the [!DNL Create] workflow. By selecting RTCDP audiences during content generation, marketers can create personalized ad creative and email copy informed by customer context—including messaging preferences, buyer segments, journey stages, and behavioral data. This integration closes the gap between audience intent and creative development, allowing marketing teams to generate content tailored to activatable segments with greater speed and confidence.
+* GenStudio for Performance Marketing now integrates with Adobe Real-Time Customer Data Platform (RTCDP), enabling marketers to leverage audience definitions directly in the [!DNL Create] workflow. 
+* By selecting [!DNL Audience] parameters during content generation, marketers can create personalized creative and email copy informed by customer context—including messaging preferences, buyer segments, journey stages, and behavioral data.
 
 ### Innovid Insights for display advertising
 
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-[!DNL Insights] now includes Innovid (formerly Flashtalking) as a display advertising channel, enabling marketers to analyze campaign performance alongside Meta, LinkedIn, and TikTok in a unified platform. With daily data refresh and access to key performance metrics including impressions, clicks, and CTR, marketers can make faster optimization decisions without switching between multiple tools. This integration expands GenStudio's omnichannel capabilities, positioning it as a single source of truth for performance marketing analysis.
+* [!DNL Insights] now includes Innovid (formerly Flashtalking) as a display advertising channel, enabling marketers to analyze campaign performance alongside Meta, LinkedIn, and TikTok in a unified platform. 
+* With daily data refresh and access to key performance metrics including impressions, clicks, and CTR, marketers can make faster optimization decisions without switching between tools.
 
 ### Out-of-the-box translation for Paid Media and Email
 
-Global marketers can now instantly translate approved paid media and email experiences into 40+ languages directly within GenStudio for Performance Marketing. Using Azure Open AI translation services, teams can bulk translate content into multiple target languages simultaneously, enabling efficient global scaling without relying on third-party translation agencies. This built-in translation capability accelerates time-to-market, reduces translation costs, and empowers both global and regional marketers to quickly localize campaigns for their audiences.
+* Instantly translate approved paid media and email experiences into 40+ languages directly within GenStudio for Performance Marketing. 
+* Using Azure Open AI translation services, teams can bulk translate content into multiple target languages simultaneously.
 
 ### PDF export for experiences
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-Marketers can now [export experiences into PDF format](/help/user-guide/content/manage-assets.md#export-experiences) for review, approval, and archival purposes. This capability addresses compliance workflows in regulated industries where non-editable PDF documents are required for submission systems and audit trails. The PDF export provides a summary page with selectable text along with content pages, enabling teams to streamline approval processes and reduce manual conversion steps.
+* Marketers can now [export experiences into PDF format](/help/user-guide/content/manage-assets.md#export-experiences) for review, approval, and archival purposes.
 
 ### Custom models on Firefly Image Model 4
 
-GenStudio for Performance Marketing now supports [custom models trained on Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md), delivering significantly enhanced on-brand image generation capabilities. These advanced custom models provide superior quality and precision compared to previous Image Model 3-based custom models, enabling marketers to create highly refined, brand-aligned images with improved photorealism and detail. This upgrade empowers teams to generate on-brand visual content that better represents their brand identity and creative vision.
+* GenStudio for Performance Marketing now supports [custom models trained on Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md), delivering significantly enhanced on-brand image generation capabilities with improved photorealism and detail.
 
 ### Meta single video ad activation
 
-Marketers can now [activate Meta ads with single video assets](/help/user-guide/activation/activate-meta-ad.md) directly from GenStudio for Performance Marketing into Meta Ads Manager. This capability enables media buyers, performance marketers, and creative teams to seamlessly publish video ad experiences, maintaining the same streamlined workflow used for static ad activation. Users can configure video ad creative details, preview how the video will appear, and activate video ads to Meta platforms—all from one place.
+* Marketers can now [activate Meta ads with single video assets](/help/user-guide/activation/activate-meta-ad.md) directly from GenStudio for Performance Marketing into Meta Ads Manager. This enables media buyers, performance marketers, and creative teams to seamlessly publish video ad experiences, maintaining the same streamlined workflow used for static ad activation. 
+* Users can configure video ad creative details, preview how the video will appear, and activate video ads to Meta platforms.
 
 ### CPA by Action Type for Meta campaigns
 
-GenStudio for Performance Marketing now enables marketers to analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/ads.md) for Meta advertising campaigns. Instead of a single fixed metric, users can select from multiple action types—such as purchases, add-to-cart events, leads, video views, or custom conversions—to calculate and view CPA across campaigns, ads, assets, and attributes in [!DNL Insights]. This action-type-specific measurement ensures campaign metrics align with actual optimization goals, enabling faster and more accurate performance decisions.
+* Analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/ads.md) for Meta advertising campaigns. 
+* Instead of a single fixed metric, select from multiple action types—such as purchases, add-to-cart events, leads, video views, or custom conversions—to calculate and view CPA across campaigns, ads, assets, and attributes in [!DNL Insights].
 
 ### Fixes and enhancements
 
 * An SDK extension has been added that allows customers to connect to their own DAMs instead of using AEM Assets as default for assets during content generation.
 * Users can now apply [!DNL Brand] tags in order to group [!DNL Product] and [!DNL Persona] records by [!DNL Brand].
-* [!DNL Experience Translations] flow has been optimized.
+* [!DNL Experience Translations] flow has been optimized alongside the new translation feature for Paid Media and Email.
 
 
 ## Earlier release notes
