@@ -9,7 +9,53 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.10.16 {#latest}
+## 2025.11.14 {#latest}
+
+### Real-Time CDP audience integration
+
+* GenStudio for Performance Marketing now integrates with Adobe Real-Time Customer Data Platform (RTCDP), enabling marketers to leverage audience definitions directly in the [!DNL Create] workflow. 
+* By selecting [!DNL Audience] parameters during content generation, marketers can create personalized creative and email copy informed by customer context—including messaging preferences, buyer segments, journey stages, and behavioral data.
+
+### Innovid Insights for display advertising
+
+* [!DNL Insights] now includes Innovid (formerly Flashtalking) as a display advertising channel, enabling marketers to analyze campaign performance alongside Meta, LinkedIn, and TikTok in a unified platform. 
+* With daily data refresh and access to key performance metrics including impressions, clicks, and CTR, marketers can make faster optimization decisions without switching between tools.
+
+### Out-of-the-box translation for Paid Media and Email
+
+* Instantly translate approved paid media and email experiences into 40+ languages directly within GenStudio for Performance Marketing. 
+* Using Azure Open AI translation services, teams can bulk translate content into multiple target languages simultaneously.
+
+### PDF export for experiences
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+* Marketers can now [export experiences into PDF format](/help/user-guide/content/manage-assets.md#export-experiences) for review, approval, and archival purposes.
+
+### Custom models on Firefly Image Model 4
+
+* GenStudio for Performance Marketing now supports [custom models trained on Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md), delivering enhanced on-brand image generation capabilities with improved photorealism and detail.
+
+### Meta single video ad activation
+
+* Marketers can now [activate Meta ads with single video assets](/help/user-guide/activation/activate-meta-ad.md) directly from GenStudio for Performance Marketing into Meta Ads Manager. This enables media buyers, performance marketers, and creative teams to seamlessly publish video ad experiences, maintaining the same streamlined workflow used for static ad activation. 
+* Users can configure video ad creative details, preview how the video will appear, and activate video ads to Meta platforms.
+
+### CPA by Action Type for Meta campaigns
+
+* Analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/ads.md) for Meta advertising campaigns. 
+* Instead of a single fixed metric, select from multiple action types—such as purchases, add-to-cart events, leads, video views, or custom conversions—to calculate and view CPA across campaigns, ads, assets, and attributes in [!DNL Insights].
+
+### Fixes and enhancements
+
+* An SDK extension has been added that allows customers to connect to their own DAMs instead of using AEM Assets as default for assets during content generation.
+* Users can now apply [!DNL Brand] tags in order to group [!DNL Product] and [!DNL Persona] records by [!DNL Brand].
+* [!DNL Experience Translations] flow has been optimized alongside the new translation feature for Paid Media and Email.
+
+
+## Earlier release notes
+
++++Notes from 2025.10.16
 
 ### New GenStudio plugins for Photoshop and Figma
 
@@ -53,8 +99,9 @@ This release information provides the latest updates to the GenStudio for Perfor
   * Maintain single source of truth by connecting directly to third-party systems
   * SDK and sample app provided for building custom integrations
 
++++
 
-## Earlier release notes
+
 
 +++Notes from 2025.09.11
 
