@@ -9,7 +9,7 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.11 {#latest}
+## 2025.11.14 {#latest}
 
 ### Real-Time CDP audience integration
 
