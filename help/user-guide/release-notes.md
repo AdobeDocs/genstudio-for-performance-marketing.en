@@ -34,7 +34,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Custom models on Firefly Image Model 4
 
-* GenStudio for Performance Marketing now supports [custom models trained on Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md), delivering significantly enhanced on-brand image generation capabilities with improved photorealism and detail.
+* GenStudio for Performance Marketing now supports [custom models trained on Adobe Firefly Image Model 4](/help/user-guide/create/generate-assets.md), delivering enhanced on-brand image generation capabilities with improved photorealism and detail.
 
 ### Meta single video ad activation
 
