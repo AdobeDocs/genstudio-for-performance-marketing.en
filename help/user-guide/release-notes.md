@@ -46,7 +46,7 @@ GenStudio for Performance Marketing now enables marketers to analyze [Cost Per A
 ### Fixes and enhancements
 
 * An SDK extension has been added that allows customers to connect to their own DAMs instead of using AEM Assets as default for assets during content generation.
-* Users can now apply Brand tags in order to group Products and Persona records by Brand.
+* Users can now apply [!DNL Brand] tags in order to group [!DNL Product] and [!DNL Persona] records by [!DNL Brand].
 * [!DNL Experience Translations] flow has been optimized.
 
 
