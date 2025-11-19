@@ -135,26 +135,13 @@ The `onSelectionConfirmed` callback receives an array of [!DNL Experience] objec
 |----------|------|-------------|
 | `id` | `string` | Unique identifier for the [!DNL Experience] (URN format.) |
 | `content` | `string` | Base64-encoded HTML string representing the [!DNL Experience]. |
-| `experienceFields` | `object` | Key-value pairs of editable fields in the [!DNL Experience]. More info below. |
+| `experienceFields` | `object` | Key-value pairs of editable fields in the [!DNL Experience]. Each field in `experienceFields` contains: <ul><li>`fieldName`: The name/identifier of the field.</li><li>`fieldValue`: The actual content/value of the field.</li></ul> |
 | `metadata` | `object` | Metadata about the experience (e.g., `channel`, `externalTemplateMetadata`, `externalAssetMetadata` etc.) |
-| `aspectVariants` | `array` | Array of aspect ratio variants for the [!DNL Experience] |
+| `aspectVariants` | `array` | Array of aspect ratio variants for the [!DNL Experience]. Each variant contains: <ul><li>`aspectKey`: Unique identifier for the variant.</li><li>`aspectMetadata`: Metadata, including `channel` and `aspectRatio`.</li><li>`content`: Base64-encoded HTML string for this specific aspect ratio.</li></ul>  |
 
-**Experience fields:**
+### Example JSON
 
-Each field in `experienceFields` contains:
-
-- `fieldName`: The name/identifier of the field
-- `fieldValue`: The actual content/value of the field
-
-**Aspect variants:**
-
-Each variant in `aspectVariants` contains:
-
-- `aspectKey`: Unique identifier for the variant
-- `aspectMetadata`: Metadata including `channel` and `aspectRatio`
-- `content`: Base64-encoded HTML string for this specific aspect ratio
-
-### Sample JSON
+Below is a sample JSON block showing the schemas.
 
 ```json
 {
