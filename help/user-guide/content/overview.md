@@ -44,21 +44,21 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
       </p>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
+      <a href="../templates/customize-template.md">
          <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.png">
       </a>
       <p>
-         <a href="../content/customize-template.md">
+         <a href="../templates/customize-template.md">
          <strong>Customize a template</strong>
          </a>
       </p>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
+      <a href="../templates/use-templates.md">
          <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
-         <a href="../content/use-templates.md#upload-a-template">
+         <a href="../templates/use-templates.md#upload-a-template">
          <strong>Upload template</strong>
          </a>
       </p>
@@ -80,4 +80,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements. Learn about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into building templates with the [Customize a template](customize-template.md) topic.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements. Learn about basic template elements and procedures in [Work with Templates](../templates/use-templates.md). And deep-dive into building templates with the [Customize a template](../templates/customize-template.md) topic.

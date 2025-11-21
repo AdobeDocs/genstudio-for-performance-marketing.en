@@ -49,7 +49,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 >[!TIP]
 >
->Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/templates/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Manage templates
 
@@ -57,7 +57,7 @@ The _[!DNL Templates]_ gallery displays your inventory of templates customized f
 
 ### Search templates
 
-Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. There are filters based on [guidelines](/help/user-guide/guidelines/overview.md), [keywords](asset-details.md#user-defined-metadata), and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results.
+Each [!DNL Content] view provides filter options to narrow your search for the ideal asset, experience, or template. There are filters based on [guidelines](/help/user-guide/guidelines/overview.md), [keywords](../content/asset-details.md#user-defined-metadata), and [attribute categories](/help/user-guide/insights/attributes.md#categories) to narrow search results.
 
 For example, you may want to find a template of a specific channel type or aspect ratio created by you:
 
@@ -90,7 +90,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
+   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
 
 5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
@@ -107,7 +107,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 ### Refresh template
 
-Templates may include static files, such as icons or logos. [Static content](/help/user-guide/content/customize-template.md#static-content) is not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. Use refresh to update the template preview with the latest versions of these assets.
+Templates may include static files, such as icons or logos. [Static content](/help/user-guide/templates/customize-template.md#static-content) is not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. Use refresh to update the template preview with the latest versions of these assets.
 
 **To refresh the template**:
 
@@ -149,4 +149,4 @@ Recognized application patterns include:
 
 >[!ENDSHADEBOX]
 
-Next, [customize your template](/help/user-guide/content/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.
+Next, [customize your template](/help/user-guide/templates/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.

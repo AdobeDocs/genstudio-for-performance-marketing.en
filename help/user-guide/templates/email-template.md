@@ -34,11 +34,11 @@ GenStudio for Performance Marketing automatically generates the following fields
 - `pre_header`
 - `subject`
 
-The maximum fields allowed in a template are 20. See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) to understand more about using field names in templates.
+The maximum fields allowed in a template are 20. See [Content placeholders](/help/user-guide/templates/customize-template.md#content-placeholders) to understand more about using field names in templates.
 
 ## Multi-section email
 
-_Sections_ allow you to organize content into distinct groups, supporting more complex layouts. In GenStudio for Performance Marketing, you can define each section using a group naming convention. See [Customize template sections](/help/user-guide/content/customize-template.md#sections-or-groups).
+_Sections_ allow you to organize content into distinct groups, supporting more complex layouts. In GenStudio for Performance Marketing, you can define each section using a group naming convention. See [Customize template sections](/help/user-guide/templates/customize-template.md#sections-or-groups).
 
 Multi-section templates can have 0, 2, or 3 sections:
 

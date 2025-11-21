@@ -78,7 +78,7 @@ The following table lists the management tasks available for assets, experiences
 | [Create experience](/help/user-guide/create/overview.md)  |        |             |     ✓     |
 | [Edit in Adobe Express](#edit-in-express)                 |   ✓    |             |           |
 | [Export experiences](#export-experiences)                 |        |     ✓       |           |
-| [Refresh](/help/user-guide/content/use-templates.md#refresh-template) |   |      |     ✓     |
+| [Refresh](/help/user-guide/templates/use-templates.md#refresh-template) |   |      |     ✓     |
 | [Download](#download-assets)                              |   ✓    |             |     ✓     |
 | [Delete](#delete-assets)                                  |   ✓    |     ✓       |     ✓     |
 

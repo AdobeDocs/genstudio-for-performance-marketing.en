@@ -10,7 +10,7 @@ exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 
 Templates significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-Use the following recommendations when using templates with GenStudio for Performance Marketing:
+Adhere to the following recommendations when using templates with GenStudio for Performance Marketing:
 
 1. Know about [template elements](#know-about-template-elements)
 1. Configure [channel guidelines](#configure-channel-guidelines) for effective personalization of content
@@ -19,19 +19,32 @@ Use the following recommendations when using templates with GenStudio for Perfor
 
 >[!TIP]
 >
->Learn more about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for use in your next campaign.
+>Learn the basics of template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for specific instructions to use in your next campaign.
 
-## Know about template elements
+## Use the right template elements
 
-As a best practice, familiarize yourself with the parts of a template. Each template type uses different elements to create a structure for channel-specific content creation. To customize your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
+ Each template type uses different elements to create a structure for channel-specific content creation. [Familiarize yourself with the parts of a template](use-templates.md#template-elements) and include the best elements for your content and template type. 
+ 
+ When customizing your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
 
 See [Template elements](use-templates.md#template-elements).
+
+## Using placeholder text in templates
+
+Placeholder text can help define syntax or structure for content to be filled in later in a template by a user. For example, {first_name}.{last_name}@email.etc. to define an email address. However, some common delimiters are already reserved for other meanings in GenStudio for Performance Marketing:
+
+❌ < > - In use for HTML tags.
+❌ {{ }} - In use for Handlebar expressions.
+
+Use single brackets (whether straight or curly) to indicate placeholder text to avoid confusion with existing tags.
+
+✅ {first_name} - Placeholder for first name.
 
 ## Configure channel guidelines
 
 Defining clear channel guidelines is essential to ensure that your generated content aligns with your brand's requirements and objectives. Channel guidelines let you specify rules for elements like tone, length, and style used in your template. For example, you can set a maximum character count for the body or require a specific call-to-action style. By setting these guidelines in advance, you reduce the need to write out detailed instructions in each AI prompt, streamlining the content generation process and ensuring consistency across your emails.
 
-Review and define your Brand's [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for all key fields in your template. If you do not define guidelines, then the [default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) are applied, which may not fully reflect your brand requirements.
+Review and define your Brand's [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for all key fields in your template. If you don't define guidelines, then the [default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) are applied, which may not fully reflect your brand requirements.
 
 ![Body specifications](/help/assets/channel-email-body.png)
 
@@ -47,19 +60,19 @@ There's no "autofit" functionality for images included in templates.
 
 To resolve image cropping, users must define the aspect ratio of the image to be used in the template when it's uploaded to the content repository. When uploading an approved template:
 
-1. [Proceed through the template upload process](/help/user-guide/content/use-templates.md#add-a-template) until you reach the **[!UICONTROL Add details]** page.
+1. [Proceed through the template upload process](/help/user-guide/templates/use-templates.md#add-a-template) until you reach the **[!UICONTROL Add details]** page.
 
 2. Define the aspect ratio of the image to be used in the template in **[!UICONTROL Ad width (px)]** and **[!UICONTROL Ad height (px)]**. This will define the image window for the section of the template displaying the image.
 
 3. In the **[!UICONTROL More details]** section, select the **[!UICONTROL Image size]** dropdown and choose _Crop to a fixed size_.
-   ![Cropped to a fixed size](./images/crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
+   ![Cropped to a fixed size](images/crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
 
 To determine an image's size and aspect ratio in browser:
 
 1. Inspect the image.
-   - Windows/Linux:
+   - On Windows/Linux:
      - Press F12.
-   - macOS:
+   - On macOS:
      - Press Command + Option + I.
    
 1. Hover over the image.
@@ -68,11 +81,11 @@ To determine an image's size and aspect ratio in browser:
 
 When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that don't match that aspect ratio exactly will appear cropped.
 
-![Image cropped in a display ad](./images/cropped-display.png "Image cropping"){width="60%"}
+![Image cropped in a display ad](images/cropped-display.png "Image cropping"){width="60%"}
 
 **❌ Cropped image in a display ad template**
 
-![Image displayed in a display ad](./images/full-fit.png "Image displayed in display ad"){width="60%"}
+![Image displayed in a display ad](images/full-fit.png "Image displayed in display ad"){width="60%"}
 
 **✅ Image fully displayed**
 

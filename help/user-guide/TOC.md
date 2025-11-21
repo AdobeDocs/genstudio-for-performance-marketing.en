@@ -59,12 +59,12 @@ role: User
   + [Asset details](content/asset-details.md)
   + [Content Credentials](content/content-credentials.md)
 + Templates {#templates}
-  + [Work with templates](content/use-templates.md)
+  + [Work with templates](templates/use-templates.md)
   + [Starter templates](templates/starter-templates.md)
-  + [Customize a template](content/customize-template.md)
-  + [Template code editor](content/code-editor.md)
-  + [Create accessible templates](content/accessibility-for-templates.md)
-  + [Best practices for templates](content/best-practices-for-templates.md)
+  + [Customize a template](templates/customize-template.md)
+  + [Template code editor](templates/code-editor.md)
+  + [Create accessible templates](templates/accessibility-for-templates.md)
+  + [Best practices for templates](templates/best-practices-for-templates.md)
   + Channel best practice {#channel-best-practice}
     + [Display ads guide](templates/display-template.md)
     + [Email guide](templates/email-template.md)

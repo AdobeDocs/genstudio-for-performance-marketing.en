@@ -24,7 +24,7 @@ Editable sections of a display ad experience include:
 * Call to action (CTA)
 * Image
 
-See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+See [Template elements](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Character counts
 

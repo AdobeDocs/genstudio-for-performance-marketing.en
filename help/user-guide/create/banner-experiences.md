@@ -15,7 +15,7 @@ Adobe GenStudio for Performance Marketing enables you to harness generative AI t
 
 When generating banner experiences four variations are created and shown in the Canvas.
 
-See [Follow channel-specific template guidelines](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported dimensions, recognized fields names, and more.
+See [Follow channel-specific template guidelines](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported dimensions, recognized fields names, and more.
 
 Editable sections of a display ad experience include:
 
@@ -25,7 +25,7 @@ Editable sections of a display ad experience include:
 * Call to action (CTA)
 * Image
 
-See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+See [Template elements](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Character counts
 

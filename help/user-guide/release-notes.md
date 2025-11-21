@@ -143,7 +143,7 @@ The new Language selector in the prompt drawer supports multilingual content cre
 
 Multiple text fields with the same role are now supported (for example, 'body', 'cta', 'on image text', etc.) for complex customer templates. 
 
-Explore the details in [the guidance for the Template Code Editor](/help/user-guide/content/code-editor.md).
+Explore the details in [the guidance for the Template Code Editor](/help/user-guide/templates/code-editor.md).
 
 ### New Firefly image generation models supported
 
@@ -242,7 +242,7 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 ### Fixes and enhancements
 
 * Enabled functionality for [adding alternative (alt) text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) to an image for an individual variant.
-* Added a [new Meta aspect ratio](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —Landscape 1.19:1 (1080 pixel width).
+* Added a [new Meta aspect ratio](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) —Landscape 1.19:1 (1080 pixel width).
 * Now you can choose more than one experience for export or download. See [Export experiences](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -252,9 +252,9 @@ Along with image content, you can now add videos to [LinkedIn](/help/user-guide/
 
 ### Fixes and enhancements
 
-* New filter options for templates! Now you can refine your _[!UICONTROL Select templates]_ list in [!DNL Create] and in _[!UICONTROL Content]_ > _[!UICONTROL Templates]_. See [Search templates](/help/user-guide/content/use-templates.md#search-templates). Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
+* New filter options for templates! Now you can refine your _[!UICONTROL Select templates]_ list in [!DNL Create] and in _[!UICONTROL Content]_ > _[!UICONTROL Templates]_. See [Search templates](/help/user-guide/templates/use-templates.md#search-templates). Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 * Enabled functionality to [view and select individual layers](/help/user-guide/create/manage-variants.md#view-layers)—editable text fields or editable images—of an experience to highlight them for revisions, such as regenerating content or cropping images.
-* Added a [new template field](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
+* Added a [new template field](/help/user-guide/templates/use-templates.md#template-elements), `sub-headline`, for additional text in experiences to grab audience attention and highlight marketing messaging.
 * Added support for [publishing ad experiences](/help/user-guide/activation/overview.md) from GenStudio for Performance Marketing into Google Campaign Manager 360. Activate supports detailed Google Campaign Manager 360 ad previews before publishing to a Campaign Manager 360 advertiser. Ads published through Activate are automatically pulled into the Insights once live, enabling users to track and report on ad performance.
 
 +++
@@ -269,13 +269,13 @@ Marketers can now [publish ad experiences](/help/user-guide/activation/overview.
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-Added support for [creating LinkedIn experiences](/help/user-guide/create/create-linkedin.md). See the [LinkedIn ad](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+Added support for [creating LinkedIn experiences](/help/user-guide/create/create-linkedin.md). See the [LinkedIn ad](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
 
 ### Create banner experiences
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
-Added support for [creating banner experiences](/help/user-guide/create/create-banner-experience.md). See the [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
+Added support for [creating banner experiences](/help/user-guide/create/create-banner-experience.md). See the [Banner](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) tab in channel-specific guidelines.
 
 ### Compliance
 
@@ -287,12 +287,12 @@ The new GenStudio for Performance Marketing [extensibility framework](/help/exte
 
 ### Templates
 
-* **Template code editor**—The new [Template code editor](/help/user-guide/content/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
+* **Template code editor**—The new [Template code editor](/help/user-guide/templates/code-editor.md) helps you verify and refine your template for optimal use when generating new experiences with GenStudio for Performance Marketing.
 
   ![Code editor view](/help/assets/template-detected-fields.png "Check detected fields"){width="500" zoomable="yes"}
 
-* **Links on image**—Customize your email template by enabling image links. See [Customize a template: Link on image](/help/user-guide/content/customize-template.md#link-on-image).
-* **AJO and Marketo templates**—Upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. See [Work with templates from AJO and Marketo](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+* **Links on image**—Customize your email template by enabling image links. See [Customize a template: Link on image](/help/user-guide/templates/customize-template.md#link-on-image).
+* **AJO and Marketo templates**—Upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. See [Work with templates from AJO and Marketo](/help/user-guide/templates/use-templates.md#templates-from-ajo-and-marketo).
 
 ### Fixes and enhancements
 
@@ -330,7 +330,7 @@ Beta programs provide a way to help shape product development and determine gene
 
 ### Generate new Calls to Action
 
-You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/content/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+You can now generate new call-to-action (CTA) phrases when managing variants. Use the new _Rephrase_ and _Add link_ options to generate new phrases and edit the CTA link. Your template must be set up properly for these new CTA functions to work. Follow the guidelines in _Customize a template_: [Calls to action](/help/user-guide/templates/customize-template.md#calls-to-action). For guidelines on managing CTAs in variants, see [Revise Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
 ### Fixes and enhancements
 
@@ -376,7 +376,7 @@ Editors can now specify custom values to these aspects of generated variants:
 
 * Dimensions to images in display ad experiences during image upload.<!-- GS-7166 -->
 
-* See channel-specific guidelines in the [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+* See channel-specific guidelines in the [Best practices for templates](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Export options now include:
 
@@ -440,7 +440,7 @@ Additional new capabilities allow editors to:
 
 ### New features
 
-Added support for displaying static content hosted on external domains. GenStudio for Performance Marketing validates the content source defined in the template and embeds a copy to produce the template preview. See [Static content](/help/user-guide/content/customize-template.md#static-content). <!-- GS-6107 -->
+Added support for displaying static content hosted on external domains. GenStudio for Performance Marketing validates the content source defined in the template and embeds a copy to produce the template preview. See [Static content](/help/user-guide/templates/customize-template.md#static-content). <!-- GS-6107 -->
 
 ### Fixes and enhancements
 

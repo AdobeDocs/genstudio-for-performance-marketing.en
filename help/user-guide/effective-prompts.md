@@ -53,7 +53,7 @@ GenStudio for Performance Marketing guidelines help the generative AI to persona
 
 ### Structured prompts
 
-For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/customize-template.md#sections-or-groups) so that the generated content can be inserted into the corresponding content placeholders.
+For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/templates/customize-template.md#sections-or-groups) so that the generated content can be inserted into the corresponding content placeholders.
 
 For instance, you can instruct GenStudio for Performance Marketing to generate content for an email that promotes a new product in the first section and details the cost-saving benefits in the second section.
 
@@ -87,7 +87,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-See [best practices for using templates](/help/user-guide/content/best-practices-for-templates.md).
+See [best practices for using templates](/help/user-guide/templates/best-practices-for-templates.md).
 
 ## Try again
 

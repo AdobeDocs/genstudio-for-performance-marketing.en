@@ -24,8 +24,8 @@ Provide text alternatives for non-textual content, such as images.
 
 When customizing your template, use content placeholders for the `alt` and `aria-label` attributes:
 
-- [Alternative text](/help/user-guide/content/customize-template.md#alternative-text)
-- [Accessibility label](/help/user-guide/content/customize-template.md#accessibility-label)
+- [Alternative text](/help/user-guide/templates/customize-template.md#alternative-text)
+- [Accessibility label](/help/user-guide/templates/customize-template.md#accessibility-label)
 
 ## Fonts
 

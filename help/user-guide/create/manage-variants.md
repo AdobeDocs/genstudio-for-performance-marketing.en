@@ -198,7 +198,7 @@ You can add or swap images in generated variants right from the Canvas.
 
 ## Add links
 
-You can add a link to text, images, and CTA buttons within your variants. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/content/customize-template.md#content-placeholders) to enable this functionality.
+You can add a link to text, images, and CTA buttons within your variants. The template you used to generate variants _must_ contain a [content placeholder for the link](/help/user-guide/templates/customize-template.md#content-placeholders) to enable this functionality.
 
 **To add a link in a variant**:
 
@@ -215,7 +215,7 @@ You can add a link to text, images, and CTA buttons within your variants. The te
 
 When you add content (images) during the creation process, you can define alt text for every image included. Adding alt text to images improves accessibility, search engine optimization, and the user experience.
 
-To enable alt text functionality, [add a content placeholder](/help/user-guide/content/customize-template.md#alternative-text) in the template.
+To enable alt text functionality, [add a content placeholder](/help/user-guide/templates/customize-template.md#alternative-text) in the template.
 
 **To add alt text to images in generated variants**:
 
@@ -241,7 +241,7 @@ Provide an accessible name for image and call-to-action links in your variants b
 1. Click into the text box and add a brief description that explains what the link or button does. For instance, you could use "Shop at WKND's official site" for a call to action button link.
 1. Click **[!UICONTROL Apply]**.
 
-To enable accessibility label functionality, [add a content placeholder](/help/user-guide/content/customize-template.md) in the template.
+To enable accessibility label functionality, [add a content placeholder](/help/user-guide/templates/customize-template.md) in the template.
 
 ## Preview for device
 

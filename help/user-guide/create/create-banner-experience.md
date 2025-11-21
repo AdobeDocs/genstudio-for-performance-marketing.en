@@ -16,7 +16,7 @@ To design an engaging banner experience, it is recommended to [add guidelines to
 
 ## Choose a template
 
-To create a banner experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported banner dimensions.
+To create a banner experience, use an available template to provide the framework for your content. See [Best practices for templates](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported banner dimensions.
 
 **To choose a banner template**:
 
