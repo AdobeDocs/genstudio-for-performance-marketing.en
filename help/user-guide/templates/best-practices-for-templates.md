@@ -52,7 +52,7 @@ To resolve image cropping, users must define the aspect ratio of the image to be
 2. Define the aspect ratio of the image to be used in the template in **[!UICONTROL Ad width (px)]** and **[!UICONTROL Ad height (px)]**. This will define the image window for the section of the template displaying the image.
 
 3. In the **[!UICONTROL More details]** section, select the **[!UICONTROL Image size]** dropdown and choose _Crop to a fixed size_.
-   ![Cropped to a fixed size](../content/images/crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
+   ![Cropped to a fixed size](images/crop-to-fixed-size.png "Cropped to a fixed size"){width="80%"}
 
 To determine an image's size and aspect ratio in browser:
 
@@ -68,11 +68,11 @@ To determine an image's size and aspect ratio in browser:
 
 When these details are not applied during upload, the image is assumed to be the entire aspect ratio of the template and images that don't match that aspect ratio exactly will appear cropped.
 
-![Image cropped in a display ad](../content/images/cropped-display.png "Image cropping"){width="60%"}
+![Image cropped in a display ad](images/cropped-display.png "Image cropping"){width="60%"}
 
 **❌ Cropped image in a display ad template**
 
-![Image displayed in a display ad](../content/images/full-fit.png "Image displayed in display ad"){width="60%"}
+![Image displayed in a display ad](images/full-fit.png "Image displayed in display ad"){width="60%"}
 
 **✅ Image fully displayed**
 
