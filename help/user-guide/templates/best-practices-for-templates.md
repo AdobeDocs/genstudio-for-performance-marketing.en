@@ -34,11 +34,11 @@ See [Template elements](use-templates.md#template-elements).
 Placeholder text can help define syntax or structure for content to be filled in later in a template by a user. For example, {first_name}.{last_name}@email.etc. to define an email address. However, some common delimiters are already reserved for other meanings in GenStudio for Performance Marketing:
 
 ❌ < > - In use for HTML tags.
-❌ {{ }} - In use for Handlebars expressions.
+❌ {{ }} - In use for Handlebar expressions.
 
 Use single brackets (whether straight or curly) to indicate placeholder text to avoid confusion with existing tags.
 
-✅ `{first_name}` - Placeholder for first name.
+✅ {first_name} - Placeholder for first name.
 
 ## Configure channel guidelines
 
@@ -70,9 +70,9 @@ To resolve image cropping, users must define the aspect ratio of the image to be
 To determine an image's size and aspect ratio in browser:
 
 1. Inspect the image.
-   - Windows/Linux:
+   - On Windows/Linux:
      - Press F12.
-   - macOS:
+   - On macOS:
      - Press Command + Option + I.
    
 1. Hover over the image.
