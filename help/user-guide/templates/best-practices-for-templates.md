@@ -10,7 +10,7 @@ exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 
 Templates significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-Use the following recommendations when using templates with GenStudio for Performance Marketing:
+Adhere to the following recommendations when using templates with GenStudio for Performance Marketing:
 
 1. Know about [template elements](#know-about-template-elements)
 1. Configure [channel guidelines](#configure-channel-guidelines) for effective personalization of content
@@ -19,19 +19,32 @@ Use the following recommendations when using templates with GenStudio for Perfor
 
 >[!TIP]
 >
->Learn more about basic template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for use in your next campaign.
+>Learn the basics of template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for specific instructions to use in your next campaign.
 
-## Know about template elements
+## Use the right template elements
 
-As a best practice, familiarize yourself with the parts of a template. Each template type uses different elements to create a structure for channel-specific content creation. To customize your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
+ Each template type uses different elements to create a structure for channel-specific content creation. [Familiarize yourself with the parts of a template](use-templates.md#template-elements) and include the best elements for your content and template type. 
+ 
+ When customizing your template, use the field names in place of these elements where you need GenStudio for Performance Marketing to generate content.
 
 See [Template elements](use-templates.md#template-elements).
+
+## Using placeholder text in templates
+
+Placeholder text can help define syntax or structure for content to be filled in later in a template by a user. For example, {first_name}.{last_name}@email.etc. to define an email address. However, some common delimiters are already reserved for other meanings in GenStudio for Performance Marketing:
+
+❌ < > - In use for HTML tags.
+❌ {{ }} - In use for Handlebars expressions.
+
+Use single brackets (whether straight or curly) to indicate placeholder text to avoid confusion with existing tags.
+
+✅ `{first_name}` - Placeholder for first name.
 
 ## Configure channel guidelines
 
 Defining clear channel guidelines is essential to ensure that your generated content aligns with your brand's requirements and objectives. Channel guidelines let you specify rules for elements like tone, length, and style used in your template. For example, you can set a maximum character count for the body or require a specific call-to-action style. By setting these guidelines in advance, you reduce the need to write out detailed instructions in each AI prompt, streamlining the content generation process and ensuring consistency across your emails.
 
-Review and define your Brand's [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for all key fields in your template. If you do not define guidelines, then the [default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) are applied, which may not fully reflect your brand requirements.
+Review and define your Brand's [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for all key fields in your template. If you don't define guidelines, then the [default channel guidelines](/help/user-guide/guidelines/brands.md#default-channel-guidelines) are applied, which may not fully reflect your brand requirements.
 
 ![Body specifications](/help/assets/channel-email-body.png)
 

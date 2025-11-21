@@ -14,11 +14,13 @@ The next few sections explain how to adapt your HTML templates for GenStudio for
 
 Once your template is ready, you can [upload it to GenStudio for Performance Marketing](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
->[!TIP]
->
->Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/templates/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
+Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/templates/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Content placeholders
+
+>[!TIP]
+>
+>Content placeholders are **not** the same as placeholder text in content meant to be filled in later by a user. See more about [using placeholder text in templates](/help/user-guide/templates/best-practices-for-templates.md#using-placeholder-text-in-templates).
 
 GenStudio for Performance Marketing recognizes certain types of content or [elements](use-templates.md#template-elements) within a template, but only if you identify them with a [recognized field name](#recognized-field-names).
 
@@ -50,16 +52,16 @@ The following table lists the field names recognized by GenStudio for Performanc
 
 GenStudio for Performance Marketing generates certain fields automatically in the following templates:
 
-- **Email template** does not require you to identify the `subject` field
-- **Meta ad template** does not require you to identify the `headline`, `body`, and `CTA` fields
-- **Banner and Display ad template** does not require you to identify the `CTA` field
-- **LinkedIn ad template** does not require you to identify the `headline`, `introductory_text`, and `CTA` fields
+- **Email template** doesn't require you to identify the `subject` field
+- **Meta ad template** doesn't require you to identify the `headline`, `body`, and `CTA` fields
+- **Banner and Display ad template** doesn't require you to identify the `CTA` field
+- **LinkedIn ad template** doesn't require you to identify the `headline`, `introductory_text`, and `CTA` fields
 
 >[!WARNING]
 >
 >For Instagram ads, the generated headline does not appear in the final experience.
 
-There is a limit of 20 fields when uploading a template to GenStudio for Performance Marketing. Since the `subject` field is automatically generated in an email, it counts as one field. This means that there are 19 fields allowed in an email template.
+There's a limit of 20 fields when uploading a template to GenStudio for Performance Marketing. Since the `subject` field is automatically generated in an email, it counts as one field. This means that there are 19 fields allowed in an email template.
 
 >[!TIP]
 >
@@ -120,7 +122,7 @@ In this example:
 
 ### Accessibility label
 
-The `aria-label` attribute is used to define an accessible name for elements that do not have visible labels. This attribute is especially useful in templates where it is important to provide context for interactive elements, such as a CTA button.
+The `aria-label` attribute is used to define an accessible name for elements that don't have visible labels. This attribute is especially useful in templates where it's important to provide context for interactive elements, such as a CTA button.
 
 ```html
 <a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
@@ -184,7 +186,7 @@ Rich text edit is available for standalone content in a paragraph:
 <p>{{body}}</p>
 ```
 
-If you use a content placeholder inside an HTML attribute (such as `alt`, `href`, or `src`), rich text editing is not supported for that field.
+If you use a content placeholder inside an HTML attribute (such as `alt`, `href`, or `src`), rich text editing isn't supported for that field.
 
 Rich text edit is **not** available for `alt` content:
 
