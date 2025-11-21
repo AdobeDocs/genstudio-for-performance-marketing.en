@@ -44,21 +44,21 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
       </p>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
+      <a href="../templates/customize-template.md">
          <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.png">
       </a>
       <p>
-         <a href="../content/customize-template.md">
+         <a href="../templates/customize-template.md">
          <strong>Customize a template</strong>
          </a>
       </p>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
+      <a href="../templates/use-templates.md">
          <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
-         <a href="../content/use-templates.md#upload-a-template">
+         <a href="../templates/use-templates.md#upload-a-template">
          <strong>Upload template</strong>
          </a>
       </p>
