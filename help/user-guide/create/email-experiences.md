@@ -23,7 +23,7 @@ Editable sections of an email experience include:
 * Call to action (CTA)
 * Image
 
-See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+See [Template elements](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Email capabilities
 
@@ -33,7 +33,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 Email experiences can feature multiple sections, allowing full customization to align with your brand and goals. [Select [!DNL Products] and visual assets for each section](/help/user-guide/create/create-email-experience.md#add-parameters) and use [structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) to craft unique content. Each section supports one visual asset.
 
-See [customizing templates with sections](/help/user-guide/content/customize-template.md#sections-or-groups) to learn how to create a multi-section template.
+See [customizing templates with sections](/help/user-guide/templates/customize-template.md#sections-or-groups) to learn how to create a multi-section template.
 
 ## Progressive loading
 

@@ -107,7 +107,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 ### Refresh template
 
-Templates may include static files, such as icons or logos. [Static content](/help/user-guide/content/customize-template.md#static-content) is not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. Use refresh to update the template preview with the latest versions of these assets.
+Templates may include static files, such as icons or logos. [Static content](/help/user-guide/templates/customize-template.md#static-content) is not stored after creating the template preview. GenStudio for Performance Marketing continues to reference the source link provided in the template. Use refresh to update the template preview with the latest versions of these assets.
 
 **To refresh the template**:
 

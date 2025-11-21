@@ -278,4 +278,4 @@ External files are temporarily embedded only for the purpose of creating the tem
 
 ### Refresh content
 
-If the source changes after creating the initial preview, use the [refresh](/help/user-guide/content/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.
+If the source changes after creating the initial preview, use the [refresh](/help/user-guide/templates/use-templates.md#refresh-template) function to update the template preview with the most recent version of the content from the external sources.

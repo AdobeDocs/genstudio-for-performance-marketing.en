@@ -28,7 +28,7 @@ You can generate [!DNL On-brand images] using defined guidelines, parameters, an
 
 ### Choose a reference image
 
-To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported [!DNL on-brand image] dimensions.
+To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported [!DNL on-brand image] dimensions.
 
 **To choose a reference image**:
 

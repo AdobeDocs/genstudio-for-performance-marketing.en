@@ -21,7 +21,7 @@ Editable sections of a LinkedIn experience include:
 * Call to action (CTA)
 * Image/Video
 
-See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+See [Template elements](/help/user-guide/templates/use-templates.md#template-elements).
 
 ## Progressive loading
 

@@ -36,7 +36,7 @@ GenStudio for Performance Marketing automatically generates the following fields
 - `body`
 - `cta`
 
-See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) to understand more about using field names in templates.
+See [Content placeholders](/help/user-guide/templates/customize-template.md#content-placeholders) to understand more about using field names in templates.
 
 ## Supported aspect ratios
 
