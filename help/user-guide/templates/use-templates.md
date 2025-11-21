@@ -49,7 +49,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 >[!TIP]
 >
->Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/templates/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Manage templates
 
@@ -90,7 +90,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/content/code-editor.md) to make simple corrections.
+   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
 
 5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
@@ -149,4 +149,4 @@ Recognized application patterns include:
 
 >[!ENDSHADEBOX]
 
-Next, [customize your template](/help/user-guide/content/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.
+Next, [customize your template](/help/user-guide/templates/customize-template.md) with placeholders to indicate where GenStudio for Performance Marketing should generate content for you. [Add your template](#add-a-template) to the [!DNL Content] repository and validate the template. Make any minor corrections using the code editor.

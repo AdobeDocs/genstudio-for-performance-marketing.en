@@ -16,7 +16,7 @@ Once your template is ready, you can [upload it to GenStudio for Performance Mar
 
 >[!TIP]
 >
->Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/content/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
+>Follow [accessibility guidelines](accessibility-for-templates.md) and [best practices](/help/user-guide/templates/best-practices-for-templates.md) so that you can reach more of your audience and provide an optimal experience.
 
 ## Content placeholders
 
@@ -223,7 +223,7 @@ Each section can use only one of each field type. For example, the following fie
 
 Because of this rule, the sections cannot be nested.
 
-Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](/help/user-guide/content/best-practices-for-templates.md) in the _Best practices for using templates_ topic.
+Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](/help/user-guide/templates/best-practices-for-templates.md) in the _Best practices for using templates_ topic.
 
 For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
 
@@ -247,7 +247,7 @@ Example Preview for an email template:
 
 ![Preview fields detected](/help/assets/template-detected-fields.png "Check detected fields"){zoomable="yes"}
 
-See [Template code editor](/help/user-guide/content/code-editor.md).
+See [Template code editor](/help/user-guide/templates/code-editor.md).
 
 ### Control preview
 
