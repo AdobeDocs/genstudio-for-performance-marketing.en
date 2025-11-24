@@ -38,13 +38,16 @@ In Create, working with [!DNL Adobe Express] templates is mostly the same as [wo
 
 
 Find any available [!DNL Express] templates in [!DNL Creat], under _[!UICONTROL Recents]_ choose **[!UICONTROL From Express Template]s**, or
-![The From Express Templates option, under Recents](./images/express-templates-recent.png)
+
+![The From Express Templates option, under Recents](./images/express-templates-recent.png){width=400}
 
 ...after selecting a template type, in the top bar under **[!UICONTROL Express Templates]**.
-![The Select template pane, showing Express Templates](./images/express-template-select.png)
+
+![The Select template pane, showing Express Templates](./images/express-template-select.png){width=400}
 
 When you select an [!DNL Express] template and click [!UICONTROL Use], the pre-draft parameters and prompt will appear in a popup panel on the left. Click the [!UICONTROL Generate] button to create new content with the selected template.
-![The parameters pane for an Express template](./images/express-template-predraft.png)
+
+![The parameters pane for an Express template](./images/express-template-predraft.png){width=400}
 
 >[!IMPORTANT]
 >
@@ -96,7 +99,7 @@ Assign feedback to each group of generated variants. These feedback labels help 
 
 A single variant size that's been generated in a group of Experiences can be deleted using the trash icon.
 
-![Variant delete icon](./images/variant-delete.png)
+![Variant delete icon](./images/variant-delete.png){width=300}
 
 ### Spacebar-to-pan
 
