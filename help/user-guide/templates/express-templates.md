@@ -13,7 +13,7 @@ badgePremium: label="beta" type="informative" tooltip="This content is in beta"
 [!DNL GenStudio for Performance Marketing] can use templates that have been created and designed in [!DNL Adobe Express]. Bring branded assets from [!DNL Adobe Express] and use these powerful tools to integrate them in compelling marketing campaigns and [!DNL Experiences].
 
 
-> [!NOTE]
+>[!NOTE]
 >
 > This is currently a beta feature. If you're interested in using [!DNL Adobe Express] templates in [!DNL GenStudio for Performance Marketing], contact your [!DNL Adobe] representative to understand the enrollment options.
 
