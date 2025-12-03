@@ -83,15 +83,14 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 ## Supporting your accessibility strategy
 
-GenStudio for Performance Marketing includes content checks designed to assist customers in supporting their own accessibility best practices. These features check for:
+GenStudio for Performance Marketing includes content checks designed to assist customers in supporting their own accessibility best practices. 
+
+This feature includes these content checks:
 
 * Images provide an `<alt>` attribute.
 * Generated text has 4.5:1 contrast against its background.
-* Words or phrases used in an unusual or restricted way, including idioms and jargon.
-* Expanded forms or meaning of abbreviations.
+* Words or phrases used in an unusual or restricted way, including idioms and jargon, are avoided.
+* Expanded forms or meaning of abbreviations are available.
 * Content is readable at a lower secondary education level.
  
-
 Customers are encouraged to use these features as part of their broader accessibility strategy, though customers remain responsible for their own legal and accessibility compliance.
-
-
