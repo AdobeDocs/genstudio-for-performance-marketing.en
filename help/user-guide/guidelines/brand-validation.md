@@ -12,7 +12,7 @@ GenStudio for Performance Marketing conducts brand validation and other content 
 
 * Defined or default [!DNL Brand] guidelines
 * Platform guidelines
-* [American with Disabilities Act (ADA) standards](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
+* [Accessibility standards](/help/user-guide/guidelines/brand-validation.md#supporting-your-accessibility-strategy)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
@@ -81,13 +81,17 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 1. Continue revising sections to ensure the entire variant passes validation and accessibility checks. Navigate through each variant using the arrows adjacent to an individual variant in the Canvas.
 
-## American with Disabilities Act (ADA) validation
+## Supporting your accessibility strategy
 
-These accessibility checks are included for legal compliance with the Americans with Disabilities Act (ADA):
+GenStudio for Performance Marketing includes content checks designed to assist customers in supporting their own accessibility best practices. These features check for:
 
-[WCAG 1.1.1 Non-text content](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - Ensures images provide an `<alt>` attribute.
-[WCAG 1.4.3 Contrast (minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - Ensures generated text has 4.5:1 contrast against its background.
-[WCAG 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - Identifies words or phrases used in an unusual or restricted way, including idioms and jargon.
-[WCAG 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - A mechanism for identifying the expanded form or meaning of abbreviations.
-[WCAG 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - Ensures content is readable at a lower secondary education level.
+* Images provide an `<alt>` attribute.
+* Generated text has 4.5:1 contrast against its background.
+* Words or phrases used in an unusual or restricted way, including idioms and jargon.
+* Expanded forms or meaning of abbreviations.
+* Content is readable at a lower secondary education level.
+ 
+
+Customers are encouraged to use these features as part of their broader accessibility strategy, though customers remain responsible for their own legal and accessibility compliance.
+
 
