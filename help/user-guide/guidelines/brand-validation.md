@@ -12,7 +12,7 @@ GenStudio for Performance Marketing conducts brand validation and other content 
 
 * Defined or default [!DNL Brand] guidelines
 * Platform guidelines
-* [Accessibility standards](/help/user-guide/guidelines/brand-validation.md#supporting-your-accessibility-strategy)
+* [Accessibility support](/help/user-guide/guidelines/brand-validation.md#supporting-your-accessibility-strategy)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
