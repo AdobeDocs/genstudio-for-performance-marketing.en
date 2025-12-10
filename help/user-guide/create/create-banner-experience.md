@@ -52,7 +52,7 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it is essential to craft prompts that are detailed and descriptive.
 
-![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
+![Enter a prompt](/help/assets/prompt-displayad.png){width="300" align="center" zoomable="yes"}
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
