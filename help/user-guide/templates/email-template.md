@@ -40,10 +40,10 @@ The maximum fields allowed in a template are 20. See [Content placeholders](/hel
 
 _Sections_ allow you to organize content into distinct groups, supporting more complex layouts. In GenStudio for Performance Marketing, you can define each section using a group naming convention. See [Customize template sections](/help/user-guide/templates/customize-template.md#sections-or-groups).
 
-Multi-section templates can have 0, 2, or 3 sections:
+Multi-section email templates can have up to 10 sections:
 
 - A basic template (zero sections) can generate a single set of template elements, which doesn't require the group naming convention.
-- A complex template (multiple sections) can generate up to three sets of template elements, which requires you to adhere to the group naming convention: `<groupname_fieldname>`. 
+- A complex template (multiple sections) can generate sets of template elements, which requires you to adhere to the group naming convention: `<groupname_fieldname>`. 
 - When using multiple sections, any elements left standalone, outside of a section, will not be populated.
 
 Here are examples of field names, using the group naming convention, for two sections:
