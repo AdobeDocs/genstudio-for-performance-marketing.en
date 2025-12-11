@@ -2,7 +2,6 @@
 title: Create a Banner Experience
 description: Learn how to create banner experiences in Adobe [!DNL GenStudio] for Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
-badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."
 role: User
 level: Beginner
 recommendations: noDisplay
@@ -52,7 +51,7 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it is essential to craft prompts that are detailed and descriptive.
 
-![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
+![Enter a prompt](/help/assets/prompt-displayad.png){width="300" align="center"}
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 

@@ -36,7 +36,7 @@ If you are using a template with pre-defined guidelines (like [!DNL Brands], [!D
 1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+   ![Choose persona](/help/assets/persona-select-email.png){width="300" align="center"}
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
