@@ -53,7 +53,7 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 After guidelines are selected, craft a prompt using natural language to start generating content for your new display ad experience. To enhance the quality of the generated display ad experiences, it is crucial to craft detailed and descriptive prompts.
 
-![Enter a prompt](/help/assets/prompt-displayad.png){width="300" align="center"}
+![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
