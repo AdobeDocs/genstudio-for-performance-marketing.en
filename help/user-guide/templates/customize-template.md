@@ -216,18 +216,26 @@ Syntax: `groupname_fieldname`
 - _Correct_ (👍): `pod1_body`
 - _Incorrect_ (❌): `pod1body`
 
-Each section can use only one of each field type.Because of this rule, the sections cannot be nested.
-
-For example, the following fields belong to the `pod1` section:
+Each section can use only one of each field type. For example, the following fields belong to the `pod1` section:
 
 - `pod1_headline`
 - `pod1_body`
 - `pod1_image`
 - `pod1_cta`
 
-GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
+Because of this rule, the sections cannot be nested.
 
 Each template type, such as email or Meta ad, has channel-specific constraints on the use of sections. See [channel-specific guidelines](/help/user-guide/templates/best-practices-for-templates.md) in the _Best practices for using templates_ topic.
+
+For example, an email template can include up to three sections; therefore, you could have three headline and body sections:
+
+- `pre_header`
+- `pod1_headline`, `pod1_body`
+- `pod2_headline`, `pod2_body`
+- `pod3_headline`, `pod3_body`
+- `cta`
+
+GenStudio for Performance Marketing understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 >[!TIP]
 >
