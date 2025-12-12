@@ -9,7 +9,15 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.11.14 {#latest}
+## 2025.12.12 {#latest}
+
+### Logo swap for templates
+
+Marketers can now dynamically swap logos within templates directly in the [!DNL Create] workflow, eliminating the need to build multiple template variations for different brand logos, sub-brands, or product lines. This feature enables creators to select or swap the appropriate logo at the moment of content creation, streamlining template management and reducing production overhead.
+
+## Earlier release notes
+
++++Notes from 2025.11.14
 
 ### Real-Time CDP audience integration
 
@@ -52,6 +60,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 * Users can now apply [!DNL Brand] tags in order to group [!DNL Product] and [!DNL Persona] records by [!DNL Brand].
 * [!DNL Experience Translations] flow has been optimized alongside the new translation feature for Paid Media and Email.
 
++++
 
 ## Earlier release notes
 
