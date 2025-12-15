@@ -35,6 +35,8 @@ See [Content placeholders](/help/user-guide/templates/customize-template.md#cont
 
 ## Supported aspect ratios
 
+All LinkedIn template widths are hardcoded at 1200 pixels.
+
 | Aspect Ratio      | Platform        | Dimensions (px) | Notes                                                                  |
 |-------------------|-----------------|------------|-------------------------------------------------------------------------------------|
 | Square 1:1        | Desktop, Mobile | 1200 x 1200     | Most versatile. Ideal for consistent appearance across devices and placements.       |
