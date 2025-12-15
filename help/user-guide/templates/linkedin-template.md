@@ -35,13 +35,13 @@ See [Content placeholders](/help/user-guide/templates/customize-template.md#cont
 
 ## Supported aspect ratios
 
-| Aspect Ratio      | Platform        | Min Size (px) | Max Size (px)  | Notes                                                                  |
-|-------------------|-----------------|---------------|----------------|-------------------------------------------------------------------------------------|
-| Square 1:1        | Desktop, Mobile | 360 x 360     | 4320 x 4320    | Most versatile. Ideal for consistent appearance across devices and placements.       |
-| Horizontal 1.91:1 | Desktop         | 640 x 360     | 7680 x 4320    | Standard landscape format. Commonly used for sponsored content and news feed ads.    |
-| Vertical 1:1.91   | Mobile          | 360 x 640     | 2430 x 4320    | Tall vertical format. Optimized for mobile viewing, offering more screen presence.   |
-| Vertical 2:3      | Mobile          | 360 x 640     | 2430 x 4320    | Slightly less tall than 1:1.91. Good for mobile-first campaigns.                     |
-| Vertical 4:5      | Mobile          | 360 x 640     | 2430 x 4320    | Recommended for mobile. Balances visibility and content, which often yields higher impact. |
+| Aspect Ratio      | Platform        | Dimensions (px) | Notes                                                                  |
+|-------------------|-----------------|------------|-------------------------------------------------------------------------------------|
+| Square 1:1        | Desktop, Mobile | 1200 x 1200     | Most versatile. Ideal for consistent appearance across devices and placements.       |
+| Horizontal 1.91:1 | Desktop         | 1200 x 628     | Standard landscape format. Commonly used for sponsored content and news feed ads.    |
+| Vertical 1:1.91   | Mobile          | 1200 x 2292    | Tall vertical format. Optimized for mobile viewing, offering more screen presence.   |
+| Vertical 2:3      | Mobile          | 1200 x 1800    | Slightly less tall than 1:1.91. Good for mobile-first campaigns.                     |
+| Vertical 4:5      | Mobile          | 1200 x 1500   | Recommended for mobile. Balances visibility and content, which often yields higher impact. |
 
 <!-- Potentially add an example
 
