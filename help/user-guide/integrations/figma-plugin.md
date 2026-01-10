@@ -20,19 +20,23 @@ Features of this plugin include:
 * Export generated [!DNL Experiences] to a local source as flattened images
 * Export generated [!DNL Experiences] to GenStudio for Performance Marketing
 
-## Usage
+## Install the plugin
 
-1. Login into [Figma](https://www.figma.com).
-1. Ensure you have selected the "Adobe Enterprise" team.
-Click "All workspaces" in the navigation pane.
-Choose the "Plugins" tab.
-Click the card for "GenStudio"
-Click "Open in...", then either select one of your documents, or the "Playground file"
-At this point you can choose to either use the Figma desktop application, or continue in a browser.
-Regardless of the chosen platform, open the plugin.
-On desktop, you can choose the "Plugins" > "From Adobe Enterprise" > "GenStudio" menu option.
-On either platform, you can click this icon in the floating doc at the bottom of the application: , then choose the "Plugins & widgets" tab, and click "GenStudio"
-On web, you can find the plugin in the navigation pane:
+1. Log in to [Figma](https://www.figma.com).
+1. Ensure you have selected the _Adobe Enterprise_ team.
+1. Click **[!UICONTROL All workspaces]** in the navigation pane.
+1. Choose the **[!UICONTROL Plugins]** tab.
+1. Click the card for **[!UICONTROL GenStudio]**.
+1. Click **[!UICONTROL Open in]**, then either select one of your documents, or the _Playground file_.
 
-Once the plugin is open, sign in with your Adobe ID, being sure to select a profile that has access to GenStudio.
-Refer to the demo video for additional instructions on how to use the plugin.
+At this point, either use the Figma desktop application or continue in a browser. The plugin can be found in whichever platform you choose.
+
+1. On desktop, choose the **Plugins > From Adobe Enterprise > GenStudio** menu option.
+1. On web, you can find the plugin in the navigation pane:
+![Figma plugin navigation pane](./figma-plugins-dropdown.png){width="300"}
+1. On either platform, click the application icon ![Application icon](./application-icon.png){width="50"} in the floating doc at the bottom of the application, then choose the **Plugins & widgets** tab, and click **GenStudio**.
+1. Once the plugin is open in Figma, sign in with your Adobe ID. Be sure to select a profile that has access to GenStudio for Performance Marketing.
+
+## Workflow for translations
+
+## Export [!DNL Experiences]
