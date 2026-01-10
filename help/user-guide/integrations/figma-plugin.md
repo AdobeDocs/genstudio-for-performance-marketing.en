@@ -3,7 +3,6 @@ title: Figma Plugin for Adobe GenStudio for Performance Marketing
 description: Learn how to configure and use the Figma plugin for GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
-exl-id:
 ---
 # Figma plugin for GenStudio for Performance Marketing
 
