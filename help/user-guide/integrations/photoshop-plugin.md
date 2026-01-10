@@ -5,7 +5,7 @@ feature: Generative AI
 role: User
 exl-id:
 ---
-# Photoshop Plugin for GenStudio for Performance Marketing
+# Photoshop plugin for GenStudio for Performance Marketing
 
 The GenStudio for Performance Marketing Photoshop plugin adds a new panel to Adobe Photoshop that allows users to perform GenStudio for Performance Marketing actions, like generating on-brand content.
 
@@ -14,11 +14,11 @@ Features of this plugin include:
 
 * Log in to a GenStudio for Performance Marketing instance with an Adobe ID
 * Map GenStudio for Performance Marketing content generation fields to text layers in a Photoshop document
-* Specify a brand, product, persona, and prompt for generating content
+* Specify a brand, product, persona, and text prompt for generating content
 * Preview the generated on-brand content variations
 * Apply generated content easily to mapped layers in the current document
-* Export generated experiences to the local computer as flattened images
-* Export generated experiences to GenStudio for Performance Marketing as [!DNL Experiences]
+* Export generated [!DNL Experiences] to a local source as flattened images
+* Export generated [!DNL Experiences] to GenStudio for Performance Marketing
 
 ## Installation
 
@@ -39,8 +39,8 @@ Follow these instructions to install the plugin.
 ### Uninstalling the plugin
 
 1. Launch the Creative Cloud desktop application.
-1. Click the **Plugins** option.
-1. Click the ellipsis, **(...)**, on the GenStudio for Creative Cloud card for options.
+1. Click the **[!UICONTROL Plugins]** option.
+1. Click the ellipsis, **[!UICONTROL (...)]**, on the GenStudio for Creative Cloud card for options.
 1. Choose **Uninstall**.
 
 ## Create a template
@@ -73,14 +73,14 @@ The document is now ready to be used with the plugin.
 1. Open Photoshop.
 1. Open a GenStudio-ready template document that you've created ([see instructions above](#create-a-template)) or use the Acrobat display ad template: `branding-template-acrobat-handlebars.psd`.
 1. Open the plugin panel at **Plugins > GenStudio for Creative Cloud > GenStudio Create**.
-1. Click the **Login** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **Allow**.
+1. Click the **[!UICONTROL Login]** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **[!UICONTROL Allow]**.
 1. Use the web browser to log in with a profile that has access to GenStudio for Performance Marketing.
 1. Select the channel that applies to the template you've opened. _Display ad_ for the template provided above.
-1. Click **Let's go!**.
+1. Click **[!UICONTROL Let's go!]**.
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] context for the content that will be generated.
-1. Provide a text prompt for the content in the prompt box.
-1. Click the **Generate** button. Variations will generate and appear on cards in the plugin panel.
+1. Provide a text prompt for the content in the **[!UICONTROL Text Prompt]** box.
+1. Click the **[!UICONTROL Generate]** button. Variations will generate and appear on cards in the plugin panel.
 1. Review the generated content, and select the variations to apply by clicking the cards in the panel.
-1. Click the **Apply Content** button. 
+1. Click the **[!UICONTROL Apply Content]** button. 
 
 New documents will be added to your Photoshop workspace with the generated content applied to the template fields. These documents will be named with a variation suffix.
