@@ -36,6 +36,45 @@ At this point, either use the Figma desktop application or continue in a browser
 1. On either platform, click the application icon ![Application icon](./application-icon.png){width="50"} in the floating doc at the bottom of the application, then choose the **Plugins & widgets** tab, and click **GenStudio**.
 1. Once the plugin is open in Figma, sign in with your Adobe ID. Be sure to select a profile that has access to GenStudio for Performance Marketing.
 
-## Workflow for translations
+Once the plugin is open the options are based on the selection in the Figma canvas.
+Content in the plugin window will changed based on the current canvas selection.
+
+# Generate new content
+
+Use the GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
+
+1. With your working template or sample template selected in the workspace, click the template section pane in the canvas.
+1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Get Started]** button.
+![Figma plugin project window](./figma-project.png){width="300"}
+1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation from the dropdown options.
+1. Select the number of variations that will be produced and enter a text prompt.
+1. Each field in the UI **[!UICONTROL Fields]** list will have the **[!UICONTROL Action]** option set to _Generate_ for new content.
+1. Click the **[!UICONTROL Generate]** button.
+
+## Other actions on content fields
+
+When you're editing existing content in a field, you'll find useful options appear in the plugin panel.
+
+![Figma plugin actions panel](./figma-action2.png){width="300"}
+
+* Change the UI **[!UICONTROL Value]** to alter text directly. Changing this content automatically applies to all selected variations.
+* The AI can perform many **Action** options which are selected from the dropdown, including:
+
+    | Action                        | Description                                 |
+    |-------------------------------|---------------------------------------------|
+    | **[!UICONTROL Generate]**     | Generate a new variation of the text.       |
+    | **[!UICONTROL Rephrase]**     | Generate a new variation of the text.       |
+    | **[!UICONTROL Shorten]**      | Generate a shorter variation of the text.   |
+    | **[!UICONTROL Lengthen]**     | Generate a longer variation of the text.    |
+    | **[!UICONTROL Translate]**    | Translate the text into a different language.|
+
+* A text prompt can always be entered to guide the AI.
 
 ## Export [!DNL Experiences]
+
+To export
+
+1. Select the parent section in the Figma canvas of the content that will be exported. Or click the UI **[!UICONTROL Save all Generations]** button to select all generated content for export.
+1. Click the UI **[!UICONTROL Export]** option in the plugin panel.
+1. Select a destination.
+1. Click the UI **[!UICONTROL Export]** button to export the content.
