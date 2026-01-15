@@ -80,8 +80,6 @@ Marketers can now dynamically swap logos within templates directly in the [!DNL 
 
 +++
 
-## Earlier release notes
-
 +++Notes from 2025.10.16
 
 ### New GenStudio plugins for Photoshop and Figma
