@@ -39,7 +39,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   ![Choose persona](/help/assets/persona-select-linkedin.png){width="300" align="center"}
+   ![Choose persona](/help/assets/persona-select-linkedin2.png){width="300" align="center"}
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
