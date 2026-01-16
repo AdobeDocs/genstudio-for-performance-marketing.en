@@ -32,6 +32,8 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
 If you are using a template with pre-defined guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products])these guidelines apply to your variants. You can change them if desired.
 
+![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="300" align="center"}
+
 **To add parameters and assets**:
 
 1. Click the _Parameters_ icon to expand the prompt drawer.
@@ -53,14 +55,12 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 
 After guidelines are selected, craft a prompt using natural language to start generating content for your new display ad experience. To enhance the quality of the generated display ad experiences, it is crucial to craft detailed and descriptive prompts.
 
-![Enter a prompt](/help/assets/prompt-displayad2.png){width="300" align="center"}
-
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
 **To enter a prompt**:
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
-1. Click **[!UICONTROL Generate]**.
+2. Click **[!UICONTROL Generate]**.
 
 By default, four variations—fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
@@ -100,9 +100,9 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/content-check-panel.png){width="300"}
 
-1. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
+2. [Manually revise variants](#revise-generated-variants) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
