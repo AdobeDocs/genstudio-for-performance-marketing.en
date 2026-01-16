@@ -32,7 +32,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 
 If you are using a template with pre-defined guidelines (like [!DNL Brands], [!DNL Personas], or [!DNL Products])these guidelines apply to your variants. You can change them if desired.
 
-![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="300" align="center"}
+![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="50%" align="center"}
 
 **To add parameters and assets**:
 
