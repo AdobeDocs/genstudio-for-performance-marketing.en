@@ -107,11 +107,11 @@ Templates are [uploaded and stored in [!DNL Content]](/help/user-guide/content/o
 
 ### Parameters
 
-In the prompt drawer, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] and [!DNL Content] to shape the generated experience.
+In the prompt drawer, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) and [!DNL Content] (assets) to shape the generated experience.
 
-These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and [!DNL Content] provides assets for the generation process, ensuring a customized output aligned with a brand's comprehensive identity. Adding guidelines to your GenStudio for Performance Marketing and using them during content generation greatly enhances the creation of suitable on-brand content.
+These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio for Performance Marketing and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
-Content —uploaded or added image assets— in _Parameters_ are used in generated variants and inform the copy (text) generated for variants. You can upload assets or select assets already present in [!DNL Content] or in any connected AEM Content Hub repositories.
+Content—uploaded or added image assets—in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants. You can upload assets or select assets already present in [!DNL Content] or in any connected AEM Content Hub repositories.
 
 ### Prompts
 
