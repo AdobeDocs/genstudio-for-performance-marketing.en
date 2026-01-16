@@ -96,7 +96,7 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the _Needs review_ and _Passed_ checks to see which sections and guidelines need improvement.
 
-   ![_Content check_ panel](/help/assets/content-check-panel.png){width="200"}
+   ![_Content check_ panel](/help/assets/content-check-panel.png){width="300"}
 
 2. [Manually revise variants](#revise-generated-banners) to ensure your variants are closely aligned with the performed content checks.
 
