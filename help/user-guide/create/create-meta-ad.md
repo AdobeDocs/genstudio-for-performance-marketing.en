@@ -45,7 +45,7 @@ If you are using a template with pre-defined guidelines (like [!DNL Brands], [!D
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
-2. Add content (images or videos) for use in the experience *and* to influence content generation:
+1. Add content (images or videos) for use in the experience *and* to influence content generation:
    * Click **[!UICONTROL Select from Content]** to select assets from your [!DNL Content] repository, filter and select one or more images.
 
       If you are using a template that has a section for videos, video content (.mp4) will be pre-selected and filtered for you. Hover over a video to see an autoplayed preview.
@@ -56,7 +56,7 @@ If you are using a template with pre-defined guidelines (like [!DNL Brands], [!D
 
    * Or, drag and drop images into the **[!UICONTROL Select from Content]** section to upload one or more new assets.
 
-3. Click **[!UICONTROL Use]**.
+1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt drawer by clicking the _Parameters_ icon again.
 
