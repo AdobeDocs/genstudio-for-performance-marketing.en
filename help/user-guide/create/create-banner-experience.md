@@ -30,6 +30,8 @@ To create a banner experience, use an available template to provide the framewor
 
 Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and assets into _Parameters_ within the prompt drawer enhances the content generation process and is a crucial preparatory step for creating a banner experience.
 
+![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="300" align="center"}
+
 **To add parameters and assets**:
 
 1. Click the _Parameters_ icon to expand the prompt drawer.
@@ -50,8 +52,6 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 ## Enter a prompt
 
 Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it is essential to craft prompts that are detailed and descriptive.
-
-![Enter a prompt](/help/assets/prompt-displayad2.png){width="300" align="center"}
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
