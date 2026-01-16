@@ -31,7 +31,7 @@ To create a banner experience, use an available template to provide the framewor
 
 Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and assets into _Parameters_ within the prompt drawer enhances the content generation process and is a crucial preparatory step for creating a banner experience.
 
-![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="60%" align="center"}
+![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="50%" align="center"}
 
 **To add parameters and assets**:
 
