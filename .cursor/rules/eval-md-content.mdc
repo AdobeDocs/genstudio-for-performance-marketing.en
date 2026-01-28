@@ -44,3 +44,8 @@ Uses for this agent:
 - Mention When MD files are not present in the TOC during a validation, so the user can decide if they want to add them.
 
 ## Pasted content
+
+### Content from Microsoft Loop
+
+- Translate the formatting from Microsoft Loop to GitHub-flavored Markdown.
+- Where MD conventions are found in the pasted Loop content, apply the conventions to the MD content.
