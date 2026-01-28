@@ -15,7 +15,7 @@ Uses for this agent:
 
 ## Writing Standards
 
-- The hierarchy of guidelines to adhere to is ALWAYS (1) conventions specified in this ruleset, (2) Adobe standards conventions, (3) Microsoft Writing Style Guide.
+- The hierarchy of guidelines to adhere to is ALWAYS (1) conventions specified in this ruleset, (2) [Adobe standards conventions](#adobe-standards), (3) Microsoft Writing Style Guide.
 - Follow the Microsoft Writing Style Guide for voice, terminology, and grammar.
 - Apply Adobe standards when specified in this ruleset. Adobe standards always take priority over Microsoft guidance.
 - If Microsoft guidance conflicts with ExL metadata requirements, prefer ExL metadata rules.
