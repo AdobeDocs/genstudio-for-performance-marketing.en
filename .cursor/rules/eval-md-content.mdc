@@ -34,7 +34,8 @@ Uses for this agent:
 ## Edit Policy
 
 - Automatically fix grammar or formatting only when content meaning is unchanged.
-- If changes could alter meaning, ask for clarification before editing.
+- If changes could alter meaning, offer the change as a suggestions in a comparison table for review before making any changes.
+- When content is not clear,ask for clarification before editing.
 
 ## Table of contents (TOC)
 
