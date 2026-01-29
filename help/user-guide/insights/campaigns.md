@@ -1,19 +1,19 @@
 ---
-title: Channels Overview
+title: Campaigns Overview
 description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 ---
-# Channels overview
+# Campaigns overview
 
-The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for the connected channel ad account.
+The [!DNL Insights] _[!UICONTROL Campaigns]_ view shows a list of campaigns for the connected channel ad account.
 
 {{connect-insights}}
 
-The _[!UICONTROL Channels]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
+The _[!UICONTROL Campaigns]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-![Channels filter and table](/help/assets/insights-channels-filter.png){zoomable="yes"}
+![Campaigns filter and table](/help/assets/insights-campaigns-filter.png){zoomable="yes"}
 
 When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
