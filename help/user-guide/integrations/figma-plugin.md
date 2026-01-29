@@ -64,6 +64,8 @@ To assign element roles:
 
 The plugin remembers these mappings to use for generated content.
 
+![Field role mapping](./field-role-mapping.png){width="600"}
+
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
 ## Generate new content
@@ -71,7 +73,9 @@ The plugin remembers these mappings to use for generated content.
 Use GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
 
 1. If you use the _GenStudio Plugin Playground_ or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
+![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Finish Setup]** button.
+![Setup project window](./setup-project.png){width="300" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced (up to eight).
 1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
@@ -84,19 +88,23 @@ Use GenStudio for Performance Marketing AI to generate or make variations to ele
 Use GenStudio for Performance Marketing AI to generate ad copy variations or translate Figma templates.
 
 1. Select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
+![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations and choose a platform for the content.
 1. In **[!UICONTROL What is the goal?]**, select **[!UICONTROL Generate Variations]** or **[!UICONTROL Translate]**, then click the **[!UICONTROL Finish Setup]** button.
+![Setup project window](./setup-project.png){width="300" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced.
 1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Enter a text prompt. Each field in the **[!UICONTROL Fields]** list has the **[!UICONTROL Action]** option set to **[!UICONTROL Generate]** for new content.
 1. Map all the field roles. See [Field role mapping](#field-role-mapping).
 1. Select each field type to generate variations or translate in the panel on the left side of the plugin, and paste the initial content into each **[!UICONTROL Initial Content]** box.
+![Sample text in the Initial Content box](./initial-content-box.png){width="60%" zoomable="yes"}
 1. Click the **[!UICONTROL Generate]** button.
 
 ## Translate content after generation
 
 1. Select a generation that you want to translate.
+![Select generation](./select-generation.png){width="200" zoomable="yes"}
 1. Choose **[!UICONTROL Translation]**, then click **[!UICONTROL Translate]**.
 1. Select your target language or languages.
 1. Click **[!UICONTROL Select]**.
@@ -107,9 +115,15 @@ Translation results include:
 * Each translation shows the target language or locale.
 * Original content remains unchanged in the original page.
 
+![Translation results](./translation-results.png){width="60%" zoomable="yes"}
+
 ## Other actions on content fields after generation
 
-When you're editing existing content in a field, useful options appear in the plugin panel:
+When you're editing existing content in a field, useful options appear in the plugin panel.
+
+![Plugin Actions options](./figma-other-actions.png){width="300" zoomable="yes"}
+
+Options include:
 
 * Change the **[!UICONTROL Value]** to alter text directly. Changing this content automatically applies to all selected variations.
 * The AI can perform many **[!UICONTROL Action]** options, including:
@@ -129,8 +143,11 @@ Variations can be exported from Figma as GenStudio for Performance Marketing [!D
 
 1. Select the content to be exported in the Figma canvas by doing one of the following:
    * Select the generation section in the canvas, then click **[!UICONTROL Mark all for Export]** in the plugin panel.
+   ![Generation section select](./select-generation-section.png){width="200" zoomable="yes"}
    * Select an individual generation in the canvas, then click **[!UICONTROL Mark for Export]** in the plugin panel.
-1. Click **[!UICONTROL Export]** in the plugin panel listed in the generation section.
+   ![Individual generation select](./select-generation.png){width="200" zoomable="yes"}
+1. Click **[!UICONTROL Mark for Export]** in the plugin panel listed in the generation section.
+![Mark for Export button displayed for a Meta ad](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Select a destination.
 1. Click **[!UICONTROL Export]** to export the content.
 
@@ -139,6 +156,8 @@ A ZIP file is created in the plugin panel, or a link to **[!UICONTROL Open in Ge
 ## Generation history
 
 The plugin maintains a history of changes for each field. On the template page, choose **[!UICONTROL Generation history]** in the plugin sidebar.
+
+![Generation history option displayed for a Meta ad](./generation-history.png){width="80%" zoomable="yes"}
 
 ## Troubleshooting
 
