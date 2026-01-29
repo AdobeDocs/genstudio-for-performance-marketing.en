@@ -54,7 +54,7 @@ Ad formats refer to the various creative elements and layouts used to align with
 
 Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
 
-When you create a campaign, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives).
+When you create a campaign, you may have selected where to run your ads based on the campaign [objective](campaigns.md#objectives).
 
 The following is a list of Meta supported ad placements:
 
