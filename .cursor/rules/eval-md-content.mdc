@@ -49,3 +49,4 @@ Uses for this agent:
 
 - Translate the formatting from Microsoft Loop to GitHub-flavored Markdown.
 - Where MD conventions are found in the pasted Loop content, apply the conventions to the MD content.
+- Ignore any active comments attached to content in the Loop file. Do not include the comments or alter content based on the active comments.
