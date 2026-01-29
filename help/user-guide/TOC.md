@@ -88,7 +88,7 @@ role: User
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)
-  + [Channels](insights/channels.md)
+  + [Campaigns](insights/campaigns.md)
   + [Ads and ad placement](insights/ads.md)
   + [Media](insights/media.md)
   + [Attributes](insights/attributes.md)
