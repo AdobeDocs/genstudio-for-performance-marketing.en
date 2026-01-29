@@ -64,9 +64,7 @@ To assign element roles:
 
 The plugin remembers these mappings to use for generated content.
 
-### Field mapping exceptions
-
-Certain channels only support the replacement of specific fields. For example, Meta and LinkedIn ads replace headline, body, and introductory text in the surrounding chrome, not in the ad itself. Consider mapping text on the image as `on_image_text`.
+{{$include /help/_includes/field-mapping-exceptions.md}}
 
 ## Generate new content
 

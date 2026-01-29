@@ -135,6 +135,4 @@ If text or images are not being replaced, confirm fields are mapped correctly wi
 
 A text field's font must be available on your machine for replacement to occur during generation. Confirm that all fonts used in the file are available on your machine, especially if the file was created on someone else's machine.
 
-### Consider channel support
-
-Certain channels only support replacement of specific fields. For example, Meta and LinkedIn ads only replace headline, body, and introductory text in the surrounding chrome, not in the ad itself. Consider mapping text on the image as `{on_image_text}`.
+{{$include /help/_includes/field-mapping-exceptions.md}}
