@@ -66,6 +66,8 @@ The plugin remembers these mappings to use for generated content.
 
 ![Field role mapping](./field-role-mapping.png){width="600"}
 
+### Field mapping exceptions
+
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
 ## Generate new content

@@ -139,4 +139,6 @@ If text or images are not being replaced, confirm fields are mapped correctly wi
 
 A text field's font must be available on your machine for replacement to occur during generation. Confirm that all fonts used in the file are available on your machine, especially if the file was created on someone else's machine.
 
+### Field mapping exceptions
+
 {{$include /help/_includes/field-mapping-exceptions.md}}
