@@ -52,7 +52,7 @@ To create a GenStudio-ready template:
 1. Open a document in Photoshop.
 1. Identify a text layer for generated content.
 1. Rename the layer with the field name convention format: `{<name_of_generated_field>}`. For example, `{body}`, `{headline}`, `{cta}`.
-1. Rename layers for all [fields required by the channel intended for the template type](../../user-guide/templates/customize-template#recognized-field-names).
+1. Rename layers for all [fields required by the channel intended for the template type](../../user-guide/templates/customize-template.md#recognized-field-names).
 
 | Channel | Required fields for generation | Optional fields for generation |
 | --- | --- | --- |
