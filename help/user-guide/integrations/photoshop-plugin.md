@@ -101,7 +101,9 @@ The document is now ready to be used with the plugin.
 1. Click the **[!UICONTROL Login]** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **[!UICONTROL Allow]**.
 1. Use the web browser to log in with a profile that has access to GenStudio for Performance Marketing.
 1. Select the channel (Meta, LinkedIn, or Display) that applies to the template you have opened.
+![Channel select](./ps-select-channel.png){width="300" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] context for the content generation.
+![Brand, Persona, and Product select](./ps-select-box.png){width="300" zoomable="yes"}
 1. Select the number of variations to be produced.
 1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Provide a text prompt for the content in the **[!UICONTROL Text Prompt]** box.
@@ -122,6 +124,8 @@ New documents are added to your Photoshop workspace with generated content appli
 ## Export experiences to GenStudio
 
 Users can select export after content generation or translation. Exported experiences populate in the content section of GenStudio for Performance Marketing.
+
+![Exported assets shown in Content section](./content-assets.png){width="90%"}
 
 ## Troubleshooting
 
