@@ -51,7 +51,7 @@ Use the GenStudio for Performance Marketing AI to generate or make variations to
 1. Each field in the UI **[!UICONTROL Fields]** list will have the **[!UICONTROL Action]** option set to _Generate_ for new content.
 1. Click the **[!UICONTROL Generate]** button.
 
-## Other actions on content fields
+## Other actions on content fields after generation
 
 When you're editing existing content in a field, you'll find useful options appear in the plugin panel.
 
@@ -66,13 +66,12 @@ When you're editing existing content in a field, you'll find useful options appe
     | **[!UICONTROL Rephrase]**     | Generate a new variation of the text.       |
     | **[!UICONTROL Shorten]**      | Generate a shorter variation of the text.   |
     | **[!UICONTROL Lengthen]**     | Generate a longer variation of the text.    |
-    | **[!UICONTROL Translate]**    | Translate the text into a different language.|
 
 * A text prompt can always be entered to guide the AI.
 
 ## Export [!DNL Experiences]
 
-To export
+Variations can be exported from Figma as GenStudio for Performance Marketing Experiences. To export the content:
 
 1. Select the parent section in the Figma canvas of the content that will be exported. Or click the UI **[!UICONTROL Save all Generations]** button to select all generated content for export.
 1. Click the UI **[!UICONTROL Export]** option in the plugin panel.
