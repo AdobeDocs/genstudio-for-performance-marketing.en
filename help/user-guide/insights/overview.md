@@ -45,7 +45,7 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 ### Campaigns
 
-The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](channels.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
+The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](campaigns.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
 ### Ads
 
