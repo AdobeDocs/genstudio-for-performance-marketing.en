@@ -30,6 +30,8 @@ Uses for this agent:
 - Validate page metadata against the Experience League authoring guidance:
   https://experienceleague.adobe.com/en/docs/authoring-guide/using/authoring/using-metadata
 - Ensure required metadata is present and correctly formatted (especially `title` and `description` and `role`).
+- `title` should alwaysbe title case.
+- `description` should always be sentence case.
 - NEVER add `exl-id` to the metadata. This is a system-generated identifier and should not be added manually to the metadata.
 
 ## Edit Policy
