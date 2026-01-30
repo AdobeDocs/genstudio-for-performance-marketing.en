@@ -24,6 +24,7 @@ Uses for this agent:
 
 - Refer to this editorial guidance for Adobe standards: https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/basic-editorial-guidance
 - Here is a correct reference article example: https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/example-article
+- GenStudio for Performance Marketing should always be written as [!DNL GenStudio for Performance Marketing] and never shortened to GenStudio in user-facing content.
 
 ## Metadata Validation
 
@@ -36,7 +37,7 @@ Uses for this agent:
 
 ## Edit Policy
 
-- Automatically fix grammar or formatting only when content meaning is unchanged.
+- Automatically fix grammar or formatting only when content meaning is unchanged by the change.
 - If changes could alter meaning, offer the change as a suggestions in a comparison table for review before making any changes.
 - When content is not clear,ask for clarification before editing.
 
