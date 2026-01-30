@@ -62,9 +62,11 @@ To assign element roles:
 1. Select an element in your template (text, image, and so on).
 1. Use the dropdown menu to assign a role.
 
-The plugin remembers these mappings to use for generated content.
+The plugin remembers these mappings to use for generated content. A field role\ can be mapped to multiple template elements.
 
 ![Field role mapping](./field-role-mapping.png){width="600"}
+
+### Field mapping exceptions
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
@@ -72,13 +74,13 @@ The plugin remembers these mappings to use for generated content.
 
 Use GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
 
-1. If you use the _GenStudio Plugin Playground_ or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
+1. If you use the GenStudio Plugin Playground or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
 ![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Finish Setup]** button.
 ![Setup project window](./setup-project.png){width="300" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced (up to eight).
-1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
+1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Enter a text prompt. Each field in the **[!UICONTROL Fields]** list has the **[!UICONTROL Action]** option set to **[!UICONTROL Generate]** for new content.
 1. Map all the field roles. See [Field role mapping](#field-role-mapping).
 1. Click the **[!UICONTROL Generate]** button.
@@ -94,7 +96,7 @@ Use GenStudio for Performance Marketing AI to generate ad copy variations or tra
 ![Setup project window](./setup-project.png){width="300" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced.
-1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
+1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Enter a text prompt. Each field in the **[!UICONTROL Fields]** list has the **[!UICONTROL Action]** option set to **[!UICONTROL Generate]** for new content.
 1. Map all the field roles. See [Field role mapping](#field-role-mapping).
 1. Select each field type to generate variations or translate in the panel on the left side of the plugin, and paste the initial content into each **[!UICONTROL Initial Content]** box.
@@ -146,7 +148,7 @@ Variations can be exported from Figma as GenStudio for Performance Marketing [!D
    ![Generation section select](./select-generation-section.png){width="200" zoomable="yes"}
    * Select an individual generation in the canvas, then click **[!UICONTROL Mark for Export]** in the plugin panel.
    ![Individual generation select](./select-generation.png){width="200" zoomable="yes"}
-1. Click **[!UICONTROL Mark for Export]** in the plugin panel listed in the generation section.
+1. Select the Export item from the sidebar menu.
 ![Mark for Export button displayed for a Meta ad](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Select a destination.
 1. Click **[!UICONTROL Export]** to export the content.

@@ -52,7 +52,7 @@ To create a GenStudio-ready template:
 1. Open a document in Photoshop.
 1. Identify a text layer for generated content.
 1. Rename the layer with the field name convention format: `{<name_of_generated_field>}`. For example, `{body}`, `{headline}`, `{cta}`.
-1. Rename layers for all [fields required by the channel intended for the template type](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/templates/customize-template#recognized-field-names).
+1. Rename layers for all [fields required by the channel intended for the template type](../../user-guide/templates/customize-template.md#recognized-field-names).
 
 | Channel | Required fields for generation | Optional fields for generation |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ The document is now ready to be used with the plugin.
 ## Generate new content
 
 1. Open Photoshop.
-1. Open a GenStudio-ready template document that you have created (see instructions above) or use the [Acrobat display ad template](https://adobe-my.sharepoint.com/:f:/p/jferry/IgDDWzRDgshcSJggBgolFK1DAdHtjBD-Rz8jWupsvnYrdvw?email=aabreu%40adobe.com&e=u8aRzB): `branding-template-acrobat-handlebars.psd`.
+1. Open a GenStudio-ready template document that you have created (see instructions above) or use the GenStudio for Performance Marketing starter template: `branding-template-acrobat-handlebars.psd`.
 1. Open the plugin panel at **[!UICONTROL Plugins]** > **[!UICONTROL GenStudio]**.
 1. Click the **[!UICONTROL Login]** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **[!UICONTROL Allow]**.
 1. Use the web browser to log in with a profile that has access to GenStudio for Performance Marketing.
@@ -105,7 +105,7 @@ The document is now ready to be used with the plugin.
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] context for the content generation.
 ![Brand, Persona, and Product select](./ps-select-box.png){width="300" zoomable="yes"}
 1. Select the number of variations to be produced.
-1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
+1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Provide a text prompt for the content in the **[!UICONTROL Text Prompt]** box.
 1. Click the **[!UICONTROL Generate]** button. Variations appear on cards in the plugin panel.
 
@@ -138,5 +138,7 @@ If text or images are not being replaced, confirm fields are mapped correctly wi
 ### Confirm fonts are available
 
 A text field's font must be available on your machine for replacement to occur during generation. Confirm that all fonts used in the file are available on your machine, especially if the file was created on someone else's machine.
+
+### Field mapping exceptions
 
 {{$include /help/_includes/field-mapping-exceptions.md}}

@@ -1,4 +1,4 @@
-### Field mapping exceptions
+# Field mapping exceptions
 
 Certain channels only support the replacement of specific fields. For example:
 
