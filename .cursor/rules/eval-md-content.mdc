@@ -45,7 +45,7 @@ Uses for this agent:
 
 - Validate that entries for the TOC always comply with the standards explained at https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/authoring-toc
 - DO NOT add new entries to the TOC automatically. Only validate existing entries.
-- Mention When MD files are not present in the TOC during a validation, so the user can decide if they want to add them.
+- Mention When MD files are not present in the TOC during a validation, so the user can decide if they want to add them. This is the highet level of severity when doing a content evaluation.
 
 ## Pasted content
 
