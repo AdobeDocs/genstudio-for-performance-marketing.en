@@ -1,5 +1,5 @@
 ---
-title: Set up logo swap in templates
+title: Set Up Logo Swap in Templates
 description: Configure brand logo placeholders in templates to enable logo swap in [!DNL GenStudio for Performance Marketing].
 feature: Create Canvas, Templates
 role: User
@@ -114,6 +114,8 @@ Use `object-fit` and `object-position` to control how the logo scales within its
 
 ### Logo centered (most common)
 
+The logo scales to fit within 150×80 pixels, centered both horizontally and vertically.
+
 ```html
 <img
   src="{{brand_logo}}"
@@ -133,6 +135,8 @@ Use `object-fit` and `object-position` to control how the logo scales within its
 
 ### Logo aligned left
 
+Logo scales to fit, aligned to the left edge, vertically centered.
+
 ```html
 <img
   src="{{brand_logo}}"
@@ -151,6 +155,8 @@ Use `object-fit` and `object-position` to control how the logo scales within its
 ```
 
 ### Logo in the top-right corner
+
+Logo scales to fit, positioned in the top-right corner.
 
 ```html
 <img
