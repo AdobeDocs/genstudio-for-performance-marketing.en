@@ -1,7 +1,7 @@
 ---
 title: Set Up Logo Swap in Templates
 description: Configure brand logo placeholders in templates to enable logo swap in [!DNL GenStudio for Performance Marketing].
-feature: Create Canvas, Templates
+feature: Create Canvas
 role: User
 level: Intermediate
 ---

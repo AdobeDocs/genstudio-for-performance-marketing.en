@@ -1,7 +1,7 @@
 ---
 title: Use Logo Swap in [!DNL Create]
 description: Learn to swap brand logos in templates during the [!DNL Create] workflow.
-feature: Create Canvas, Templates
+feature: Create Canvas
 role: User
 level: Beginner
 ---
