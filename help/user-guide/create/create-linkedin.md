@@ -40,7 +40,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt drawer.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+   ![Choose persona](/help/assets/persona-select-linkedin2.png){width="50%" align="center"}
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
@@ -112,9 +112,9 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the *Needs review* and *Passed* checks to see which sections and guidelines need improvement.
 
-   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/content-check-panel.png){width="300"}
 
-1. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with then completed content checks.
+2. [Manually revise variants](#revise-generated-linkedin-ads) to ensure your variants are closely aligned with then completed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
