@@ -96,7 +96,7 @@ The document is now ready to be used with the plugin.
 ## Generate new content
 
 1. Open Photoshop.
-1. Open a GenStudio-ready template document that you have created (see instructions above) or use the [Acrobat display ad template](https://adobe-my.sharepoint.com/:f:/p/jferry/IgDDWzRDgshcSJggBgolFK1DAdHtjBD-Rz8jWupsvnYrdvw?email=aabreu%40adobe.com&e=u8aRzB): `branding-template-acrobat-handlebars.psd`.
+1. Open a GenStudio-ready template document that you have created (see instructions above) or use the [GenStudio for Performance Marketing starter template](https://adobe-my.sharepoint.com/:f:/p/jferry/IgDDWzRDgshcSJggBgolFK1DAdHtjBD-Rz8jWupsvnYrdvw?email=aabreu%40adobe.com&e=u8aRzB): `branding-template-acrobat-handlebars.psd`.
 1. Open the plugin panel at **[!UICONTROL Plugins]** > **[!UICONTROL GenStudio]**.
 1. Click the **[!UICONTROL Login]** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **[!UICONTROL Allow]**.
 1. Use the web browser to log in with a profile that has access to GenStudio for Performance Marketing.
@@ -105,7 +105,7 @@ The document is now ready to be used with the plugin.
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] context for the content generation.
 ![Brand, Persona, and Product select](./ps-select-box.png){width="300" zoomable="yes"}
 1. Select the number of variations to be produced.
-1. Select **[!UICONTROL Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
+1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
 1. Provide a text prompt for the content in the **[!UICONTROL Text Prompt]** box.
 1. Click the **[!UICONTROL Generate]** button. Variations appear on cards in the plugin panel.
 
