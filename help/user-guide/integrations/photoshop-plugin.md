@@ -21,6 +21,8 @@ Features of this plugin include:
 * Create on-brand content translations
 * Export generated [!DNL Experiences] to GenStudio for Performance Marketing
 
+>[!VIDEO](https://video.tv.adobe.com/v/3478808?learn=on)
+
 ## Install the plugin
 
 Follow these instructions to install the plugin.

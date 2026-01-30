@@ -21,6 +21,8 @@ Features of this plugin include:
 * Export generated [!DNL Experiences] to GenStudio for Performance Marketing.
 * Use plugin options that adapt to the selected elements in the Figma canvas.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
+
 ## Create a template
 
 The plugin requires the first two levels of your Figma document to follow this convention:
