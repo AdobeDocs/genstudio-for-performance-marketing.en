@@ -97,5 +97,9 @@ role: User
     + [Video features](insights/video-features.md)
     + [Text features](insights/text-features.md)
   + [Data management](insights/data-management.md)
++ Integrations {#integrations}
+  + [Integrations overview](integrations/overview.md)
+  + [Photoshop plugin](integrations/photoshop-plugin.md)
+  + [Figma plugin](integrations/figma-plugin.md)
 + [GenStudio Academy - Hidden](genstudioacademy.md)
 + [Test markdown - Hidden](test-markdown.md)
