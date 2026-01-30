@@ -96,7 +96,7 @@ The document is now ready to be used with the plugin.
 ## Generate new content
 
 1. Open Photoshop.
-1. Open a GenStudio-ready template document that you have created (see instructions above) or use the [GenStudio for Performance Marketing starter template](https://adobe-my.sharepoint.com/:f:/p/jferry/IgDDWzRDgshcSJggBgolFK1DAdHtjBD-Rz8jWupsvnYrdvw?email=aabreu%40adobe.com&e=u8aRzB): `branding-template-acrobat-handlebars.psd`.
+1. Open a GenStudio-ready template document that you have created (see instructions above) or use the GenStudio for Performance Marketing starter template: `branding-template-acrobat-handlebars.psd`.
 1. Open the plugin panel at **[!UICONTROL Plugins]** > **[!UICONTROL GenStudio]**.
 1. Click the **[!UICONTROL Login]** button. If prompted for permission to open a URL, optionally check **Remember my choice**, then click **[!UICONTROL Allow]**.
 1. Use the web browser to log in with a profile that has access to GenStudio for Performance Marketing.

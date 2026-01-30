@@ -74,7 +74,7 @@ The plugin remembers these mappings to use for generated content. A field role\ 
 
 Use GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
 
-1. If you use the [GenStudio Plugin Playground](https://adobe.sharepoint.com/sites/CustomerSupportFileShare/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerSupportFileShare%2FShared%20Documents%2FDX%2FGenStudio%2DFigma%2DPlugin%2FFigma%20Plugin%20Resources%2FGenStudio%20Plugin%20Playground%20v3%2Efig&parent=%2Fsites%2FCustomerSupportFileShare%2FShared%20Documents%2FDX%2FGenStudio%2DFigma%2DPlugin%2FFigma%20Plugin%20Resources&p=true&ga=1)or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
+1. If you use the GenStudio Plugin Playground or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
 ![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Finish Setup]** button.
 ![Setup project window](./setup-project.png){width="300" zoomable="yes"}
