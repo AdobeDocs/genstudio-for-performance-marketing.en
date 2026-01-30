@@ -4,7 +4,6 @@ description: Configure brand logo placeholders in templates to enable logo swap 
 feature: Create Canvas, Templates
 role: User
 level: Intermediate
-exl-id: 2f0a5dd2-11a2-4d6b-a8d3-6e8a2a9f5b4f
 ---
 # Set up logo swap in templates
 
