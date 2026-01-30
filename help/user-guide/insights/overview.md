@@ -23,6 +23,16 @@ This connection enables GenStudio for Performance Marketing to receive statistic
 
 {{connect-insights}}
 
+## Channels supported
+
+Supported channels in Insights include Meta, LinkedIn, TikTok, DV360, and Innovid.
+
+Meta, LinkedIn, and TikTok provide full visibility into campaigns, ads, media, and attributes. DV360 and Innovid currently offer more limited data coverage.
+
+At this time, Media data is not available for DV360 and Innovid, which means the Attributes tab is also not shown for these channels. The Attributes tab depends on media-level data to surface the characteristics extracted from experiences.
+
+This limitation is due to constraints in the paid media platforms themselves and not an issue with GenStudio for Performance Marketing.
+
 ## Dashboard
 
 The [!DNL Insights] dashboard has a configurable table for each content type: [!UICONTROL Channels], [!UICONTROL Ads], [!UICONTROL Media], and [!UICONTROL Attributes].
@@ -33,9 +43,9 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 [!UICONTROL Ads], [!UICONTROL Media], and [!UICONTROL Attributes] include a gallery view that enables you to scan and sort assets using cards with an image or video thumbnail. There is an option to display one of three key metrics on each card: `Click-through rate`, `Cost per click`, and `Spend`.
 
-### Channels
+### Campaigns
 
-The [[!DNL Insights] _[!UICONTROL Channels]_ view](channels.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
+The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](campaigns.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
 ### Ads
 
