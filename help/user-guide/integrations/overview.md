@@ -10,6 +10,8 @@ GenStudio for Performance Marketing offers integrations with other powerful desi
 
 Explore the plugins that GenStudio for Performance Marketing offers, with other Adobe products and beyond, to streamline your design workflows.
 
+Note: Although these plugins allow creatives to make ads and export them as approved expriences to GenStudio, Adobe Express templates within GenStudio for Performance Marketing is the recommended approach for creatives to make ad templates.
+
 ## Figma plugin
 
 The GenStudio for Performance Marketing Figma plugin adds a new panel to the Figma application that allows users to perform GenStudio for Performance Marketing actions, like generating on-brand content.
