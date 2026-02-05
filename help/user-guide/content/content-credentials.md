@@ -3,6 +3,7 @@ title: Content Credentials for Organizations
 description: Learn about how to apply and review Content Credentials in GenStudio for Performance Marketing.
 level: Intermediate
 feature: Content Management, Content Attributes
+exl-id: 9fc1e428-7fa7-4f00-84ba-51c9318766f4
 ---
 # Content Credentials for organizations
 
@@ -92,4 +93,3 @@ Exported files will have C2PA-compliant credentials embedded.
 Credential integrity is maintained across all supported formats (JPEG, PNG, MP4). 
 
 ![Credential data on an exported asset](./images/activate-export2.png)
-

@@ -2,6 +2,7 @@
 title: Activate a Innovid Ad
 description: Learn how to activate a Innovid experience.
 feature: Ad Activation
+exl-id: ebb2aa9e-8efb-45b0-9ba2-7b27b8888708
 ---
 # Activate an Innovid ad
 

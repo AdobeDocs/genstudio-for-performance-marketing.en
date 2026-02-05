@@ -3,6 +3,7 @@ title: Photoshop Plugin for Adobe GenStudio for Performance Marketing
 description: Learn how to install, configure, and use the Photoshop plugin for GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
+exl-id: e3f57acd-f2dd-4957-aa5e-c97595a29899
 ---
 # Photoshop plugin for GenStudio for Performance Marketing
 

@@ -3,6 +3,7 @@ title: Adobe GenStudio for Performance Marketing Integrations
 description: Learn about the integrations available for Adobe GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
+exl-id: fe8c9811-2a23-4e13-bccf-784fcac5dfe9
 ---
 # Adobe GenStudio for Performance Marketing Integrations
 
