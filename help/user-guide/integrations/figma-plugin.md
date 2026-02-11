@@ -142,6 +142,117 @@ Options include:
 
 After selecting an **[!UICONTROL Action]** option, regenerate content with the **[!UICONTROL Regenerate]** button.
 
+## Generate an image
+
+Generte images to use in your templates using a text prompt.
+
+1. Select **[!UICONTROL Generate Image]**.
+1. Select a model from the dropdown menu. You can also choose any custom models you have created.
+1. Select the settings icon to adjust the generation settings.
+1. Optional: Select an aspect ratio.
+1. Optional: Adjust the style of the image by doing one of the following:
+   * Upload a reference image from your device or AEM by selecting **[!UICONTROL Upload image]**.
+   * Choose from one of Adobe's stock images by selecting **[!UICONTROL Browse Gallery]**.
+   * Choose a strength value using the slider. Strength adjusts how strictly Firefly adheres to the style you provide.
+1. Select the **<** button.
+1. Enter a prompt.
+1. Select the Generate icon. Images appear in the plugin panel.
+1. Bring images onto the canvas using one of these methods:
+   * Drag and drop any image onto the canvas.
+   * Select a frame on the Figma canvas and select an image in the plugin window to insert into the frame.
+   * Select the upload icon to upload an image onto the canvas.
+   * Select the 3 dots and **[!UICONTROL Download all to Figma]**.
+1. Optional: Select the 3 dots to take further actions:
+   * Select **[!UICONTROL Generate more]** to run the prompt again.
+   * Select **[!UICONTROL Copy prompt]** to copy the prompt.
+1. Optional: Select the pencil icon to use the Generative fill and Generate similar actions on a single image.
+
+## Generate similar images
+
+Generate a set of similar images.
+
+1. Select the **[!UICONTROL Generate Similar]** card.
+1. Select an image as a reference by doing one of the following:
+   * Select an image on the Figma canvas.
+   * Select **[!UICONTROL Upload image]** to upload from your device.
+   * Select **[!UICONTROL Browse AEM assets]** to upload from AEM.
+1. Select the Generate icon. Variations appear in the plugin panel.
+1. Bring images onto the canvas using one of these methods:
+   * Drag and drop any image onto the canvas.
+   * Select a frame on the Figma canvas and select an image in the plugin window to insert into the frame.
+   * Select the upload icon to upload an image onto the canvas.
+   * Select the 3 dots and **[!UICONTROL Download all to Figma]**.
+1. Optional: Select the 3 dots to take further actions:
+   * Select **[!UICONTROL Generate more]** to run the prompt again.
+1. Optional: Select the pencil icon to use the Generative fill and Generate similar actions on a single image.
+
+## Remove background
+
+Remove the background of an image.
+
+1. Select the **[!UICONTROL Remove Background]** card.
+1. Select an image as a reference by doing one of the following:
+   * Select an image on the Figma canvas.
+   * Select **[!UICONTROL Upload image]** to upload from your device.
+   * Select **[!UICONTROL Browse AEM assets]** to upload from AEM.
+1. Select **[!UICONTROL Remove]**. If the image was selected from the canvas, the image is replaced on the Figma canvas. If the image was selected from a device or AEM, you can drag and drop the image onto the canvas or select **[!UICONTROL Insert Image]** to place the image on the canvas.
+
+## Generative Fill
+
+Apply generative fills for an area of an image.
+
+1. Select the **[!UICONTROL Generative Fill]** card.
+1. Select an image as a reference by doing one of the following:
+   * Select an image on the Figma canvas.
+   * Select **[!UICONTROL Upload image]** to upload from your device.
+   * Select **[!UICONTROL Browse AEM assets]** to upload from AEM.
+1. Select the brush tool and create a mask.
+1. Optional: Select the dropdown caret and adjust the brush size.
+1. Select the reset button to remove the mask.
+1. Optionally, select the remove background icon to remove the background.
+1. Enter a prompt to guide the generation for the selected mask and select the **[!UICONTROL Generate]** button.
+1. Bring images onto the canvas using one of these methods:
+   * Drag and drop any image onto the canvas.
+   * Select a frame on the Figma canvas and select an image in the plugin window to insert into the frame.
+   * Select the upload icon to upload an image onto the canvas.
+   * Select the 3 dots and **[!UICONTROL Download all to Figma]**.
+1. Optional: Select the 3 dots to take further actions:
+   * Select **[!UICONTROL Copy prompt]** to copy the prompt.
+1. Optional: Select the pencil icon to use the Generative fill and Generate similar actions on a single image.
+
+## Prompt to Edit
+
+Edit the content of an image with a text prompt.
+
+1. Select the **[!UICONTROL Prompt to Edit]** card.
+1. Select an image as a reference by doing one of the following:
+   * Select an image on the Figma canvas.
+   * Select **[!UICONTROL Upload image]** to upload from your device.
+   * Select **[!UICONTROL Browse AEM assets]** to upload from AEM.
+1. Select the settings icon to adjust the generation settings.
+1. Optional: Select an aspect ratio and select the **<** button.
+1. Enter a prompt to guide the generation and select the **[!UICONTROL Generate]** button.
+1. Bring images onto the canvas using one of these methods:
+   * Drag and drop any image onto the canvas.
+   * Select a frame on the Figma canvas and select an image in the plugin window to insert into the frame.
+   * Select the upload icon to upload an image onto the canvas.
+   * Select the 3 dots and **[!UICONTROL Download all to Figma]**.
+1. Optional: Select the 3 dots to take further actions:
+   * Select **[!UICONTROL Generate more]** to run the prompt again.
+   * Select **[!UICONTROL Copy prompt]** to copy the prompt.
+1. Optional: Select the pencil icon to use the Generative fill and Generate similar actions on a single image.
+
+## Generative expand
+
+Expand the dimensions of your images and add generative content with Generative expand. Generative expand allows you to transform ill-fitting images into the most suitable aspect ratio for Banners, Meta ads, LinkedIn ads, or display ads templates.
+
+1. Select the **[!UICONTROL Generative Expand]** card.
+1. Select an image on the canvas.
+1. Resize the Gen Expand Temporary frame to your desired new dimensions.
+1. Optional: Move the image anywhere inside the frame.
+1. Enter a prompt to guide the generation and select the **[!UICONTROL Generate]** button.
+1. Select any image on the canvas to replace your original image with the generated result.
+
 ## Export experiences
 
 Variations can be exported from Figma as GenStudio for Performance Marketing [!DNL Experiences].
