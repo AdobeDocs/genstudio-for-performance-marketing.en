@@ -2,6 +2,7 @@
 title: Activate Amazon Ads
 description: Learn how to activate Amazon Ads experiences.
 feature: Ad Activation
+exl-id: 539cb43c-a9d8-4473-8a7d-e81967111741
 ---
 # Activate Amazon Ads
 
