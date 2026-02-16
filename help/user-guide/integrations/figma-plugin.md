@@ -8,6 +8,7 @@ exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 # Figma plugin for GenStudio for Performance Marketing
 
 The GenStudio for Performance Marketing Figma plugin adds a new panel to the Figma application that lets you generate on-brand content.
+[Find and install the plugin from the Figma community marketplace](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio).
 
 This page describes how to configure and use the plugin.
 
