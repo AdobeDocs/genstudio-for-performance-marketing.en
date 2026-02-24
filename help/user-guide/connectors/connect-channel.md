@@ -2,7 +2,7 @@
 title: Connect a Paid Media Account
 description: Connect a paid media account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 feature: Reporting and Insights, Delivery and Activation
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
