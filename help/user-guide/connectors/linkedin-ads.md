@@ -2,7 +2,7 @@
 title: Connect to LinkedIn Ads
 description: Connect a LinkedIn Ads account to activate and monitor your ads and media with Adobe GenStudio for Performance Marketing.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 8ad10ce2-8558-430c-8cc3-4c29bfa970c6
