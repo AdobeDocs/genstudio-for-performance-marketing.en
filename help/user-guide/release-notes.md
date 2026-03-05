@@ -9,7 +9,33 @@ exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2025.11.14 {#latest}
+## 2026.01 {#latest}
+
+### HTML Canvas prompt panel redesign
+
+The [!DNL Create] HTML Canvas prompt drawer now appears as a left-side panel across Email, Display Ads, and Paid Media Ads, replacing the prior bottom drawer. This refresh keeps the same core functionality while improving workspace layout and consistency when generating content.
+
+### Multi-pod email generation up to 10 sections
+
+You can now create emails with up to 10 pods/sections in [!DNL Create], expanding multi-pod email generation beyond the previous 1–3 pod limit. This enhancement enables richer, more structured email layouts in a single generation flow without stitching content together across multiple passes.
+
+### Content Credentials for asset authenticity
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+GenStudio for Performance Marketing now supports Content Credentials, allowing teams to apply and preserve authenticity metadata on assets throughout creation, review, and export. Credential badges and details surface across key workflows so organizations can verify provenance and maintain trust when sharing content.
+
+## Earlier release notes
+
++++Notes from 2025.12.12
+
+### Logo swap for templates
+
+Marketers can now dynamically swap logos within templates directly in the [!DNL Create] workflow, eliminating the need to build multiple template variations for different brand logos, sub-brands, or product lines. This feature enables creators to select or swap the appropriate logo at the moment of content creation, streamlining template management and reducing production overhead.
+
++++
+
++++Notes from 2025.11.14
 
 ### Real-Time CDP audience integration
 
@@ -52,8 +78,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 * Users can now apply [!DNL Brand] tags in order to group [!DNL Product] and [!DNL Persona] records by [!DNL Brand].
 * [!DNL Experience Translations] flow has been optimized alongside the new translation feature for Paid Media and Email.
 
-
-## Earlier release notes
++++
 
 +++Notes from 2025.10.16
 

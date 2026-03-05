@@ -42,17 +42,21 @@ Ad formats refer to the various creative elements and layouts used to align with
 
 [!DNL Insights] in GenStudio for Performance Marketing currently supports the following available ad formats.
 
-| Supported                        | Unsupported                       |
-|----------------------------------|-----------------------------------|
-| Dynamic Ads<br>Link Ads<br>Simple Image Ads<br>Simple Video Ads | Shop Ads<br>Advantage+ Shopping Ads<br>Advantage+ Catalog Ads<br>Carousel Ads<br>Messenger Ads<br>Lead Ads<br>Collection Ads<br>Call Ads<br>Owned Page Post Ads<br>Partnership Ads<br>Flexible Ads |
+| Channel | Supported | Unsupported |
+|---|---|---|
+| Meta | <ul><li>Dynamic Ads</li><li>Link Ads</li><li>Simple Image Ads</li><li>Simple Video Ads</li><li>Shop Ads</li></ul> | <ul><li>Advantage+ Catalog Ads</li><li>Carousel Ads</li><li>Messenger Ads</li><li>Lead Ads</li><li>Collection Ads</li><li>Call Ads</li><li>Owned Page Post Ads</li><li>Partnership Ads</li><li>Flexible Ads</li></ul> |
+| LinkedIn | <ul><li>Single Image Ads</li><li>Single Video Ads</li><li>Article Ads</li></ul> | <ul><li>Carousel Ads</li><li>Document Ads</li><li>Event Ads</li><li>Thought Leader Ads</li><li>Lead Gen Ads</li><li>Follower Ads</li><li>Conversation Ads</li><li>Spotlight Ads</li><li>Job Ads</li><li>Content Ads</li><li>Message Ads</li></ul> |
+| TikTok | <ul><li>Single Image Ads</li><li>Single Video Ads</li></ul> | <ul><li>In-Feed Ads (Video, Spark, Carousel)</li><li>Premium Awareness Ads (TopView, Brand Takeover)</li><li>Interactive Ads (Hashtag Challenges, Branded Effects)</li><li>Commerce Ads (Shopping, Catalog, LIVE)</li><li>Lead & Messaging Ads</li><li>Difficult to categorize as we do not have the assets to determine the ad type</li></ul> |
+| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Difficult to categorize. We do not have the assets to determine the ad type. |
+| Innovid | N/A | Difficult to categorize as we do not have the assets to determine the ad type. |
 
 ### Ad placements
 
 Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
 
-When you create a campaign with Meta ads, you may have selected where to run your ads based on the campaign [objective](channels.md#objectives).
+When you create a campaign, you may have selected where to run your ads based on the campaign [objective](campaigns.md#objectives).
 
-The following is a list of supported ad placements:
+The following is a list of Meta supported ad placements:
 
 | Audience Network   | Facebook/Meta \*      | Instagram               | Messenger           |
 |--------------------|--------------------|-------------------------|---------------------|

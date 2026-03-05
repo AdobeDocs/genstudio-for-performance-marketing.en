@@ -31,6 +31,8 @@ To create a banner experience, use an available template to provide the framewor
 
 Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and assets into _Parameters_ within the prompt drawer enhances the content generation process and is a crucial preparatory step for creating a banner experience.
 
+![Enter parameters in the prompt drawer](/help/assets/prompt-displayad2.png){width="50%" align="center"}
+
 **To add parameters and assets**:
 
 1. Click the _Parameters_ icon to expand the prompt drawer.
@@ -51,8 +53,6 @@ When you are finished adding parameters, collapse the prompt drawer by clicking 
 ## Enter a prompt
 
 Once you have selected the guidelines, use natural language to create a prompt to initiate the content generation for your new banner experience. To ensure high-quality results, it is essential to craft prompts that are detailed and descriptive.
-
-![Enter a prompt](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -97,9 +97,9 @@ To optimize the generated variants and ensure strict adherence to brand identity
 
 1. Click the _Content check_ panel icon in the right action bar to open the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel). View a summary of the _Needs review_ and _Passed_ checks to see which sections and guidelines need improvement.
 
-   ![_Content check_ panel](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_Content check_ panel](/help/assets/content-check-panel.png){width="300"}
 
-1. [Manually revise variants](#revise-generated-banners) to ensure your variants are closely aligned with the performed content checks.
+2. [Manually revise variants](#revise-generated-banners) to ensure your variants are closely aligned with the performed content checks.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

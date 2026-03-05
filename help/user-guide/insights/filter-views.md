@@ -83,7 +83,7 @@ Over time, your list of campaigns and ads may grow exponentially. Consider the f
 
    ![List of campaigns](/help/assets/insights-select-campaigns-list.png "Select campaigns to include")
 
-Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results include 6 ads, providing a more targeted view for analysis.
+Your selected campaigns now appear in the _[!UICONTROL Filter by]_ list above the ads table or gallery. You can focus exclusively on the ads linked to the chosen campaigns. In this example, the filtered results provide a more targeted view for analysis.
 
 ![Table filtered by campaigns](/help/assets/insights-filter-by-campaigns.png "Table with campaigns filter"){zoomable="yes"}
 
