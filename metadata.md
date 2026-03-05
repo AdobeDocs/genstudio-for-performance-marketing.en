@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: GenStudio for Performance Marketing
+landing-page-name: genstudio-for-performance-marketing
+landing-page-breadcrumb-title: GenStudio
 type: Documentation
 git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.en
 mini-toc-levels: 2

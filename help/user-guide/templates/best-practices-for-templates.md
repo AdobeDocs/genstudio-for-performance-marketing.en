@@ -33,12 +33,12 @@ See [Template elements](use-templates.md#template-elements).
 
 Placeholder text can help define syntax or structure for content to be filled in later in a template by a user. For example, {first_name}.{last_name}@email.etc. to define an email address. However, some common delimiters are already reserved for other meanings in GenStudio for Performance Marketing:
 
-❌ < > - In use for HTML tags.
-❌ {{ }} - In use for Handlebar expressions.
+❌ `< >` - In use for HTML tags.
+❌ `{{ }}` - In use for Handlebar expressions.
 
 Use single brackets (whether straight or curly) to indicate placeholder text to avoid confusion with existing tags.
 
-✅ {first_name} - Placeholder for first name.
+✅ `{first_name}` - Placeholder for first name.
 
 ## Configure channel guidelines
 

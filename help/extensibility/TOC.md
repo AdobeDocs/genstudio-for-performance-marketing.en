@@ -18,4 +18,7 @@ role: Developer
   + [Deploy your app](deploy-app.md)
   + [Distribute your app](distribute-app.md)
   + [Experience Selector MFE](experience-selector.md)
+
+<!--
   + UI Extensions {#ui}
+-->
