@@ -101,5 +101,5 @@ role: User
   + [Integrations overview](integrations/overview.md)
   + [Photoshop plugin](integrations/photoshop-plugin.md)
   + [Figma plugin](integrations/figma-plugin.md)
-+ {hidefromtoc} [GenStudio Academy - Hidden](genstudioacademy.md)
-+ {hidefromtoc} [Test markdown - Hidden](test-markdown.md)
++ {hide-from-toc} [GenStudio Academy - Hidden](genstudioacademy.md)
++ {hide-from-toc} [Test markdown - Hidden](test-markdown.md)
