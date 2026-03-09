@@ -5,6 +5,23 @@ level: Beginner
 feature: Generative AI
 role: Admin
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
+TQID: https://experienceleague.adobe.com/cAOdJx0J4GtlITBp0dd-gJqDwM55ynoZNfN2eYWd5SI
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Provision Adobe GenStudio for Performance Marketing
 
