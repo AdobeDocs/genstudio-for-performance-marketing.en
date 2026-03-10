@@ -5,7 +5,6 @@ user-guide-description: Explore the capabilities of Adobe GenStudio for Performa
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-hold: true
 ---
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
