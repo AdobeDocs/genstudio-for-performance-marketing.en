@@ -166,8 +166,6 @@ After selecting an **[!UICONTROL Action]** option, regenerate content with the *
 
 ## Convert Figma frames to Photoshop
 
-
-
 ## Export experiences
 
 Variations can be exported from Figma as GenStudio for Performance Marketing [!DNL Experiences].
