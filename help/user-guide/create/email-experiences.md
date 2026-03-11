@@ -51,9 +51,11 @@ Editable sections of an email experience include:
 
 See [Template elements](/help/user-guide/templates/use-templates.md#template-elements).
 
-<!-- ## Email capabilities
+<!-- 
+## Email capabilities
 
-Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. -->
+Content creators and marketers can produce brand-consistent email experiences in GenStudio for Performance Marketing. 
+-->
 
 ## Multi-section emails
 

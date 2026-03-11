@@ -137,7 +137,8 @@ The following default channel guidelines for [!DNL Brands] are applied per chann
 
 >[!ENDTABS]
 
-<!-- Not in M2.1 // ### Image guidelines
+<!-- 
+Not in M2.1 // ### Image guidelines
 
 Images have certain inherent guidelines that influence image composition.
 
@@ -159,7 +160,8 @@ You can create your own categories, like Photos, Product, or Illustration imager
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} 
+-->
 
 ### Logos
 

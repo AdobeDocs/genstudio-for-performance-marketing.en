@@ -161,7 +161,8 @@ The `{{on_image_text}}` placeholder is used to specify a text overlay of short i
 <div class="image-text">{{on_image_text}}</div>
 ```
 
-<!-- this field does not work in Create canvas 2025/03
+<!-- 
+this field does not work in Create canvas 2025/03
 
 ### Brand logo field name
 
