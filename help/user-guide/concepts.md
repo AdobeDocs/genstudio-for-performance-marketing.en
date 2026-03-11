@@ -84,7 +84,8 @@ _[!DNL Generative Actions]_, as defined in the [Adobe GenStudio for Performance 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
 How they re-up their genactions
-If genactions roll over month to month or not -->
+If genactions roll over month to month or not 
+-->
 
 ### Rates
 
@@ -103,10 +104,12 @@ The following functions consume [!DNL Generative Actions] at the specified rate.
 | Create display ads       | 5 per generation  |
 | Regenerate sections      | 1 per generation  |
 
-<!-- | Generate on-brand images | 1 per prompt  |
+<!-- 
+| Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
-| Video: TTS + Avatar      | 1 per prompt  | -->
+| Video: TTS + Avatar      | 1 per prompt  | 
+-->
 
 [!DNL Generative Actions] _are not_ consumed when:
 
