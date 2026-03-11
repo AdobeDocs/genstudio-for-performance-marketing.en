@@ -64,7 +64,8 @@ All LinkedIn template widths are hardcoded at 1200 pixels.
 | Vertical 2:3      | Mobile          | 1200 x 1800    | Slightly less tall than 1:1.91. Good for mobile-first campaigns.                     |
 | Vertical 4:5      | Mobile          | 1200 x 1500   | Recommended for mobile. Balances visibility and content, which often yields higher impact. |
 
-<!-- Potentially add an example
+<!-- 
+Potentially add an example
 
 ## Template example
 

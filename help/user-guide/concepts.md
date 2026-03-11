@@ -81,7 +81,8 @@ GenStudio for Performance Marketing uses the GPT series of third-party LLMs thro
 
 _[!DNL Generative Actions]_, as defined in the [Adobe GenStudio for Performance Marketing product description](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html), are the units quantifying the use of generative AI features within GenStudio for Performance Marketing.
 
-<!-- Add example about usage mode?
+<!-- 
+Add example about usage mode?
 Where users check how many generative actions they have left
 How they re-up their genactions
 If genactions roll over month to month or not 
