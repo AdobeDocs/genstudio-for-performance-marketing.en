@@ -48,7 +48,7 @@ When you select an [!DNL Express] template and click **[!UICONTROL Use]**, the p
 
 >[!IMPORTANT]
 >
->During content generation, Express template layers will be automatically tagged with field roles for [!DNL GenStudio for Performance Marketing]. Elements on a template can also be [manually tagged](#Manual-tagging-of-templates).
+>During content generation, Express template layers will be automatically tagged with field roles for [!DNL GenStudio for Performance Marketing]. Elements on a template can also be [manually tagged](#manual-tagging-of-templates).
 
 ## About variants and [!DNL Experiences] with [!DNL Adobe Express] templates
 
@@ -56,7 +56,7 @@ When you select an [!DNL Express] template and click **[!UICONTROL Use]**, the p
 
 ### Auto-generate multiple sizes
 
-When [multiple pages have been created for an asset in [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html), those pages are carried over to any template created from that asset. Express pages will each generate as different sizes of the creative content in [!DNL GenStudio for Performance Marketing]. 
+When [multiple pages have been created for an asset in [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html), those pages are carried over to any template created from that asset. Express pages will each generate as different sizes of the creative content in [!DNL GenStudio for Performance Marketing].
 
 When multiple sized content exists for an asset in [!DNL Express], variants can be generated for all those sizes in a single generation.
 
@@ -99,6 +99,126 @@ A single variant size that's been generated in a group of Experiences can be del
 Hold **[!UICONTROL Space]** to enable a click-and-drag feature to "pull" the Canvas view pane.
 
 You can also move the view pane with a two-finger scroll.
+
+### Manually edit text
+
+You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of an image.
+
+Available text formatting includes:
+
+- Bold, Italic, and Underline
+- Text color (black, white, or brand colors)
+- Left, center, and right align
+- Bulleted and ordered lists
+- Text size
+- Superscript or subscript
+
+**To edit text manually in generated variants**:
+
+1. After generating a set of variants, double-click editable text in a variant.
+1. Enter new text.
+1. To format the text, click on or type in the text box element. Formatting options will appear in a popup bar. Holding Shift hides the bar to view the text.
+1. Click away from the text field to save any changes.
+
+### View layers
+
+You can quickly select an individual layer of a variant and make changes, such as re-generating sections or cropping images. When you select an individual layer, the editable fields or images within the layer are highlighted.
+
+**To view the layers of a variant**:
+
+1. After generating a set of variants, click an editable field or image within a variant. Layers will appear in a line of tiles in the upper right.
+1. Click a layer tile to select it. The selected layer is highlighted for the variant.
+1. Proceed with making any necessary edits to the selected layer.
+
+### Rewrite sections
+
+[!DNL GenStudio for Performance Marketing] has the built-in functionality to regenerate sections of generated variants. You can rephrase, shorten, or lengthen text, or add fresh prompts to generate new content.
+
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset. You can **[!UICONTROL Rephrase]**, **[!UICONTROL Shorten]**, or **[!UICONTROL Lengthen]** a section's text content, or **[!UICONTROL Regenerate]** text using a guiding prompt.
+
+**To rewrite individual variant sections**:
+
+1. After generating a set of variants, single-click any editable text in a variant. The wand icon will appear.
+1. Click the wand icon to open the Rewrite pane.
+1. To alter the existing text, select **[!UICONTROL Rephrase]**, **[!UICONTROL Shorten]**, or **[!UICONTROL Lengthen]**.
+1. To generate new phrasing options, select **[!UICONTROL Regenerate]** and enter a new prompt.
+   1. Click **[!UICONTROL Generate]**.
+1. The results appear as options in the pane. Select the desired option and click **[!UICONTROL Replace]**. The variant is updated with the revised text.
+
+### Crop assets
+
+You can manually crop and reposition image assets in individual generated variants with the Crop tool.
+
+**To crop and reposition images in variants**:
+
+1. After generating a set of variants, double-click an asset to activate the bounding box.
+1. Adjust the image bounding box by dragging from any edge or corner, or drag the whole image into the desired position.
+
+### Swap assets
+
+You can add or swap images, approved logos, or video assets in generated variants right from the Canvas UI.
+
+**To add or swap assets in a variant**:
+
+1. After generating a set of variants, click an asset (or the image asset area if an image does not currently exist). A swap icon appears.
+1. Click the swap icon to open the Select assets page.
+1. Use the filters and search function in the GenStudio assets Content view to further narrow your search results.
+1. You can also use images available in connected [!DNL Adobe Experience Manager] (AEM) Assets Content Hub repositories by selecting that repository from the **[!UICONTROL Location]** menu.
+1. Click to select an image and click **[!UICONTROL Use]**. The image is added or swapped into the applicable variant.
+
+### Manual tagging of templates
+
+Elements in templates are automatically tagged during [template generation](#find-express-templates) in the Create workflow. But these elements can also be manually tagged.
+
+**To manually tag a template element**:
+
+1. Select the element on the template.
+1. Use the dropdown to select the tag for that element.
+
+Tagging options vary depending on the type of element.
+
+### Template lock restrictions
+
+Templates can include [locked elements](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) that carry over from [!DNL Express] and control how some features may be altered. These settings are respected by the template, and can also be altered on the template:
+
+1. Select a locked element on the template.
+1. Click the lock icon in the top left for the selected element.
+1. Select the correct option to unlock the element.
+
+### Video Assembly
+
+Templates that include videos can take advantage of the Video Assembly features.
+
+**To use Video Assembly**:
+
+1. Select an experience and click the **[!UICONTROL Edit]** button to enter focus mode and use Video Assembly features. Only the single variant will be displayed and the scene line will be displayed along the bottom.
+1. Adjust your video experience. Video Assembly options include:
+   - Play videos
+   - Mute and unmute sound
+   - Add new video content with the "+" button
+   - Video duration settings
+   - Change the order of video content with drag and drop
+1. When you've finished editing your video, use the **[!UICONTROL Exit]** button at the top to save changes and return to the infinite canvas.
+
+### Modify images with Generative Expand
+
+Image layers can have their boundaries expanded with AI to fit any desired dimensions in an experience.
+
+**To expand an image with Generative Expand**:
+
+1. Select an unlocked image layer and click the **[!UICONTROL Expand]** button at the bottom of the image frame.
+1. Pull the frame to the desired dimensions where the image will be expanded. The Expand options window will appear. In the Expand options, you can facilitate the expansion by:
+   - Entering a prompt
+   - Choosing to fit to frame
+   - Reset the dimensions
+1. Click **[!UICONTROL Expand]** to create the generation. Variants to choose from will appear at the bottom of the frame.
+1. Select the best variant and click **[!UICONTROL Keep]**.
+
+### Brand validation
+
+Use the _Content check_ panel to maintain consistent brand identity, ADA accessibility standards, platform guidelines, and alignment of variants.
+
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Review and approve
 
