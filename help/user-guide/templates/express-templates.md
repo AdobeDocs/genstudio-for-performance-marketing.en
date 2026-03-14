@@ -4,19 +4,11 @@ description: Explore GenStudio for Performance Marketing features that are able 
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-badgePremium: label="beta" type="informative" tooltip="This content is in beta"
 
 ---
 # Using [!DNL Adobe Express] templates
 
-
 [!DNL GenStudio for Performance Marketing] can use templates that have been created and designed in [!DNL Adobe Express]. Bring branded assets from [!DNL Adobe Express] and use these powerful tools to integrate them in compelling marketing campaigns and [!DNL Experiences].
-
-
->[!NOTE]
->
-> This is currently a beta feature. If you're interested in using [!DNL Adobe Express] templates in [!DNL GenStudio for Performance Marketing], contact your [!DNL Adobe] representative to understand the enrollment options.
-
 
 This guide explains the requirements and the features with templates from [!DNL Adobe Express].
 
@@ -24,20 +16,29 @@ This guide explains the requirements and the features with templates from [!DNL 
 
 In [!DNL Adobe Express], [new documents can be created using existing starter templates](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5) that are provided in the application, or with [custom templates that can include helpful brand restrictions](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html) like:
 
-- Locked elements so they can't be edited
-- Element style controls for brand alignment
+- [Locked elements](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) that can't be altered
+- Lock restrictions that control how users can unlock elements when needed
 
-Custom templates can be brought into [!DNL GenStudio for Performance Marketing] and used in campaigns and experiences. Any brand restrictions set in [!DNL Adobe Express] are included in the template file and will also be applied in [!DNL GenStudio for Performance Marketing].
+Lock settings that have been set on the template in [!DNL Adobe Express] will also be applied in [!DNL GenStudio for Performance Marketing]. Use [the [!DNL Adobe Express] instructions to create a custom template with brand restrictions](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
 
-Use [the [!DNL Adobe Express] instructions to create a custom template with brand restrictions](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
+To use custom fonts in an Express Template, admins must first accept the Custom Fonts qualifying offer in the admin console, which is included as part of the Express license entitlement.
 
 ## Find Express templates
 
+Users will see new tabs in Create to select Express templates. Express templates can be accessed in GenStudio for Performance Marketing when those templates are:
 
-In Create, working with [!DNL Adobe Express] templates is mostly the same as [working with any [!DNL GenStudio for Performance Marketing] templates](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/templates/use-templates). Users with the [!DNL Express] template implementation will see new tabs in [!DNL Create] to select those templates. Any templates that you've created, or that have been shared with you or your organization, can be accessed in [!DNL GenStudio for Performance Marketing]. 
+- Created by the user
+- Shared to the user
+- Shared to the user's organization, using the same IMS org in both apps
 
+Find any available Express templates in the Create workflow, after selecting a template type. Express templates are only available for the types:
 
-Find any available [!DNL Express] templates in [!DNL Creat], under _[!UICONTROL Recents]_ choose **[!UICONTROL From Express Template]s**, or
+- [!DNL Meta]
+- [!DNL Display]
+- [!DNL LinkedIn]
+- [!DNL TikTok]
+
+In the top bar under **[!UICONTROL Select template]**, find **Express templates**.
 
 ![The From Express Templates option, under Recents](./images/express-templates-recent.png){width=400}
 
