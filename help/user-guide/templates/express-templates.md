@@ -40,21 +40,17 @@ Find any available Express templates in the Create workflow, after selecting a t
 
 In the top bar under **[!UICONTROL Select template]**, find **Express templates**.
 
-![The From Express Templates option, under Recents](./images/express-templates-recent.png){width=400}
+![The Select template pane, showing Express Templates](./images/express-template-select.png){width=70%}
 
-...after selecting a template type, in the top bar under **[!UICONTROL Express Templates]**.
+When you select an [!DNL Express] template and click **[!UICONTROL Use]**, the pre-draft parameters and prompt will appear in a popup panel on the left. Click the **[!UICONTROL Generate]** button to create new content with the selected template.
 
-![The Select template pane, showing Express Templates](./images/express-template-select.png){width=400}
-
-When you select an [!DNL Express] template and click [!UICONTROL Use], the pre-draft parameters and prompt will appear in a popup panel on the left. Click the [!UICONTROL Generate] button to create new content with the selected template.
-
-![The parameters pane for an Express template](./images/express-template-predraft.png){width=400}
+![The parameters pane for an Express template](./images/express-template-predraft.png){width=90%}
 
 >[!IMPORTANT]
 >
->During content generation, Express template layers will be automatically tagged with field roles for GenStudio or Performance Marketing.
+>During content generation, Express template layers will be automatically tagged with field roles for [!DNL GenStudio for Performance Marketing]. Elements on a template can also be [manually tagged](#Manual-tagging-of-templates).
 
-## Features for variants and [!DNL Experiences]
+## About variants and [!DNL Experiences] with [!DNL Adobe Express] templates
 
 [!DNL Express] templates offer many of the same features you'll be familiar with when [managing other variants](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text). However, there are a few powerful additions to streamline any workflow for content from [!DNL Express]. This section describes features exclusive to the [!DNL Adobe Express] implementation.
 
@@ -63,10 +59,6 @@ When you select an [!DNL Express] template and click [!UICONTROL Use], the pre-d
 When [multiple pages have been created for an asset in [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html), those pages are carried over to any template created from that asset. Express pages will each generate as different sizes of the creative content in [!DNL GenStudio for Performance Marketing]. 
 
 When multiple sized content exists for an asset in [!DNL Express], variants can be generated for all those sizes in a single generation.
-
-### Synchronized editing in Meta and LinkedIn
-
-Templates for Meta and LinkedIn can have elements (like border panels or header bars) that are required in order to conform with the content's destination app. Editing content in a variant, like text, for these required elements is synchronized across all the variants generated in an Experience.
 
 ### Reposition and resize elements
 
@@ -92,7 +84,7 @@ Assign feedback to each group of generated variants. These feedback labels help 
 
  Click "..." to open the dropdown for:
 
-- Good output 
+- Good output
 - Poor output
 - Delete - Deletes the group of variants.
 
@@ -104,7 +96,7 @@ A single variant size that's been generated in a group of Experiences can be del
 
 ### Spacebar-to-pan
 
-Hold **[!UICONTROL Space]** to enable a click-and-drag feature to "pull" the Canvas view pane. 
+Hold **[!UICONTROL Space]** to enable a click-and-drag feature to "pull" the Canvas view pane.
 
 You can also move the view pane with a two-finger scroll.
 
