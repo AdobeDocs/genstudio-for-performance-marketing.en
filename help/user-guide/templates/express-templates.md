@@ -129,7 +129,7 @@ You can quickly select an individual layer of a variant and make changes, such a
 **To view the layers of a variant**:
 
 1. After generating a set of variants, click an editable field or image within a variant. Layers will appear in a line of tiles in the upper right.
-![Layers in a variant](./images/view-layers.png){width=30%}
+![Layers in a variant](./images/view-layers.png){width=50%}
 1. Click a layer tile to select it. The selected layer is highlighted for the variant.
 1. Proceed with making any necessary edits to the selected layer.
 
@@ -139,7 +139,7 @@ You can quickly select an individual layer of a variant and make changes, such a
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset. You can **[!UICONTROL Rephrase]**, **[!UICONTROL Shorten]**, or **[!UICONTROL Lengthen]** a section's text content, or **[!UICONTROL Regenerate]** text using a guiding prompt.
 
-![Rewrite sections](./images/rewrite-sections.png){width=30%}
+![Rewrite sections](./images/rewrite-sections.png){width=50%}
 
 **To rewrite individual variant sections**:
 
@@ -150,7 +150,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
    1. Click **[!UICONTROL Generate]**.
 1. The results appear as options in the pane. Select the desired option and click **[!UICONTROL Replace]**. The variant is updated with the revised text.
 
-![Choose the rewritten content that fits best](./images/rewrite-replace.png){width=30%}
+![Choose the rewritten content that fits best](./images/rewrite-replace.png){width=50%}
 
 ### Crop assets
 
@@ -181,6 +181,7 @@ Elements in templates are automatically tagged during [template generation](#fin
 
 1. Select the element on the template.
 1. Use the dropdown to select the tag for that element.
+![Manual tagging of a template element](./images/manually-tagging-templates.png){width=80%}
 
 Tagging options vary depending on the type of element.
 
@@ -191,6 +192,7 @@ Templates can include [locked elements](https://helpx.adobe.com/express/web/invi
 1. Select a locked element on the template.
 1. Click the lock icon in the top left for the selected element.
 1. Select the correct option to unlock the element.
+![Use the icon to unlock a locked element](./images/unlock-option.png){width=60%}
 
 ### Video Assembly
 
@@ -199,6 +201,7 @@ Templates that include videos can take advantage of the Video Assembly features.
 **To use Video Assembly**:
 
 1. Select an experience and click the **[!UICONTROL Edit]** button to enter focus mode and use Video Assembly features. Only the single variant will be displayed and the scene line will be displayed along the bottom.
+![A selected Experience with the Video Assembly options](./images/video-assembly.png){width=70%}
 1. Adjust your video experience. Video Assembly options include:
    - Play videos
    - Mute and unmute sound
@@ -214,12 +217,17 @@ Image layers can have their boundaries expanded with AI to fit any desired dimen
 **To expand an image with Generative Expand**:
 
 1. Select an unlocked image layer and click the **[!UICONTROL Expand]** button at the bottom of the image frame.
+![An image layer showing the Expand pane](./images/image-expand.png){width=70%}
 1. Pull the frame to the desired dimensions where the image will be expanded. The Expand options window will appear. In the Expand options, you can facilitate the expansion by:
    - Entering a prompt
    - Choosing to fit to frame
    - Reset the dimensions
+![The Expand options window](./images/image-expand-options.png){width=50%}
 1. Click **[!UICONTROL Expand]** to create the generation. Variants to choose from will appear at the bottom of the frame.
 1. Select the best variant and click **[!UICONTROL Keep]**.
+![The generated variants](./images/image-expand-keep.png){width=50%}
+
+![The final expanded image](./images/expand-after.png){width=60%}
 
 ### Brand validation
 
