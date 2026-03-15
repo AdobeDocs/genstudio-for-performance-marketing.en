@@ -104,6 +104,8 @@ You can also move the view pane with a two-finger scroll.
 
 You can edit the text fields in generated variants. Refine the text for your audience by experimenting with different phrases and verbiage and by applying formatting. For example, you can bold and right align the text for a variant to accommodate the layout of an image.
 
+![Manual text editing options](./images/color-swap.png){width=60%}
+
 Available text formatting includes:
 
 - Bold, Italic, and Underline
@@ -127,6 +129,7 @@ You can quickly select an individual layer of a variant and make changes, such a
 **To view the layers of a variant**:
 
 1. After generating a set of variants, click an editable field or image within a variant. Layers will appear in a line of tiles in the upper right.
+![Layers in a variant](./images/view-layers.png){width=30%}
 1. Click a layer tile to select it. The selected layer is highlighted for the variant.
 1. Proceed with making any necessary edits to the selected layer.
 
@@ -136,6 +139,8 @@ You can quickly select an individual layer of a variant and make changes, such a
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset. You can **[!UICONTROL Rephrase]**, **[!UICONTROL Shorten]**, or **[!UICONTROL Lengthen]** a section's text content, or **[!UICONTROL Regenerate]** text using a guiding prompt.
 
+![Rewrite sections](./images/rewrite-sections.png){width=30%}
+
 **To rewrite individual variant sections**:
 
 1. After generating a set of variants, single-click any editable text in a variant. The wand icon will appear.
@@ -144,6 +149,8 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. To generate new phrasing options, select **[!UICONTROL Regenerate]** and enter a new prompt.
    1. Click **[!UICONTROL Generate]**.
 1. The results appear as options in the pane. Select the desired option and click **[!UICONTROL Replace]**. The variant is updated with the revised text.
+
+![Choose the rewritten content that fits best](./images/rewrite-replace.png){width=30%}
 
 ### Crop assets
 
