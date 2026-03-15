@@ -6,6 +6,18 @@ role: Admin, Developer
 feature: Content Management
 recommendations: noDisplay
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
+TQID: https://experienceleague.adobe.com/FJ6G7qlBlkrsGk1H7SHhlkqHUHYYGKkTqklTeGDxJho
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Connect to an [!DNL AEM Assets Content Hub] repository
 

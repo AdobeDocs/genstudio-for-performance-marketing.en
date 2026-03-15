@@ -3,6 +3,30 @@ title: GenStudio for Performance Marketing [!DNL Products]
 description: GenStudio for Performance Marketing [!DNL Products] incorporates all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
 feature: Product Personalization, Variant Generation, Generative AI
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
+TQID: https://experienceleague.adobe.com/M8grcr4Wo2he7XtOjDC5W5VVri90R6Z0InJfdS6c9yY
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: afc6e550-6640-4eb4-a143-75ec86d23a66
+    internal-label: Product personalization
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # GenStudio for Performance Marketing [!DNL Products]
 

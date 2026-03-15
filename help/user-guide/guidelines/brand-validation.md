@@ -3,6 +3,34 @@ title: Brand Validation in Adobe GenStudio for Performance Marketing
 description: Learn about the built-in brand validation system in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
+TQID: https://experienceleague.adobe.com/0avyL5lvm9hWdlxGE0RwPhP0dX2bA91GNnlKLG1oqEY
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+    internal-label: Brand personalization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Brand validation
 

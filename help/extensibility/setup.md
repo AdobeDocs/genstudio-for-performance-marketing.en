@@ -2,6 +2,22 @@
 title: Get Started
 description: Start building Add-ons or App Builder apps that extend GenStudio for Performance Marketing.
 exl-id: 755f1a40-add5-43e3-bf54-eaec36ef1e9a
+TQID: https://experienceleague.adobe.com/069NojePrFEaIHs8-jM2w2CfH15X0veKs4XilrmTnlI
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+    internal-label: Extensions
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Get started building extensible apps
 

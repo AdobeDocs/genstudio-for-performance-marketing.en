@@ -4,6 +4,26 @@ description: Learn about assigning entitlements for GenStudio for Performance Ma
 level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
+TQID: https://experienceleague.adobe.com/13RaDoLWSm8KjpzgsMkxAUOULez15KTUj6xF3QSb3vE
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Assign [!DNL Brand] permissions
 

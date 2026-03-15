@@ -3,6 +3,34 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
+TQID: https://experienceleague.adobe.com/mZ70azBCwP8KshE6iX7hwGvEWawBkU36aDejZbAkRAY
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+    internal-label: Brand personalization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # GenStudio for Performance Marketing [!DNL Brands]
 
@@ -109,7 +137,8 @@ The following default channel guidelines for [!DNL Brands] are applied per chann
 
 >[!ENDTABS]
 
-<!-- Not in M2.1 // ### Image guidelines
+<!-- 
+Not in M2.1 // ### Image guidelines
 
 Images have certain inherent guidelines that influence image composition.
 
@@ -131,7 +160,8 @@ You can create your own categories, like Photos, Product, or Illustration imager
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} 
+-->
 
 ### Logos
 

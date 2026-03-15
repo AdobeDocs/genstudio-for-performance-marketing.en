@@ -3,6 +3,16 @@ title: Approve Content
 description: Learn how to approve generated content with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
 exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
+TQID: https://experienceleague.adobe.com/-gEhuBGNiJb3BxrRvJKcZea87FCe5FERanIKGLBuO3U
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Approve content
 
