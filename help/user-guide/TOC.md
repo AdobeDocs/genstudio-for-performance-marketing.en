@@ -64,6 +64,7 @@ role: User
   + [Customize a template](templates/customize-template.md)
   + [Template code editor](templates/code-editor.md)
   + [Create accessible templates](templates/accessibility-for-templates.md)
+  + [Using Express templates](templates/express-templates.md)
   + [Best practices for templates](templates/best-practices-for-templates.md)
   + Channel best practice {#channel-best-practice}
     + [Display ads guide](templates/display-template.md)
