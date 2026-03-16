@@ -73,7 +73,28 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.01 {#latest}
+## 2026.03 {#latest}
+
+### Express templates for Meta, LinkedIn, and Display
+
+[!DNL Create] now supports [Express templates on the Horizon Canvas](/help/user-guide/templates/express-templates.md) for Meta, LinkedIn, and Display. You can use Adobe Express templates—including starter templates and custom branded layouts—directly in the creation workflow.
+
+The canvas supports template features including:
+
+* multiple sizes per template
+* layer locks and unlock options set in Express
+* WYSIWYG editing for template elements
+* richer controls for text, media swap, logo replacement, video reframe and more
+
+Explore the details in [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md).
+
+### TikTok content in GenStudio for Performance Marketing
+
+You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
+
+## Earlier release notes
+
++++Notes from 2026.01.15
 
 ### HTML Canvas prompt panel redesign
 
@@ -89,7 +110,7 @@ You can now create emails with up to 10 pods/sections in [!DNL Create], expandin
 
 GenStudio for Performance Marketing now supports Content Credentials, allowing teams to apply and preserve authenticity metadata on assets throughout creation, review, and export. Credential badges and details surface across key workflows so organizations can verify provenance and maintain trust when sharing content.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.12.12
 
