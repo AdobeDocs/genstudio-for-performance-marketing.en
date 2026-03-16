@@ -238,3 +238,4 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 ## Review and approve
 
 After editing and adjusting your variants, approve and publish your content with [the Reviews and Approval workflow](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/approve/overview).
+
