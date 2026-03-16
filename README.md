@@ -4,7 +4,7 @@ This site contains the latest documentation for the GenStudio for Performance Ma
 
 ## Adobe Open Source Code of Conduct
 
-This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). See the [Contributing](contributing.md) article.
+This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). See the [Contributing](contributing.md) page.
 
 ### Minor changes
 
