@@ -1,5 +1,5 @@
 ---
-title: Using Adobe Express Templates in GenStudio
+title: Using Adobe Express Templates in GenStudio for Performance Marketing
 description: Explore GenStudio for Performance Marketing features that are able to integrate Adobe Express assets.
 level: Intermediate
 role: Developer, User
