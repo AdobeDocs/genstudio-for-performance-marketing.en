@@ -73,7 +73,13 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.01 {#latest}
+## 2026.03 {#latest}
+
+<!-- Paste KT content below. Use ### for major feature categories; add documentation links and Beta badges where applicable. Add a "### Fixes and enhancements" section only if KTs include items labeled as fixes or enhancements. -->
+
+## Earlier release notes
+
++++Notes from 2026.01.15
 
 ### HTML Canvas prompt panel redesign
 
@@ -89,7 +95,7 @@ You can now create emails with up to 10 pods/sections in [!DNL Create], expandin
 
 GenStudio for Performance Marketing now supports Content Credentials, allowing teams to apply and preserve authenticity metadata on assets throughout creation, review, and export. Credential badges and details surface across key workflows so organizations can verify provenance and maintain trust when sharing content.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.12.12
 
