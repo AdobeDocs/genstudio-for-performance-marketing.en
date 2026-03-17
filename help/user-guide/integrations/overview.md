@@ -48,3 +48,4 @@ Learn more about the Figma plugin in the [Figma plugin](figma-plugin.md) page.
 The GenStudio for Performance Marketing Photoshop plugin adds a new panel to Adobe Photoshop that allows users to perform GenStudio for Performance Marketing actions, like generating on-brand content.
 
 Learn more about the Photoshop plugin in the [Photoshop plugin](photoshop-plugin.md) page.
+
