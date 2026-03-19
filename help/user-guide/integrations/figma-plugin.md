@@ -179,6 +179,83 @@ Variations can be exported from Figma as GenStudio for Performance Marketing [!D
 
 A ZIP file is created in the plugin panel, or a link to **[!UICONTROL Open in GenStudio]** appears. Use the ZIP link to choose where to save the file, or select **[!UICONTROL Open in GenStudio]**.
 
+## Convert Figma frames to Photoshop
+
+>[!NOTE]
+>
+> To perform this task, you need both the Figma plugin and the [Photoshop plugin for GenStudio for Performance Marketing](photoshop-plugin.md).
+
+You can use the Figma plugin to convert a Figma frame, multiple frames, or an entire document to Photoshop format and export it for use with the [Photoshop plugin](photoshop-plugin.md). Currently, only major properties such as visibility, font size, and basic layer attributes are supported during conversion. Features such as strikethrough, superscript, subscript, opacity as percentages, gradients, and similar advanced properties are not yet supported.
+
+The plugin supports the following Figma layer types for conversion:
+
+* **Group**
+* **Instance**
+* **Text**
+* **Vector**
+* **Image**
+
+The following sections describe how supported Figma layers are structured when converted to a PSD file.
+
+### Frame → layer group
+
+* Figma frames are converted into Photoshop layer groups.
+* Nested frames become nested groups.
+* Frame dimensions become the PSD artboard or group bounds (depending on selection).
+
+### Group → layer group
+
+* Figma groups convert directly into Photoshop layer groups.
+* Layer hierarchy and stacking order are preserved.
+
+### Instance → layer group
+
+* Components and instances are flattened into standard Photoshop layer groups. Component metadata and variant logic are not preserved.
+* All child layers remain inside the group.
+
+### Text → text layer
+
+* Figma text layers convert into editable Photoshop text layers.
+* Text hierarchy and positioning are preserved.
+
+### Vector → shape layer
+
+* Figma vector layers convert into Photoshop shape layers.
+* Paths are preserved when possible.
+* Complex vectors may be rasterized if unsupported effects are applied.
+
+### Image → raster layer
+
+* Figma image layers convert into Photoshop raster layers.
+* Image scaling and positioning are preserved.
+
+### Convert frames
+
+To convert frames:
+
+1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
+1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
+1. Do one of the following:
+
+   * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
+   * Click **[!UICONTROL Transfer to Photoshop Plugin]** to cache the converted file for immediate use in the Photoshop plugin.
+
+1. When the **[!UICONTROL File Key Required]** dialog appears, the plugin needs a Figma file URL to complete the conversion. Add the URL for your document:
+
+   1. In Figma, click **[!UICONTROL Share]** in the upper-right corner of the canvas.
+   1. In **[!UICONTROL Share this file]**, click **[!UICONTROL Copy link]**.
+   1. Paste the copied link into the **[!UICONTROL Figma File URL]** field in the plugin dialog.
+
+1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
+1. In Photoshop, open the GenStudio plugin and click the **[!UICONTROL Import]** tab.
+1. Do one of the following:
+
+   * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to Photoshop Plugin]** from the cached files list, or
+   * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
+
+1. The GenStudio plugin in Photoshop converts the information from the JSON document into an open Photoshop document.
+1. Click **[!UICONTROL Done]**. The new file opens in Photoshop and is ready to use. Or click **[!UICONTROL Save As...]** to choose a location to save the file.
+
 ## Generation history
 
 The plugin maintains a history of changes for each field. On the template page, choose **[!UICONTROL Generation history]** in the plugin sidebar.
