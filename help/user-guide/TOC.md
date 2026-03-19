@@ -36,6 +36,7 @@ role: User
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
   + [LinkedIn experiences](create/linkedin-experiences.md)
+  + [TikTok experiences](create/tiktok-experiences.md)
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Banner experiences](create/banner-experiences.md)
   + [Manage variants](create/manage-variants.md)
