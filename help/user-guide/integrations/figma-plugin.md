@@ -190,7 +190,7 @@ You can use the Figma plugin to convert a Figma frame, multiple frames, or an en
 The plugin supports the following Figma layer types for conversion:
 
 * **Frame**
-**Group**
+* **Group**
 * **Instance**
 * **Text**
 * **Vector**
@@ -231,7 +231,7 @@ To convert frames:
 
    * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to Photoshop Plugin]** from the cached files list, or
    * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
-![Uplod JSON button](./upload-json.png){width="40%"}
+![Upload JSON button](./upload-json.png){width="40%"}
 1. The GenStudio plugin in Photoshop converts the information from the JSON document into an open Photoshop document.
 1. Click **[!UICONTROL Done]**. The new file opens in Photoshop and is ready to use. Or click **[!UICONTROL Save As...]** to choose a location to save the file.
 ![Done button dialog box](./import-done-button.png){width="40%"}
