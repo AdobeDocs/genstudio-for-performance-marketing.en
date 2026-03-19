@@ -88,7 +88,7 @@ To assign element roles:
 
 The plugin remembers these mappings to use for generated content. A field role\ can be mapped to multiple template elements.
 
-![Field role mapping](./field-role-mapping.png){width="600"}
+![Field role mapping](./field-role-mapping.png){width="60%"}
 
 ### Field mapping exceptions
 
@@ -99,9 +99,9 @@ The plugin remembers these mappings to use for generated content. A field role\ 
 Use GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
 
 1. If you use the GenStudio Plugin Playground or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
-![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
+![Section select or variations](./plugin-playground.png){width="50%" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Finish Setup]** button.
-![Setup project window](./setup-project.png){width="300" zoomable="yes"}
+![Setup project window](./setup-project.png){width="30%" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced (up to eight).
 1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
@@ -114,10 +114,10 @@ Use GenStudio for Performance Marketing AI to generate or make variations to ele
 Use GenStudio for Performance Marketing AI to generate ad copy variations or translate Figma templates.
 
 1. Select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
-![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
+![Section select or variations](./plugin-playground.png){width="50%" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations and choose a platform for the content.
 1. In **[!UICONTROL What is the goal?]**, select **[!UICONTROL Generate Variations]** or **[!UICONTROL Translate]**, then click the **[!UICONTROL Finish Setup]** button.
-![Setup project window](./setup-project.png){width="300" zoomable="yes"}
+![Setup project window](./setup-project.png){width="30%" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced.
 1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
@@ -130,7 +130,7 @@ Use GenStudio for Performance Marketing AI to generate ad copy variations or tra
 ## Translate content after generation
 
 1. Select a generation that you want to translate.
-![Select generation](./select-generation.png){width="200" zoomable="yes"}
+![Select generation](./select-generation.png){width="20%" zoomable="yes"}
 1. Choose **[!UICONTROL Translation]**, then click **[!UICONTROL Translate]**.
 1. Select your target language or languages.
 1. Click **[!UICONTROL Select]**.
@@ -147,7 +147,7 @@ Translation results include:
 
 When you're editing existing content in a field, useful options appear in the plugin panel.
 
-![Plugin Actions options](./figma-other-actions.png){width="300" zoomable="yes"}
+![Plugin Actions options](./figma-other-actions.png){width="30%" zoomable="yes"}
 
 Options include:
 
@@ -169,9 +169,9 @@ Variations can be exported from Figma as GenStudio for Performance Marketing [!D
 
 1. Select the content to be exported in the Figma canvas by doing one of the following:
    * Select the generation section in the canvas, then click **[!UICONTROL Mark all for Export]** in the plugin panel.
-   ![Generation section select](./select-generation-section.png){width="200" zoomable="yes"}
+   ![Generation section select](./select-generation-section.png){width="20%" zoomable="yes"}
    * Select an individual generation in the canvas, then click **[!UICONTROL Mark for Export]** in the plugin panel.
-   ![Individual generation select](./select-generation.png){width="200" zoomable="yes"}
+   ![Individual generation select](./select-generation.png){width="20%" zoomable="yes"}
 1. Select the Export item from the sidebar menu.
 ![Mark for Export button displayed for a Meta ad](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Select a destination.
