@@ -88,7 +88,7 @@ To assign element roles:
 
 The plugin remembers these mappings to use for generated content. A field role\ can be mapped to multiple template elements.
 
-![Field role mapping](./field-role-mapping.png){width="600"}
+![Field role mapping](./field-role-mapping.png){width="60%"}
 
 ### Field mapping exceptions
 
@@ -99,9 +99,9 @@ The plugin remembers these mappings to use for generated content. A field role\ 
 Use GenStudio for Performance Marketing AI to generate or make variations to elements in Figma templates.
 
 1. If you use the GenStudio Plugin Playground or already prepared templates, select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
-![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
+![Section select or variations](./plugin-playground.png){width="50%" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations, choose a platform for the content, and fill out the other required information. Then click the **[!UICONTROL Finish Setup]** button.
-![Setup project window](./setup-project.png){width="300" zoomable="yes"}
+![Setup project window](./setup-project.png){width="30%" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced (up to eight).
 1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
@@ -114,10 +114,10 @@ Use GenStudio for Performance Marketing AI to generate or make variations to ele
 Use GenStudio for Performance Marketing AI to generate ad copy variations or translate Figma templates.
 
 1. Select the section node that contains your ad templates. You can do this from the **Layers** panel or by clicking directly on the section in the canvas.
-![Section select or variations](./plugin-playground.png){width="500" zoomable="yes"}
+![Section select or variations](./plugin-playground.png){width="50%" zoomable="yes"}
 1. In the plugin window, enter a project name for the variations and choose a platform for the content.
 1. In **[!UICONTROL What is the goal?]**, select **[!UICONTROL Generate Variations]** or **[!UICONTROL Translate]**, then click the **[!UICONTROL Finish Setup]** button.
-![Setup project window](./setup-project.png){width="300" zoomable="yes"}
+![Setup project window](./setup-project.png){width="30%" zoomable="yes"}
 1. Select the [!DNL Brand], [!DNL Persona], and [!DNL Product] to use for the content generation.
 1. Select the number of variations to be produced.
 1. Use the button under **[!UICONTROL Select Content]** to browse and choose images from your assets. The 40 most recently added assets appear first, and you can search for other assets. Selected images are automatically resized to fit your templates.
@@ -130,7 +130,7 @@ Use GenStudio for Performance Marketing AI to generate ad copy variations or tra
 ## Translate content after generation
 
 1. Select a generation that you want to translate.
-![Select generation](./select-generation.png){width="200" zoomable="yes"}
+![Select generation](./select-generation.png){width="20%" zoomable="yes"}
 1. Choose **[!UICONTROL Translation]**, then click **[!UICONTROL Translate]**.
 1. Select your target language or languages.
 1. Click **[!UICONTROL Select]**.
@@ -147,7 +147,7 @@ Translation results include:
 
 When you're editing existing content in a field, useful options appear in the plugin panel.
 
-![Plugin Actions options](./figma-other-actions.png){width="300" zoomable="yes"}
+![Plugin Actions options](./figma-other-actions.png){width="30%" zoomable="yes"}
 
 Options include:
 
@@ -169,15 +169,72 @@ Variations can be exported from Figma as GenStudio for Performance Marketing [!D
 
 1. Select the content to be exported in the Figma canvas by doing one of the following:
    * Select the generation section in the canvas, then click **[!UICONTROL Mark all for Export]** in the plugin panel.
-   ![Generation section select](./select-generation-section.png){width="200" zoomable="yes"}
+   ![Generation section select](./select-generation-section.png){width="20%" zoomable="yes"}
    * Select an individual generation in the canvas, then click **[!UICONTROL Mark for Export]** in the plugin panel.
-   ![Individual generation select](./select-generation.png){width="200" zoomable="yes"}
+   ![Individual generation select](./select-generation.png){width="20%" zoomable="yes"}
 1. Select the Export item from the sidebar menu.
 ![Mark for Export button displayed for a Meta ad](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Select a destination.
 1. Click **[!UICONTROL Export]** to export the content.
 
 A ZIP file is created in the plugin panel, or a link to **[!UICONTROL Open in GenStudio]** appears. Use the ZIP link to choose where to save the file, or select **[!UICONTROL Open in GenStudio]**.
+
+## Convert Figma frames to Photoshop
+
+>[!NOTE]
+>
+> To perform this task, you need both the Figma plugin and the [Photoshop plugin for GenStudio for Performance Marketing](photoshop-plugin.md).
+
+You can use the Figma plugin to convert a Figma frame, multiple frames, or an entire document to Photoshop format and export it for use with the [Photoshop plugin](photoshop-plugin.md). Currently, only major properties such as visibility, font size, and basic layer attributes are supported during conversion. Features such as strikethrough, superscript, subscript, opacity as percentages, gradients, and similar advanced properties are not yet supported.
+
+The plugin supports the following Figma layer types for conversion:
+
+* **Frame**
+* **Group**
+* **Instance**
+* **Text**
+* **Vector**
+* **Image**
+
+When you convert to PSD, supported layers map to Photoshop as follows:
+
+| Figma layer type | Converts to Photoshop | Notes |
+| --- | --- | --- |
+| **Frame** | Layer group | <ul><li>Figma frames are converted into Photoshop layer groups.</li><li>Nested frames become nested groups.</li><li>Frame dimensions become the PSD artboard or group bounds (depending on selection).</li></ul> |
+| **Group** | Layer group | <ul><li>Figma groups convert directly into Photoshop layer groups.</li><li>Layer hierarchy and stacking order are preserved.</li></ul> |
+| **Instance** | Layer group | <ul><li>Components and instances are flattened into standard Photoshop layer groups. Component metadata and variant logic are not preserved.</li><li>All child layers remain inside the group.</li></ul> |
+| **Text** | Text layer | <ul><li>Figma text layers convert into editable Photoshop text layers.</li><li>Text hierarchy and positioning are preserved.</li></ul> |
+| **Vector** | Shape layer | <ul><li>Figma vector layers convert into Photoshop shape layers.</li><li>Paths are preserved when possible.</li><li>Complex vectors may be rasterized if unsupported effects are applied.</li></ul> |
+| **Image** | Raster layer | <ul><li>Figma image layers convert into Photoshop raster layers.</li><li>Image scaling and positioning are preserved.</li></ul> |
+
+### How to convert frames
+
+To convert frames:
+
+1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
+1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
+1. Do one of the following:
+
+   * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
+   * Click **[!UICONTROL Transfer to Photoshop Plugin]** to cache the converted file for immediate use in the Photoshop plugin.
+![Transfer to Photoshop Plugin button](./transfer-to-ps-button.png){width="60%"}
+1. When the **[!UICONTROL File Key Required]** dialog appears, the plugin needs a Figma file URL to complete the conversion. Add the URL for your document:
+
+   1. In Figma, click **[!UICONTROL Share]** in the upper-right corner of the canvas.
+   1. In **[!UICONTROL Share this file]**, click **[!UICONTROL Copy link]**.
+   1. Paste the copied link into the **[!UICONTROL Figma File URL]** field in the plugin dialog.
+
+1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
+![File Key Required dialog](./file-key-required.png){width="40%"}
+1. In Photoshop, open the GenStudio plugin and click the **[!UICONTROL Import]** tab.
+1. Do one of the following:
+
+   * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to Photoshop Plugin]** from the cached files list, or
+   * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
+![Upload JSON button](./upload-json.png){width="40%"}
+1. The GenStudio plugin in Photoshop converts the information from the JSON document into an open Photoshop document.
+1. Click **[!UICONTROL Done]**. The new file opens in Photoshop and is ready to use. Or click **[!UICONTROL Save As...]** to choose a location to save the file.
+![Done button dialog box](./import-done-button.png){width="40%"}
 
 ## Generation history
 

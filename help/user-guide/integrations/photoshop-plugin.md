@@ -147,6 +147,10 @@ Users can select export after content generation or translation. Exported experi
 
 ![Exported assets shown in Content section](./content-assets.png){width="90%"}
 
+## Convert Figma frames to Photoshop
+
+Figma frames can be converted to Photoshop documents and exported for use with the Photoshop plugin. To understand how to convert frames, see the [Convert Figma frames to Photoshop](figma-plugin.md#convert-figma-frames-to-photoshop) section in the Figma plugin page.
+
 ## Troubleshooting
 
 Consider these best practices and tips if text or images are not being replaced in generated variations.
