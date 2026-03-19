@@ -35,17 +35,29 @@ level_v2:
 ---
 # TikTok experiences
 
-You create TikTok ads as paid media experiences in the [[!DNL Create]](/help/user-guide/create/overview.md) workspace. After you generate creative variants, run brand and channel checks, publish to [!DNL Content], and activate through [[!DNL Activate]](/help/user-guide/activation/overview.md), your ads are delivered to TikTok Ads Manager for final review and launch.
+Using [!DNLGenStudio for Performance Marketing], you can create TikTok ads as paid media experiences in the [[!DNL Create]](/help/user-guide/create/overview.md) workflow. Generate creative variants, run brand and channel checks, publish to [!DNL Content], and activate through [[!DNL Activate]](/help/user-guide/activation/overview.md), to deliver content to TikTok Ads Manager for final review and launch.
 
-TikTok in GenStudio for Performance Marketing fits into a broader omnichannel workflow: you can analyze TikTok campaign and ad performance in [[!DNL Insights]](/help/user-guide/insights/overview.md) alongside other social and display channels (such as Meta and LinkedIn), instead of switching to separate reporting tools. [!DNL Insights] surfaces metrics—including impressions, clicks, click-through rate (CTR), cost per click (CPC), cost per acquisition (CPA), cost per mille (CPM), and spend—so you can see results, compare creative effectiveness, and refine targeting and budgets from one place. Daily data updates help you optimize faster without leaving GenStudio for Performance Marketing.
+TikTok in [!DNL GenStudio for Performance Marketing] fits into a broader omnichannel workflow: you can analyze TikTok campaign and ad performance in [[!DNL Insights]](/help/user-guide/insights/overview.md) alongside other social and display channels (such as Meta and LinkedIn), instead of switching to separate reporting tools.
+
+[!DNL Insights] surfaces metrics—including:
+
+* Impressions
+* Clicks
+* Click-through rate (CTR)
+* Cost per click (CPC)
+* Cost per acquisition (CPA)
+* Cost per mille (CPM)
+* Spend
+
+See your results, compare creative effectiveness, and refine targeting and budgets all in one place. Daily data updates help you optimize faster without leaving [!DNL GenStudio for Performance Marketing].
 
 ## Prerequisites
 
-Before you create or activate TikTok ads, complete the following.
+Before you create or activate TikTok ads, complete the following:
 
 ### Access and role
 
-* You have an **Editor** or higher role in GenStudio for Performance Marketing. See [User roles and permissions](/help/user-guide/user-roles.md).
+* You have an **Editor** role or higher in GenStudio for Performance Marketing. See [User roles and permissions](/help/user-guide/user-roles.md).
 
 ### Connect your TikTok Ads account
 
@@ -79,7 +91,7 @@ A System Manager has connected your TikTok Ads account in [!DNL Activate]:
 1. Enter a prompt for your TikTok headline copy.
 1. Click **[!UICONTROL Generate]**.
 
-   GenStudio for Performance Marketing generates four creative variants.
+GenStudio for Performance Marketing generates four creative variants.
 
 You can:
 
@@ -90,45 +102,36 @@ You can:
 
 ### Run brand and channel checks
 
-Before you save or send the experience for review:
+Before you save or send the experience for review,run content checks:
 
 1. Click **[!UICONTROL Content check]** (brand and channel checks).
 1. Review validation results for:
    * **Brand guidelines**—tone, restricted terms, logo usage.
    * **TikTok channel rules**—aspect ratio, file type, copy length.
-1. Resolve any flagged issues, such as copy length or dense on-screen text.
+1. Resolve any flagged issues (for example, copy length or dense on-screen text).
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md) for more about content checks.
 
 ## Save a TikTok ad in GenStudio for Performance Marketing
 
-Saving moves your TikTok experience into [!DNL Content] so it can be reviewed, reused, and activated.
-
-### Draft vs. published
-
+Move your TikTok experience into the [!DNL Content] library so it can be reviewed, reused, and activated.
 There are two states:
 
-* **Draft experience**—work in progress and not approved.
-* **Published experience**—approved and available in [!DNL Content] for activation.
+* **Draft experience** —  A work in progress and not approved.
+* **Published experience** — Content approved and available in [!DNL Content] for activation.
 
 ### Send for review
 
 **To send for review**:
 
-1. From the experience header, click **[!UICONTROL Request review]**.
+1. In the **[!DNL Experience]** header, click **[!UICONTROL Request review]**.
 1. Select approvers (for example, brand, legal, or performance).
-1. Optional: add a note in **[!UICONTROL Settings]**.
+   * (Optional) Add a note in **[!UICONTROL Settings]**.
 1. Click **[!UICONTROL Send for review]**.
 
-Approvers can view:
+Approvers can view the video preview, description, and call to action (CTA) and brand and channel check results. They can approve the experience or request changes.
 
-* Video preview
-* Description and call to action (CTA)
-* Brand and channel check results
-
-They can approve the experience or request changes.
-
-### Publish to Content
+### Publish to [!DNL Content]
 
 After all required approvals:
 
@@ -139,18 +142,11 @@ After all required approvals:
    * Channel: TikTok
 1. Click **[!UICONTROL Publish]**.
 
-The TikTok ad now appears in [!DNL Content]:
-
-* It is discoverable using filters such as channel or campaign.
-* It is ready for selection in [!DNL Activate].
+The TikTok ad now appears in [!DNL Content]. It is discoverable using filters such as [!DNL Channel] or [!DNL Campaign], and it is ready for selection in [!DNL Activate].
 
 ## Activate a TikTok ad
 
-TikTok activation uses the same [!DNL Activate] module as Meta and Campaign Manager 360 (CM360).
-
-### Start a TikTok activation
-
-You can start from [!DNL Content] or from [!DNL Activate].
+TikTok activation uses the same [!DNL Activate] module as Meta and Campaign Manager 360 (CM360). You can start from the [!DNL Content] workflow or from the [!DNL Activate] workflow.
 
 **To start a TikTok activation**:
 
@@ -158,7 +154,7 @@ You can start from [!DNL Content] or from [!DNL Activate].
 1. Click **[!UICONTROL Create activation]**.
 1. Select one or more published TikTok experiences from [!DNL Content].
 
-Each experience typically maps to one TikTok ad with one or more video variants.
+Each experience typically maps to one TikTok ad, with one or more video variants.
 
 ### Configure experience setup
 
@@ -170,12 +166,12 @@ For each selected experience, confirm:
 
 ### Configure platform setup
 
-Provide TikTok Ads Manager details:
+Provide TikTok Ads Manager details like:
 
 * TikTok Ads account
-* **Campaign**—existing in TikTok
-* **Ad group**—budget, bid, optimization, and targeting are defined in TikTok
-* **Ad name**—one per TikTok ad
+* **Campaign** — Existing in TikTok
+* **Ad group** — Budget, bid, optimization, and targeting are defined in TikTok
+* **Ad name** — One per TikTok ad
 
 ### Review and publish
 
@@ -193,10 +189,11 @@ GenStudio for Performance Marketing pushes ads to TikTok Ads Manager in a paused
 
 After completion:
 
-* A confirmation pop-up shows a success or failure message.
-* If you click that pop-up—or click the TikTok activation in the activation table—you open the **Details** page.
-* The Details page contains the full activation information and a deep link to the published ad in TikTok Ads Manager.
-* If activation fails, a **Failed** status appears along with an error message from TikTok.
+A confirmation pop-up shows a success or failure message. If you click that pop-up—or click the TikTok activation in the activation table—you open the **Details** page.
+
+The Details page contains the full activation information and a deep link to the published ad in TikTok Ads Manager.
+
+If activation fails, a **Failed** status appears along with an error message from TikTok.
 
 In TikTok Ads Manager, media teams can:
 
