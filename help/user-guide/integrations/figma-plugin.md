@@ -189,47 +189,25 @@ You can use the Figma plugin to convert a Figma frame, multiple frames, or an en
 
 The plugin supports the following Figma layer types for conversion:
 
-* **Group**
+* **Frame**
+**Group**
 * **Instance**
 * **Text**
 * **Vector**
 * **Image**
 
-The following sections describe how supported Figma layers are structured when converted to a PSD file.
+When you convert to PSD, supported layers map to Photoshop as follows:
 
-### Frame → layer group
+| Figma layer type | Converts to Photoshop | Notes |
+| --- | --- | --- |
+| **Frame** | Layer group | <ul><li>Figma frames are converted into Photoshop layer groups.</li><li>Nested frames become nested groups.</li><li>Frame dimensions become the PSD artboard or group bounds (depending on selection).</li></ul> |
+| **Group** | Layer group | <ul><li>Figma groups convert directly into Photoshop layer groups.</li><li>Layer hierarchy and stacking order are preserved.</li></ul> |
+| **Instance** | Layer group | <ul><li>Components and instances are flattened into standard Photoshop layer groups. Component metadata and variant logic are not preserved.</li><li>All child layers remain inside the group.</li></ul> |
+| **Text** | Text layer | <ul><li>Figma text layers convert into editable Photoshop text layers.</li><li>Text hierarchy and positioning are preserved.</li></ul> |
+| **Vector** | Shape layer | <ul><li>Figma vector layers convert into Photoshop shape layers.</li><li>Paths are preserved when possible.</li><li>Complex vectors may be rasterized if unsupported effects are applied.</li></ul> |
+| **Image** | Raster layer | <ul><li>Figma image layers convert into Photoshop raster layers.</li><li>Image scaling and positioning are preserved.</li></ul> |
 
-* Figma frames are converted into Photoshop layer groups.
-* Nested frames become nested groups.
-* Frame dimensions become the PSD artboard or group bounds (depending on selection).
-
-### Group → layer group
-
-* Figma groups convert directly into Photoshop layer groups.
-* Layer hierarchy and stacking order are preserved.
-
-### Instance → layer group
-
-* Components and instances are flattened into standard Photoshop layer groups. Component metadata and variant logic are not preserved.
-* All child layers remain inside the group.
-
-### Text → text layer
-
-* Figma text layers convert into editable Photoshop text layers.
-* Text hierarchy and positioning are preserved.
-
-### Vector → shape layer
-
-* Figma vector layers convert into Photoshop shape layers.
-* Paths are preserved when possible.
-* Complex vectors may be rasterized if unsupported effects are applied.
-
-### Image → raster layer
-
-* Figma image layers convert into Photoshop raster layers.
-* Image scaling and positioning are preserved.
-
-### Convert frames
+### How to convert frames
 
 To convert frames:
 
