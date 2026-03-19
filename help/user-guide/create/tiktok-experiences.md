@@ -57,7 +57,7 @@ Before you create or activate TikTok ads, complete the following:
 
 ### Access and role
 
-* You have an **Editor** role or higher in GenStudio for Performance Marketing. See [User roles and permissions](/help/user-guide/user-roles.md).
+Be sure you have an **Editor** role or higher in GenStudio for Performance Marketing. See [User roles and permissions](/help/user-guide/user-roles.md).
 
 ### Connect your TikTok Ads account
 
@@ -82,14 +82,16 @@ A System Manager has connected your TikTok Ads account in [!DNL Activate]:
 
 ### Start a TikTok experience
 
+![TikTok channel in the Create workflow](../../assets/tiktok/create-tiktok-experience.png){width="90%"}
 **To start a TikTok experience**:
 
-1. Go to **[!UICONTROL Create]** > **[!UICONTROL TikTok]**.
+1. Go to **[!UICONTROL Create]** and choose **[!UICONTROL TikTok]**.
 1. Select a TikTok template and click **[!UICONTROL Use]**.
 1. In the canvas, select **[!UICONTROL Brand]**, **[!UICONTROL Product]**, **[!UICONTROL Persona]**, and **[!UICONTROL Language]**.
 1. Select a video from [!DNL Content].
 1. Enter a prompt for your TikTok headline copy.
 1. Click **[!UICONTROL Generate]**.
+![Tiktok Create canvas controls](../../assets/tiktok/tiktok-prompt.png){width="40%"}
 
 GenStudio for Performance Marketing generates four creative variants.
 
@@ -169,9 +171,9 @@ For each selected experience, confirm:
 Provide TikTok Ads Manager details like:
 
 * TikTok Ads account
-* **Campaign** — Existing in TikTok
-* **Ad group** — Budget, bid, optimization, and targeting are defined in TikTok
-* **Ad name** — One per TikTok ad
+* Campaign
+* Ad group
+* Ad name (one per TikTok ad)
 
 ### Review and publish
 
@@ -182,16 +184,15 @@ GenStudio for Performance Marketing pushes ads to TikTok Ads Manager in a paused
 
 ### What happens next
 
-* A _Publishing in progress_ modal appears and closes automatically.
-* You are redirected to the TikTok Activation table.
-* The activation table shows the latest activations, with a **Pending** status while processing completes.
-* You can navigate away while publishing completes.
+A _Publishing in progress_ modal appears and closes automatically. You're redirected to the TikTok Activation table.
 
-After completion:
+![GenStudio publishing modal](../../assets/tiktok/publishing-modal.png){width="30%"}
 
-A confirmation pop-up shows a success or failure message. If you click that pop-up—or click the TikTok activation in the activation table—you open the **Details** page.
+The activation table shows the latest activations, with a **Pending** status while processing completes.You can navigate away while publishing completes.
 
-The Details page contains the full activation information and a deep link to the published ad in TikTok Ads Manager.
+![TikTok details page](../../assets/tiktok/tiktok-details-page.png){width="90%"}
+
+Once completed, a confirmation pop-up shows a success or failure message. If you click that pop-up, or click the TikTok activation in the activation table, you open the **Details** page. The **Details** page contains the full activation information and a deep link to the published ad in TikTok Ads Manager.
 
 If activation fails, a **Failed** status appears along with an error message from TikTok.
 
