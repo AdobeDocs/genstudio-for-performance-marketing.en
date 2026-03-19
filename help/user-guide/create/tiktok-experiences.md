@@ -35,11 +35,11 @@ level_v2:
 ---
 # TikTok experiences
 
-Using [!DNLGenStudio for Performance Marketing], you can create TikTok ads as paid media experiences in the [[!DNL Create]](/help/user-guide/create/overview.md) workflow. Generate creative variants, run brand and channel checks, publish to [!DNL Content], and activate through [[!DNL Activate]](/help/user-guide/activation/overview.md), to deliver content to TikTok Ads Manager for final review and launch.
+Using [!DNL GenStudio for Performance Marketing], you can create TikTok ads as paid media experiences in the [[!DNL Create]](/help/user-guide/create/overview.md) workflow. Generate creative variants, run brand and channel checks, publish to [!DNL Content], and activate through [[!DNL Activate]](/help/user-guide/activation/overview.md), to deliver content to TikTok Ads Manager for final review and launch.
 
 TikTok in [!DNL GenStudio for Performance Marketing] fits into a broader omnichannel workflow: you can analyze TikTok campaign and ad performance in [[!DNL Insights]](/help/user-guide/insights/overview.md) alongside other social and display channels (such as Meta and LinkedIn), instead of switching to separate reporting tools.
 
-[!DNL Insights] surfaces metrics—including:
+[!DNL Insights] surfaces metrics, including:
 
 * Impressions
 * Clicks
@@ -75,7 +75,7 @@ A System Manager has connected your TikTok Ads account in [!DNL Activate]:
 ### Create configuration
 
 * Your [brand, products, and personas](/help/user-guide/guidelines/overview.md) are configured so the app can generate on-brand copy and layouts.
-* At least one TikTok template is uploaded. Adobe recommends a TikTok vertical video template optimized for in-feed placement: **9:16** aspect ratio with safe zones for top and bottom UI.
+* At least one TikTok template is uploaded. Adobe recommends a TikTok vertical video template, optimized for in-feed placement, with a **9:16** aspect ratio and safe zones for top and bottom UI.
 * Videos are uploaded to [!DNL Content].
 
 ## Generate a TikTok in-feed ad
