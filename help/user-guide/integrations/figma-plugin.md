@@ -183,9 +183,9 @@ A ZIP file is created in the plugin panel, or a link to **[!UICONTROL Open in Ge
 
 >[!NOTE]
 >
-> To perform this task, you need both the Figma plugin and the [Photoshop plugin for GenStudio for Performance Marketing](photoshop-plugin.md).
+> To perform this task, you need both the Figma plugin and [GenStudio Photoshop](photoshop-plugin.md).
 
-You can use the Figma plugin to convert a Figma frame, multiple frames, or an entire document to Photoshop format and export it for use with the [Photoshop plugin](photoshop-plugin.md). Currently, only major properties such as visibility, font size, and basic layer attributes are supported during conversion. Features such as strikethrough, superscript, subscript, opacity as percentages, gradients, and similar advanced properties are not yet supported.
+You can use the Figma plugin to convert a Figma frame, multiple frames, or an entire document to Photoshop format and export it for use with [GenStudio Photoshop](photoshop-plugin.md). Currently, only major properties such as visibility, font size, and basic layer attributes are supported during conversion. Features such as strikethrough, superscript, subscript, opacity as percentages, gradients, and similar advanced properties are not yet supported.
 
 The plugin supports the following Figma layer types for conversion:
 
@@ -216,8 +216,8 @@ To convert frames:
 1. Do one of the following:
 
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
-   * Click **[!UICONTROL Transfer to Photoshop Plugin]** to cache the converted file for immediate use in the Photoshop plugin.
-![Transfer to Photoshop Plugin button](./transfer-to-ps-button.png){width="60%"}
+   * Click **[!UICONTROL Transfer to GenStudio Photoshop]** to cache the converted file for immediate use in GenStudio Photoshop.
+![Transfer to GenStudio Photoshop button](./transfer-to-ps-button.png){width="40%"}
 1. When the **[!UICONTROL File Key Required]** dialog appears, the plugin needs a Figma file URL to complete the conversion. Add the URL for your document:
 
    1. In Figma, click **[!UICONTROL Share]** in the upper-right corner of the canvas.
@@ -225,14 +225,14 @@ To convert frames:
    1. Paste the copied link into the **[!UICONTROL Figma File URL]** field in the plugin dialog.
 
 1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
-![File Key Required dialog](./file-key-required.png){width="40%"}
-1. In Photoshop, open the GenStudio plugin and click the **[!UICONTROL Import]** tab.
+![File Key Required dialog](./file-key-required.png){width="35%"}
+1. In Photoshop, open GenStudio Photoshop and click the **[!UICONTROL Import]** tab.
 1. Do one of the following:
 
-   * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to Photoshop Plugin]** from the cached files list, or
+   * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to GenStudio Photoshop]** from the cached files list, or
    * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
 ![Upload JSON button](./upload-json.png){width="40%"}
-1. The GenStudio plugin in Photoshop converts the information from the JSON document into an open Photoshop document.
+1. GenStudio Photoshop converts the information from the JSON document into an open Photoshop document.
 1. Click **[!UICONTROL Done]**. The new file opens in Photoshop and is ready to use. Or click **[!UICONTROL Save As...]** to choose a location to save the file.
 ![Done button dialog box](./import-done-button.png){width="40%"}
 
