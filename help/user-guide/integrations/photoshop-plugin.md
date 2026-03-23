@@ -1,6 +1,6 @@
 ---
-title: Photoshop Plugin for Adobe GenStudio for Performance Marketing
-description: Learn how to install, configure, and use the Photoshop plugin for GenStudio for Performance Marketing.
+title: GenStudio Photoshop for Adobe GenStudio for Performance Marketing
+description: Learn how to install, configure, and use GenStudio Photoshop for GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
 exl-id: e3f57acd-f2dd-4957-aa5e-c97595a29899
@@ -22,9 +22,9 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
 ---
-# Photoshop plugin for GenStudio for Performance Marketing
+# GenStudio Photoshop for GenStudio for Performance Marketing
 
-The GenStudio for Performance Marketing Photoshop plugin adds a panel to Adobe Photoshop that lets you generate on-brand content.
+GenStudio Photoshop adds a panel to Adobe Photoshop that lets you generate on-brand content.
 
 This page describes how to install and configure the plugin, and how to use it.
 
@@ -53,7 +53,7 @@ Follow these instructions to install the plugin.
 ### Installation steps
 
 1. Download and update the plugin from the Creative Cloud Marketplace in Adobe Exchange.
-1. Search for **GenStudio Plugin for Photoshop** in Adobe Exchange.
+1. Search for **GenStudio Photoshop** in Adobe Exchange.
 1. Follow the prompts to install the plugin.
 
 ### Uninstall the plugin
@@ -149,7 +149,7 @@ Users can select export after content generation or translation. Exported experi
 
 ## Convert Figma frames to Photoshop
 
-Figma frames can be converted to Photoshop documents and exported for use with the Photoshop plugin. To understand how to convert frames, see the [Convert Figma frames to Photoshop](figma-plugin.md#convert-figma-frames-to-photoshop) section in the Figma plugin page.
+Figma frames can be converted to Photoshop documents and exported for use with GenStudio Photoshop. To understand how to convert frames, see the [Convert Figma frames to Photoshop](figma-plugin.md#convert-figma-frames-to-photoshop) section in the Figma plugin page.
 
 ## Troubleshooting
 

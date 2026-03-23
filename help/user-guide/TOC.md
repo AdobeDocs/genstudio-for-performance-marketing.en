@@ -101,7 +101,7 @@ role: User
   + [Data management](insights/data-management.md)
 + Integrations {#integrations}
   + [Integrations overview](integrations/overview.md)
-  + [Photoshop plugin](integrations/photoshop-plugin.md)
+  + [GenStudio Photoshop plugin](integrations/photoshop-plugin.md)
   + [Figma plugin](integrations/figma-plugin.md)
 + {hide-from-toc} [GenStudio Academy - Hidden](genstudioacademy.md)
 + {hide-from-toc} [Test markdown - Hidden](test-markdown.md)
