@@ -80,7 +80,7 @@ Ad formats refer to the various creative elements and layouts used to align with
 | Meta | <ul><li>Dynamic Ads</li><li>Link Ads</li><li>Simple Image Ads</li><li>Simple Video Ads</li><li>Shop Ads</li></ul> | <ul><li>Advantage+ Catalog Ads</li><li>Carousel Ads</li><li>Messenger Ads</li><li>Lead Ads</li><li>Collection Ads</li><li>Call Ads</li><li>Owned Page Post Ads</li><li>Partnership Ads</li><li>Flexible Ads</li></ul> |
 | LinkedIn | <ul><li>Single Image Ads</li><li>Single Video Ads</li><li>Article Ads</li></ul> | <ul><li>Carousel Ads</li><li>Document Ads</li><li>Event Ads</li><li>Thought Leader Ads</li><li>Lead Gen Ads</li><li>Follower Ads</li><li>Conversation Ads</li><li>Spotlight Ads</li><li>Job Ads</li><li>Content Ads</li><li>Message Ads</li></ul> |
 | TikTok | <ul><li>Single Image Ads</li><li>Single Video Ads</li></ul> | <ul><li>In-Feed Ads (Video, Spark, Carousel)</li><li>Premium Awareness Ads (TopView, Brand Takeover)</li><li>Interactive Ads (Hashtag Challenges, Branded Effects)</li><li>Commerce Ads (Shopping, Catalog, LIVE)</li><li>Lead & Messaging Ads</li><li>Difficult to categorize as we do not have the assets to determine the ad type</li></ul> |
-| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Difficult to categorize. We do not have the assets to determine the ad type. |
+| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 | Innovid | N/A | Difficult to categorize as we do not have the assets to determine the ad type. |
 
 ### Ad placements
