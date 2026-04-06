@@ -55,7 +55,7 @@ Here are examples of field names, using the group naming convention, for two sec
 
 +++Example: Email template with one section
 
-Here is a basic example of an HTML email template with one section. The `<head>` includes simple inline CSS for styling, and the `<body>` uses content placeholders such as `pre_header`, `headline`, `sub_headline`, `body`, `cta`, and `image` with link, and. These placeholders allow GenStudio for Performance Marketing to inject dynamic content during email generation.
+Here is a basic example of an HTML email template with one section. The `<head>` includes simple inline CSS for styling, a `meta` description tag for the preheader (`pre_header`), and the `<body>` uses content placeholders such as `headline`, `sub_headline`, `body`, `cta`, and `image` with link. These placeholders allow GenStudio for Performance Marketing to inject dynamic content during email generation.
 
 ```html
 <!DOCTYPE html>
@@ -63,13 +63,37 @@ Here is a basic example of an HTML email template with one section. The `<head>`
     <head>
         <title>Marketing Email</title>
         <style>
+            /* Border-box so width:100% includes padding and fits the HTML canvas viewport. */
+            html {
+                box-sizing: border-box;
+                max-width: 100%;
+            }
+            *,
+            *::before,
+            *::after {
+                box-sizing: inherit;
+            }
+            body {
+                margin: 0;
+                max-width: 100%;
+                overflow-x: hidden;
+            }
             .container {
                 width: 100%;
+                max-width: 100%;
                 padding: 20px;
                 font-family: Arial, sans-serif;
             }
+            .container h1,
+            .container h2,
+            .container p {
+                overflow-wrap: break-word;
+                word-break: break-word;
+            }
             .cta-button {
                 display: inline-block;
+                max-width: 100%;
+                box-sizing: border-box;
                 background-color: #fff;
                 color: #000;
                 border: 2px solid #000;
@@ -82,10 +106,10 @@ Here is a basic example of an HTML email template with one section. The `<head>`
                 text-align: center;
             }
         </style>
+        <meta name="description" content="{{pre_header}}">
     </head>
     <body>
         <div class="container">
-            {{pre_header}}
             <h1>{{headline}}</h1>
             <p>
                 <a href="{{link}}">
@@ -112,39 +136,64 @@ Here is the same HTML template in the example above, but with two more sections.
     <head>
         <title>Adobe</title>
         <style>
+            /* Border-box so width:100% includes padding and fits the HTML canvas viewport. */
+            html {
+                box-sizing: border-box;
+                max-width: 100%;
+            }
+            *,
+            *::before,
+            *::after {
+                box-sizing: inherit;
+            }
+            body {
+                margin: 0;
+                max-width: 100%;
+                overflow-x: hidden;
+            }
             .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
+                width: 100%;
+                max-width: 100%;
+                padding: 20px;
+                font-family: Arial, sans-serif;
+            }
+            .container h1,
+            .container h2,
+            .container p {
+                overflow-wrap: break-word;
+                word-break: break-word;
             }
             .pod {
-            background-color: #f8f8f8;
-            margin: 10px;
-            padding: 20px;
-            border-radius: 5px;
+                background-color: #f8f8f8;
+                margin: 10px;
+                padding: 20px;
+                border-radius: 5px;
             }
             .pod h2 {
-            color: #333;
+                color: #333;
             }
             .pod p {
                 color: #666;
             }
             .cta-button {
-            display: inline-block;
-            background-color: #fff; /* Background color to white */
-            color: #000; /* Text color to black */
-            border: 2px solid #000; /* Border color to black */
-            padding: 10px 20px;
-            text-decoration: none;            
-            font-family: 'Source Sans Pro', Arial, sans-serif;
-            font-weight: 600; /* Semibold */
-            font-size: 14px;
-            margin-top: 20px;
-            text-align: center;
+                display: inline-block;
+                max-width: 100%;
+                box-sizing: border-box;
+                background-color: #fff; /* Background color to white */
+                color: #000; /* Text color to black */
+                border: 2px solid #000; /* Border color to black */
+                padding: 10px 20px;
+                text-decoration: none;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600; /* Semibold */
+                font-size: 14px;
+                margin-top: 20px;
+                text-align: center;
             }
         </style>
+        <meta name="description" content="{{pre_header}}">
     </head>
-    <body>{{pre_header}}
+    <body>
         <div class="container">
             <!-- Pod1 -->
             <div class="pod">
