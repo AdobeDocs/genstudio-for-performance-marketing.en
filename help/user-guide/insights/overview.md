@@ -50,6 +50,24 @@ From the [!DNL Insights] dashboard, you can:
 - **Optimize low-performing content**: Find content that is not performing well and use the integrated generative AI to create variations immediately, potentially improving its effectiveness without starting from scratch.
 - **Revitalize high-performing content**: Take successful content and tweak it to refresh the ad for the audience or adapt hero content for use in new campaigns, potentially extending its lifecycle and performance.
 
+The [!DNL Insights] module includes **[!UICONTROL Insights 2.0]**, a cross-channel performance experience for paid social. It works alongside the detailed table and gallery views in the [Dashboard](#dashboard) section of this article.
+
+## Insights 2.0 {#insights-20}
+
+**[!UICONTROL Insights 2.0]** delivers a performance intelligence layer that gives marketers a clear view of how paid social marketing is performing across connected accounts.
+
+**In [!UICONTROL Insights 2.0], you can:**
+
+- **Review cross-channel or single-channel overviews (Meta and LinkedIn)**: See a consolidated snapshot across both paid social channels, or drill down into one channel.
+- **Use the cross-channel performance report**: View each channel's share of results with a percentage contribution visualization, including total spend (percentage and amount) and performance share metrics such as CTR, CPC, and CPM.
+- **Use the ad performance report**: Identify high and low performing ads with rankings and metrics that support optimization decisions.
+- **Analyze Meta conversion metrics**: Focus on conversions with visibility into CPA across funnel stages (for example, engaged visits, request for information, app start, prospect, and app complete) and review conversion trends over time, with conversion data available in GenStudio for Performance Marketing.
+- **Explore insights from ad tags**: Ad tracking IDs are parsed into structured tags so you can analyze performance by dimensions you define (such as call to action, geography, format, or concept), see budget allocation across those dimensions, and spend less time decoding naming conventions manually.
+
+>[!NOTE]
+>
+>**[!UICONTROL Insights 2.0]** currently includes ONLY **Meta** and **LinkedIn**. TikTok, DV360, and Innovid are not included in the **[!UICONTROL Insights 2.0]** overview at this time. The **[!UICONTROL Campaigns]**, **[!UICONTROL Ads]**, **[!UICONTROL Media]**, and **[!UICONTROL Attributes]** views in the [Dashboard](#dashboard) section continue to support the broader channel set described under [Channels supported](#channels-supported).
+
 ## Data connectors
 
 The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with a channel account.
@@ -58,7 +76,7 @@ This connection enables GenStudio for Performance Marketing to receive statistic
 
 {{connect-insights}}
 
-## Channels supported
+## Channels supported {#channels-supported}
 
 Supported channels in Insights include Meta, LinkedIn, TikTok, DV360, and Innovid.
 
@@ -68,7 +86,7 @@ At this time, Media data is not available for DV360 and Innovid, which means the
 
 This limitation is due to constraints in the paid media platforms themselves and not an issue with GenStudio for Performance Marketing.
 
-## Dashboard
+## Dashboard {#dashboard}
 
 The [!DNL Insights] dashboard has a configurable table for each content type: [!UICONTROL Channels], [!UICONTROL Ads], [!UICONTROL Media], and [!UICONTROL Attributes].
 
