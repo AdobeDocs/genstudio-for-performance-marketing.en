@@ -17,6 +17,7 @@ role: Developer
   + [Develop an App Builder app](create-app.md)
   + [Deploy your app](deploy-app.md)
   + [Distribute your app](distribute-app.md)
+  + [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md)
   + [Experience Selector MFE](experience-selector.md)
 
 <!--
