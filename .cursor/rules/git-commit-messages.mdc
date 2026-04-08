@@ -27,7 +27,7 @@ Use when the change **adds** something new: new files, new sections, new feature
 
 Use when the change **modifies** existing work: edits to existing lines, updates to existing sections, refactors of existing code, or changes to current content.
 
-### `🆕` (TOC / navigation registration)
+### `🆕` (TOC / feature registration)
 
 Use the single character **🆕** when the change **adds an entry** to a repository **table of contents** or **navigation config** file (for example `TOC.md`, `config.md`, or similar) that **registers a new feature, topic, or page**. This usually means a new item appears in the doc or site nav because of that edit.
 
