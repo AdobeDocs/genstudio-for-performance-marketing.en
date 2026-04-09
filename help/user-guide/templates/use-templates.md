@@ -166,6 +166,8 @@ You can upload a template that you created in Adobe Journey Optimizer (AJO) or M
 
 To use AJO templates from your Journey Optimizer library inside GenStudio (including the **[!UICONTROL AJO Template]** tab when you create email experiences), your organization must install and configure the [Journey Optimizer for GenStudio](/help/extensibility/journey-optimizer-for-genstudio.md) app from Adobe Exchange.
 
+To use Marketo templates from your Marketo Engage library inside GenStudio (including the **[!UICONTROL Marketo Templates]** tab when you create email experiences), your organization must install and configure [Marketo for GenStudio](/help/extensibility/marketo-for-genstudio.md) from Adobe Exchange.
+
 Recognized application patterns include:
 
 - **AJO**: `{{profile.*}}`, `{{context.*}}`
