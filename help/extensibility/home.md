@@ -21,3 +21,5 @@ Adobe GenStudio for Performance Marketing facilitates AI-driven marketing conten
 GenStudio for Performance Marketing is an Adobe Experience Cloud product and uses that product ecosystem's extensibility framework. Extensible app developers use [Adobe App Builder](https://developer.adobe.com/app-builder/) and the [Adobe GenStudio UI Extensibility SDK](https://github.com/adobe/genstudio-uix-sdk) to develop and distribute custom apps that support specific use cases.
 
 Organizations that use Adobe Journey Optimizer can install the [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md) app from Adobe Exchange to use AJO templates when creating email experiences in GenStudio.
+
+Organizations that use [!DNL Marketo Engage] can install [Marketo for GenStudio](marketo-for-genstudio.md) from Adobe Exchange to use Marketo templates when creating email experiences in GenStudio.
