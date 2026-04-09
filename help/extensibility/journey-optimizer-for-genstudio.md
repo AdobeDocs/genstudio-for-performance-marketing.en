@@ -17,6 +17,8 @@ This topic is for **administrators and developers** who install the app, create 
 
 ## Install the app from Adobe Exchange
 
+>[!VIDEO](https://video.tv.adobe.com/v/3483287?learn=on)
+
 1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL Experience Cloud]**.
 1. Open the [Journey Optimizer for GenStudio](https://exchange.adobe.com/apps/ec/abpopqqr1q/journey-optimizer-for-genstudio) listing.
 ![Journey Optimizer for GenStudio listing on Adobe Exchange, including requirements and Free install](/help/extensibility/ajo-adobe-exchange.png){width="75%"}
