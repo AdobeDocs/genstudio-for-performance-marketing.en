@@ -13,9 +13,10 @@ This topic is for **administrators** who install the app, gather credentials fro
 
 * [!DNL Marketo Engage] must be provisioned in the organization where you deploy the extension.
 * Users who deploy the application need **Marketo credentials**. To create and retrieve those credentials, you must have **Marketo Product Admin** access (the **[!UICONTROL Admin]** area must be available when you open Marketo).
-* Email templates in Marketo must include field placeholders (handlebars) where generated content should appear. A template can be selected without those fields, but **experience generation fails** if the placeholders [!DNL GenStudio for Performance Marketing] expects are missing. See [Customize a template](/help/user-guide/templates/customize-template.md) and [Recognized field names](/help/user-guide/templates/customize-template.md#recognized-field-names).
 
 ## Install the app from Adobe Exchange
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
 
 1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL Experience Cloud]**.
 1. Open the [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio) listing.
@@ -27,20 +28,20 @@ This topic is for **administrators** who install the app, gather credentials fro
 
 ## Get Marketo credentials
 
-You use credentials from your **Marketo Engage** subscription (not the Adobe Developer Console). Collect the following before you deploy in Exchange.
+You use credentials from your **Marketo** instance (not the Adobe Developer Console). Collect the following before you deploy in Exchange.
 
 ### Create an API-only user (optional if you reuse an existing API user)
 
 1. In Marketo, go to **[!UICONTROL Admin]**.
 1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**.
-1. To use a **new** API user, create an **[!UICONTROL API Only User]** (use a **unique email** for each API user). Assign the **[!UICONTROL API Roles (all Workspaces)]** role (or the roles your organization requires). If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
+1. To use a **new** API user, click **[!UICONTROL Create API Only User]** (use a unique email for each API user). Assign the **[!UICONTROL API Roles (all Workspaces)]** role (or the roles your organization requires). If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
 
 ![Users & Roles with API Only User and API roles](/help/extensibility/marketo-users-roles-api-user.png){width="80%"}
 
 ### Create or select a LaunchPoint service
 
 1. In **[!UICONTROL Admin]**, under **[!UICONTROL Integration]**, open **[!UICONTROL LaunchPoint]**.
-1. Create a **[!UICONTROL New Service]** (or use an existing custom service).
+1. Click **[!UICONTROL Create]** to create a new Service (or use an existing custom service).
 
 ![LaunchPoint custom service](/help/extensibility/marketo-launchpoint-custom-service.png){width="80%"}
 
@@ -78,7 +79,7 @@ After Marketo for GenStudio is installed and configured, a **[!UICONTROL Marketo
 
 >[!IMPORTANT]
 >
->Create emails under the **standard Email** experience flow in GenStudio. This integration does **not** support emails created with the **new email editor** experience.
+>Create emails under the **standard Email** experience flow in GenStudio for Performance Marketing. This integration does NOT support emails created with the new email editor experience.
 
 ## Troubleshooting
 
