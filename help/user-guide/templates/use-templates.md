@@ -164,6 +164,8 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 
 You can upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. GenStudio for Performance Marketing detects application-specific patterns and ignores them, preserving the original form for continued use in AJO or Marketo. You do not need to make any changes to the original AJO or Marketo syntax.
 
+To use AJO templates from your Journey Optimizer library inside GenStudio (including the **[!UICONTROL AJO Template]** tab when you create email experiences), your organization must install and configure the [Journey Optimizer for GenStudio](/help/extensibility/journey-optimizer-for-genstudio.md) app from Adobe Exchange.
+
 Recognized application patterns include:
 
 - **AJO**: `{{profile.*}}`, `{{context.*}}`
