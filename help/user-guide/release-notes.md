@@ -79,6 +79,50 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 For Meta advertising campaigns in [!DNL Insights], you can [analyze Cost per action (CPA)](/help/user-guide/insights/ads.md) using the conversion action that matches how the campaign is optimized—not only a single default metric. Choose from available Meta action types such as purchases, add-to-cart events, leads, video views, or custom conversions, and review CPA consistently across the Ads, Assets (Media), and Attributes tables. Your selected action type persists as you move between those views during your session so you can compare performance with a stable definition of CPA.
 
+### RTCDP audiences in the Create workflow
+
+[Adobe Real-Time Customer Data Platform (RTCDP) audiences](/help/user-guide/guidelines/add-guidelines.md#add-audiences) are available in the [!DNL Create] workflow so you can ground generated experiences in audience definitions—such as messaging preferences, segments, journey stage, and behavioral data—alongside your existing guidelines. The integration is generally available for organizations that use RTCDP; enabling [!DNL Audiences] in your tenant requires a short onboarding coordinated by Adobe so definitions can be connected and surfaced in template parameters. See [Add Audiences](/help/user-guide/guidelines/add-guidelines.md#add-audiences) for prerequisites, what to expect during onboarding, and how to select an audience when you create content.
+
+### Innovid display performance in [!DNL Insights]
+
+Innovid (formerly Flashtalking) appears as a display channel in [!DNL Insights] so you can review campaign and ad performance next to Meta, LinkedIn, TikTok, and your other connected sources in one place, with metrics refreshed daily. Use Innovid to evaluate impressions, clicks, and click-through rate; spend metrics are not available for Innovid in this integration. Because Innovid does not expose the creative assets needed for media-level analysis, the [!UICONTROL Media] and [!UICONTROL Attributes] views are not shown for this channel—see [Channels supported](/help/user-guide/insights/overview.md#channels-supported). [Download table results as a CSV](/help/user-guide/insights/filter-views.md#download-table-results) when you need to share or analyze the data outside GenStudio.
+
+### LinkedIn single video ad activation
+
+You can [activate LinkedIn ad experiences that use a single video asset](/help/user-guide/activation/activate-linkedin-ad.md) to LinkedIn Campaign Manager from GenStudio for Performance Marketing, following the same end-to-end activation flow you use for static LinkedIn ads—including creative setup, preview (with video playback in the preview panel), platform selection, and review before publish. Because LinkedIn separates video and image ad formats at the campaign level, keep video experiences aligned with LinkedIn campaigns that support the video format. After publishing, complete any remaining steps in LinkedIn Campaign Manager so the ad can go live on LinkedIn.
+
+### Out-of-the-box translation for paid media experiences
+
+Use the **[!UICONTROL Translate and localize]** card on the [Create home page](/help/user-guide/create/overview.md), or choose **[!UICONTROL Translate]** from the actions menu on an approved paid media experience in [Manage assets and experiences](/help/user-guide/content/manage-assets.md), to translate into **40+** languages in one flow. The default service uses Azure Open AI; you can refine translated copy on the canvas before review and publication. Because translations extend an experience that was already approved with brand guidelines, additional brand validation does not run on the translated variants. Organizations that prefer their own translation vendor can route requests through a registered add-on using [translation extension points](/help/extensibility/deploy-app.md#find-translation-extensions) instead of the default service.
+
+### Out-of-the-box translation for email experiences
+
+Use the **[!UICONTROL Translate and localize]** card on the [Create home page](/help/user-guide/create/overview.md), or choose **[!UICONTROL Translate]** from the actions menu on an approved **email** experience in [Manage assets and experiences](/help/user-guide/content/manage-assets.md), to produce localized variants in **more than 10** supported languages in a single flow. The source email can be written in any language—not only English. The default translation service uses Azure Open AI; you can adjust translated text on the canvas before review and publication, and additional brand validation does not run on localized variants because they extend an email that was already approved with brand guidelines. To use your organization’s own translation service instead of the default, register an add-on that implements [translation extension points](/help/extensibility/deploy-app.md#find-translation-extensions).
+
+### PDF export for review and archival
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+You can [export experiences to PDF](/help/user-guide/content/manage-assets.md#export-experiences) from draft export on the [!DNL Create] canvas and from approved experiences in [!DNL Content], producing a non-editable document for stakeholder review, approval records, and archival—particularly when teams need a fixed snapshot for compliance or regulated review workflows.
+
+### Third-party DAM connection for template assets
+
+Organizations can use a registered Add-on to **connect their own digital asset management (DAM)** repository so authors can browse and select media from that system in the template parameters flow during content generation—alongside or instead of sourcing assets from the default [!DNL Adobe Experience Manager Assets] integration. After your team deploys a DAM extension, it appears when you choose content from the **[!UICONTROL Select location]** options for a template. See [Find DAM extensions](/help/extensibility/deploy-app.md#find-dam-extensions) and [Get started building extensible apps](/help/extensibility/setup.md) for how Add-ons are built and distributed.
+
+### Experience Selector micro frontend for integrations
+
+The **Experience Selector** micro frontend (MFE) lets developers embed a dialog for choosing GenStudio experiences in **non-Adobe applications**, so users can browse, filter, and select experiences from within a partner or custom app using a consistent interface and supported sign-in. Integration teams use the standalone bundle, configuration options, and embedding patterns documented in [GenStudio Experience Selector MFE](/help/extensibility/experience-selector.md).
+
+### Custom models on Firefly Image Model 4
+
+When you [generate images](/help/user-guide/create/generate-assets.md) in [!DNL Create], the **[!UICONTROL Model]** list includes **custom models trained on Adobe Firefly Image Model 4**, so teams can drive **on-brand** and **text-to-image** work with Image Model 4–based training rather than older Image Model 3–based custom models alone. Choose the model that fits your brief, then set parameters and prompts as you do today.
+
+### Express templates on Horizon Canvas (Meta, LinkedIn, and Display)
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+Adobe Express templates on the **Horizon Canvas** are **generally available** for **Meta**, **LinkedIn**, and **Display** experiences in [!DNL Create]—including multi-size layouts, motion-capable Express designs where supported, layer locks for governance, and WYSIWYG editing so teams can iterate on brand-ready layouts without depending on HTML-only template workflows for these channels. Explore [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md) for supported formats, starter and custom templates, and canvas capabilities.
+
 ## Earlier release notes
 
 +++Notes from 2026.03.15
