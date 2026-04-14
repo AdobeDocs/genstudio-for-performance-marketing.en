@@ -73,7 +73,15 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.03 {#latest}
+## 2026.04 {#latest}
+
+### CPA by action type for Meta ad accounts
+
+For Meta advertising campaigns in [!DNL Insights], you can [analyze Cost per action (CPA)](/help/user-guide/insights/ads.md) using the conversion action that matches how the campaign is optimized—not only a single default metric. Choose from available Meta action types such as purchases, add-to-cart events, leads, video views, or custom conversions, and review CPA consistently across the Ads, Assets (Media), and Attributes tables. Your selected action type persists as you move between those views during your session so you can compare performance with a stable definition of CPA.
+
+## Earlier release notes
+
++++Notes from 2026.03.15
 
 ### Express templates for Meta, LinkedIn, and Display
 
@@ -92,7 +100,7 @@ Explore the details in [Using Adobe Express templates in GenStudio for Performan
 
 You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
 
-## Earlier release notes
++++
 
 +++Notes from 2026.01.15
 
