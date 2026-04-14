@@ -8,9 +8,10 @@ Help AI coding assistants make small, safe edits to the GenStudio for Performanc
 - The site is built using Jekyll and hosted on GitHub Pages. The build process uses standard Jekyll conventions with some custom plugins.
 
 ## Project-specific conventions
-- Cursor rules: Custom automation and guidance lives in `.cursor/rules/*.mdc`. Examples: `.cursor/rules/docs-lint.mdc` (lint process), `.cursor/rules/generate-release-notes.mdc` (release notes format). Follow these for automated tasks.
+- Cursor rules: Custom automation and guidance lives in `.cursor/rules/*.mdc`. Examples: `.cursor/rules/docs-lint.mdc` (lint process), `.cursor/rules/generate-release-notes.mdc` (points to the release notes skill when editing `help/user-guide/release-notes.md`). Follow these for automated tasks.
+- Agent skills: Task workflows live under `.cursor/skills/<name>/SKILL.md`. Example: `.cursor/skills/generate-release-notes/SKILL.md` (full GenStudio release notes procedure; use with `examples.md` and `reference.md` in the same folder).
 - Filenames and frontmatter:
-  - Release notes require a specific frontmatter (see `.cursor/rules/generate-release-notes.mdc`).
+  - Release notes: preserve existing Experience League frontmatter on `help/user-guide/release-notes.md` (see `.cursor/skills/generate-release-notes/reference.md#frontmatter`); the thin rule `.cursor/rules/generate-release-notes.mdc` auto-attaches when that file is edited.
   - Use kebab-case for rule files and `.mdc` extension.
 - Formatting conventions: Docs use GitHub-flavored Markdown. Headings generally follow sentence case and short paragraphs. Prefer `*` bullets for lists in release notes and `###` for feature sections.
 
@@ -29,7 +30,7 @@ Help AI coding assistants make small, safe edits to the GenStudio for Performanc
   - Link to specific sections using descriptive text
 
 ## Safety rules for edits (what AI should do)
-- Never add Jira IDs, internal links, or corporate-only references to public docs. See `generate-release-notes.mdc` "Issue Tracking" section.
+- Never add Jira IDs, internal links, or corporate-only references to public docs. See `.cursor/skills/generate-release-notes/SKILL.md` (section **Prohibited content**).
 - Preserve frontmatter YAML exactly when editing files that include it. Many templates and release notes rely on fixed keys (title, description, role, exl-id).
 - For lint fixes, prefer automated, idempotent edits from `.cursor/rules/docs-lint.mdc` (remove trailing spaces, ensure final newline). Example commands used by humans:
 
