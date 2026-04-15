@@ -77,7 +77,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### CPA by action type for Meta ad accounts
 
-For Meta advertising campaigns in [!DNL Insights], you can now analyze Cost per action (CPA)] using the conversion action that matches how the campaign is optimized, instead of only a single default metric.
+For Meta advertising campaigns in [!DNL Insights], you can now analyze Cost per action (CPA) using the conversion action that matches how the campaign is optimized, instead of only a single default metric.
 
 Choose from available Meta action types such as:
 
