@@ -119,15 +119,21 @@ See [Find DAM extensions](/help/extensibility/deploy-app.md#find-dam-extensions)
 
 ### Experience Selector micro frontend for integrations
 
-The **Experience Selector** micro frontend (MFE) lets developers embed a dialog for choosing GenStudio experiences in **non-Adobe applications**, so users can browse, filter, and select experiences from within a partner or custom app using a consistent interface and supported sign-in. Integration teams use the standalone bundle, configuration options, and embedding patterns documented in [GenStudio Experience Selector MFE](/help/extensibility/experience-selector.md).
+**Experience Selector** brings GenStudio into partner and custom apps. Embed the micro frontend (MFE) to offer browsing, filtering, and selection in a partner or custom app with consistent UI and sign-in that fits your integration.
+
+Adopt the standalone bundle, configuration options, and embedding patterns in [GenStudio Experience Selector MFE](/help/extensibility/experience-selector.md). Your team ships the picker experience without rebuilding selection UX from scratch.
 
 ### Custom models on Firefly Image Model 4
 
-When you [generate images](/help/user-guide/create/generate-assets.md) in [!DNL Create], the **[!UICONTROL Model]** list includes **custom models trained on Adobe Firefly Image Model 4**, so teams can drive **on-brand** and **text-to-image** work with Image Model 4–based training rather than older Image Model 3–based custom models alone. Choose the model that fits your brief, then set parameters and prompts as you do today.
+[Generate images](/help/user-guide/create/generate-assets.md) in [!DNL Create]. The **[!UICONTROL Model] list now includes custom models trained on Adobe Firefly** Image Model 4 for **on-brand** and **text-to-image** work that reflects Image Model 4 training—not only older Image Model 3–based custom models.
+
+You stay in the same [!DNL Create] flow while that newer Firefly foundation powers brand-safe generation with Image Model 4–trained models. Parameters and prompts behave like your other model picks—no parallel workflow to stand up.
 
 ### Express templates on Horizon Canvas (Meta, LinkedIn, and Display)
 
-Adobe Express templates on the **Horizon Canvas** are **generally available** for **Meta**, **LinkedIn**, and **Display** experiences in [!DNL Create]—including multi-size layouts, motion-capable Express designs where supported, layer locks for governance, and WYSIWYG editing so teams can iterate on brand-ready layouts without depending on HTML-only template workflows for these channels. Explore [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md) for supported formats, starter and custom templates, and canvas capabilities.
+**Horizon Canvas** + Adobe Express templates are now **generally available** for **Meta**, **LinkedIn**, and **Display** in [!DNL Create]. Multi-size layouts, motion-ready Express designs (where supported), layer locks, and WYSIWYG editing replace the old HTML-template bottleneck for those channels—so teams ship on-brand creative faster.
+
+Read [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md) for supported formats, starter and custom templates, and canvas capabilities. The topic spells out channel-specific support as you scale Express layouts.
 
 ### PDF export for review and archival
 
