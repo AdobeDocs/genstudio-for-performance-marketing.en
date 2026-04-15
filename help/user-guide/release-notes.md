@@ -73,77 +73,7 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.04 {#latest}
-
-### CPA by action type for Meta ad accounts
-
-For Meta advertising campaigns in [!DNL Insights], you can now analyze Cost per action (CPA) using the conversion action that matches how the campaign is optimized, instead of only a single default metric.
-
-Choose from available Meta action types such as:
-
-* Purchases
-* Add-to-cart events
-* Leads
-* Video views
-* Custom conversions
-
-and review CPA consistently across the Ads, Assets (Media), and Attributes [!DNL Insights] tables.
-
-### RTCDP audiences in the Create workflow
-
-[Adobe Real-Time Customer Data Platform (RTCDP) audiences](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences) are available in the [!DNL Create] workflow so you can ground generated experiences in audience definitions alongside your existing guidelines.
-
-### Innovid display channel in [!DNL Insights]
-
-Innovid now appears as a display channel in [!DNL Insights] so you can review campaign and ad performance next to Meta, LinkedIn, TikTok, and your other connected sources in one place, with metrics refreshed daily.
-
-Use Innovid to evaluate impressions, clicks, and click-through rate.
-
-### LinkedIn activation with a single video asset
-
-Now you can [activate LinkedIn ad experiences that use a single video asset](/help/user-guide/activation/activate-linkedin-ad.md) to LinkedIn Campaign Manager from GenStudio for Performance Marketing, following the same end-to-end activation flow you use for static LinkedIn ads.
-
-### Out-of-the-box translation for paid media and email experiences
-
-Now use the **[!UICONTROL Translate and localize]** card on the [Create home page](/help/user-guide/create/overview.md), or choose **[!UICONTROL Translate]** from the actions menu on an approved paid media experience or email experience in [Manage assets and experiences](/help/user-guide/content/manage-assets.md), to translate content
-
-For paid media, translate content into **40+** languages in one flow.
-
-For email, translate content into **more than 10** supported languages in a single flow.
-
-### Third-party DAM connection for template assets
-
-Organizations can now use a registered add-on to **connect their own digital asset management (DAM)** repository so authors can browse and select media from that system in the template parameters flow.
-
-See [Find DAM extensions](/help/extensibility/deploy-app.md#find-dam-extensions) and [Get started building extensible apps](/help/extensibility/setup.md) for how Add-ons are built and distributed.
-
-### Experience Selector micro frontend for integrations
-
-**Experience Selector** brings GenStudio into partner and custom apps. Embed the micro frontend (MFE) to offer browsing, filtering, and selection in a partner or custom app with consistent UI and sign-in that fits your integration.
-
-Adopt the standalone bundle, configuration options, and embedding patterns in [GenStudio Experience Selector MFE](/help/extensibility/experience-selector.md). Your team ships the picker experience without rebuilding selection UX from scratch.
-
-### Custom models on Firefly Image Model 4
-
-[Generate images](/help/user-guide/create/generate-assets.md) in [!DNL Create]. The **[!UICONTROL Model] list now includes custom models trained on Adobe Firefly** Image Model 4 for **on-brand** and **text-to-image** work that reflects Image Model 4 training—not only older Image Model 3–based custom models.
-
-You stay in the same [!DNL Create] flow while that newer Firefly foundation powers brand-safe generation with Image Model 4–trained models. Parameters and prompts behave like your other model picks—no parallel workflow to stand up.
-
-### Express templates on Horizon Canvas (Meta, LinkedIn, and Display)
-
-**Horizon Canvas** + Adobe Express templates are now **generally available** for **Meta**, **LinkedIn**, and **Display** in [!DNL Create]. Multi-size layouts, motion-ready Express designs (where supported), layer locks, and WYSIWYG editing replace the old HTML-template bottleneck for those channels—so teams ship on-brand creative faster.
-
-Read [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md) for supported formats, starter and custom templates, and canvas capabilities. The topic spells out channel-specific support as you scale Express layouts.
-
-### PDF export for review and archival
-
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
-
-You can [export experiences to PDF](/help/user-guide/content/manage-assets.md#export-experiences) from draft export on the [!DNL Create] canvas and from approved experiences in [!DNL Content], producing a non-editable document for stakeholder review, approval records, and archival—particularly when teams need a fixed snapshot for compliance or regulated review workflows.
-
-## Earlier release notes
-
-+++Notes from 2026.03.15
+## 2026.03.15 {#latest}
 
 ### Express templates for Meta, LinkedIn, and Display
 
@@ -162,7 +92,7 @@ Explore the details in [Using Adobe Express templates in GenStudio for Performan
 
 You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
 
-+++
+## Earlier release notes
 
 +++Notes from 2026.01.15
 
