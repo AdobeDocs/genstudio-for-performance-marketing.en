@@ -119,7 +119,12 @@ Before completing the task:
 
 When pulling from Knowledge Transfer docs or release wikis internally, map fields as described in [reference.md](reference.md#internal-sources-kt-and-release-wikis). The shipped page must read as standalone user documentation.
 
+## Optional: polish new subsections
+
+After you add new `###` content under `{#latest}`, run [Polish release notes](../polish-release-notes/SKILL.md) for a copyeditor-style pass (benefit-forward tone, **2–3 sentences per paragraph**, no procedural how-to) **only** on those **new** subsections—**not** on Earlier release notes or pre-existing text unless explicitly requested.
+
 ## Additional resources
 
 - [examples.md](examples.md) — paste-ready examples (features, fixes, archival block).
 - [reference.md](reference.md) — frontmatter notes, doc paths, linking strategy.
+- [Polish release notes](../polish-release-notes/SKILL.md) — optional editorial pass on newly added `###` under `{#latest}`.
