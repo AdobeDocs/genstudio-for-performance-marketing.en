@@ -142,6 +142,10 @@ You can now create, approve, and activate TikTok in-feed video ads from GenStudi
 
 Content Intelligence featurization is updated to surface a wider set of advertising-oriented signals for image, text, and video assets—supporting richer analysis in the [Attributes](/help/user-guide/insights/attributes.md) experience alongside your performance data. The refresh strengthens semantic and entity-style characteristics, adds more video-oriented quality indicators, and replaces the prior generation of featurization for supported content types.
 
+### HTML5 display templates, variations, and resize
+
+You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md) from [!DNL Activate] or [!DNL Content].
+
 +++
 
 +++Notes from 2026.01.15
