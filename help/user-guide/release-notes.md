@@ -111,15 +111,15 @@ Brand guidelines can generate in one automatic pass. Products and Personas start
 
 You can assemble scenes, lean on generative AI help when audio or visuals are still missing, refine scene by scene, then export or save to [!DNL Content] after review.
 
+### HTML5 display templates, variations, and resize
+
+You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
+
 ### Firefly Creative Production workflows in GenStudio
 
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
 **Firefly Creative Production** workflows can be published and run from GenStudio for Performance Marketing, so marketers can perform production runs in-app, download deliverables, and route finished assets to [[!DNL Content]](/help/user-guide/content/overview.md) with fewer tool hops.
-
-### HTML5 display templates, variations, and resize
-
-You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
 
 ## Earlier release notes
 
