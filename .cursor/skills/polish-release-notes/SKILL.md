@@ -44,6 +44,15 @@ Keep diffs **minimal**: wording and paragraph breaks only—no drive-by refactor
 - **Procedural “how to”** content: numbered steps, “click **[!UICONTROL …]** then…”, full UI walkthroughs, or tutorial phrasing. Release notes summarize **what shipped** and **why it matters**, not hands-on lessons.
 - Content that violates [Prohibited content](../generate-release-notes/SKILL.md#prohibited-content) on the generate skill (no Jira keys, internal-only URLs, wiki-as-proof, etc.).
 
+## Remove during polish (release scheduling)
+
+Drafts sometimes include **italicized** lines (`_…_` or `*…*`) about **availability**—for example limited release, Summit timing, GA, broader rollout, or Beta **windows**. That language belongs in **release management**, not in polished customer-facing notes for this page.
+
+- **Remove entirely** those **italic** lines or **trailing italic clauses** when their **primary purpose** is scheduling or rollout status (including **GA**, **limited release**, **Summit**, or similar).
+- **Do not** strip ordinary (non-italic) sentences that describe product behavior—only scheduling copy that was set in **italics** as a disclaimer.
+- **Keep** the **[!BADGE Beta]** block when the feature is Beta; the badge is the supported pattern for Beta, not a separate italic scheduling line.
+- After removal, **tighten surrounding prose** if a paragraph now starts or ends awkwardly; do not replace removed italics with new scheduling sentences unless the user explicitly asks.
+
 ## Preserve (do not strip or rewrite structurally)
 
 - `[!DNL …]`, `[!UICONTROL …]`, `[!BADGE …]`, and other ExL shortcodes.
@@ -55,12 +64,14 @@ Keep diffs **minimal**: wording and paragraph breaks only—no drive-by refactor
 1. [ ] Confirm **which** `###` under `## … {#latest}` are in scope (new this round).
 2. [ ] For each in-scope `###`, tighten copy per [Voice and tone](#voice-and-tone) and [Paragraph rules](#paragraph-rules).
 3. [ ] Remove or shorten any **how-to** instructions; keep **user outcomes**.
-4. [ ] Verify links and shortcodes still valid; run a quick scan for internal IDs or banned patterns per [Quality checks](#quality-checks).
+4. [ ] Strip **italic (or italic-styled) scheduling and availability** lines per [Remove during polish (release scheduling)](#remove-during-polish-release-scheduling).
+5. [ ] Verify links and shortcodes still valid; run a quick scan for internal IDs or banned patterns per [Quality checks](#quality-checks).
 
 ## Quality checks
 
 - [ ] Only the agreed **new** `###` blocks under `{#latest}` changed; archives and older months untouched.
 - [ ] No new Jira-style IDs, internal wiki URLs, or “see ticket” language.
+- [ ] No **scheduling-only** italic disclaimers (GA, limited release, Summit rollout, etc.) remain in polished `{#latest}` subsections—those were removed per [Remove during polish (release scheduling)](#remove-during-polish-release-scheduling); Beta badge blocks are fine where applicable.
 - [ ] Paragraphs are **2–3 sentences** each (max three sentences per paragraph).
 - [ ] Copy stays **factual** and aligned with the described capability.
 

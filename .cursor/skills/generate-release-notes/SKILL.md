@@ -6,7 +6,8 @@ description: >-
   archiving the previous {#latest} section, editing release notes content, or
   summarizing Knowledge Transfer or internal release inputs into user-facing
   bullets. Follows ExL structure, Beta badges, doc links, and archival
-  collapsible sections.
+  collapsible sections. Edits target only the {#latest} block; Earlier release
+  notes are read-only except the archive cut/paste when rotating a new month.
 ---
 
 # Generate GenStudio release notes
@@ -17,13 +18,23 @@ description: >-
 
 **KT/wiki field mapping and doc paths:** [reference.md](reference.md)
 
+## Editing scope (strict)
+
+When using this skill, **the only place** you may **add** or **edit** release note body content is the section headed with **`## … {#latest}`** (the single block that carries the `{#latest}` anchor).
+
+- **Do not** edit **Earlier release notes**—any `+++Notes from YYYY.MM.DD+++` collapsible block—or **any** older `##` monthly section that no longer has `{#latest}`, even when the topic seems related, a link looks wrong, or copy appears duplicated or outdated there.
+- **Do not** “touch up” prior `###` subsections, bullets, links, or wording outside the current `{#latest}` block unless the user gives an **explicit, separate** request that is not covered by this skill.
+- **Exception:** [Archive previous latest](#archive-previous-latest) when introducing a **new** top `{#latest}` block: **move** the entire former `{#latest}` section into a **new** collapsible under **Earlier release notes** as described below. During that pass, **do not** rewrite or add to **other, older** archive blocks.
+
+If new information belongs in the doc, place it under the current **`{#latest}`** heading (or archive first, then add only under the new `{#latest}`).
+
 ## Workflow checklist
 
 Work in this order. Copy the checklist and track progress for multi-step edits.
 
-1. [ ] Open `help/user-guide/release-notes.md` and read the current `## YYYY.MM {#latest}` block and the **Earlier release notes** area.
+1. [ ] Open `help/user-guide/release-notes.md` and read the current `## YYYY.MM {#latest}` block. Treat **Earlier release notes** as **read-only** context unless you are performing the archive step in step 2.
 2. [ ] If adding a **new** monthly release: archive the current latest (see [Archive previous latest](#archive-previous-latest)).
-3. [ ] Add or edit the top `## YYYY.MM {#latest}` section (newest month at top of the release list).
+3. [ ] Add or edit **only** the top `## YYYY.MM {#latest}` section (newest month at top of the release list).
 4. [ ] For each item, apply [Decision rules](#decision-rules) (feature `###` vs **Fixes and enhancements**, Beta badge or not).
 5. [ ] Add or verify documentation links on the most relevant phrase (see [reference.md](reference.md#documentation-linking)).
 6. [ ] Run [Quality checks](#quality-checks) before finishing.
@@ -47,10 +58,12 @@ Use these if/then rules so content lands in the right place:
 When introducing a new `## YYYY.MM {#latest}`:
 
 1. Cut the entire previous `## YYYY.MM {#latest}` section (from its heading through the end of that release’s content, before the next `##` or **Earlier release notes**).
-2. Paste it into **Earlier release notes**, inside a collapsible block.
+2. Paste it into **Earlier release notes**, inside a **new** collapsible block.
 3. Replace the old heading with: `+++Notes from YYYY.MM.DD+++` (use the real release date; format as in existing notes in the file).
 4. Remove `{#latest}` from the archived heading; the new top section is the only one with `{#latest}`.
 5. Keep chronological order inside **Earlier release notes** (newest archived blocks toward the top unless the file already uses a different ordering—**match the existing file**).
+
+Do **not** edit the body of **pre-existing** `+++Notes from …+++` blocks while performing this archive—only insert the newly archived block and preserve older archives as-is.
 
 ## Required structure
 
@@ -108,6 +121,7 @@ Use exactly:
 
 Before completing the task:
 
+- [ ] **Scope:** Only the `## … {#latest}` block was added to or edited; **Earlier release notes** and older monthly sections were not modified except for the [Archive previous latest](#archive-previous-latest) cut/paste of the former `{#latest}` into a **new** archive block.
 - [ ] All new or changed relative links resolve to real paths under `help/` where possible.
 - [ ] Beta features include the Beta badge snippet where required.
 - [ ] Terminology matches existing release notes (`[!DNL …]`, `[!UICONTROL …]`).
