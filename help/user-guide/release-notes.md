@@ -99,13 +99,13 @@ For [email experiences](/help/user-guide/create/create-email-experience.md) on t
 
 These content fragments exist together in the same canvas so modular, approved copy ships without rebuilding HTML by hand.
 
-### [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
+### Create [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
 
 Create [!DNL Brands], [!DNL Products], or [!DNL Personas] starting from a public, branded URL, with outputs grounded in what the brand publishes online.
 
 Brand guidelines can generate in one automatic pass. Products and Personas start from suggested candidates you confirm before full details are created.
 
-### Connected TV (CTV) in [!DNL Create]
+### Connected TV (CTV) ads in [!DNL Create]
 
 **Adobe GenStudio for CTV** enables performance marketers to self-serve high-quality, compliant CTV ads through a streamlined, GenAI-first workflow from brief to launch.
 
@@ -116,6 +116,10 @@ You can assemble scenes, lean on generative AI help when audio or visuals are st
 [!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
 
 **Firefly Creative Production** workflows can be published and run from GenStudio for Performance Marketing, so marketers can perform production runs in-app, download deliverables, and route finished assets to [[!DNL Content]](/help/user-guide/content/overview.md) with fewer tool hops.
+
+### HTML5 display templates, variations, and resize
+
+You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
 
 ## Earlier release notes
 
@@ -137,14 +141,6 @@ Explore the details in [Using Adobe Express templates in GenStudio for Performan
 ### TikTok content in GenStudio for Performance Marketing
 
 You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
-
-### Broader content intelligence in [!DNL Insights]
-
-Content Intelligence featurization is updated to surface a wider set of advertising-oriented signals for image, text, and video assets—supporting richer analysis in the [Attributes](/help/user-guide/insights/attributes.md) experience alongside your performance data. The refresh strengthens semantic and entity-style characteristics, adds more video-oriented quality indicators, and replaces the prior generation of featurization for supported content types.
-
-### HTML5 display templates, variations, and resize
-
-You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md) from [!DNL Activate] or [!DNL Content].
 
 +++
 
