@@ -73,7 +73,57 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.03 {#latest}
+## 2026.04.16 {#latest}
+
+### New [!DNL Insights] 2.0 overview
+
+Version 2.0 of [[!DNL Insights]](/help/user-guide/insights/overview.md) brings **Meta** and **LinkedIn** performance together in one workspace. Cross-channel and channel-specific snapshots, contribution-style reporting, and high- and low-performing ad views make it easier to see where spend is working.
+
+### [!DNL Insights] from Ad tags
+
+**Insights from Ad Tags** divides tracking IDs into tag dimensions you can analyze alongside performance (like cost, engagement, conversions, and more) without exporting ad names to spreadsheets. Stronger and weaker tag values surface in the experience so your naming convention becomes something you can steer, not something you decode offline.
+
+### Context-aware recommendations in [!DNL Create]
+
+In the [creation workflow](/help/user-guide/create/overview.md), **[!UICONTROL Select from content]** now opens with **[!UICONTROL Relevance]** sorting, so the grid reflects the [!DNL Brands], [!DNL Products], [!DNL Personas], and languages in your prompt drawer.
+
+Or if recency should lead instead of contextual fit, switch to **[!UICONTROL Recently Added]**.
+
+### Content Fragment Swap in HTML Canvas
+
+For [email experiences](/help/user-guide/create/create-email-experience.md) on the HTML Canvas, **assemble email experiences using three slot types in a single canvas**:
+
+* Generative slots (AI-generated copy)
+* Content Fragment slots (pre-approved Content Fragments selected from a connected AEM repository via the Content Advisor MFE)
+* Locked slots (immutable fields such as legal disclaimers)
+
+These content fragments exist together in the same canvas so modular, approved copy ships without rebuilding HTML by hand.
+
+### Create [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
+
+Create [!DNL Brands], [!DNL Products], or [!DNL Personas] starting from a public, branded URL, with outputs grounded in what the brand publishes online.
+
+Brand guidelines can generate in one automatic pass. Products and Personas start from suggested candidates you confirm before full details are created.
+
+### Connected TV (CTV) ads in [!DNL Create]
+
+**Adobe GenStudio for CTV** enables performance marketers to self-serve high-quality, compliant CTV ads through a streamlined, GenAI-first workflow from brief to launch.
+
+You can assemble scenes, lean on generative AI help when audio or visuals are still missing, refine scene by scene, then export or save to [!DNL Content] after review.
+
+### HTML5 display templates, variations, and resize
+
+You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
+
+### Firefly Creative Production workflows in GenStudio
+
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in Beta, so some functionality may be limited or subject to change."}
+
+**Firefly Creative Production** workflows can be published and run from GenStudio for Performance Marketing, so marketers can perform production runs in-app, download deliverables, and route finished assets to [[!DNL Content]](/help/user-guide/content/overview.md) with fewer tool hops.
+
+## Earlier release notes
+
++++Notes from 2026.03.15
 
 ### Express templates for Meta, LinkedIn, and Display
 
@@ -92,7 +142,7 @@ Explore the details in [Using Adobe Express templates in GenStudio for Performan
 
 You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
 
-## Earlier release notes
++++
 
 +++Notes from 2026.01.15
 

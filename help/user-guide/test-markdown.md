@@ -1,7 +1,7 @@
 ---
 title: Test Page for Markdown
 description: This article is hidden for testing different markdown transforms.
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noDisplay, noCatalog
 exl-id: 47d838ed-ab3f-4e0b-b161-ced97d8ceadd
