@@ -98,4 +98,4 @@ See [Upload approved assets](/help/user-guide/content/manage-assets.md).
 
 ### Step 5: Connect to a paid media account
 
-Configure a connection between GenStudio for Performance Marketing and your paid media accounts to receive data from active marketing campaigns, assets, and experiences. Use [!DNL Insights] to analyze channel-derived data. See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).
+Configure a connection between GenStudio for Performance Marketing and your paid media accounts to receive data from active marketing campaigns, assets, and experiences. Use [!DNL Insights] to analyze channel-derived data, including the **[!UICONTROL Insights 2.0]** cross-channel overview when you work with Meta and LinkedIn ([Overview of Insights](/help/user-guide/insights/overview.md#insights-20)). See [Connect paid media account](/help/user-guide/connectors/connect-channel.md).

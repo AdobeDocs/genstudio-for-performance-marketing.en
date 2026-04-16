@@ -37,7 +37,7 @@ level_v2:
 
 Using [!DNL GenStudio for Performance Marketing], you can create TikTok ads as paid media experiences in the [[!DNL Create]](/help/user-guide/create/overview.md) workflow. Generate creative variants, run brand and channel checks, publish to [!DNL Content], and activate through [[!DNL Activate]](/help/user-guide/activation/overview.md), to deliver content to TikTok Ads Manager for final review and launch.
 
-TikTok in [!DNL GenStudio for Performance Marketing] fits into a broader omnichannel workflow: you can analyze TikTok campaign and ad performance in [[!DNL Insights]](/help/user-guide/insights/overview.md) alongside other social and display channels (such as Meta and LinkedIn), instead of switching to separate reporting tools.
+TikTok in [!DNL GenStudio for Performance Marketing] fits into a broader omnichannel workflow: you can analyze TikTok campaign and ad performance in the standard [!DNL Insights] views—[!UICONTROL Campaigns], [!UICONTROL Ads], [!UICONTROL Media], and [!UICONTROL Attributes]—in [[!DNL Insights]](/help/user-guide/insights/overview.md#dashboard) alongside other social and display channels (such as Meta and LinkedIn), instead of switching to separate reporting tools. The **[!UICONTROL Insights 2.0]** cross-channel overview ([Overview of Insights — Insights 2.0](/help/user-guide/insights/overview.md#insights-20)) focuses on Meta and LinkedIn only; TikTok is not included there at this time.
 
 [!DNL Insights] surfaces metrics, including:
 
