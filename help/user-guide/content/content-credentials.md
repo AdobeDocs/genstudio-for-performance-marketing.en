@@ -27,20 +27,24 @@ topic_v2:
 ---
 # Content Credentials for organizations
 
-Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow. 
+Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow.
 
 >[!WARNING]
 >
 > This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
 
+## Get started with Content Credentials {#content-credentials}
 
-## Get started with Content Credentials 
+>[!CONTEXTUALHELP]
+>id="gspm_content_credentials"
+>title="Content Credentials in [!DNL GenStudio for Performance Marketing]"
+>abstract="Tamper-proof credentials for content that prove brand authenticity and drive compliance can be embedded directly in your marketing workflow."
 
 After Content Credentials have been activated in the Admin Console, GenStudio for Performance Marketing users can turn on Content Credentials for all assets globally in the app. If the global option to apply credentials is turned off, users have the choice to apply Content Credentials for each individual asset.  
 
-Once content is published, Content Credentials will be visible on external platforms, like LinkedIn. 
+Once content is published, Content Credentials will be visible on external platforms, like LinkedIn.
 
-Administrators are responsible for uploading a valid X.509 certificate within the Admin Console. This step ensures that the enterprise's digital signature is properly configured and ready for use in supported Adobe DX applications. 
+Administrators are responsible for uploading a valid X.509 certificate within the Admin Console. This step ensures that the enterprise's digital signature is properly configured and ready for use in supported Adobe DX applications.
 
 >[!NOTE]
 >
