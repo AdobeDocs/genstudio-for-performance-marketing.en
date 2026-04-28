@@ -101,6 +101,8 @@ The following is a list of Meta supported ad placements:
 
 Insights metrics can help you evaluate which ads contribute to the success of a campaign and which ad placements are most effective.
 
+![Ad tags Insights performance metrics](./ad-tags-tab.png)
+
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Ads] table view. Each metric includes a brief definition as it relates to ad names, how the metric is calculated, and one or more insights to help understand its significance and impact on an ad.
 
 | Metric                       | Definition                    | Insight                          |

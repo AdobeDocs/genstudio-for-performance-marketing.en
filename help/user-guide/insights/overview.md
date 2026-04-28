@@ -104,10 +104,6 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](campaigns.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
-### Ads
-
-The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
-
 ### Media
 
 The [[!DNL Insights] _[!UICONTROL Media]_ view](media.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
@@ -123,3 +119,7 @@ In the media details view, the left side shows a thumbnail of the asset and a li
 Media _attributes_ help to identify creative content by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
 
 The [[!DNL Insights] _[!UICONTROL Attributes]_ view](attributes.md) can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and can help you to highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.
+
+### Ads tags
+
+The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
