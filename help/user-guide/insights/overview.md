@@ -60,9 +60,13 @@ The [!DNL Insights] module includes **[!UICONTROL Insights 2.0]**, a cross-chann
 
 - **Review cross-channel or single-channel overviews (Meta and LinkedIn)**: See a consolidated snapshot across both paid social channels, or drill down into one channel.
 - **Use the cross-channel performance report**: View each channel's share of results with a percentage contribution visualization, including total spend (percentage and amount) and performance share metrics such as CTR, CPC, and CPM.
+![Cross-channel performance report](./cross-channel-report.png)
 - **Use the ad performance report**: Identify high and low performing ads with rankings and metrics that support optimization decisions.
+![Ad performance report](./ad-performance-report.png)
 - **Analyze Meta conversion metrics**: Focus on conversions with visibility into CPA across funnel stages (for example, engaged visits, request for information, app start, prospect, and app complete) and review conversion trends over time, with conversion data available in GenStudio for Performance Marketing.
+![Meta conversion metrics](./meta-conversion-report.png)
 - **Explore insights from ad tags**: Ad tracking IDs are parsed into structured tags so you can analyze performance by dimensions you define (such as call to action, geography, format, or concept), see budget allocation across those dimensions, and spend less time decoding naming conventions manually.
+![Insights 2.0 Ad tags report](./ad-tags-insights.png)
 
 >[!NOTE]
 >
@@ -100,10 +104,6 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](campaigns.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
-### Ads
-
-The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
-
 ### Media
 
 The [[!DNL Insights] _[!UICONTROL Media]_ view](media.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
@@ -119,3 +119,7 @@ In the media details view, the left side shows a thumbnail of the asset and a li
 Media _attributes_ help to identify creative content by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
 
 The [[!DNL Insights] _[!UICONTROL Attributes]_ view](attributes.md) can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and can help you to highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.
+
+### Ads tags
+
+The [[!DNL Insights] _[!UICONTROL Ads]_ view](ads.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
