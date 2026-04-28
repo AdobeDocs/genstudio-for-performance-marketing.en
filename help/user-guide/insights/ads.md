@@ -38,17 +38,17 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# Ads and ad placement overview
+# Ads tags and ad placement overview
 
-The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
+The [!DNL Insights] _[!UICONTROL Ads tags]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
 
 {{connect-insights}}
 
-The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
+The _[!UICONTROL Ads tags]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
+![Ad tags Insights performance metrics](./ad-tags-tab.png)
 
-The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
+The _[!UICONTROL Ads tags]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
 
 - CPA (Cost per action)
 - CTR (Click-through rate)
@@ -100,8 +100,6 @@ The following is a list of Meta supported ad placements:
 ## Ad performance
 
 Insights metrics can help you evaluate which ads contribute to the success of a campaign and which ad placements are most effective.
-
-![Ad tags Insights performance metrics](./ad-tags-tab.png)
 
 The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Ads] table view. Each metric includes a brief definition as it relates to ad names, how the metric is calculated, and one or more insights to help understand its significance and impact on an ad.
 
