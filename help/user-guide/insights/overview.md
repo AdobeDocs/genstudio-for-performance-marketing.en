@@ -60,9 +60,13 @@ The [!DNL Insights] module includes **[!UICONTROL Insights 2.0]**, a cross-chann
 
 - **Review cross-channel or single-channel overviews (Meta and LinkedIn)**: See a consolidated snapshot across both paid social channels, or drill down into one channel.
 - **Use the cross-channel performance report**: View each channel's share of results with a percentage contribution visualization, including total spend (percentage and amount) and performance share metrics such as CTR, CPC, and CPM.
+![Cross-channel performance report](./cross-channel-report.png)
 - **Use the ad performance report**: Identify high and low performing ads with rankings and metrics that support optimization decisions.
+![Ad performance report](./ad-performance-report.png)
 - **Analyze Meta conversion metrics**: Focus on conversions with visibility into CPA across funnel stages (for example, engaged visits, request for information, app start, prospect, and app complete) and review conversion trends over time, with conversion data available in GenStudio for Performance Marketing.
+![Meta conversion metrics](./meta-conversion-report.png)
 - **Explore insights from ad tags**: Ad tracking IDs are parsed into structured tags so you can analyze performance by dimensions you define (such as call to action, geography, format, or concept), see budget allocation across those dimensions, and spend less time decoding naming conventions manually.
+![Insights 2.0 Ad tags report](./ad-tags-insights.png)
 
 >[!NOTE]
 >
