@@ -88,13 +88,11 @@ To assign element roles:
 
 >[!IMPORTANT]
 >
-> You must map an image: assign the `image` field role to at least one image element in your template.
+> **You must map an image** by assigning the `image` field role to at least one image element in your template.
 
 The plugin remembers these mappings to use for generated content. A field role can be mapped to multiple template elements.
 
 ![Field role mapping](./field-role-mapping.png){width="60%"}
-
-### Field mapping exceptions
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
