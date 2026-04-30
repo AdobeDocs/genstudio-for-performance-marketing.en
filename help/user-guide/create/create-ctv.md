@@ -18,42 +18,35 @@ Before you create a CTV ad, confirm the following:
 * **[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]** configured as shared objects in [!DNL GenStudio for Performance Marketing]. See [Guidelines overview](/help/user-guide/guidelines/overview.md) to understand how these objects inform generation.
 * Campaign assets (video clips, images, logos, music) are recommended but not required—generative AI can fill gaps when assets are missing or incomplete.
 
-## Navigate to CTV creation
+## Create a new CTV ad
 
-**To open the CTV channel**:
+Everything in this workflow happens inside [!DNL GenStudio for Performance Marketing].
+
+![Connected TV creation card](./ctv-tile.png){width="30%" align="center"}
+**To navigate to CTV creation**:
 
 1. Sign in to [!DNL GenStudio for Performance Marketing].
 1. From the home or creation surface, go to **[!UICONTROL Create]**.
 1. Select **CTV** using the CTV creation card.
-
-Everything in this workflow happens inside [!DNL GenStudio for Performance Marketing].
-
-## Start a new CTV ad
-
-**To start**:
-
 1. Click **[!UICONTROL Create CTV Ad]**.
 
-A single, streamlined CTV creation experience opens. You do not choose an ad type first.
+A single, streamlined CTV creation experience opens. You're not required to choose an ad type first.
 
 ## Configure the brief
 
-The brief and inputs drive how the ad is generated.
+The brief and inputs drive how the ad is generated. This is your opportunity to provide context and constraints for the ad generation process.
+
+![Configure the brief](./ctv-brief.png){width="70%" align="center"}
 
 **To configure the brief**:
 
 1. Select **[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]** from your existing shared objects.
-1. Add the **creative brief**—type it in or upload it. Include the campaign objective, key message, and any constraints.
+1. Add the **creative brief** by entering it directly or uploading it. Include the campaign objective, key message, and any constraints.
 1. Set **ad duration** to 15 seconds or 30 seconds.
-1. Optionally add **assets**—upload video clips, images, logos, music, voiceover, or intro/outro cards (drag-and-drop or file selection), or choose assets from your [!DNL Content] repository.
+1. Optionally add **assets**. Upload video clips, images, logos, music, voiceover, or intro/outro cards (drag-and-drop or file selection), or choose assets from your [!DNL Content] repository.
+1. Click the **[!UICONTROL Generate]** button.
 
 If assets are missing or incomplete, [!DNL GenStudio for Performance Marketing] can generate missing scenes, music, or voiceover using AI. Assets you provide always take priority over generated material.
-
-## Generate the ad
-
-**To generate**:
-
-1. Click **[!UICONTROL Generate]**.
 
 [!DNL GenStudio for Performance Marketing] automatically:
 
@@ -68,15 +61,14 @@ The result is a fully formed, previewable CTV ad—not a bare draft timeline.
 
 Use the scene-based editor to refine the ad without regenerating everything.
 
-**To edit and refine**:
+Click a scene in the scene strip to open it for editing. Edits you can perform include:
 
-1. Click a scene in the scene strip to open it for editing.
-1. Replace or regenerate a single scene with AI.
-1. Edit the scene prompt to create variants.
-1. Reorder or trim scenes.
-1. Edit text overlays.
-1. Swap, mute, or replace music and voiceover.
-1. Adjust transitions between scenes.
+* Replace or regenerate a single scene with AI.
+* Edit the scene prompt to create variants.
+* Reorder or trim scenes.
+* Edit text overlays.
+* Swap, mute, or replace music and voiceover.
+* Adjust transitions between scenes.
 
 Editing is scoped so you can regenerate one scene at a time for faster iteration and creative refresh.
 
