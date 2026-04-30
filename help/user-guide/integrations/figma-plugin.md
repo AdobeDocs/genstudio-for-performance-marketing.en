@@ -94,9 +94,9 @@ The plugin needs to understand the different elements of your template, like hea
 
 See how some of these field roles are mapped below.
 
-| ![A Facebook post with field roles indicated](./facebook-post.png){width="50%" align="center"}<br>| ![A Facebook story with field roles indicated](./facebook-story.png){width="60%" align="center"}<br> |
+| ![A Facebook post with field roles indicated](./facebook-post.png){width="60%" align="center" zoomable="yes"}<br>| ![A Facebook story with field roles indicated](./facebook-story.png){width="70%" align="center" zoomable="yes"}<br> |
 |:---:|:---:|
-| ![An Instagram post with field roles indicated](./instagram-post.png){width="50%" align="center"}<br> | ![An Instagram story with field roles indicated](./instagram-story.png){width="60%" align="center"}<br> |
+| ![An Instagram post with field roles indicated](./instagram-post.png){width="60%" align="center" zoomable="yes"}<br> | ![An Instagram story with field roles indicated](./instagram-story.png){width="70%" align="center" zoomable="yes"}<br> |
 
 **LinkedIn field roles include**:
 
@@ -110,7 +110,7 @@ See how some of these field roles are mapped below.
 
 See how some of these field roles are mapped below.
 
-![A LinkedIn post with field roles indicated](./linkedin-ad.png){width="20%" align="center"}
+![A LinkedIn post with field roles indicated](./linkedin-ad.png){width="30%" align="center" zoomable="yes"}
 
 The plugin remembers these mappings to use for generated content. A field role can be mapped to multiple template elements. Manual fields are for elements that you would like to preserve text edibility but won't be marked for generation.
 
@@ -123,7 +123,7 @@ To assign element roles:
 1. Select an element in your template (text, image, and so on).
 1. Use the dropdown menu to assign a role.
 
-![Field role mapping](./field-role-mapping.png){width="60%"}
+![Field role mapping](./field-role-mapping.png){width="60%" zoomable="yes"}
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
