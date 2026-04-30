@@ -53,17 +53,17 @@ When creating variants from a template with pre-defined channel guidelines (like
 
 {{in-academy}}
 
-## Guidance when adding guidelines from a URL
+## Guidance when adding from a URL
 
-When you choose to add a [!DNL Brand], [!DNL Product], or [!DNL Persona] from a URL in GenStudio for Performance Marketing, consider these prerequisites and expected output guidelines.
+When you choose to add a [!DNL Brand], [!DNL Product], or [!DNL Persona] from a URL in [!DNL GenStudio for Performance Marketing], consider the information below.
 
 **Prerequisites for URL-based workflows**:
 
-- You have an **active GenStudio for Performance Marketing account** with Brand Manager or higher permissions.
+- You have an **active [!DNL GenStudio for Performance Marketing] account** with Brand Manager or higher permissions.
 - The **URL is publicly accessible**. Password-protected or login-gated pages will produce limited output.
-- **For best results, use the brand's own website URL** (homepage or a product/category page)—not a retailer, reseller, or aggregator.
+- **For best results, use the brand's own website URL** (a homepage or a product/category page) instead of a retailer, reseller, or aggregator.
 
-**URL types and expected output**:
+**URL types and their expected outputs**:
 
 | URL type | What to expect |
 | --- | --- |
