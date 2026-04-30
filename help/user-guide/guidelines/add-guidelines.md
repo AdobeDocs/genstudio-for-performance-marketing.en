@@ -122,6 +122,23 @@ To see your created [!DNL Brands], click the back arrow near the top of the _[!U
 
 You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
+### Creating a Brand from URL
+
+**Prerequisites**:
+
+- You have an **active GenStudio for Performance Marketing account** with Brand Manager or higher permissions.
+- The **brand URL is publicly accessible**. Password-protected or login-gated pages will produce limited output.
+- **For best results, use the brand's own website URL** (homepage or a product/category page)—not a retailer, reseller, or aggregator.
+
+**To create a brand from a URL:**
+
+1. Navigate to **Setup > Brands** in GenStudio.
+1. Select **[!UICONTROL Add brand from URL]**.
+1. Enter the brand's URL in the provided field.
+1. The system will read the page and automatically generate brand guidelines—this process typically takes less than a minute.
+1. Review the generated brand guidelines card and edit any fields as needed.
+1. Click **[!UICONTROL Save]**. The brand is now available for content generation.
+
 ### Change brand thumbnail
 
 After manually adding a [!DNL Brand], you can change the thumbnail image to ensure it is easily distinguishable within your [!DNL Brands] list.
