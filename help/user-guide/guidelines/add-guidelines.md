@@ -53,6 +53,26 @@ When creating variants from a template with pre-defined channel guidelines (like
 
 {{in-academy}}
 
+## Guidance when adding from a URL
+
+When you choose to add a [!DNL Brand], [!DNL Product], or [!DNL Persona] from a URL in [!DNL GenStudio for Performance Marketing], consider the information below.
+
+**Prerequisites for URL-based workflows**:
+
+- You have an **active [!DNL GenStudio for Performance Marketing] account** with Brand Manager or higher permissions.
+- The **URL is publicly accessible**. Password-protected or login-gated pages will produce limited output.
+- **For best results, use the brand's own website URL** (a homepage or a product/category page) instead of a retailer, reseller, or aggregator.
+
+**URL types and their expected outputs**:
+
+| URL type | What to expect |
+| --- | --- |
+| Brand homepage | You get full brand guidelines, and the system surfaces broad product and persona coverage. |
+| Product category page | Products and personas are scoped to the category represented on that page. |
+| Campaign landing page | Persona signals are especially useful, but brand output may reflect the campaign instead of the full brand. |
+| Retailer or partner page | The system deprioritizes third-party content, so output will be limited. |
+| Gated / login-required page | Page content is unavailable, so output will be conservative. |
+
 ## Add Brands
 
 To add a [!DNL Brand], [upload a brand guide](#upload-a-brand), [manually create a brand](#manually-add-brand), or [create a brand from a URL](#creating-a-brand-from-url). When you upload files or add a brand manually, select guidelines and enter your brand details. [Publish a [!DNL Brand]](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
@@ -122,9 +142,9 @@ To see your created [!DNL Brands], click the back arrow near the top of the _[!U
 
 You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
-### Creating a brand from a URL
+### Creating a Brand from a URL
 
-**Prerequisites:** See [Guidance when adding from a URL](#guidance-when-adding-from-a-url).
+**Prerequisites:** See [Prerequisites for URL-based workflows](#prerequisites-for-url-based-workflows). For how different URLs affect results, see [URL types and expected output](#url-types-and-expected-output).
 
 **To create a brand from a URL:**
 
@@ -267,7 +287,7 @@ You can manually add persona details, instead of uploading existing persona docu
 
 ### Adding [!DNL Personas] from URL
 
-**Prerequisites:** See [Guidance when adding from a URL](#guidance-when-adding-from-a-url).
+**Prerequisites:** See [Prerequisites for URL-based workflows](#prerequisites-for-url-based-workflows). For how different URLs affect results, see [URL types and expected output](#url-types-and-expected-output).
 
 **To add personas from a URL:**
 
@@ -351,7 +371,7 @@ You can manually add product details, instead of uploading existing product docu
 
 ### Adding products from URL
 
-**Prerequisites:** See [Guidance when adding from a URL](#guidance-when-adding-from-a-url).
+**Prerequisites:** See [Prerequisites for URL-based workflows](#prerequisites-for-url-based-workflows). For how different URLs affect results, see [URL types and expected output](#url-types-and-expected-output).
 
 **To add [!DNL Products] from a URL:**
 
@@ -396,23 +416,3 @@ During onboarding, audience definitions are imported and transformed into a GenS
 1. Select an audience to assign from the list. The system suggests recommended audiences that align with your selected [!DNL Persona], if a [!DNL Persona] is selected.
 1. Click **[!UICONTROL See audience details]** to view the expanded description and messaging preferences generated for the selected audience. Audience details inform content generation, ensuring your creative aligns with the specific characteristics and preferences of your target segment.
 ![Audience details pane](./audience-details.png){width=450}
-
-## Guidance when adding from a URL
-
-When you choose to add a [!DNL Brand], [!DNL Product], or [!DNL Persona] from a URL in [!DNL GenStudio for Performance Marketing], consider the information below.
-
-**Prerequisites for URL-based workflows**:
-
-- You have an **active [!DNL GenStudio for Performance Marketing] account** with Brand Manager or higher permissions.
-- The **URL is publicly accessible**. Password-protected or login-gated pages will produce limited output.
-- **For best results, use the brand's own website URL** (a homepage or a product/category page) instead of a retailer, reseller, or aggregator.
-
-**URL types and their expected outputs**:
-
-| URL type | What to expect |
-| --- | --- |
-| Brand homepage | You get full brand guidelines, and the system surfaces broad product and persona coverage. |
-| Product category page | Products and personas are scoped to the category represented on that page. |
-| Campaign landing page | Persona signals are especially useful, but brand output may reflect the campaign instead of the full brand. |
-| Retailer or partner page | The system deprioritizes third-party content, so output will be limited. |
-| Gated / login-required page | Page content is unavailable, so output will be conservative. |
