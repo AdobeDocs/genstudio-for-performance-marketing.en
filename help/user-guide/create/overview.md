@@ -64,6 +64,7 @@ With [!DNL Create], you can generate content for the following channels:
 * [Meta ads](meta-experiences.md)
 * [LinkedIn ads](linkedin-experiences.md)
 * [TikTok ads](tiktok-experiences.md)
+* [Connected TV ads](create-ctv.md)
 * [Display ads](display-ad-experiences.md)
 * [Banners](banner-experiences.md)
 * [Images](generate-assets.md)
