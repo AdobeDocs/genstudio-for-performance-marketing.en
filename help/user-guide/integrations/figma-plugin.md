@@ -81,20 +81,49 @@ There is no fixed size requirement. Display templates support any size.
 
 The plugin needs to understand the different elements of your template, like headline, body text, or image.
 
+**Meta field roles include**:
+
+* Image
+* Image text
+* CTA
+* Body text
+* Headline
+* Website URL
+* Display link
+* Manual fields
+
+See how some of these field roles are mapped below.
+
+| ![A Facebook post with field roles indicated](./facebook-post.png){width="50%" align="center"}<br>| ![A Facebook story with field roles indicated](./facebook-story.png){width="60%" align="center"}<br> |
+|:---:|:---:|
+| ![An Instagram post with field roles indicated](./instagram-post.png){width="50%" align="center"}<br> | ![An Instagram story with field roles indicated](./instagram-story.png){width="60%" align="center"}<br> |
+
+**LinkedIn field roles include**:
+
+* Image
+* Introductory text
+* Image text
+* Headline
+* CTA
+* Website URL
+* Manual fields
+
+See how some of these field roles are mapped below.
+
+![A LinkedIn post with field roles indicated](./linkedin-ad.png){width="20%" align="center"}
+
+The plugin remembers these mappings to use for generated content. A field role can be mapped to multiple template elements. Manual fields are for elements that you would like to preserve text edibility but won't be marked for generation.
+
+>[!IMPORTANT]
+>
+> **You must map an image** by assigning the `image` field role to at least one image element in your template.
+
 To assign element roles:
 
 1. Select an element in your template (text, image, and so on).
 1. Use the dropdown menu to assign a role.
 
->[!IMPORTANT]
->
-> You must map an image: assign the `image` field role to at least one image element in your template.
-
-The plugin remembers these mappings to use for generated content. A field role can be mapped to multiple template elements.
-
 ![Field role mapping](./field-role-mapping.png){width="60%"}
-
-### Field mapping exceptions
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
