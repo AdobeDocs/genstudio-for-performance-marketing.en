@@ -142,14 +142,14 @@ To see your created [!DNL Brands], click the back arrow near the top of the _[!U
 
 You do not have to [publish](#publish-brand) your [!DNL Brand] to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the [!DNL Brand] info in GenStudio for Performance Marketing, you must publish it. A created [!DNL Brand] is in draft form until published.
 
-### Creating a Brand from URL
+### Creating a Brand from a URL
 
 **Prerequisites:** See [Prerequisites for URL-based workflows](#prerequisites-for-url-based-workflows). For how different URLs affect results, see [URL types and expected output](#url-types-and-expected-output).
 
 **To create a brand from a URL:**
 
-1. Navigate to **Setup > Brands** in GenStudio.
-1. Select **[!UICONTROL Add brand from URL]**.
+1. Navigate to **[!DNL Brands]** in GenStudio, then click the **[!UICONTROL +Add brand]** button.
+1. When prompted to _Choose a way to add your brand_, select **[!UICONTROL via URL]**.
 1. Enter the brand's URL in the provided field.
 1. The system will read the page and automatically generate brand guidelines—this process typically takes less than a minute.
 1. Review the generated brand guidelines card and edit any fields as needed.
@@ -291,8 +291,8 @@ You can manually add persona details, instead of uploading existing persona docu
 
 **To add personas from a URL:**
 
-1. Navigate to **Setup > Personas** in GenStudio.
-1. Select **[!UICONTROL Add personas from URL]**.
+1. Navigate to **[!DNL Personas]** in GenStudio, then click the **[!UICONTROL +Add persona]** button.
+1. When prompted to _Choose a way to add your persona_, select **[!UICONTROL via URL]**.
 1. Enter the brand's URL in the provided field.
 1. Review the list of audience segments surfaced from the page. Remove segments that do not apply, rename as needed, and add any that are missing.
 1. Confirm the list. The system begins generating full persona cards for each confirmed segment.
@@ -369,18 +369,18 @@ You can manually add product details, instead of uploading existing product docu
 
    To see your created [!DNL Products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
 
-### Adding [!DNL Products] from URL
+### Adding products from URL
 
 **Prerequisites:** See [Prerequisites for URL-based workflows](#prerequisites-for-url-based-workflows). For how different URLs affect results, see [URL types and expected output](#url-types-and-expected-output).
 
 **To add [!DNL Products] from a URL:**
 
-1. Navigate to **Setup > Products** in GenStudio.
-1. Select **[!UICONTROL Add products from URL]**.
-1. Enter a URL. Use the brand's homepage for a broad product list, or a category page to scope results.
-1. Review the list of products surfaced from the page. Remove items that do not belong, rename as needed, and add any that are missing.
+1. Navigate to **[!DNL Products]** in GenStudio, then click the **[!UICONTROL +Add product]** button.
+1. When prompted to _Choose a way to add your product_, select **[!UICONTROL via URL]**.
+1. Enter a URL. Use the brand's homepage for a broad product list, or a category page to scope the results.
+1. Review the list of products surfaced from the page. Remove items that do not belong, rename where needed, and add any products that are missing.
 1. Confirm the list. The system begins generating full product details for each confirmed product.
-1. Products appear in the library as they complete. Review and edit each product before using it in content generation.
+1. Products appear in the library. Review and edit each product before using it in content generation.
 
 ### Manage [!DNL Products]
 
