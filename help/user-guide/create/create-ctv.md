@@ -22,7 +22,7 @@ Before you create a CTV ad, confirm the following:
 
 Everything in this workflow happens inside [!DNL GenStudio for Performance Marketing].
 
-![Connected TV creation card](./ctv-tile.png){width="30%" align="center"}
+![Connected TV creation card](./ctv-tile.png){width="50%"}
 **To navigate to CTV creation**:
 
 1. Sign in to [!DNL GenStudio for Performance Marketing].
@@ -36,7 +36,7 @@ A single, streamlined CTV creation experience opens. You're not required to choo
 
 The brief and inputs drive how the ad is generated. This is your opportunity to provide context and constraints for the ad generation process.
 
-![Configure the brief](./ctv-brief.png){width="70%" align="center"}
+![Configure the brief](./ctv-brief.png){width=80%" align="center"}
 
 **To configure the brief**:
 
