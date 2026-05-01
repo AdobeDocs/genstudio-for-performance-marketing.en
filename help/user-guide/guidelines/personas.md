@@ -3,6 +3,36 @@ title: GenStudio for Performance Marketing [!DNL Personas]
 description: GenStudio for Performance Marketing [!DNL Personas] are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
 feature: Persona Personalization, Variant Generation, Generative AI
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
+TQID: https://experienceleague.adobe.com/05SP4Vat09WFu4jdpvxj-5tlSzkFG-kj0FJbb5200ms
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: cec71013-cf14-4e28-b808-3d3060935bcb
+    internal-label: Persona personalization
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+    internal-label: Audience segmentation
 ---
 # GenStudio for Performance Marketing [!DNL Personas]
 

@@ -3,6 +3,16 @@ title: Create an App Builder App
 description: Start building an app, or Add-on, to extend GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
+TQID: https://experienceleague.adobe.com/-GBttZv63YVWezBz1o9yrxvd-Uu5mbP-Aqh7Tm-kco4
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Develop an App Builder app
 

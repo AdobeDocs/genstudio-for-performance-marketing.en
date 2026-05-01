@@ -4,6 +4,39 @@ description: See an overview of customer engagement, performance, budget, and ex
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+TQID: https://experienceleague.adobe.com/2U5hz1iDNFnxkrGDBPxAAne8rW8Jp0FypcwHkpRVTE8
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+    internal-label: Ad performance
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Campaigns overview
 

@@ -4,12 +4,117 @@ description: Learn about the latest features and enhancements to Adobe GenStudio
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
+TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+    internal-label: Email experiences
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+    internal-label: Content performance
+  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
+    internal-label: Campaign brief
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+    internal-label: Ad performance
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
+    internal-label: Meta experiences
+  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+    internal-label: Display ad experiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # GenStudio for Performance Marketing release notes
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.01 {#latest}
+## 2026.04.16 {#latest}
+
+### Context-aware recommendations in [!DNL Create]
+
+In the [creation workflow](/help/user-guide/create/overview.md), **[!UICONTROL Select from content]** now opens with **[!UICONTROL Relevance]** sorting, so the grid reflects the [!DNL Brands], [!DNL Products], [!DNL Personas], and languages in your prompt drawer.
+
+Or if recency should lead instead of contextual fit, switch to **[!UICONTROL Recently Added]**.
+
+### Connected TV (CTV) ads in [!DNL Create]
+
+**Adobe GenStudio for CTV** enables performance marketers to self-serve high-quality, compliant CTV ads through a streamlined, GenAI-first workflow from brief to launch.
+
+You can assemble scenes, lean on generative AI help when audio or visuals are still missing, refine scene by scene, then export or save to [!DNL Content] after review.
+
+### HTML5 display templates, variations, and resize
+
+You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
+
+## Earlier release notes
+
++++Notes from 2026.03.15
+
+### Express templates for Meta, LinkedIn, and Display
+
+[!DNL Create] now supports [Express templates on the Horizon Canvas](/help/user-guide/templates/express-templates.md) for Meta, LinkedIn, and Display. You can use Adobe Express templates—including starter templates and custom branded layouts—directly in the creation workflow.
+
+The canvas supports template features including:
+
+* multiple sizes per template
+* layer locks and unlock options set in Express
+* WYSIWYG editing for template elements
+* richer controls for text, media swap, logo replacement, video reframe and more
+
+Explore the details in [Using Adobe Express templates in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md).
+
+### TikTok content in GenStudio for Performance Marketing
+
+You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
+
++++
+
++++Notes from 2026.01.15
 
 ### HTML Canvas prompt panel redesign
 
@@ -25,7 +130,7 @@ You can now create emails with up to 10 pods/sections in [!DNL Create], expandin
 
 GenStudio for Performance Marketing now supports Content Credentials, allowing teams to apply and preserve authenticity metadata on assets throughout creation, review, and export. Credential badges and details surface across key workflows so organizations can verify provenance and maintain trust when sharing content.
 
-## Earlier release notes
++++
 
 +++Notes from 2025.12.12
 

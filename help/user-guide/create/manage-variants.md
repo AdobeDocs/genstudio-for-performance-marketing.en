@@ -3,6 +3,38 @@ title: Manage Variants
 description: Customize and enhance generated variants and assets to suit your digital marketing needs.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
+TQID: https://experienceleague.adobe.com/2VdZdQv90JGEpCM7BE4egbz933eotbeePy3ze35mM0o
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+    internal-label: Email experiences
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
+    internal-label: Content and assets
 ---
 # Manage variants
 

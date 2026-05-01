@@ -3,6 +3,34 @@ title: Adobe GenStudio User Guide
 description: Explore the capabilities of Adobe GenStudio for Performance Marketing. Learn how to create on-brand assets, generate variations, and optimize experiences.
 role: User
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
+TQID: https://experienceleague.adobe.com/apgYIh5ri1UwarpHziyvJDEJPAOnmDu4QCulAP1-uRE
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
+  - id: e4a0febc-5163-4017-82ce-fc7594509fb6
+    internal-label: Generate images
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
+    internal-label: Content production
 ---
 # Adobe GenStudio for Performance Marketing User Guide
 

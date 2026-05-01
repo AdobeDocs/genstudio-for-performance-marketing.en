@@ -4,18 +4,51 @@ description: See an overview of customer engagement, budget, and expenditures fo
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
+TQID: https://experienceleague.adobe.com/TVvHSbmD8vvc4y9xmg4iPnT-eWKwjln5730LUdgUW0k
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+    internal-label: Ad performance
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
-# Ads and ad placement overview
+# Ads tags and ad placement overview
 
-The [!DNL Insights] _[!UICONTROL Ads]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
+The [!DNL Insights] _[!UICONTROL Ads tags]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
 
 {{connect-insights}}
 
-The _[!UICONTROL Ads]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
+The _[!UICONTROL Ads tags]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-![Ads filter and table](/help/assets/insights-ads-filter.png){zoomable="yes"}
+![Ad tags Insights performance metrics](./ad-tags-tab.png)
 
-The _[!UICONTROL Ad]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
+The _[!UICONTROL Ads tags]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
 
 - CPA (Cost per action)
 - CTR (Click-through rate)
@@ -47,8 +80,8 @@ Ad formats refer to the various creative elements and layouts used to align with
 | Meta | <ul><li>Dynamic Ads</li><li>Link Ads</li><li>Simple Image Ads</li><li>Simple Video Ads</li><li>Shop Ads</li></ul> | <ul><li>Advantage+ Catalog Ads</li><li>Carousel Ads</li><li>Messenger Ads</li><li>Lead Ads</li><li>Collection Ads</li><li>Call Ads</li><li>Owned Page Post Ads</li><li>Partnership Ads</li><li>Flexible Ads</li></ul> |
 | LinkedIn | <ul><li>Single Image Ads</li><li>Single Video Ads</li><li>Article Ads</li></ul> | <ul><li>Carousel Ads</li><li>Document Ads</li><li>Event Ads</li><li>Thought Leader Ads</li><li>Lead Gen Ads</li><li>Follower Ads</li><li>Conversation Ads</li><li>Spotlight Ads</li><li>Job Ads</li><li>Content Ads</li><li>Message Ads</li></ul> |
 | TikTok | <ul><li>Single Image Ads</li><li>Single Video Ads</li></ul> | <ul><li>In-Feed Ads (Video, Spark, Carousel)</li><li>Premium Awareness Ads (TopView, Brand Takeover)</li><li>Interactive Ads (Hashtag Challenges, Branded Effects)</li><li>Commerce Ads (Shopping, Catalog, LIVE)</li><li>Lead & Messaging Ads</li><li>Difficult to categorize as we do not have the assets to determine the ad type</li></ul> |
-| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Difficult to categorize. We do not have the assets to determine the ad type. |
-| Innovid | N/A | Difficult to categorize as we do not have the assets to determine the ad type. |
+| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
+| Innovid | N/A | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 
 ### Ad placements
 
@@ -98,3 +131,4 @@ The following table provides definitions for ad placement performance metrics:
 | **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
 | **[!UICONTROL Spend]**       | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire ad. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
 | **Attributes**               | List of inherent features present in this ad placement. | Attributes help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
+

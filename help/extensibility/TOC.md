@@ -18,6 +18,9 @@ role: Developer
   + [Deploy your app](deploy-app.md)
   + [Distribute your app](distribute-app.md)
   + [Experience Selector MFE](experience-selector.md)
++ First party extensions {#first-party}
+  + [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md)
+  + [Marketo for GenStudio](marketo-for-genstudio.md)
 
 <!--
   + UI Extensions {#ui}

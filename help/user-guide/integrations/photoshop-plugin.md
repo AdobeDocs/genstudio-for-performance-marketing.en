@@ -1,13 +1,30 @@
 ---
-title: Photoshop Plugin for Adobe GenStudio for Performance Marketing
-description: Learn how to install, configure, and use the Photoshop plugin for GenStudio for Performance Marketing.
+title: GenStudio Photoshop for Adobe GenStudio for Performance Marketing
+description: Learn how to install, configure, and use GenStudio Photoshop for GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
 exl-id: e3f57acd-f2dd-4957-aa5e-c97595a29899
+TQID: https://experienceleague.adobe.com/9p-ohsF1gIVKv3vwjnP9o675l3gJT3tVxx34PefFzCQ
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
-# Photoshop plugin for GenStudio for Performance Marketing
+# GenStudio Photoshop for GenStudio for Performance Marketing
 
-The GenStudio for Performance Marketing Photoshop plugin adds a panel to Adobe Photoshop that lets you generate on-brand content.
+GenStudio Photoshop adds a panel to Adobe Photoshop that lets you generate on-brand content.
 
 This page describes how to install and configure the plugin, and how to use it.
 
@@ -36,7 +53,7 @@ Follow these instructions to install the plugin.
 ### Installation steps
 
 1. Download and update the plugin from the Creative Cloud Marketplace in Adobe Exchange.
-1. Search for **GenStudio Plugin for Photoshop** in Adobe Exchange.
+1. Search for **GenStudio Photoshop** in Adobe Exchange.
 1. Follow the prompts to install the plugin.
 
 ### Uninstall the plugin
@@ -129,6 +146,10 @@ New documents are added to your Photoshop workspace with generated content appli
 Users can select export after content generation or translation. Exported experiences populate in the content section of GenStudio for Performance Marketing.
 
 ![Exported assets shown in Content section](./content-assets.png){width="90%"}
+
+## Convert Figma frames to Photoshop
+
+Figma frames can be converted to Photoshop documents and exported for use with GenStudio Photoshop. To understand how to convert frames, see the [Convert Figma frames to Photoshop](figma-plugin.md#convert-figma-frames-to-photoshop) section in the Figma plugin page.
 
 ## Troubleshooting
 

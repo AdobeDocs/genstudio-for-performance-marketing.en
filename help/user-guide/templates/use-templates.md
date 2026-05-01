@@ -5,6 +5,35 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+TQID: https://experienceleague.adobe.com/kXXSni5VZMFH615A-Re1-QjLooEyfXcMwVBwXnxp58s
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Work with Templates
 
@@ -134,6 +163,10 @@ Find and use an existing template in GenStudio for Performance Marketing to crea
 ## Templates from AJO and Marketo
 
 You can upload a template that you created in Adobe Journey Optimizer (AJO) or Marketo. GenStudio for Performance Marketing detects application-specific patterns and ignores them, preserving the original form for continued use in AJO or Marketo. You do not need to make any changes to the original AJO or Marketo syntax.
+
+To use AJO templates from your Journey Optimizer library inside GenStudio (including the **[!UICONTROL AJO Template]** tab when you create email experiences), your organization must install and configure the [Journey Optimizer for GenStudio](/help/extensibility/journey-optimizer-for-genstudio.md) app from Adobe Exchange.
+
+To use Marketo templates from your Marketo Engage library inside GenStudio (including the **[!UICONTROL Marketo Templates]** tab when you create email experiences), your organization must install and configure [Marketo for GenStudio](/help/extensibility/marketo-for-genstudio.md) from Adobe Exchange.
 
 Recognized application patterns include:
 

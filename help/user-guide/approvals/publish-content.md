@@ -3,6 +3,19 @@ title: Publish Approved Content
 description: Learn how to publish approved content with Adobe GenStudio for Performance Marketing.
 feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
+TQID: https://experienceleague.adobe.com/ATuTbgTanUA6iOrSNUCM2Kf3loY8UoAv1FTE-4HDmnM
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Publish approved content
 

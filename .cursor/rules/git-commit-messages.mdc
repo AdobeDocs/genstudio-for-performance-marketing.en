@@ -1,0 +1,62 @@
+---
+description: Git commit message format for this repo (subject, body bullets, emoji markers).
+globs:
+alwaysApply: false
+---
+
+# Git commit messages
+
+When drafting or generating a git commit message for this repository, follow the structure below unless the user specifies otherwise.
+
+## Subject line
+
+- Around **50 characters or fewer**.
+- Summarize the change in **imperative mood** (for example, “Add…”, “Fix…”).
+
+## Body
+
+- Leave one **blank line** after the subject before the body.
+- Wrap lines at about **72 characters** (including bullet prefix and space).
+- Use **bullet lines** for the explanation. Each bullet must start with exactly one of these markers:
+
+### `📖` (adds)
+
+Use when the change **adds** something new: new files, new sections, new features, new headers, net-new lines, or other greenfield content.
+
+### `✏️` (modifies)
+
+Use when the change **modifies** existing work: edits to existing lines, updates to existing sections, refactors of existing code, or changes to current content.
+
+### `🆕` (TOC / feature registration)
+
+Use the single character **🆕** when the change **adds an entry** to a repository **table of contents** or **navigation config** file (for example `TOC.md`, `config.md`, or similar) that **registers a new feature, topic, or page**. This usually means a new item appears in the doc or site nav because of that edit.
+
+### `🗑️` (removes)
+
+Use the single character **🗑️** when **entire content is removed** from a page or file—not a light edit, but a full deletion. Typical cases:
+
+- A **section** removed (content under a heading marked with `#` through `######`)
+- An **image** removed (for example `![…](…)` or asset reference dropped entirely)
+- A **code block** removed (fenced or indented block gone completely)
+- A **component** or include removed (for example Experience League shortcodes, includes, or custom MDX-style blocks)
+
+Do **not** use **🗑️** for small wording tweaks inside a section; use **✏️** for those. Use **🗑️** when the heading (and everything under it), the image, the block, or the component no longer appears at all.
+
+Example:
+
+```text
+Add AJO for GenStudio extensibility topic
+
+- 📖 Add journey-optimizer-for-genstudio.md and screenshot assets.
+- 🆕 Add Journey Optimizer for GenStudio to help/extensibility/TOC.md.
+- ✏️ Link the topic from use-templates.md and extensibility home.md.
+```
+
+```text
+Trim obsolete troubleshooting page
+
+- 🗑️ Remove duplicate H2 “Known issues” and its bullets from activation/troubleshooting.md.
+- 🗑️ Drop outdated screenshot help/assets/legacy-flow.png from the repo.
+```
+
+Apply `📖`, `✏️`, `🆕`, or `🗑️` to each body bullet that matches the definitions above.

@@ -3,6 +3,23 @@ title: Deploy your App Builder App
 description: Deploy your App Builder app, or Add-on, for GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
+TQID: https://experienceleague.adobe.com/7Z4Fb-jPi4FHrTeOgHxxO4fl982sqri-7uEDoylFF-s
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+    internal-label: Compliance
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+    internal-label: Extensions
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: da3860b0-d637-47df-bef0-273751180266
+    internal-label: Digital asset management
 ---
 # Deploy your app
 

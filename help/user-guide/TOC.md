@@ -36,6 +36,8 @@ role: User
   + [Email experiences](create/email-experiences.md)
   + [Meta experiences](create/meta-experiences.md)
   + [LinkedIn experiences](create/linkedin-experiences.md)
+  + [TikTok experiences](create/tiktok-experiences.md)
+  + [Connected TV ads](create/create-ctv.md)
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Banner experiences](create/banner-experiences.md)
   + [Manage variants](create/manage-variants.md)
@@ -66,6 +68,7 @@ role: User
   + [Customize a template](templates/customize-template.md)
   + [Template code editor](templates/code-editor.md)
   + [Create accessible templates](templates/accessibility-for-templates.md)
+  + [Using Express templates](/help/user-guide/templates/express-templates.md)
   + [Best practices for templates](templates/best-practices-for-templates.md)
   + Channel best practice {#channel-best-practice}
     + [Display ads guide](templates/display-template.md)
@@ -101,7 +104,7 @@ role: User
   + [Data management](insights/data-management.md)
 + Integrations {#integrations}
   + [Integrations overview](integrations/overview.md)
-  + [Photoshop plugin](integrations/photoshop-plugin.md)
+  + [GenStudio Photoshop plugin](integrations/photoshop-plugin.md)
   + [Figma plugin](integrations/figma-plugin.md)
-+ [GenStudio Academy - Hidden](genstudioacademy.md)
-+ [Test markdown - Hidden](test-markdown.md)
++ {hide-from-toc} [GenStudio Academy - Hidden](genstudioacademy.md)
++ {hide-from-toc} [Test markdown - Hidden](test-markdown.md)
