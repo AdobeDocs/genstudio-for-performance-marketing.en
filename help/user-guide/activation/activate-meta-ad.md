@@ -52,6 +52,22 @@ Confirm that your connected Meta ad accounts have full permission to manage ads 
 * Instagram profile (optional)
 
 >[!ENDSHADEBOX]
+>[!IMPORTANT]
+>
+>**Prerequisite for selecting an Instagram account**
+>
+>Before you activate a Meta ad, make sure in Meta Business Manager that the Instagram account you want to use is connected to the same Ad Account selected during onboarding. If this connection is missing, the Instagram account may not appear in the [!DNL GenStudio for Performance Marketing] _Instagram account_ drop-down menu during activation.
+
+**To verify the Instagram account connection**:
+
+1. Go to **[!UICONTROL Settings]**.
+1. Under _Accounts_, select **[!UICONTROL Instagram Accounts]**.
+1. Choose the Instagram account you want to use.
+1. Click **[!UICONTROL Connected assets]**.
+1. Under _Ad Accounts_, confirm that the Ad Account used during onboarding is listed.
+1. If it is not listed, click **[!UICONTROL Connect assets]** and add the correct Ad Account.
+
+After the Ad Account is connected, return to [!DNL GenStudio for Performance Marketing] and continue the activation flow.
 
 ## Step 2: Connect to your Meta accounts
 
