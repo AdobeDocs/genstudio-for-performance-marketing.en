@@ -97,6 +97,23 @@ This page explains how to connect and manage your Meta Ads profile account to Ge
 
 Use **[!UICONTROL Add account]** to add more accounts to the list. The authorization flow may differ slightly when you add accounts linked to the same Meta Business profile. You select only the new Meta Ads accounts during the connection process.
 
+## Connect an Instagram account
+
+>[!IMPORTANT]
+>
+>Before you activate a Meta ad, make sure in Meta Business Manager that the Instagram account you want to use is connected to the same Ad Account selected during onboarding. If this connection is missing, the Instagram account may not appear in the [!DNL GenStudio for Performance Marketing] _Instagram account_ drop-down menu during activation.
+
+**To verify or update the Instagram account connection in Meta Business Manager**:
+
+1. Go to **[!UICONTROL Settings]**.
+1. Under _Accounts_, select **[!UICONTROL Instagram Accounts]**.
+1. Choose the Instagram account you want to use.
+1. Click **[!UICONTROL Connected assets]**.
+1. Under _Ad Accounts_, confirm that the Ad Account used during onboarding is listed.
+1. If it is not listed, click **[!UICONTROL Connect assets]** and add the correct Ad Account.
+
+After the Ad Account is connected, return to [!DNL GenStudio for Performance Marketing] and continue the activation flow.
+
 ## Connection best practices
 
 To prevent any errors, consider these best practices when setting up connections:
@@ -148,5 +165,3 @@ Issues can occur when Instagram accounts are selected without connecting an asso
 1. DO NOT select the Instagram account during the first connection attempt.
 1. Verify the connection is successful before adding other assets.
 1. Once the Page connection is stable, add Instagram accounts separately.
-
-
