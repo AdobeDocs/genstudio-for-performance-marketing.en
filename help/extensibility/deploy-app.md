@@ -23,7 +23,7 @@ topic_v2:
 ---
 # Deploy your app
 
-Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This can help with debugging. 
+Running your app offers a preliminary snapshot of your Add-on's behavior before deploying it. This can help with debugging.
 
 ## Run the app
 
@@ -111,6 +111,10 @@ Validation extensions can be found after a prompt generation, in the right siden
 Run the extension you selected to validate the generated content.
 
 ![Valid Validation](./validation-valid.png){width="600" zoomable="yes"}
+
+Where there are errors, you may use the extension to update the copy of experiences programmatically. Clicking the **[!UICONTROL Copy]** button will copy the suggested text to the clipboard. Clicking the **[!UICONTROL Apply]** button will apply the text to a specific text box in the generated experience.
+
+![A validation error showing the copy and apply buttons](./validation-copy-apply.png){width="600" zoomable="yes"}
 
 ### Find DAM extensions
 
