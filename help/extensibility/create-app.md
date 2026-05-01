@@ -28,7 +28,7 @@ Developers extending GenStudio for Performance Marketing's native capabilities u
 
 * Adobe Developer command-line interface (CLI). To install it with npm, run: `npm install -g @adobe/aio-cli`
 
->[!ENDSHADEBOX] 
+>[!ENDSHADEBOX]
 
 ## App structure
 
@@ -48,7 +48,7 @@ Key components of App Builder apps include these build and configuration files. 
   * `tsconfig`
   * `jest test up`
 
-* App Builder config files: 
+* App Builder config files:
 
   * `app.config.yaml`  
   * `ext.config.yaml`: Configuration file for the Add-on.
@@ -58,7 +58,7 @@ Key components of App Builder apps include these build and configuration files. 
 
 ### Source code
 
-```
+```txt
 - src/
     - genstudiopem/
         - web-src/
@@ -71,7 +71,7 @@ Key components of App Builder apps include these build and configuration files. 
                 - utils.ts
         - index.html
 ```
- 
+
 ### Source code components
 
 * `ExtensionRegistration.tsx`: Defines the necessary APIs for the host app (GenStudio for Performance Marketing) to load and display the Add-on.
@@ -86,7 +86,7 @@ Key components of App Builder apps include these build and configuration files. 
 
 ## Create an App Builder app from an existing app
 
-You can use an example app to jump-start creation of your Add-on. 
+You can use an example app to jump-start creation of your Add-on.
 
 **To create an App Builder app from an existing app**:
 
