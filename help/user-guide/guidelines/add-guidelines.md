@@ -295,7 +295,7 @@ To add a product:
 1. In the _[!DNL Products]_ panel, select **[!UICONTROL Add product]**.
 1. Choose to [upload a product](#upload-a-product), [manually create a product](#manually-add-a-product), or [add products from a URL](#adding-products-from-url). When you upload files or add a product manually, select guidelines and enter your product details.
 
-![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
+![Add a [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes" align="center"}
 
 You can include a [!DNL Product] in GenStudio for Performance Marketing to better tailor the content you create for a specific product.
 
