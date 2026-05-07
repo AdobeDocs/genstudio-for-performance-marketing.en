@@ -207,7 +207,7 @@ To **view brand information**, click **[!UICONTROL [!DNL Brands]]** in the left 
 
 To add a persona, [upload a persona](#upload-a-persona), [manually create a persona](#manually-add-persona), or [add personas from a URL](#adding-personas-from-url). When you upload files or add a persona manually, select guidelines and enter your persona details.
 
-In the left navigation area, click **[!DNL Personas]** from the _Shared_ list.
+In the left navigation area, click **[!DNL More]** and then **[!DNL Personas]** from the _Shared_ list.
 
 ![Guidelines in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
@@ -290,7 +290,7 @@ In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to
 
 To add a product:
 
-1. In the left navigation area, click **[!DNL Products]** from the _Shared_ list.
+1. In the left navigation area, click **[!DNL More]** and then **[!DNL Products]** from the _Shared_ list.
 ![Guidelines in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 1. In the _[!DNL Products]_ panel, select **[!UICONTROL Add product]**.
 1. Choose to [upload a product](#upload-a-product), [manually create a product](#manually-add-a-product), or [add products from a URL](#adding-products-from-url). When you upload files or add a product manually, select guidelines and enter your product details.
