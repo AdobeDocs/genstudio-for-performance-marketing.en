@@ -26,13 +26,20 @@ This topic is for **administrators** who install the app, gather credentials fro
 
 ## Get Marketo credentials
 
-You use credentials from your **Marketo** instance (not the Adobe Developer Console). Collect the following before you deploy in Exchange.
+You use credentials from your **Marketo** instance (not the Adobe Developer Console). Collect the following credentials using the steps below before you deploy in Exchange.
+
+>[!NOTE]
+>
+>To generate and retrieve Marketo credentials, you need to have Marketo Product Admin access, otherwise the Admin tab is not visible in Marketo.
 
 ### Create an API-only user (optional if you reuse an existing API user)
 
 1. In Marketo, go to **[!UICONTROL Admin]**.
-1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**.
-1. For a new API user, click **[!UICONTROL Create API Only User]** (use a unique email for each API user). Assign the **[!UICONTROL API Roles (all Workspaces)]** role (or the roles your organization requires). If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
+![Marketo Admin tab](/help/extensibility/marketo-admin-global.png){width="80%"}
+1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**  and go to the **[!UICONTROL Roles]** tab.
+1. Create a new role or edit an existing role, with the following permissions added: _Access API_ and _Access Design Studio_.
+1. For a new API user, click **[!UICONTROL Create API Only User]** (use a unique email for each API user).
+1. Select the checkbox for Roles and assign the new role you created. If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
 
 ![Users & Roles with API Only User and API roles](/help/extensibility/marketo-users-roles-api-user.png){width="80%"}
 
@@ -60,12 +67,26 @@ To make the extension available in GenStudio, deploy the app from Adobe Exchange
 1. Select **[!UICONTROL Manage]** and open the **Marketo for GenStudio** app (for example under **[!UICONTROL App Builder applications]** or your organization's managed apps).
 1. Under **[!UICONTROL Environments]**, choose an existing environment from the dropdown or select **[!UICONTROL Add Environment]** to create one.
 1. Open **[!UICONTROL Configuration]** for the selected environment.
-1. Enter the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** from [LaunchPoint](#create-or-select-a-launchpoint-service), the **[!UICONTROL Marketo Engage Identity URL]**, and the **[!UICONTROL Marketo Engage REST API Base URL]** (the base host from [Web Services](#note-your-marketo-rest-api-base-url)).
+1. Enter the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** from [LaunchPoint](#create-or-select-a-launchpoint-service), the **[!UICONTROL Marketo Engage Identity URL]**, and the **[!UICONTROL Marketo Engage REST API Base URL]** (the base host from [Web Services](#note-your-marketo-rest-api-base-url))for both the Marketo Engage Identity URL ​and Marketo Engage REST API Base URL.
 1. Click **[!UICONTROL Deploy]**. When deployment succeeds, the action changes to **[!UICONTROL Undeploy]**.
 
 ### Update configuration
 
 To change configuration values for an environment, **[!UICONTROL Undeploy]** first, update the fields, then **[!UICONTROL Deploy]** again.
+
+### Workspace configuration (optional)
+
+You may skip this step if you intend to use the default workspace. By default, the **Workspace ID** and **Template List Page Size** fields are preconfigured.
+
+However, if you need to fetch templates from a different workspace:
+
+1. In Marketo, navigate to **[!UICONTROL Admin]** → **[!UICONTROL Security]** → **[!UICONTROL Workspaces & Partitions]**.
+1. The **Workspace ID** column is hidden by default. To enable it, right-click on the header row (where column names are displayed).
+1. Select **[!UICONTROL Columns]**.
+1. Enable **[!UICONTROL ID]** from the list.
+![Workspaces & Partitions with Workspace ID column enabled](/help/extensibility/marketo-workspace-id.png){width="80%"}
+
+Once visible, use the appropriate **Workspace ID** for your configuration.
 
 ## Access Marketo templates in GenStudio
 
