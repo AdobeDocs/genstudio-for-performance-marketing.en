@@ -81,7 +81,7 @@ You may skip this step if you intend to use the default workspace. By default, t
 However, if you need to fetch templates from a different workspace:
 
 1. In Marketo, navigate to **[!UICONTROL Admin]** → **[!UICONTROL Security]** → **[!UICONTROL Workspaces & Partitions]**.
-1. The **Workspace ID** column is hidden by default. To enable it, r1.ight-click on the header row (where column names are displayed).
+1. The **Workspace ID** column is hidden by default. To enable it, right-click on the header row (where column names are displayed).
 1. Select **[!UICONTROL Columns]**.
 1. Enable **[!UICONTROL ID]** from the list.
 ![Workspaces & Partitions with Workspace ID column enabled](/help/extensibility/marketo-workspace-id.png){width="80%"}
