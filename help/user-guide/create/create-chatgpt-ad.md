@@ -47,7 +47,7 @@ You create ChatGPT ads as paid media experiences in the [!DNL Create] workspace.
 To open ChatGPT creation:
 
 1. Go to **[!UICONTROL Create]** > **[!UICONTROL ChatGPT]**.
-![ChatGPT tile in the Create workflow](./create-chatgpt-clp.png){width="90%"}
+![ChatGPT tile in the Create workflow](./create-chatgpt-clp.png){width="60%"}
 
 You do not select templates for ChatGPT; a single ad layout is used.
 
