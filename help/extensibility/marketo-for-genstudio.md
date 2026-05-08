@@ -37,6 +37,7 @@ You use credentials from your **Marketo** instance (not the Adobe Developer Cons
 1. In Marketo, go to **[!UICONTROL Admin]**.
 ![Marketo Admin tab](/help/extensibility/marketo-admin-global.png){width="80%"}
 1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**  and go to the **[!UICONTROL Roles]** tab.
+1. Create a new role or edit an existing role, with the following permissions added: _Access API_ and _Access Design Studio_.
 1. For a new API user, click **[!UICONTROL Create API Only User]** (use a unique email for each API user). Assign the **[!UICONTROL API Roles (all Workspaces)]** role (or the roles your organization requires). If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
 
 ![Users & Roles with API Only User and API roles](/help/extensibility/marketo-users-roles-api-user.png){width="80%"}
