@@ -26,12 +26,17 @@ This topic is for **administrators** who install the app, gather credentials fro
 
 ## Get Marketo credentials
 
-You use credentials from your **Marketo** instance (not the Adobe Developer Console). Collect the following before you deploy in Exchange.
+You use credentials from your **Marketo** instance (not the Adobe Developer Console). Collect the following credentials using the steps below before you deploy in Exchange.
+
+>[!NOTE]
+>
+>To generate and retrieve Marketo credentials, you need to have Marketo Product Admin access, otherwise the Admin tab is not visible in Marketo.
 
 ### Create an API-only user (optional if you reuse an existing API user)
 
 1. In Marketo, go to **[!UICONTROL Admin]**.
-1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**.
+![Marketo Admin tab](/help/extensibility/marketo-admin-global.png){width="80%"}
+1. Under **[!UICONTROL Security]**, open **[!UICONTROL Users & Roles]**  and go to the **[!UICONTROL Roles]** tab.
 1. For a new API user, click **[!UICONTROL Create API Only User]** (use a unique email for each API user). Assign the **[!UICONTROL API Roles (all Workspaces)]** role (or the roles your organization requires). If you already have an API user you want to use, skip to [Create or select a LaunchPoint service](#create-or-select-a-launchpoint-service).
 
 ![Users & Roles with API Only User and API roles](/help/extensibility/marketo-users-roles-api-user.png){width="80%"}
