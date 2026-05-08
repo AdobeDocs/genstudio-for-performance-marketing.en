@@ -14,7 +14,7 @@ Before you begin, [add guidelines](/help/user-guide/guidelines/add-guidelines.md
 
 ## Prerequisites
 
-Complete the following before you create or activate ChatGPT ads.
+You'll need to be set up according to these prerequisites before you create or activate ChatGPT ads in [!DNL GenStudio for Performance Marketing].
 
 ### Access and roles
 
@@ -47,6 +47,7 @@ You create ChatGPT ads as paid media experiences in the [!DNL Create] workspace.
 To open ChatGPT creation:
 
 1. Go to **[!UICONTROL Create]** > **[!UICONTROL ChatGPT]**.
+![ChatGPT tile in the Create workflow](./create-chatgpt-clp.png){width="90%"}
 
 You do not select templates for ChatGPT; a single ad layout is used.
 
