@@ -67,7 +67,7 @@ To make the extension available in GenStudio, deploy the app from Adobe Exchange
 1. Select **[!UICONTROL Manage]** and open the **Marketo for GenStudio** app (for example under **[!UICONTROL App Builder applications]** or your organization's managed apps).
 1. Under **[!UICONTROL Environments]**, choose an existing environment from the dropdown or select **[!UICONTROL Add Environment]** to create one.
 1. Open **[!UICONTROL Configuration]** for the selected environment.
-1. Enter the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** from [LaunchPoint](#create-or-select-a-launchpoint-service), the **[!UICONTROL Marketo Engage Identity URL]**, and the **[!UICONTROL Marketo Engage REST API Base URL]** (the base host from [Web Services](#note-your-marketo-rest-api-base-url)).
+1. Enter the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]** from [LaunchPoint](#create-or-select-a-launchpoint-service), the **[!UICONTROL Marketo Engage Identity URL]**, and the **[!UICONTROL Marketo Engage REST API Base URL]** (the base host from [Web Services](#note-your-marketo-rest-api-base-url))for both the Marketo Engage Identity URL ​and Marketo Engage REST API Base URL.
 1. Click **[!UICONTROL Deploy]**. When deployment succeeds, the action changes to **[!UICONTROL Undeploy]**.
 
 ### Update configuration
