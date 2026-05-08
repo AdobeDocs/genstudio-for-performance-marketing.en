@@ -109,3 +109,12 @@ After Marketo for GenStudio is installed and configured, a **[!UICONTROL Marketo
 
 * Reload the page or sign out and back in to GenStudio.
 * In the browser developer tools **[!UICONTROL Network]** panel, look for failed API calls to your Marketo instance and verify the REST base URL matches **[!UICONTROL Web Services]** in Marketo (no extra path after the host).
+
+### "No templates found" error
+
+If the extension installs successfully and the Marketo Templates tab is visible but displays “No templates found,” the issue may be caused by the application exceeding size limits while rendering templates, leading to a crash.
+To resolve this:
+
+1. Undeploy the application from Exchange.
+1. Reduce the template list page size (for example, set it to 1 or 2).
+1. Redeploy the application.
