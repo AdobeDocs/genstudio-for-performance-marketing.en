@@ -67,3 +67,4 @@ Each paid media channel has a unique activation workflow. Select the paid channe
 * [Google Campaign Manager 360](activate-cm360-ad.md)
 * [LinkedIn](activate-linkedin-ad.md)
 * [Meta](activate-meta-ad.md)
+* [ChatGPT](activate-chatgpt-ad.md)

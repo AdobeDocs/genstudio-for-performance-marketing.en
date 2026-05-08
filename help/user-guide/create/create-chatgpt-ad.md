@@ -46,19 +46,14 @@ You create ChatGPT ads as paid media experiences in the [!DNL Create] workspace.
 
 To open ChatGPT creation:
 
-1. Go to **[!UICONTROL Create]** > **[!UICONTROL ChatGPT]**.
+1. Go to **[!UICONTROL Create]** > **[!UICONTROL ChatGPT]**. You do not select templates for ChatGPT; a single ad layout is used.
 ![ChatGPT tile in the Create workflow](./create-chatgpt-clp.png){width="60%"}
-
-You do not select templates for ChatGPT; a single ad layout is used.
-
-To configure the canvas and generate variants:
-
-1. In the _Canvas_, select **[!DNL Brand]**, **[!DNL Product]**, **[!DNL Persona]**, and **Language**.
+1. In the _Canvas_, make selections for **[!DNL Brand]**, **[!DNL Product]**, **[!DNL Persona]**, and **Language**.
 1. Select an image from [!DNL Content].
 1. Enter a prompt for your ChatGPT headline copy.
 1. Click **[!UICONTROL Generate]**.
 
-[!DNL GenStudio for Performance Marketing] generates **four** creative variants.
+[!DNL GenStudio for Performance Marketing] **generates four** creative variants.
 
 You can:
 
@@ -84,16 +79,12 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 Saving moves your ChatGPT ad experience into [!DNL Content] so it can be reviewed, reused, and activated.
 
-### Draft compared to published
-
 There are two states:
 
 * **Draft experience** — Work in progress and not approved.
 * **Published experience** — Approved and available in [!DNL Content] for activation.
 
 ### Send for review
-
-To request a review:
 
 1. From the experience header, click **[!UICONTROL Request review]**.
 1. Select approvers (for example brand, legal, or performance stakeholders).
@@ -106,9 +97,7 @@ See [Request review and approval](/help/user-guide/approvals/request-review.md) 
 
 ### Publish to Content
 
-After all required approvals:
-
-To publish to [!DNL Content]:
+After all required approvals, publish to [!DNL Content]:
 
 1. Click **[!UICONTROL Publish to Content]**.
 1. Confirm metadata—for example campaign or activation name, region, language, persona, funnel stage, and **Channel: ChatGPT**.
