@@ -73,6 +73,19 @@ To make the extension available in GenStudio, deploy the app from Adobe Exchange
 
 To change configuration values for an environment, **[!UICONTROL Undeploy]** first, update the fields, then **[!UICONTROL Deploy]** again.
 
+### Workspace configuration (optional)
+
+You may skip this step if you intend to use the default workspace. By default, the **Workspace ID** and **Template List Page Size** fields are preconfigured.
+
+However, if you need to fetch templates from a different workspace:
+
+1. In Marketo, navigate to **[!UICONTROL Admin]** → **[!UICONTROL Security]** → **[!UICONTROL Workspaces & Partitions]**.
+1. The **Workspace ID** column is hidden by default. To enable it, r1.ight-click on the header row (where column names are displayed).
+1. Select **[!UICONTROL Columns]**.
+1. Enable **[!UICONTROL ID]** from the list.
+![Workspaces & Partitions with Workspace ID column enabled](/help/extensibility/marketo-workspace-id.png){width="80%"}
+Once visible, use the appropriate **Workspace ID** for your configuration.
+
 ## Access Marketo templates in GenStudio
 
 After Marketo for GenStudio is installed and configured, a **[!UICONTROL Marketo Templates]** tab appears when you create an **Email** experience in GenStudio. Use that tab to browse templates from Marketo Engage.
