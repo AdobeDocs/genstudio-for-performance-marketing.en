@@ -67,15 +67,16 @@ To create _[!DNL Image variants]_, select an existing image saved in [!DNL Conte
 
 1. In _[!DNL Create]_, click **[!UICONTROL Generate image variants]**.
 ![Generate image variants](./gen-image-variants.png){width="400" zoomable="yes"}
-1. Use the search option, adjacent to _Filter_, to find a specific image.
-
-      ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
+1. To choose a reference image, use the _[!UICONTROL Select from Content]_ button to find a specific image.
+![Select from Content](./gen-variant-select-from-content.png){width="200" zoomable="yes"}
 
    To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
 
-1. In the _Select image_ view, click on an image.
+      ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
 
-   The selected image can be up to 10mb in size.
+1. In the _Select image_ view, click on an image to check the selection box.
+
+   The selected image can be up to 10mb in size. Only one image can be selected at a time.
 
 1. Click **[!UICONTROL Use]**.
 
@@ -90,27 +91,8 @@ Incorporating [guidelines](/help/user-guide/guidelines/overview.md) and paramete
 1. In the _Basic_ tab, select a [!DNL Brand] to inform content creation.
 
    If there are no brands available from this menu, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
-
-1. Select an image category that best fits your desired result from _[!UICONTROL Image category]_.
-
-   Image categories are available if a [!DNL Brand] was selected. The options are determined by the selected [!DNL Brand].
-
-<!-- 
-1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
-
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. 
--->
-
+1. Select a model to use for image generation from _[!UICONTROL Model]_.
 1. Select the desired aspect ratio from _[!UICONTROL Aspect ratio]_.
-1. Click **[!UICONTROL Select from Content]** in _[!UICONTROL Style reference]_ to add a reference image. The image you select influences the visual aesthetic and depth of the images you generate.
-
-      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ drop-down menu. Filter and select one image.
-
-1. In the _Advanced_ tab, select the _Content type_.
-
-   This is pre-selected based on the image category present for the selected [!DNL Brand]—_Art_ or _Photo_—and is uneditable.
-
-1. Adjust the overall intensity of the image's existing visual characteristics in _[!UICONTROL Visual intensity]_.
 
 ### Enter a prompt
 
