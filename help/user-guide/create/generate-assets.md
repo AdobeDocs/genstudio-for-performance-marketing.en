@@ -61,11 +61,12 @@ You can generate [!DNL On-brand images] using defined guidelines, parameters, an
 
 ### Choose a reference image
 
-To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported [!DNL on-brand image] dimensions.
+To create an _[!DNL On-brand images]_, select an existing image saved in [!DNL Content]. See [Best practices for templates](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) for information about supported image dimensions.
 
 **To choose a reference image**:
 
-1. In _[!DNL Create]_, click **[!UICONTROL On-brand image]**.
+1. In _[!DNL Create]_, click **[!UICONTROL Generate image variants]**.
+![On-brand image](./gen-image-variants.png){width="400" zoomable="yes"}
 1. Use the search option, adjacent to _Filter_, to find a specific image.
 
       ![Select reference image](/help/assets/select-img.png){width="400" zoomable="yes"}
