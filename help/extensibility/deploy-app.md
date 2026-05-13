@@ -148,6 +148,7 @@ The Content Fragment extension in [!DNL GenStudio for Performance Marketing] rep
 
 1. On the Canvas, click an editable text field in a generated email variant.
 1. Click **[!UICONTROL Swap]**.
+![Swap text](./subject-line-swap.png){width="400" zoomable="yes"}
 1. Select your third-party repository. Your organization controls which repositories appear and how the repository UI behaves.
 1. Select the claim you want to use as replacement text for the field.
 
