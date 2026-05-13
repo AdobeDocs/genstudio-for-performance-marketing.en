@@ -98,6 +98,7 @@ role: User
   + [Ads and ad placement](insights/ads.md)
   + [Media](insights/media.md)
   + [Attributes](insights/attributes.md)
+  + [Ad Tags](insights/ad-tags.md)
   + Attribute categories {#categories}
     + [Image features](insights/image-features.md)
     + [Video features](insights/video-features.md)
