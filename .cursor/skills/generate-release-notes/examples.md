@@ -31,7 +31,7 @@ Now, in GenStudio for Performance Marketing [!DNL Create] you can use [Generativ
 ```markdown
 ### Compatible assets filter
 
-A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience.
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/published-experiences.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience.
 ```
 
 ## Fixes and enhancements (bullets)

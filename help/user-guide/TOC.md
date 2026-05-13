@@ -95,7 +95,7 @@ role: User
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)
   + [Campaigns](insights/campaigns.md)
-  + [Ads and ad placement](insights/ads.md)
+  + [Published Experiences details](insights/published-experiences.md)
   + [Media](insights/media.md)
   + [Attributes](insights/attributes.md)
   + [Ad Tags](insights/ad-tags.md)

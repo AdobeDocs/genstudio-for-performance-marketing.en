@@ -52,7 +52,7 @@ The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute
 
 ## Attribute details
 
-Attributes help to identify [ads](ads.md#ad-details) and [media](media.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
+Attributes help to identify [ads](published-experiences.md#ad-details) and [media](media.md#media-details) by their inherent details, such as color, composition, visual elements, and other properties.
 
 In the attribute details view, you can see which ads use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each ad.
 

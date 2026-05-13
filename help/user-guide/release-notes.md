@@ -174,7 +174,7 @@ Marketers can now dynamically swap logos within templates directly in the [!DNL 
 
 ### CPA by Action Type for Meta campaigns
 
-* Analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/ads.md) for Meta advertising campaigns. 
+* Analyze [Cost Per Action (CPA) with flexible conversion tracking](/help/user-guide/insights/published-experiences.md) for Meta advertising campaigns. 
 * Instead of a single fixed metric, select from multiple action types—such as purchases, add-to-cart events, leads, video views, or custom conversions—to calculate and view CPA across campaigns, ads, assets, and attributes in [!DNL Insights].
 
 ### Fixes and enhancements
@@ -299,7 +299,7 @@ Adobe GenStudio for Performance Marketing now offers built-in email translation 
 
 ### Compatible assets filter
 
-A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/ads.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter.
+A new filter in the [!DNL Insights] module automatically hides [unsupported image and video assets](/help/user-guide/insights/published-experiences.md#ad-formats) from ad previews, eliminating visual clutter and broken tiles. This enhancement ensures users only see media that's actually available and ready to use, creating a cleaner and more reliable experience. The filter works alongside the existing Compatibility ads filter.
 
 ### Multi-Asset Activation for Meta
 

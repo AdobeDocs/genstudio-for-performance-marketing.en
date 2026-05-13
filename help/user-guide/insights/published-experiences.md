@@ -1,6 +1,6 @@
 ---
-title: Ads and Ad Placement Overview
-description: See an overview of customer engagement, budget, and expenditures for ads and ad placement performance in Adobe GenStudio for Performance Marketing.
+title: Published Experiences Details
+description: See an overview of customer engagement, budget, and expenditures for published experiences and placement performance in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
@@ -38,36 +38,12 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# Ads tags and ad placement overview
 
-The [!DNL Insights] _[!UICONTROL Ads tags]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
+# Published Experiences details {#ad-details}
 
-{{connect-insights}}
+Select a published experience and view the performance metrics, text attributes, and placements associated with each experience. The _[!UICONTROL Published experiences details]_ includes metrics for the experience `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the experience. Since experiences can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each placement. Use the left and right arrows under **[!UICONTROL Performance by placement]** to cycle through the placement metrics.
 
-The _[!UICONTROL Ads tags]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
-
-![Ad tags Insights performance metrics](./ad-tags-tab.png)
-
-The _[!UICONTROL Ads tags]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
-
-- CPA (Cost per action)
-- CTR (Click-through rate)
-- CPC (Cost per click)
-- Spend
-
-{{filter-table}}
-
-## Ad details
-
-Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
-
-![Ad details with metrics and ad placements](/help/assets/insights-ad-details.png){zoomable="yes"}
-
-### Ad attributes
-
-Below the ad preview is a list of attributes associated with the ad.
-
-{{$include /help/_includes/generated-attributes.md}}
+![Published experiences details with metrics and placements](/help/assets/insights-ad-details.png){zoomable="yes"}
 
 ### Ad formats
 

@@ -48,7 +48,7 @@ The _[!UICONTROL Campaigns]_ table is organized using the channel-based ad campa
 
 ![Campaigns filter and table](/help/assets/insights-campaigns-filter.png){zoomable="yes"}
 
-When you select a campaign, the [[!UICONTROL Ads] tab](ads.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
+When you select a campaign, the [[!UICONTROL Ads] tab](published-experiences.md) opens to a list of ad names associated with that campaign, which allows you to identify which ads have contributed to its overall success.
 
 {{filter-table}}
 
