@@ -45,7 +45,7 @@ Select a published experience and view the performance metrics, text attributes,
 
 ![Published experiences details with metrics and placements](/help/assets/insights-ad-details.png){zoomable="yes"}
 
-### Ad formats
+## Ad formats
 
 Ad formats refer to the various creative elements and layouts used to align with your campaign objectives, engage your target audience, and help track performance metrics.
 
@@ -59,7 +59,7 @@ Ad formats refer to the various creative elements and layouts used to align with
 | DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 | Innovid | N/A | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 
-### Ad placements
+## Ad placements
 
 Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
 
@@ -107,4 +107,3 @@ The following table provides definitions for ad placement performance metrics:
 | **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
 | **[!UICONTROL Spend]**       | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire ad. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
 | **Attributes**               | List of inherent features present in this ad placement. | Attributes help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
-
