@@ -114,6 +114,10 @@ Clicking on media content provides further context about its performance across 
 
 In the media details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
+## Published Experiences details
+
+The [[!DNL Insights] _[!UICONTROL Published experiences details]_ view](published-experiences.md) concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Published experiences] view enables you to analyze an experience's metrics based on its placement within a specified date range. By clicking on an _[!UICONTROL Experience name]_, you can view the experience performance metrics, performance by placement, and attributes.
+
 ### Attributes
 
 Media _attributes_ help to identify creative content by inherent details, such as color, tone, composition (such as subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
@@ -122,4 +126,4 @@ The [[!DNL Insights] _[!UICONTROL Attributes]_ view](attributes.md) can help you
 
 ### Ads tags
 
-The [[!DNL Insights] _[!UICONTROL Ads]_ view](published-experiences.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ads] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
+The [[!DNL Insights] _[!UICONTROL Ad tags]_ view](ad-tags.md) concentrates on evaluating the effectiveness of an ad. The [!UICONTROL Ad tags] view enables you to analyze an ad's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
