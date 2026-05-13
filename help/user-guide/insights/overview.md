@@ -104,6 +104,10 @@ Each view displays a corresponding table, which you can search by keyword, filte
 
 The [[!DNL Insights] _[!UICONTROL Campaigns]_ view](campaigns.md) is the default view and shows a list of active campaign details, such as objectives, budget, launch date, and activity. Be sure to [connect a channel account](/help/user-guide/connectors/connect-channel.md) so that GenStudio for Performance Marketing begins receiving your statistical data.
 
+## Published Experiences
+
+The [[!DNL Insights] _[!UICONTROL Published experiences details]_ view](published-experiences.md) concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Published experiences] view enables you to analyze an experience's metrics based on its placement within a specified date range. By clicking on an _[!UICONTROL Experience name]_, you can view the experience performance metrics, performance by placement, and attributes.
+
 ### Media
 
 The [[!DNL Insights] _[!UICONTROL Media]_ view](media.md) is designed to help you analyze the performance of creative content. You can identify media attributes that contribute to improving a selected metric, such as clicks or impressions.
@@ -113,10 +117,6 @@ Clicking on media content provides further context about its performance across 
 ![Media details](/help/assets/insights-media-details.png){width="600" zoomable="yes"}
 
 In the media details view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
-
-## Published Experiences details
-
-The [[!DNL Insights] _[!UICONTROL Published experiences details]_ view](published-experiences.md) concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Published experiences] view enables you to analyze an experience's metrics based on its placement within a specified date range. By clicking on an _[!UICONTROL Experience name]_, you can view the experience performance metrics, performance by placement, and attributes.
 
 ### Attributes
 
