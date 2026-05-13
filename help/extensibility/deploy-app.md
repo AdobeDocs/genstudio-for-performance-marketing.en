@@ -85,12 +85,13 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 
 New extensions are found in different locations in the UI, depending on the type of extension you deployed. The currently available extension points are:
 
-* Compliance extension, which includes: 
-  * [*prompt extension points*](#find-prompt-extensions), which allow customers to add additional context to LLM generation, and 
+* Compliance extension, which includes:
+  * [*prompt extension points*](#find-prompt-extensions), which allow customers to add additional context to LLM generation, and
   * [*validation extension points*](#find-validation-extensions), which allow customers to validate the generated content from the LLM. Validation is often paired with Prompt extension to make sure content generated with an extended prompt is complaint with customer requirements (for example, medical drug claims, or legal)
 * [Digital Asset Management (DAM) extension](#find-dam-extensions)
 * [Template extension](#find-template-extensions)
 * [Translation extension](#find-translation-extensions)
+* [Content Fragment extension](#find-content-fragment-extension)
 
 ### Find prompt extensions
 
@@ -128,15 +129,27 @@ Template extensions are found in the **External Template App** tab when selectin
 
 ![Template extensions](./template-ext.png){width="600" zoomable="yes"}
 
-
 ### Find translation extensions
 
 Use Translation Extension Points to bring your own translation service through a proxy instead of using GenStudio default translation.
-There's no UI location for these extensions. 
+There's no UI location for these extensions.
 
 If the extension is registered, the provided translation service is used. Otherwise the default GenStudio translation service is used.
 
+### Find content fragment extension
 
+The Content Fragment extension in [!DNL GenStudio for Performance Marketing] replaces text in generated email experiences on the [!DNL Create] Canvas with entries from a connected third-party (3P) repository. After you configure and deploy the extension, you swap copy from the Canvas without leaving your workflow.
+
+>[!NOTE]
+>
+>Content Fragment extension swap is available for **email** experiences on the Canvas today. **Horizon** channel support is coming soon.
+
+**To swap text using the Content Fragment extension**:
+
+1. On the Canvas, click an editable text field in a generated email variant.
+1. Click **[!UICONTROL Swap]**.
+1. Select your third-party repository. Your organization controls which repositories appear and how the repository UI behaves.
+1. Select the claim you want to use as replacement text for the field.
 
 If you're satisfied with your Add-on, you're ready to distribute it without the `query` parameter.
 
