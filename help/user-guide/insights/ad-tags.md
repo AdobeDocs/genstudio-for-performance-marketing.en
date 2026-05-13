@@ -4,7 +4,7 @@ description: Learn how to evaluate the performance of ad tags in Adobe GenStudio
 level: Intermediate
 feature: Reporting and Insights, Ad Performance, Text Attributes
 ---
-# Ads tags and ad placement overview
+# Ads tags overview
 
 The [!DNL Insights] _[!UICONTROL Ads tags]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
 
