@@ -1,6 +1,6 @@
 ---
-title: Ads and Ad Placement Overview
-description: See an overview of customer engagement, budget, and expenditures for ads and ad placement performance in Adobe GenStudio for Performance Marketing.
+title: Published Experiences Details
+description: See an overview of customer engagement, budget, and expenditures for published experiences and placement performance in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
@@ -38,38 +38,14 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# Ads tags and ad placement overview
 
-The [!DNL Insights] _[!UICONTROL Ads tags]_ view shows a list of ads for the connected channel ad account. An _ad_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
+# Published Experiences details {#ad-details}
 
-{{connect-insights}}
+Select a published experience and view the performance metrics, text attributes, and placements associated with each experience. The _[!UICONTROL Published experiences details]_ includes metrics for the experience `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the experience. Since experiences can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each placement. Use the left and right arrows under **[!UICONTROL Performance by placement]** to cycle through the placement metrics.
 
-The _[!UICONTROL Ads tags]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
+![Published experiences details with metrics and placements](/help/assets/insights-ad-details.png){zoomable="yes"}
 
-![Ad tags Insights performance metrics](./ad-tags-tab.png)
-
-The _[!UICONTROL Ads tags]_ gallery view shows a collage of ad previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to open **[!UICONTROL Card settings]** and toggle one of three viewable metrics:
-
-- CPA (Cost per action)
-- CTR (Click-through rate)
-- CPC (Cost per click)
-- Spend
-
-{{filter-table}}
-
-## Ad details
-
-Select an ad and view the performance metrics, text attributes, and placements associated with each ad. The _[!UICONTROL Ad details page]_ includes metrics for the ad `click-through rate`, `cost per action`, and `spend`—how much of the budget has been spent on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the placement metrics.
-
-![Ad details with metrics and ad placements](/help/assets/insights-ad-details.png){zoomable="yes"}
-
-### Ad attributes
-
-Below the ad preview is a list of attributes associated with the ad.
-
-{{$include /help/_includes/generated-attributes.md}}
-
-### Ad formats
+## Ad formats
 
 Ad formats refer to the various creative elements and layouts used to align with your campaign objectives, engage your target audience, and help track performance metrics.
 
@@ -83,7 +59,7 @@ Ad formats refer to the various creative elements and layouts used to align with
 | DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 | Innovid | N/A | The paid media channel does not provide access to retrieve creative assets, which makes it difficult to accurately classify the ad types. |
 
-### Ad placements
+## Ad placements
 
 Ad placements refer to the specific locations or platforms where your ads appear within a campaign. These placements determine how and where your audience interacts with your content. Ad placements broaden the audience reach, which helps maximize visibility, engagement, and overall campaign effectiveness.
 
@@ -131,4 +107,3 @@ The following table provides definitions for ad placement performance metrics:
 | **[!UICONTROL CPC]**<br>_Cost per click_ | The average cost associated with each click in a single ad placement.<p>**Calculation**: total amount `spent` divided by `clicks`<p>This metric helps assess the cost-effectiveness of the ad placement in generating clicks. | A lower CPC indicates that the ad placement is generating clicks at a lower cost, which can be beneficial for maximizing the return on investment. |
 | **[!UICONTROL Spend]**       | The amount spent on a single ad placement, representing a fraction of the total amount spent on the entire ad. This metric helps track the budget allocation and spending efficiency for each ad placement. | Monitoring spend can help ensure that resources are being used effectively across different placements. |
 | **Attributes**               | List of inherent features present in this ad placement. | Attributes help identify creative elements that resonate most with your audience. See [Categories](/help/user-guide/insights/attributes.md#categories). |
-
