@@ -121,11 +121,11 @@ Operational tips:
 
 Use this list after deployment and configuration:
 
-* [ ] Deployment completes without errors.
-* [ ] Users can open the Lightning page that contains `sfgsmfe`.
-* [ ] The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
-* [ ] **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
-* [ ] **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
+- [ ] Deployment completes without errors.
+- [ ] Users can open the Lightning page that contains `sfgsmfe`.
+- [ ] The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
+- [ ] **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
+- [ ] **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
 
 ## See also
 
