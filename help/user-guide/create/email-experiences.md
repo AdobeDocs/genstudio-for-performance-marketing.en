@@ -1,6 +1,6 @@
 ---
 title: Email Experiences
-description: Learn about email experiences in Adobe GenStudio for Performance Marketing.
+description: Learn about email experiences in Adobe GenStudio for Performance Marketing, including Canvas behavior and content fragment swap from approved libraries.
 feature: Create Canvas, Media Templates
 role: User
 level: Beginner
@@ -85,3 +85,30 @@ Each field and section of email experiences are progressively loaded in this seq
 After you generate a set of email variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
 
 ![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
+
+## Content fragment swap {#content-fragment-swap}
+
+On the [!DNL Create] HTML Canvas for email, you can combine **generative** fields (AI-produced copy), **injectable** fields that you fill with pre-approved content fragments from a connected [!DNL Adobe Experience Manager] repository using the [!DNL Adobe Experience Manager] Content Advisor microfrontend, and **locked** fields that stay immutable (for example, legal disclaimers). You browse, search, and filter approved fragments inside [!DNL GenStudio for Performance Marketing] instead of round-tripping HTML through extract, reassemble, and QA cycles across tools.
+
+Enterprise email often needs both newly generated copy and approved modular blocks, such as disclaimers, safety language, offers, and regulated claims, alongside content you shape for ESP-oriented templates. Teams that use modular content in [!DNL Adobe Experience Manager], [!DNL Marketo Engage], [!DNL Adobe Journey Optimizer], and [!DNL Adobe Campaign] can align that practice on a single assembly surface in [!DNL GenStudio for Performance Marketing].
+
+* **Compliance-aware assembly:** AI can fill creative slots while compliance-approved fragments replace injectable slots; locked legal areas stay unchanged through export.
+* **Reusable approved components:** Approved headlines, regional disclaimers, or product descriptions can remain the system of record in [!DNL Adobe Experience Manager] while authors pull them into variants without copy-paste workarounds.
+
+Creators assemble experiences on the Canvas; brand and compliance teams keep approval workflows in [!DNL Adobe Experience Manager]; IT and integrations teams connect repositories and permissions your organization requires.
+
+When your organization enables content fragment swap, you can expect:
+
+* Fields populated from a connected content library instead of only manual typing or generation alone.
+* Browse, search, and filter fragments using metadata such as campaign, persona, channel, language, and brand.
+* A repository picker when multiple repositories are configured.
+* Preview of a fragment before it replaces field text.
+* Replacement of text in an injectable field without regenerating the rest of the variant.
+* Propagation of a fragment selection across all variants in one action, when your organization enables that workflow.
+* Generative fields that continue to support generation, regeneration, and manual edits; locked slots stay protected.
+
+>[!NOTE]
+>
+>Your organization chooses which content fragment sources and repositories are available, including through the Content Fragment extension for patterns beyond a default [!DNL Adobe Experience Manager] connection. See [Find content fragment extension](/help/extensibility/deploy-app.md#find-content-fragment-extension) for how administrators configure sources and how authors swap copy from the Canvas with **[!UICONTROL Swap]**.
+
+Content Fragment extension swap is available for **email** experiences on the Canvas today. **Horizon** channel support is coming soon.
