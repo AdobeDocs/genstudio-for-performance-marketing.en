@@ -33,6 +33,8 @@ The GenStudio Experience Selector MFE allows users to:
 - Handle authentication through SUSI (Sign-Up Sign-In) integration
 - Provide a consistent UI across different frameworks
 
+For embedding this MFE in Salesforce Lightning with LWC and optional email templates, see [Experience Selector MFE in Salesforce](experience-selector-salesforce.md).
+
 ## Integration options
 
 The MFE can be integrated using two different approaches:
