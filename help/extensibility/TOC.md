@@ -21,6 +21,8 @@ role: Developer
 + First party extensions {#first-party}
   + [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md)
   + [Marketo for GenStudio](marketo-for-genstudio.md)
++ 3P extensions {#third-party-extensions}
+  + [Experience Selector MFE in Salesforce](experience-selector-salesforce.md)
 
 <!--
   + UI Extensions {#ui}
