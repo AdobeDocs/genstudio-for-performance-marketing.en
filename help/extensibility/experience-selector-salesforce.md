@@ -11,6 +11,8 @@ For generic MFE integration options, configuration properties, and framework exa
 
 ## What this integration does
 
+>[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
+
 The Lightning Web Component (LWC) `sfgsmfe` loads Adobe's Experience Selector UMD bundle and renders it in a `<dialog>` so users can pick an experience from [!DNL GenStudio for Performance Marketing].
 
 The integration can also:
