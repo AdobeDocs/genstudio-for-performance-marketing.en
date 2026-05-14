@@ -64,8 +64,11 @@ To add the component:
 
 1. In **[!UICONTROL Setup]**, open **[!UICONTROL App Manager]**.
 1. Create a **[!UICONTROL New Lightning App]** (or open an existing app you want to extend).
+![The New Lightning App modal](./mfe-new-lighting-app.png){width="80%" zoomable="yes"}
 1. Open the app and select **[!UICONTROL Edit]**.
+![The Edit Lightning App modal](./mfe-lightning-edit.png){width="80%" zoomable="yes"}
 1. Create a **[!UICONTROL New Page]** (or edit an existing Lightning page).
+![The New Page modal](./mfe-lightning-new-page.png){width="60%" zoomable="yes"}
 1. In **[!UICONTROL Lightning App Builder]**, drag the **sfgsmfe** component onto the layout.
 1. **[!UICONTROL Save]**, **[!UICONTROL Activate]**, and assign the page to the correct Lightning app, profiles, and app visibility so intended users can open it.
 
