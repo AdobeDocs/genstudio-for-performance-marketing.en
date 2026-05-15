@@ -114,6 +114,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 * **To [edit the email draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To [manually edit an email](/help/user-guide/create/manage-variants.md#manually-edit-text)**, click into any of the editable text fields (such as the subject line, header, or body copy) and edit as needed
+* **To use [approved content fragments in email variants](/help/user-guide/create/email-experiences.md#content-fragment-swap)**, learn how [!DNL GenStudio for Performance Marketing] combines generative fields, injectable content fragment fields, and locked fields on one Canvas. Administrators configure fragment sources as described in [Find content fragment extension](/help/extensibility/deploy-app.md#find-content-fragment-extension).
 * **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_.
 * **To [apply text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text)** in a variant, click the on-image text for a variant and click **[!UICONTROL Format text]**.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
