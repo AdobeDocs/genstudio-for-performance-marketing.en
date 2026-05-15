@@ -50,6 +50,8 @@ Typical metadata in your project includes:
 
 * An LWC bundle named `sfgsmfe` (HTML, JavaScript, CSS, and meta XML) that hosts the selector UI and script loading.
 * An Apex class (for example, `EmailTemplateController`) that creates email templates when you use that optional flow.
+* `force-app/main/default/lwc/sfgsmfe` — LWC bundle (HTML, JS, CSS, meta).
+* `force-app/main/default/classes/EmailTemplateController.cls` — Apex for template creation.
 
 Your project may also define Static Resources. If the LWC loader uses the Adobe CDN URL for `standalone.js`, those resources are not required for that load path unless you change the implementation.
 
@@ -119,13 +121,13 @@ Operational tips:
 
 ## Validation checklist
 
-Use this list after deployment and configuration:
+Confirm the items in this list after deployment and configuration for a confident validation of the integration:
 
-- [ ] Deployment completes without errors.
-- [ ] Users can open the Lightning page that contains `sfgsmfe`.
-- [ ] The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
-- [ ] **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
-- [ ] **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
+1. Deployment completes without errors.
+1. Users can open the Lightning page that contains `sfgsmfe` and see the Experience Selector UI.
+1. The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
+1. **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
+1. **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
 
 ## See also
 
