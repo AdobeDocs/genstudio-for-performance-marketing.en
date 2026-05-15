@@ -92,7 +92,7 @@ After you generate a set of email variants, you can see the character count disp
 >
 >Content fragment swap is available for **email** experiences on the Canvas today. **Horizon** channel support is coming soon.
 
-Enterprise email content often needs both newly generated copy and approved modular blocks (such as disclaimers, safety language, offers, and regulated claims) alongside content you shape for templates. Teams that store modular content in [!DNL Adobe Experience Manager], [!DNL Marketo Engage], [!DNL Adobe Journey Optimizer], and [!DNL Adobe Campaign] can find and swap that content to use in email experiences without leaving [!DNL GenStudio for Performance Marketing]. This can be useful for:
+Enterprise email content often needs both newly generated copy and approved modular blocks (such as disclaimers, safety language, offers, and regulated claims) alongside content you shape for templates. Teams that store modular content in [!DNL Adobe Experience Manager] can find and swap that content to use in email experiences without leaving [!DNL GenStudio for Performance Marketing]. This can be useful for:
 
 * **Compliance-aware content:** AI can fill creative slots while compliance-approved fragments replace injectable slots; locked legal areas stay unchanged through export.
 * **Reusable approved content components:** Approved headlines, regional disclaimers, or product descriptions can remain the system of record in [!DNL Adobe Experience Manager] while authors pull them into variants without copy-paste workarounds.
