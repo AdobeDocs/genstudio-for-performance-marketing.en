@@ -77,23 +77,23 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Collaborative editing on the Horizon canvas
 
-Paid media drafts on the Horizon canvas are no longer a solo exercise. In [!DNL Create], the [paid media workflow](/help/user-guide/create/overview.md) now lets owners invite collaborators by email with **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles, so everyone works from the same living draft instead of bouncing exports between tools.
+Paid media drafts on the Horizon canvas are no longer a solo exercise. Owners can now invite collaborators by email with **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles, so everyone works from the same living draft instead of bouncing exports between tools.
 
-Editors watch artboard and field updates—including headlines, CTAs, and descriptions—land in real time, backed by in-product notifications plus an email link for every invite. Only one collaborator starts [!DNL Review and approval] at a time, only the document owner publishes, and the [[!DNL Content] overview page](/help/user-guide/content/overview.md) now splits **[!UICONTROL From Adobe Express Templates]** in Recents into **[!UICONTROL Yours]** and **[!UICONTROL Shared with you]** tabs so personal drafts and teammate shares surface side by side.
+Using the [!UICONTROL Share] button in the canvas, editors watch artboard and field updates (including headlines, CTAs, and descriptions) land in real time.
 
 ### Refreshed card layout on the [!DNL Create] [!DNL Content] page
 
-The [!DNL Create] entry point inside [!DNL Content] debuts a refreshed card layout that pulls state forward visually, which means less hunting before you open the right draft or template. The tighter hierarchy keeps high-volume teams oriented when dozens of experiences are in flight at once.
+The [!DNL Create] entry point inside [!DNL Content] debuts a refreshed card layout.
 
-### AEM Content Fragments in email on the HTML canvas
+### AEM Content Fragments swap in email experiences on the HTML canvas
 
-[Email experiences](/help/user-guide/create/create-email-experience.md) on the HTML canvas now combine AI-generated storytelling with pre-approved **AEM Content Fragments** and immovable legal or compliance zones, so modular content arrives pre-governed instead of pasted in from side channels. The picker keeps browsing, search, metadata filters, previews, swaps, multi-repository selection, and single-or-all-variant inserts inside one surface, which removes the copy-and-regenerate loop that used to slow large refreshes.
+[Email experiences](/help/user-guide/create/email-experiences.md) on the HTML canvas now offer content swap with pre-approved **AEM Content Fragments** for pre-governed modular content; no pasting in from side channels.
 
-You still rely on your organization’s [!DNL GenStudio for Performance Marketing] and AEM entitlements plus published fragments inside the connected environment. That matches the trust model you already use for modular content programs.
+Rely on your organization’s feragments already published in AEM without leaving GenStudio for Performance Marketing.
 
 ### Add [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
 
-[Adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url) finally mirrors how marketers research the web before they ever open a brief. [!DNL GenStudio for Performance Marketing] ingests published **[!DNL Brand]**, **[!DNL Product]**, and **[!DNL Persona]** signals directly from a URL, collapsing hours of manual typing while keeping outputs grounded in what the brand actually publishes online.
+[!DNL GenStudio for Performance Marketing] ingests published **[!DNL Brand]**, **[!DNL Product]**, and **[!DNL Persona]** signals directly from a URL, collapsing hours of manual typing while keeping outputs grounded in what the brand actually publishes online. [Adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url) finally mirrors how marketers research the web before they ever open a brief.
 
 Brand guidelines land in a single pass, while products and personas start from an intelligent short list so you curate what belongs before the system enriches records. AI-assisted discovery stays deliberately conservative when a site is thin or gated, which protects regulated teams without blocking momentum.
 
