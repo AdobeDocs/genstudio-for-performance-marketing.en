@@ -10,7 +10,7 @@ feature: Media Templates
 
 [!DNL GenStudio for Performance Marketing] can use templates that have been created and designed in [!DNL Adobe Express]. Bring branded assets from [!DNL Adobe Express] and use these powerful tools to integrate them in compelling marketing campaigns and [!DNL Experiences].
 
-This guide explains the requirements and the features with templates from [!DNL Adobe Express].
+This guide explains the requirements and the features with templates from [!DNL Adobe Express]. For more tips and best practices, see [Best practices for using templates](/help/user-guide/templates/best-practices-for-templates.md#express-to-genstudio-template-best-practices).
 
 ## About templates in [!DNL Adobe Express]
 
