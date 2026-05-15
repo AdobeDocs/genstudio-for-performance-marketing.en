@@ -38,8 +38,7 @@ Adhere to the following recommendations when using templates with GenStudio for 
 1. Configure [channel guidelines](#configure-channel-guidelines) for effective personalization of content
 1. Design with [accessibility standards](accessibility-for-templates.md) for an optimal experience
 1. Follow [channel-specific template guidelines](#follow-channel-specific-template-guidelines)
-
->[!TIP]
+1. When using [Express templates](/help/user-guide/templates/express-templates.md), consider the specific tips under [Express to GenStudio template best practices](#express-to-genstudio-template-best-practices).
 >
 >Learn the basics of template elements and procedures in [Work with Templates](use-templates.md). And deep-dive into [customizing a template](customize-template.md) for specific instructions to use in your next campaign.
 
@@ -127,3 +126,75 @@ See further tips and constraints when working with each template type to ensure 
 - [Display and banner ads](/help/user-guide/templates/display-template.md)
 - [LinkedIn](/help/user-guide/templates/linkedin-template.md)
 - [Meta ads](/help/user-guide/templates/meta-template.md)
+
+## Express to GenStudio template best practices
+
+The following tips help you get reliable results when you convert designs from [!DNL Adobe Express] into templates for [!DNL GenStudio for Performance Marketing].
+
+### Use Multi-variation templates
+
+In [!DNL Adobe Express], pages can represent multiple size or aspect ratio variations in one template file.
+When you select the template in [!DNL GenStudio for Performance Marketing], all variations appear in the canvas.
+
+This behavior improves on HTML templates, which support only one variation per file.
+
+### Locking fields to control what marketers can edit
+
+Use locking to communicate intent. For example, lock a legal disclaimer so it is never AI-generated, but leave a headline flexible for generation.
+
+Right-click any element in [!DNL Adobe Express] to set lock behavior:
+
+- **[!UICONTROL Full lock]** — The element is static, and AI does not generate content for it.
+- **[!UICONTROL Lock, allow image replace]** — Locks size and position but lets users swap the image. This option works well for logos.
+- **[!UICONTROL Lock, allow text replace]** — Locks size and position but lets users edit text. AI does not auto-generate content for it.
+- **Fully flexible** (unlocked) — Users can move and resize the element, and AI treats it as content to generate.
+
+### Name layers for better AI mapping
+
+When you convert a design to a template, AI scans the design and maps fields such as headline, CTA, and body copy. AI maps simple templates accurately more often than highly complex layouts.
+
+**Best practice:** In placeholder copy, include the intended field type (for example, `headline`, `sub-headline`, or `CTA`) to help the AI map fields correctly. This approach can reduce mapping errors.
+
+### Convert to template
+
+1. In [!DNL Adobe Express], click **[!UICONTROL Share]** > **[!UICONTROL Convert to Template]**.
+1. Only the **[!UICONTROL Info]** tab and **[!UICONTROL Locks]** tab carry over to [!DNL GenStudio for Performance Marketing].
+1. At conversion time, choose how unlocking works:
+   - **[!UICONTROL Allow users to unlock]**
+   - **[!UICONTROL Prevent all unlocking]**
+   - **[!UICONTROL Set a passphrase]** — A middle ground that discourages casual changes without blocking access permanently.
+
+### Keep a copy of the original design file
+
+Converting creates a separate [!DNL Adobe Express] template file, however the original design file stays editable.
+
+**Tip:** Keep the original so you can revise the design, create variations, and generate new templates later.
+
+### Share for greater visibility
+
+After conversion, the template is visible only to you by default. You can share it with individuals or with the whole organization.
+
+**Requirement:** [!DNL Adobe Express] and [!DNL GenStudio for Performance Marketing] must use the same IMS organization for templates to sync. Templates usually appear in [!DNL GenStudio for Performance Marketing] almost immediately after conversion.
+
+### Control AI field mapping
+
+After you select a template, AI maps fields once per template, assigning labels such as **[!UICONTROL primary media]**, **[!UICONTROL generated]**, or **[!UICONTROL locked]**. You can adjust mappings manually when AI assigns fields incorrectly.
+
+Use the **[!UICONTROL Enable generation]** toggle per field to turn on or off before you generate. You can adjust mappings manually when AI assigns fields incorrectly. Permanent corrections to template mappings are planned for a future release.
+
+### Design in [!DNL Adobe Express], assemble in [!DNL GenStudio for Performance Marketing]
+
+Consider these design workflows to utilize each service at its best:
+
+- Complete design work such as colors, layouts, and graphics in [!DNL Adobe Express].
+- Use [!DNL GenStudio for Performance Marketing] to assemble and generate content from those templates.
+- Use [!DNL Adobe Express] brands (colors, logos, fonts, and graphics) for design governance.
+- Use [!DNL GenStudio for Performance Marketing] brands for font color changes after generation.
+
+### Email limitations
+
+Email is **not** supported on the Horizon Canvas for the [!DNL Adobe Express] template workflow. Email continues to use the traditional HTML template process.
+
+### Take advantage of custom fonts
+
+Teams often ask how custom fonts work with [!DNL Adobe Express] templates. Admins may need to accept the Custom Fonts qualifying offer in the admin console before those fonts are available; see [Using [!DNL Adobe Express] templates](express-templates.md).
