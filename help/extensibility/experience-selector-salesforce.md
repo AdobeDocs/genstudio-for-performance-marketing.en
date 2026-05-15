@@ -19,7 +19,8 @@ The integration can also:
 
 * **Preview and decode:** Show the selected payload as JSON, decoded HTML, and a sanitized HTML preview inside the LWC.
 * **Email templates (optional):** A **[!UICONTROL Create Email Template]** flow in Salesforce can call Apex (`EmailTemplateController.createEmailTemplate`) to insert an `EmailTemplate` record (HTML, subject, and folder).
-* **Runtime loading:** The GenStudio script is loaded from Adobe's hosted URL on `experience.adobe.com`, not from a Salesforce Static Resource in the typical implementation.
+
+The Experience Selector script for [!DNL GenStudio for Performance Marketing] is loaded from Adobe's hosted URL on `experience.adobe.com`, not from a Salesforce Static Resource in the typical implementation.
 
 ## Prerequisites
 
@@ -36,7 +37,7 @@ The integration can also:
 
 ## Deploy the package (developer)
 
-The integration follows a Salesforce DX style layout. The default package directory is usually `force-app` in your Salesforce DX project.
+The project uses Salesforce DX layout; the default package directory is `force-app`.
 
 1. From your project root, deploy source to the target org:
 
@@ -46,12 +47,10 @@ The integration follows a Salesforce DX style layout. The default package direct
 
 2. Confirm that deployment completes without errors.
 
-Typical metadata in your project includes:
+* `force-app/main/default/lwc/sfgsmfe` — LWC bundle (HTML, JS, CSS, meta).
+* `force-app/main/default/classes/EmailTemplateController.cls` — Apex for template creation.
 
-* An LWC bundle named `sfgsmfe` (HTML, JavaScript, CSS, and meta XML) that hosts the selector UI and script loading.
-* An Apex class (for example, `EmailTemplateController`) that creates email templates when you use that optional flow.
-
-Your project may also define Static Resources. If the LWC loader uses the Adobe CDN URL for `standalone.js`, those resources are not required for that load path unless you change the implementation.
+The repo may also contain Static Resources (`reactApp`, `sfgsmfe_react`). The current [!DNL GenStudio for Performance Marketing] loader in `sfgsmfe.js` uses the Adobe CDN URL for `standalone.js`; those Static Resources are not required for that load path unless you change the implementation.
 
 ## Add the component to a Lightning page (admin)
 
@@ -60,7 +59,7 @@ The `sfgsmfe` component is exposed for:
 * Lightning app pages
 * Home pages
 * Record pages
-* Tabs (by placing the component on a Lightning page that is opened from a custom tab)
+* Tabs (via a Lightning page on a custom tab)
 
 To add the component:
 
@@ -86,7 +85,8 @@ If the script fails to load:
 
 1. Open the browser developer tools.
 1. Check the **[!UICONTROL Console]** and **[!UICONTROL Network]** tabs for blocked requests or CSP violations.
-1. Add or adjust **[!UICONTROL CSP Trusted Sites]** (and any related settings for your Salesforce release) for `https://experience.adobe.com`, following current Salesforce documentation for Lightning.
+1. Add or adjust **[!UICONTROL Trusted URLs]** (and any related settings for your Salesforce release) for `https://experience.adobe.com`, following current Salesforce documentation for Lightning.
+![Salesforce CSP Trusted Sites](./sf-trusted-urls.png){width="80%" zoomable="yes"}
 
 ## Configure integration values (developer / implementation)
 
@@ -119,13 +119,13 @@ Operational tips:
 
 ## Validation checklist
 
-Use this list after deployment and configuration:
+Confirm the items in this list after deployment and configuration for a confident validation of the integration:
 
-* [ ] Deployment completes without errors.
-* [ ] Users can open the Lightning page that contains `sfgsmfe`.
-* [ ] The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
-* [ ] **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
-* [ ] **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
+1. Deployment completes without errors.
+1. Users can open the Lightning page that contains `sfgsmfe` and see the Experience Selector UI.
+1. The component does not show a load error; the Network tab returns HTTP 200 for `standalone.js`.
+1. **[!UICONTROL Select a GenStudio Experience]** opens the selector and selection callbacks run.
+1. **[!UICONTROL Create Email Template]** succeeds when you use that flow, and the template appears under the configured folder in **[!UICONTROL Setup]**.
 
 ## See also
 
