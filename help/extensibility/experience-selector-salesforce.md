@@ -85,7 +85,8 @@ If the script fails to load:
 
 1. Open the browser developer tools.
 1. Check the **[!UICONTROL Console]** and **[!UICONTROL Network]** tabs for blocked requests or CSP violations.
-1. Add or adjust **[!UICONTROL CSP Trusted Sites]** (and any related settings for your Salesforce release) for `https://experience.adobe.com`, following current Salesforce documentation for Lightning.
+1. Add or adjust **[!UICONTROL Trusted URLs]** (and any related settings for your Salesforce release) for `https://experience.adobe.com`, following current Salesforce documentation for Lightning.
+![Salesforce CSP Trusted Sites](./sf-trusted-urls.png){width="80%" zoomable="yes"}
 
 ## Configure integration values (developer / implementation)
 
