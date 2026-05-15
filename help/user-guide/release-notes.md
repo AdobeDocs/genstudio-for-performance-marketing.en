@@ -73,7 +73,35 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.04.16 {#latest}
+## 2026.05.15 {#latest}
+
+### Collaborative editing on the Horizon canvas
+
+Paid media drafts on the Horizon canvas are no longer a solo exercise. Owners can now invite collaborators by email with **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles, so everyone works from the same living draft instead of bouncing exports between tools.
+
+Using the [!UICONTROL Share] button in the canvas, editors watch artboard and field updates (including headlines, CTAs, and descriptions) land in real time.
+
+### Refreshed card layout on the [!DNL Create] [!DNL Content] page
+
+The [!DNL Create] entry point inside [!DNL Content] debuts a refreshed card layout.
+
+### AEM Content Fragments swap in email experiences on the HTML canvas
+
+[Email experiences](/help/user-guide/create/email-experiences.md) on the HTML canvas now offer content swap with pre-approved **AEM Content Fragments** for pre-governed modular content; no pasting in from side channels.
+
+Rely on your organization’s feragments already published in AEM without leaving GenStudio for Performance Marketing.
+
+### Add [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
+
+[!DNL GenStudio for Performance Marketing] ingests published **[!DNL Brand]**, **[!DNL Product]**, and **[!DNL Persona]** signals directly from a URL, collapsing hours of manual typing while keeping outputs grounded in what the brand actually publishes online. [Adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url) finally mirrors how marketers research the web before they ever open a brief.
+
+Brand guidelines land in a single pass, while products and personas start from an intelligent short list so you curate what belongs before the system enriches records. AI-assisted discovery stays deliberately conservative when a site is thin or gated, which protects regulated teams without blocking momentum.
+
+Organizations that require a **[!UICONTROL Brand Manager]** or higher still enforce those guardrails automatically. Publicly reachable brand domains continue to unlock the richest guidance when you scale programs across regions or portfolios.
+
+## Earlier release notes
+
++++Notes from 2026.04.16
 
 ### Context-aware recommendations in [!DNL Create]
 
@@ -91,7 +119,7 @@ You can assemble scenes, lean on generative AI help when audio or visuals are st
 
 You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
 
-## Earlier release notes
++++
 
 +++Notes from 2026.03.15
 
