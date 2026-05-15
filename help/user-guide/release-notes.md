@@ -73,7 +73,29 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.04.16 {#latest}
+## 2026.05.15 {#latest}
+
+### Collaborative editing on the Horizon canvas
+
+In [!DNL Create], the [paid media workflow](/help/user-guide/create/overview.md) on the Horizon canvas lets draft owners share a draft with collaborators by email and assign **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles. Editors work together in real time on the artboard and in fields such as headlines, CTAs, and descriptions; invited users receive in-product notifications and an email with a direct link to the draft. Only one collaborator can start [!DNL Review and approval] at a time, and only the document owner can publish.
+
+On the [[!DNL Content] overview page](/help/user-guide/content/overview.md), **[!UICONTROL From Adobe Express Templates]** in Recents now includes **[!UICONTROL Yours]** and **[!UICONTROL Shared with you]** tabs so you can find drafts you created and drafts others shared with you.
+
+### Refreshed card layout on the [!DNL Create] [!DNL Content] page
+
+The [!DNL Create] entry point in [!DNL Content] uses an updated card layout so drafts and templates are easier to scan at a glance.
+
+### AEM Content Fragments in email on the HTML canvas
+
+When you [create email experiences](/help/user-guide/create/create-email-experience.md) on the HTML canvas, you can combine AI-generated copy with pre-approved **AEM Content Fragments** from a connected repository and keep required areas locked so they cannot be edited by mistake. In the picker, browse and search fragments, filter by metadata, preview a fragment before you insert it, replace content in a field without regenerating the rest of the experience, switch repositories when more than one AEM repository is connected, and apply a fragment to a single variant or to all variants at once. You need access to [!DNL GenStudio for Performance Marketing], AEM, and published fragments in your connected AEM environment.
+
+### Add [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
+
+You can speed up setup by [adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url): for a **[!DNL Brand]**, enter a URL and review the generated brand-guidelines output in one step; for **[!DNL Products]** and **[!DNL Personas]**, review the candidate list the system proposes, confirm or adjust it, then let [!DNL GenStudio for Performance Marketing] generate full records. The system reads your brand’s public pages and uses AI-assisted discovery in a conservative way when published content is limited, so you spend less time on manual entry before you start creating. A **[!UICONTROL Brand Manager]** or higher role applies where your organization requires it, and the URL must be reachable without a login wall for best results.
+
+## Earlier release notes
+
++++Notes from 2026.04.16
 
 ### Context-aware recommendations in [!DNL Create]
 
@@ -91,7 +113,7 @@ You can assemble scenes, lean on generative AI help when audio or visuals are st
 
 You can **upload a DOM-based HTML5 zip file to develop a display template** in [!DNL Create], produce HTML5 ad variations, and resize creative to additional aspect ratios. Finished experiences can be activated to [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) and [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md).
 
-## Earlier release notes
++++
 
 +++Notes from 2026.03.15
 
