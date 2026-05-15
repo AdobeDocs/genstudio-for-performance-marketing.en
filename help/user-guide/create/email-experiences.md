@@ -1,6 +1,6 @@
 ---
 title: Email Experiences
-description: Learn about email experiences in Adobe GenStudio for Performance Marketing.
+description: Learn about email experiences in Adobe GenStudio for Performance Marketing, including Canvas behavior and content fragment swap from approved libraries.
 feature: Create Canvas, Media Templates
 role: User
 level: Beginner
@@ -85,3 +85,30 @@ Each field and section of email experiences are progressively loaded in this seq
 After you generate a set of email variants, you can see the character count displayed for each section. Hover over or click into a generated section, such as the subject line or the body, and see the section name and character count for that section.
 
 ![Character count](/help/assets/character-count.png){width="500" zoomable="yes"}
+
+## Content fragment swap {#content-fragment-swap}
+
+>[!NOTE]
+>
+>Content fragment swap is available for **email** experiences on the Canvas today. **Horizon** channel support is coming soon.
+
+Enterprise email content often needs both newly generated copy and approved modular blocks (such as disclaimers, safety language, offers, and regulated claims) alongside content you shape for templates. Teams that store modular content in [!DNL Adobe Experience Manager] can find and swap that content to use in email experiences without leaving [!DNL GenStudio for Performance Marketing]. This can be useful for:
+
+* **Compliance-aware content:** AI can fill creative slots while compliance-approved fragments replace injectable slots; locked legal areas stay unchanged through export.
+* **Reusable approved content components:** Approved headlines, regional disclaimers, or product descriptions can remain the system of record in [!DNL Adobe Experience Manager] while authors pull them into variants without copy-paste workarounds.
+
+Creators assemble experiences on the Canvas; brand and compliance teams keep approval workflows in [!DNL Adobe Experience Manager]; IT and integrations teams connect repositories and permissions your organization requires.
+
+![Content fragment swap](./cf-swap.png){width="500" zoomable="yes"}
+
+When your organization enables content fragment swap, you can expect:
+
+* Content fragment fields can be populated from a connected content library instead of only manual typing or AI generation alone.
+* Browse, search, and filter fragments using metadata such as campaign, persona, channel, language, and brand.
+* A repository picker is available when multiple repositories are configured.
+* Preview of a fragment before it replaces field text.
+* Propagation of a fragment selection across all variants in one action.
+
+![Content fragments UI pane](./cf-pane.png){width="500" zoomable="yes"}
+
+Your organization chooses which content fragment sources and repositories are available. See [Find content fragment extension](/help/extensibility/deploy-app.md#find-content-fragment-extension) for how administrators configure sources and how authors swap copy from the Canvas with **[!UICONTROL Swap]**.
