@@ -77,21 +77,27 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Collaborative editing on the Horizon canvas
 
-In [!DNL Create], the [paid media workflow](/help/user-guide/create/overview.md) on the Horizon canvas lets draft owners share a draft with collaborators by email and assign **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles. Editors work together in real time on the artboard and in fields such as headlines, CTAs, and descriptions; invited users receive in-product notifications and an email with a direct link to the draft. Only one collaborator can start [!DNL Review and approval] at a time, and only the document owner can publish.
+Paid media drafts on the Horizon canvas are no longer a solo exercise. In [!DNL Create], the [paid media workflow](/help/user-guide/create/overview.md) now lets owners invite collaborators by email with **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles, so everyone works from the same living draft instead of bouncing exports between tools.
 
-On the [[!DNL Content] overview page](/help/user-guide/content/overview.md), **[!UICONTROL From Adobe Express Templates]** in Recents now includes **[!UICONTROL Yours]** and **[!UICONTROL Shared with you]** tabs so you can find drafts you created and drafts others shared with you.
+Editors watch artboard and field updates—including headlines, CTAs, and descriptions—land in real time, backed by in-product notifications plus an email link for every invite. Only one collaborator starts [!DNL Review and approval] at a time, only the document owner publishes, and the [[!DNL Content] overview page](/help/user-guide/content/overview.md) now splits **[!UICONTROL From Adobe Express Templates]** in Recents into **[!UICONTROL Yours]** and **[!UICONTROL Shared with you]** tabs so personal drafts and teammate shares surface side by side.
 
 ### Refreshed card layout on the [!DNL Create] [!DNL Content] page
 
-The [!DNL Create] entry point in [!DNL Content] uses an updated card layout so drafts and templates are easier to scan at a glance.
+The [!DNL Create] entry point inside [!DNL Content] debuts a refreshed card layout that pulls state forward visually, which means less hunting before you open the right draft or template. The tighter hierarchy keeps high-volume teams oriented when dozens of experiences are in flight at once.
 
 ### AEM Content Fragments in email on the HTML canvas
 
-When you [create email experiences](/help/user-guide/create/create-email-experience.md) on the HTML canvas, you can combine AI-generated copy with pre-approved **AEM Content Fragments** from a connected repository and keep required areas locked so they cannot be edited by mistake. In the picker, browse and search fragments, filter by metadata, preview a fragment before you insert it, replace content in a field without regenerating the rest of the experience, switch repositories when more than one AEM repository is connected, and apply a fragment to a single variant or to all variants at once. You need access to [!DNL GenStudio for Performance Marketing], AEM, and published fragments in your connected AEM environment.
+[Email experiences](/help/user-guide/create/create-email-experience.md) on the HTML canvas now combine AI-generated storytelling with pre-approved **AEM Content Fragments** and immovable legal or compliance zones, so modular content arrives pre-governed instead of pasted in from side channels. The picker keeps browsing, search, metadata filters, previews, swaps, multi-repository selection, and single-or-all-variant inserts inside one surface, which removes the copy-and-regenerate loop that used to slow large refreshes.
+
+You still rely on your organization’s [!DNL GenStudio for Performance Marketing] and AEM entitlements plus published fragments inside the connected environment. That matches the trust model you already use for modular content programs.
 
 ### Add [!DNL Brands], [!DNL Products], and [!DNL Personas] from a URL
 
-You can speed up setup by [adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url): for a **[!DNL Brand]**, enter a URL and review the generated brand-guidelines output in one step; for **[!DNL Products]** and **[!DNL Personas]**, review the candidate list the system proposes, confirm or adjust it, then let [!DNL GenStudio for Performance Marketing] generate full records. The system reads your brand’s public pages and uses AI-assisted discovery in a conservative way when published content is limited, so you spend less time on manual entry before you start creating. A **[!UICONTROL Brand Manager]** or higher role applies where your organization requires it, and the URL must be reachable without a login wall for best results.
+[Adding guidelines from a public URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url) finally mirrors how marketers research the web before they ever open a brief. [!DNL GenStudio for Performance Marketing] ingests published **[!DNL Brand]**, **[!DNL Product]**, and **[!DNL Persona]** signals directly from a URL, collapsing hours of manual typing while keeping outputs grounded in what the brand actually publishes online.
+
+Brand guidelines land in a single pass, while products and personas start from an intelligent short list so you curate what belongs before the system enriches records. AI-assisted discovery stays deliberately conservative when a site is thin or gated, which protects regulated teams without blocking momentum.
+
+Organizations that require a **[!UICONTROL Brand Manager]** or higher still enforce those guardrails automatically. Publicly reachable brand domains continue to unlock the richest guidance when you scale programs across regions or portfolios.
 
 ## Earlier release notes
 
