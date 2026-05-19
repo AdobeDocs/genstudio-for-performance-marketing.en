@@ -4,6 +4,7 @@ solution: GenStudio for Performance Marketing
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: "GenStudio for Performance Marketing"
+usetq: true
 landing-page-name: genstudio-for-performance-marketing
 landing-page-breadcrumb-title: GenStudio
 type: Documentation
