@@ -25,7 +25,7 @@ topic_v2:
 
 Experience Selector is a Micro Frontend (MFE) that provides an `ExperienceSelectorDialog` component for selecting GenStudio experiences. Use the component in your application by importing the `renderExperienceSelectorWithSUSI` function from the standalone JavaScript bundle, which automatically loads the latest deployed Micro Frontend and presents a natural component interface.
 
-> [!TIP]
+>[!TIP]
 >
 > **API Service Available** The GenStudio API offers a RESTful API for managing experiences. If you would like to use the GenStudio API to manage experiences, please see the [GenStudio API documentation](https://developer.adobe.com/genstudio-api/).
 
