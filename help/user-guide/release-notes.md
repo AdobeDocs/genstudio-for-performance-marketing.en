@@ -103,8 +103,6 @@ Organizations that require a **[!UICONTROL Brand Manager]** or higher still enfo
 
 Conversational AI is a new paid media surface, and [!DNL GenStudio for Performance Marketing] now carries ChatGPT end to end. [Create ChatGPT ad experiences](/help/user-guide/create/create-chatgpt-ad.md) with on-brand copy variations, run brand and channel checks, route work through approvals, and publish approved experiences to [!DNL Content] for reuse and activation.
 
-From [!DNL Activate], push ads to OpenAI Ads Manager through a connected account. Creatives publish inactive so your team performs final checks and controls go-live in ChatGPT Ads Manager.
-
 ## Earlier release notes
 
 +++Notes from 2026.04.16
