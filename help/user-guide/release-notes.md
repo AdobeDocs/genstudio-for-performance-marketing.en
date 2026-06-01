@@ -99,6 +99,10 @@ Brand guidelines land in a single pass, while products and personas start from a
 
 Organizations that require a **[!UICONTROL Brand Manager]** or higher still enforce those guardrails automatically. Publicly reachable brand domains continue to unlock the richest guidance when you scale programs across regions or portfolios.
 
+### ChatGPT ads now available in [!DNL Create], [!DNL Content], and [!DNL Activate]
+
+Conversational AI is a new paid media surface, and [!DNL GenStudio for Performance Marketing] now carries ChatGPT end to end. [Create ChatGPT ad experiences](/help/user-guide/create/create-chatgpt-ad.md) with on-brand copy variations, run brand and channel checks, route work through approvals, and publish approved experiences to [!DNL Content] for reuse and activation.
+
 ## Earlier release notes
 
 +++Notes from 2026.04.16
