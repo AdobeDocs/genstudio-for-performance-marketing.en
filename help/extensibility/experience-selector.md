@@ -27,7 +27,9 @@ Experience Selector is a Micro Frontend (MFE) that provides an `ExperienceSelect
 
 >[!TIP]
 >
-> **API Service Available** The GenStudio API offers a RESTful API for managing experiences. If you would like to use the GenStudio API to manage experiences, please see the [GenStudio API documentation](https://developer.adobe.com/genstudio-api/).
+>**API Service Available** The GenStudio API offers a RESTful API for managing experiences.
+>
+>If you would like to use the GenStudio API to manage experiences, please see the [GenStudio API documentation](https://developer.adobe.com/genstudio-api/).
 
 The GenStudio Experience Selector MFE allows users to:
 
