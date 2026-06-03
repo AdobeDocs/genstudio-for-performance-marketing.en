@@ -23,3 +23,9 @@ GenStudio for Performance Marketing is an Adobe Experience Cloud product and use
 Organizations that use Adobe Journey Optimizer can install the [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md) app from Adobe Exchange to use AJO templates when creating email experiences in GenStudio.
 
 Organizations that use [!DNL Marketo Engage] can install [Marketo for GenStudio](marketo-for-genstudio.md) from Adobe Exchange to use Marketo templates when creating email experiences in GenStudio.
+
+>[!NOTE]
+>
+>**API Service Available** The GenStudio API offers a RESTful API for managing experiences.
+>
+>If you would like to use the GenStudio API to manage experiences, please see the [GenStudio API documentation](https://developer.adobe.com/genstudio-api/).
