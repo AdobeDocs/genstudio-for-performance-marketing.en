@@ -7,23 +7,9 @@ level: Beginner
 ---
 # Collaborative editing
 
-The collaborative editing feature allows draft creators to share paid media drafts on the Horizon canvas with collaborators, assign roles, and work together in real time. 
+The collaborative editing feature allows draft creators to share paid media drafts on the Horizon canvas with collaborators, assign roles, and work together in real time.
 
 Invited collaborators receive a Pulse notification within GenStudio for Performance Marketing and an email with a direct link to the draft. [[!DNL Review and Approvals]](/help/user-guide/approvals/overview.md) can still be used to give others view access only.
-
-## Use cases
-
-### Bring a teammate into an existing draft
-
-A campaign manager has been building a Meta ad draft and needs their copywriter to revise the headlines. They share the draft directly. The copywriter gets a Pulse notification and email with a direct link, opens the draft from **[!UICONTROL Shared with you]**, and edits without the campaign manager having to recreate or export anything.
-
-### Co-edit in real time
-
-A copywriter and an art director are both invited as editors. They work on the draft at the same time, one on headlines and one on images, and see each other's changes live without refreshing or merging files afterward.
-
-### Grant read-only access to stakeholders
-
-A campaign manager shares a draft with an agency partner as a **[!UICONTROL Viewer]**. The partner can review the canvas before the review and approval flow begins, without being able to make changes or trigger publishing.
 
 ## Key capabilities
 
@@ -34,6 +20,16 @@ Collaborative editing on the Horizon canvas includes the following capabilities:
 * **Real-time co-editing**: Artboard elements and chrome fields, including headlines, CTAs, and descriptions, sync live across all editors.
 * **Conflict prevention for review and approval and publishing**: Only one person can initiate review and approval at a time. Only the document owner can publish.
 * **Shared drafts on the Content landing page**: In the **[!UICONTROL Recents]** section under **[!UICONTROL From Adobe Express Templates]**, two tabs organize your drafts: **[!UICONTROL Yours]** (drafts you created) and **[!UICONTROL Shared with you]** (drafts others have given you access to).
+
+## Role reference
+
+All invited collaborators can open and view the draft. The following table lists editing and workflow actions by role.
+
+| Role | Edit artboard elements | Edit chrome fields | Share draft | Initiate review and approval | Publish | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| **[!UICONTROL Owner]** | Yes | Yes | Yes | Yes | Yes | Document creator only |
+| **[!UICONTROL Editor]** | Yes | Yes | Yes | Yes | No | Users explicitly invited as **[!UICONTROL Editor]** |
+| **[!UICONTROL Viewer]** | No | No | No | No | No | Users invited as **[!UICONTROL Viewer]** |
 
 ## Prerequisites
 
@@ -63,16 +59,6 @@ All editors see real-time updates as changes are made to artboard elements and c
 1. Select **[!UICONTROL Shared with you]** to see all drafts others have given you access to.
 1. Select **[!UICONTROL Yours]** to see only drafts you created.
 1. Hover over the shared indicator icon on any row to see the document owner and your permission level.
-
-## Role reference
-
-All invited collaborators can open and view the draft. The following table lists editing and workflow actions by role.
-
-| Role | Edit artboard elements | Edit chrome fields | Share draft | Initiate review and approval | Publish | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| **[!UICONTROL Owner]** | Yes | Yes | Yes | Yes | Yes | Document creator only |
-| **[!UICONTROL Editor]** | Yes | Yes | Yes | Yes | No | Users explicitly invited as **[!UICONTROL Editor]** |
-| **[!UICONTROL Viewer]** | No | No | No | No | No | Users invited as **[!UICONTROL Viewer]** |
 
 ## Coming soon
 
