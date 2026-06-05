@@ -13,13 +13,13 @@ Invited collaborators receive a Pulse notification within GenStudio for Performa
 
 ## Key capabilities
 
-Collaborative editing on the Horizon canvas includes the following capabilities:
+Collaborative editing on the Horizon canvas offers these capabilities:
 
 * **Share drafts with collaborators**: Invite users by email and assign **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles. Editors can also share the draft with others.
 * **Invite notifications**: Invited collaborators receive a Pulse notification within GenStudio for Performance Marketing and an email with a direct link to the draft.
 * **Real-time co-editing**: Artboard elements and chrome fields, including headlines, CTAs, and descriptions, sync live across all editors.
 * **Conflict prevention for review and approval and publishing**: Only one person can initiate review and approval at a time. Only the document owner can publish.
-* **Shared drafts on the Content landing page**: In the **[!UICONTROL Recents]** section under **[!UICONTROL From Adobe Express Templates]**, two tabs organize your drafts: **[!UICONTROL Yours]** (drafts you created) and **[!UICONTROL Shared with you]** (drafts others have given you access to).
+* **Shared drafts on the [!DNL GenStudio for Performance Marketing] [!DNL Content] landing page**: In the **[!UICONTROL Recents]** section under **[!UICONTROL From Adobe Express Templates]**, two tabs organize your drafts: **[!UICONTROL Yours]** (drafts you created) and **[!UICONTROL Shared with you]** (drafts others have given you access to).
 
 ## Role reference
 
