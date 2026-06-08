@@ -251,15 +251,15 @@ To convert frames:
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
    * Click **[!UICONTROL Transfer to Photoshop]** to cache the converted file for immediate use in GenStudio Photoshop.
 ![Transfer to GenStudio Photoshop button](./transfer-to-ps-button.png){width="40%"}
-1. Next, share your Figma file link. The plugin needs a Figma file URL to complete the conversion. Add the URL for your document. This needs to be done ONLY ONCE PER FILE:
+1. Next, share your Figma file link. The plugin needs a Figma file URL to complete the conversion. Add the URL for your document.
 
    1. In Figma, click **[!UICONTROL Share]** in the upper-right corner of the canvas.
    1. In **[!UICONTROL Share this file]**, click **[!UICONTROL Copy link]**.
-   1. Paste the copied link into the **[!UICONTROL Figma File link]** field in the [!DNL GenStudio for Performance Marketing] plugin dialog.
+   1. Paste the copied link into the **[!UICONTROL Figma File link]** field in the [!DNL GenStudio for Performance Marketing] plugin dialog. This needs to be done ONCE PER FILE:
   ![File Key Required dialog](./file-key-required.png){width="35%"}
-    1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
-1. A pop-up will appear asking for allowed access to your account. This only needs to be done once. Click **[!UICONTROL Allow access]**.
-![Allow access to your account](./figma-access-request.png){width="35%"}
+   1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
+1. A pop-up will appear asking for allowed access to read the contents and metadata of your file. This only needs to be done once. Click **[!UICONTROL Allow access]**.
+![Allow access to read the contents and metadata of your file](./figma-access-request.png){width="35%"}
 1. In Photoshop, open [!DNL GenStudio Photoshop] and click the **[!UICONTROL Import]** tab.
 1. Do one of the following steps to select the file:
 
