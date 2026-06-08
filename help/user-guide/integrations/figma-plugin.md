@@ -261,7 +261,7 @@ To convert frames:
 1. A pop-up will appear asking for access to read the contents and metadata of your file. This only needs to be done once for all files. Click **[!UICONTROL Allow access]**.
 ![Allow access to read the contents and metadata of your file](./figma-access-request.png){width="35%"}
 1. In Photoshop, open [!DNL GenStudio Photoshop] and click the **[!UICONTROL Import]** tab.
-1. Do one of the following steps to select the converted file(s):
+1. To select the converted file(s) do one of the following steps :
 
    * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to GenStudio Photoshop]** from the cached files list, or
    * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
