@@ -257,8 +257,8 @@ To convert frames:
    1. In **[!UICONTROL Share this file]**, click **[!UICONTROL Copy link]**.
    1. Paste the copied link into the **[!UICONTROL Figma File link]** field in the [!DNL GenStudio for Performance Marketing] plugin dialog. This needs to be done FOR EACH FILE:
   ![File Key Required dialog](./file-key-required.png){width="35%"}
-   1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
-1. A pop-up will appear asking for access to read the contents and metadata of your file. This only needs to be done once for all files. Click **[!UICONTROL Allow access]**.
+   1. Click **[!UICONTROL Submit]**.
+1. A pop-up will appear asking for access to read the contents and metadata of your file. This only needs to be done once for all files. Click **[!UICONTROL Allow access]**. The plugin will read the selected frames in Figma and convert them to a JSON document, an intermediary format for the file data.
 ![Allow access to read the contents and metadata of your file](./figma-access-request.png){width="35%"}
 1. In Photoshop, open [!DNL GenStudio Photoshop] and click the **[!UICONTROL Import]** tab.
 1. To select the converted file(s) do one of the following steps :
