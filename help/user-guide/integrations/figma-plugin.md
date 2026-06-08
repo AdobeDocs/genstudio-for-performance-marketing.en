@@ -246,7 +246,7 @@ To convert frames:
 
 1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
 1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
-1. Do one of the following:
+1. To migrate the selected frame(s), do one of the following:
 
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
    * Click **[!UICONTROL Transfer to Photoshop]** to cache the converted file for immediate use in GenStudio Photoshop.
@@ -258,10 +258,10 @@ To convert frames:
    1. Paste the copied link into the **[!UICONTROL Figma File link]** field in the [!DNL GenStudio for Performance Marketing] plugin dialog. This needs to be done ONCE PER FILE:
   ![File Key Required dialog](./file-key-required.png){width="35%"}
    1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
-1. A pop-up will appear asking for allowed access to read the contents and metadata of your file. This only needs to be done once. Click **[!UICONTROL Allow access]**.
+1. A pop-up will appear asking for access to read the contents and metadata of your file. This only needs to be done once for all files. Click **[!UICONTROL Allow access]**.
 ![Allow access to read the contents and metadata of your file](./figma-access-request.png){width="35%"}
 1. In Photoshop, open [!DNL GenStudio Photoshop] and click the **[!UICONTROL Import]** tab.
-1. Do one of the following steps to select the file:
+1. Do one of the following steps to select the convertedfile:
 
    * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to GenStudio Photoshop]** from the cached files list, or
    * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
