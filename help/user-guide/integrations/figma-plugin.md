@@ -246,21 +246,22 @@ To convert frames:
 
 1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
 1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
-1. Do one of the following:
+1. To migrate the selected frame(s), do one of the following:
 
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
-   * Click **[!UICONTROL Transfer to GenStudio Photoshop]** to cache the converted file for immediate use in GenStudio Photoshop.
+   * Click **[!UICONTROL Transfer to Photoshop]** to cache the converted file for immediate use in GenStudio Photoshop.
 ![Transfer to GenStudio Photoshop button](./transfer-to-ps-button.png){width="40%"}
-1. When the **[!UICONTROL File Key Required]** dialog appears, the plugin needs a Figma file URL to complete the conversion. Add the URL for your document:
+1. Next, share your Figma file link. The plugin needs a Figma file URL to complete the conversion. Add the URL for your document.
 
    1. In Figma, click **[!UICONTROL Share]** in the upper-right corner of the canvas.
    1. In **[!UICONTROL Share this file]**, click **[!UICONTROL Copy link]**.
-   1. Paste the copied link into the **[!UICONTROL Figma File URL]** field in the plugin dialog.
-
-1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
-![File Key Required dialog](./file-key-required.png){width="35%"}
-1. In Photoshop, open GenStudio Photoshop and click the **[!UICONTROL Import]** tab.
-1. Do one of the following:
+   1. Paste the copied link into the **[!UICONTROL Figma File link]** field in the [!DNL GenStudio for Performance Marketing] plugin dialog. This needs to be done FOR EACH FILE:
+  ![File Key Required dialog](./file-key-required.png){width="35%"}
+   1. Click **[!UICONTROL Submit]**. The plugin reads the selected frames in Figma and converts them to a JSON document, an intermediary format for the file data.
+1. A pop-up will appear asking for access to read the contents and metadata of your file. This only needs to be done once for all files. Click **[!UICONTROL Allow access]**.
+![Allow access to read the contents and metadata of your file](./figma-access-request.png){width="35%"}
+1. In Photoshop, open [!DNL GenStudio Photoshop] and click the **[!UICONTROL Import]** tab.
+1. To select the converted file(s) do one of the following steps :
 
    * Click **[!UICONTROL From Plugin]** to choose a file converted with **[!UICONTROL Transfer to GenStudio Photoshop]** from the cached files list, or
    * Click **[!UICONTROL Upload JSON]** to browse to and select the JSON file to upload.
