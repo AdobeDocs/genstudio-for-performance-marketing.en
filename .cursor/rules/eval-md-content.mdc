@@ -47,7 +47,7 @@ Uses for this agent:
 - Do **not** put quotation marks around UI strings; use `[!UICONTROL]` (and **bold** in steps).
 - Avoid **em dashes** in technical prose; prefer commas or colons.
 - Use the **Oxford comma**; keep sentences short (about **35 words** or fewer when practical).
-- For Experience Cloud product UI captures, use the **Light** theme unless the topic documents dark mode explicitly.
+- For CX Enterprise product UI captures, use the **Light** theme unless the topic documents dark mode explicitly.
 - In prose, write **file name** (two words). File slugs: lowercase, **hyphens** (no underscores), descriptive (`action-topic.md` for tasks).
 
 ### GenStudio for Performance Marketing (this product)
