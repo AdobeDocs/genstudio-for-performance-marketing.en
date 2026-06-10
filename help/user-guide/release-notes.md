@@ -186,7 +186,7 @@ Marketers can now dynamically swap logos within templates directly in the [!DNL 
 
 ### Out-of-the-box translation for Paid Media and Email
 
-* Instantly translate approved paid media and email experiences into 40+ languages directly within GenStudio for Performance Marketing. 
+* Instantly translate approved paid media and email experiences into 40+ languages directly within GenStudio for Performance Marketing. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).
 * Using Azure Open AI translation services, teams can bulk translate content into multiple target languages simultaneously.
 
 ### PDF export for experiences

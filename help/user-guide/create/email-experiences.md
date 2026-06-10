@@ -112,3 +112,5 @@ When your organization enables content fragment swap, you can expect:
 ![Content fragments UI pane](./cf-pane.png){width="500" zoomable="yes"}
 
 Your organization chooses which content fragment sources and repositories are available. See [Find content fragment extension](/help/extensibility/deploy-app.md#find-content-fragment-extension) for how administrators configure sources and how authors swap copy from the Canvas with **[!UICONTROL Swap]**.
+
+You can also translate an approved email experience into multiple languages on the HTML canvas. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).

@@ -160,6 +160,10 @@ When adding assets to [!DNL Content], they are stored in the `GenStudio assets` 
 
 1. In the _Delete asset_ popup, verify the asset and click **[!UICONTROL Delete]**.
 
+## Translate experiences
+
+You can translate an approved experience into one or more languages from the _[!UICONTROL Experiences]_ gallery or from an experience detail view. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md#translate-from-content).
+
 ## Export experiences
 
 You can select one or more approved experiences for download in a format compatible with your target channel. The downloaded file is named using the date of export: `2025-06-15-export.zip`. When you unzip the file, there is a folder for each channel type that includes the exported assets in the formats you selected. Each exported asset retains its original asset name as the filename.

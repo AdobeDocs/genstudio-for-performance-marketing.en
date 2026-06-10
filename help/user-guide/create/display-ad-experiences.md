@@ -38,6 +38,8 @@ When generating display ad experiences four variations are created and shown in 
 
 See [Display ad template guidelines](/help/user-guide/templates/display-template.md) for information about supported dimensions, recognized fields names, and more.
 
+You can translate an approved display ad experience into multiple languages on the HTML canvas. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).
+
 Editable sections of a display ad experience include:
 
 * Headline

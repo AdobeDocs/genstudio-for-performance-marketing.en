@@ -101,3 +101,8 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 ### Work with templates
 
 Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements. Learn about basic template elements and procedures in [Work with Templates](../templates/use-templates.md). And deep-dive into building templates with the [Customize a template](../templates/customize-template.md) topic.
+
+### Translate approved experiences
+
+You can translate approved email and paid media experiences into multiple languages directly from the [!DNL Content] _[!UICONTROL Experiences]_ gallery or from the [!DNL Create] landing page. See [Translate from Content](../create/translate-experiences.md#translate-from-content) or [Translate from Create](../create/translate-experiences.md#translate-from-create).
+

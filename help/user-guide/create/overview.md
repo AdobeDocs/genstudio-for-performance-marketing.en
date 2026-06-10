@@ -185,6 +185,10 @@ Drafts are automatically saved and shown in the _Recents_ section of [!DNL Creat
 
 Click the gallery view (grid) icon to display _Recents_ items in either a grid or table view.
 
+### Translate and localize
+
+You can translate approved email and paid media experiences into multiple languages from the [!DNL Create] landing page or from [!DNL Content]. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).
+
 ### Manage variants
 
 GenStudio for Performance Marketing allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).
