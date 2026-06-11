@@ -41,6 +41,7 @@ role: User
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Banner experiences](create/banner-experiences.md)
   + [Manage variants](create/manage-variants.md)
+  + [Collaborative editing](create/collaborative-editing.md)
   + [Use Logo Swap](create/logo-swap.md)
   + [Set up Logo Swap in templates](create/logo-swap-setup.md)
   + [Create an email experience](create/create-email-experience.md)
