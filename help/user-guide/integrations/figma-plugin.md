@@ -249,6 +249,11 @@ To convert frames:
 
 1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
 1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
+
+   >[!NOTE]
+   >
+   > Frames cannot be within a section during conversion. Select frames that are not nested inside a section node.
+
 1. To migrate the selected frame(s), do one of the following:
 
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
