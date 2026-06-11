@@ -18,17 +18,16 @@ Collaborative editing on the Horizon canvas offers these capabilities:
 * **Share drafts with collaborators**: Invite users by email and assign **[!UICONTROL Editor]** or **[!UICONTROL Viewer]** roles. Editors can also share the draft with others.
 * **Invite notifications**: Invited collaborators receive a Pulse notification within GenStudio for Performance Marketing and an email with a direct link to the draft.
 * **Real-time co-editing**: Artboard elements and chrome fields, including headlines, CTAs, and descriptions, sync live across all editors.
-* **Conflict prevention for review and approval and publishing**: Only one person can initiate review and approval at a time. Only the document owner can publish.
 * **Shared drafts on the [!DNL GenStudio for Performance Marketing] [!DNL Content] landing page**: In the **[!UICONTROL Recents]** section under **[!UICONTROL From Adobe Express Templates]**, two tabs organize your drafts: **[!UICONTROL Yours]** (drafts you created) and **[!UICONTROL Shared with you]** (drafts others have given you access to).
 
-## Role reference
+### Role reference
 
 All invited collaborators can open and view the draft. The following table lists editing and workflow actions by role.
 
 | Role | Edit artboard elements | Edit chrome fields | Share draft | Initiate review and approval | Publish | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | **[!UICONTROL Owner]** | Yes | Yes | Yes | Yes | Yes | Document creator only |
-| **[!UICONTROL Editor]** | Yes | Yes | Yes | Yes | No | Users explicitly invited as **[!UICONTROL Editor]** |
+| **[!UICONTROL Editor]** | Yes | Yes | Yes | Yes | Yes | Users explicitly invited as **[!UICONTROL Editor]** |
 | **[!UICONTROL Viewer]** | No | No | No | No | No | Users invited as **[!UICONTROL Viewer]** |
 
 ## Prerequisites
@@ -50,7 +49,7 @@ Invited collaborators receive a Pulse notification within GenStudio for Performa
 1. Open the draft from the invite link or from the **[!UICONTROL Shared with you]** tab on the Content landing page.
 1. Edit artboard elements and chrome fields as needed.
 
-All editors see real-time updates as changes are made to artboard elements and chrome fields.
+All editors see real-time updates as changes are made to artboard elements and chrome fields. Presence indicators show when multiple editors are in a draft and which sections are being edited.
 
 ## Find shared content
 
@@ -59,10 +58,3 @@ All editors see real-time updates as changes are made to artboard elements and c
 1. Select **[!UICONTROL Shared with you]** to see all drafts others have given you access to.
 1. Select **[!UICONTROL Yours]** to see only drafts you created.
 1. Hover over the shared indicator icon on any row to see the document owner and your permission level.
-
-## Coming soon
-
-The following collaborative editing enhancements are planned:
-
-* **Live cursor presence**: See where co-editors are working on the canvas in real time.
-* **Element-level presence indicators**: See which specific elements teammates are editing.
