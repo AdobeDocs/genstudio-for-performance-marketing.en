@@ -7,7 +7,9 @@ level: Beginner
 ---
 # Translate and localize experiences
 
-Adobe GenStudio for Performance Marketing offers out-of-the-box translation on the HTML canvas so global and regional marketers can scale approved experiences into multiple languages without external translation tools. The feature uses Azure Open AI by default. Your organization can also connect a preferred translation service through [translation extensions](/help/extensibility/deploy-app.md#find-translation-extensions).
+Adobe [!DNL GenStudio for Performance Marketing] offers out-of-the-box translation on the HTML canvas so global and regional marketers can scale approved experiences into multiple languages without external translation tools.
+
+The feature uses Azure Open AI by default. Your organization can also connect a preferred translation service through [translation extensions](/help/extensibility/deploy-app.md#find-translation-extensions).
 
 Translation starts from an approved experience saved in [!DNL Content]. The source experience can be in any language. Each translated variant opens on the [!DNL Create] canvas as an editable draft that you can export, send for review, and publish as a separate experience.
 
@@ -26,16 +28,18 @@ If your organization registers a custom translation extension, GenStudio for Per
 
 ## Translate from [!DNL Create] {#translate-from-create}
 
-Start a translation from the [!DNL Create] landing page when you already know you want to localize an approved experience.
+Start a translation from the [!DNL Create] landing page to localize an approved experience.
 
 ![Translate and localize copy on the Create landing page](./translate-create-workflow.png){width="600" zoomable="yes"}
 
 **To translate from [!DNL Create]**:
 
-1. In [!DNL Create], locate the _Content creation_ section.
+1. In [!DNL Create], scroll to the _Content creation_ section.
 1. Click **[!UICONTROL Translate & localize copy]**.
-1. Select the approved email or paid media experience that you want to translate.
-1. Continue with [Select target languages](#select-target-languages).
+1. Select the approved email or paid media experience that you want to translate. Click the **[!UICONTROL Use]** button.
+1. Select target languages from the list of supported languages. Click **[!UICONTROL Translate]**.
+
+Translated variants appear on the canvas. 
 
 ## Translate from [!DNL Content] {#translate-from-content}
 
@@ -51,43 +55,7 @@ You can also start translation from [!DNL Content] when you are browsing approve
 1. Locate the approved experience that you want to translate.
 1. Click the options (three dots) menu on the experience card.
 1. Click **[!UICONTROL Translate]**.
-1. Continue with [Select target languages](#select-target-languages).
-
-### From an experience detail view
-
-![Translate button on an experience detail view](./translate-content-canvas.png){width="600" zoomable="yes"}
-
-**To translate from an experience detail view**:
-
-1. In [!DNL Content], open the **[!UICONTROL Experiences]** tab and select an approved experience.
-1. In the experience detail view, click **[!UICONTROL Translate]** in the toolbar.
-1. Continue with [Select target languages](#select-target-languages).
-
-## Select target languages {#select-target-languages}
-
-After you choose a source experience, select one or more target languages. GenStudio for Performance Marketing supports bulk translation into many languages at once. Paid media experiences support 40+ languages. Email translation supports the following locales:
-
-* Chinese (Simplified)
-* Chinese (Traditional)
-* English (Australian)
-* English (UK)
-* English (US)
-* French
-* German
-* Italian
-* Japanese
-* Korean
-* Portuguese (Brazil)
-* Portuguese (Portugal)
-* Spanish (Spain)
-* Thai
-
-**To select languages and generate translations**:
-
-1. In the language picker, select one or more target languages.
-1. Confirm your selection.
-
-   Translations load on the [!DNL Create] canvas. The approved source experience appears first in a read-only state. Translated variants appear after the source.
+1. Select target languages from the list of supported languages. Click **[!UICONTROL Translate]**.
 
 ## Work with translations on the canvas
 
@@ -101,8 +69,10 @@ Fragment regeneration is not supported for translated experiences.
 
 **To remove a translated language from the canvas**:
 
-1. On the [!DNL Create] canvas, click the options (three dots) menu on the translated variant.
+1. On the [!DNL Create] canvas, click the options (three dots) menu on the translated variant header.
 1. Click **[!UICONTROL Delete]**.
+
+![Delete a translated language from the canvas](./remove-translation-variant.png){width="500" zoomable="yes"}
 
    The translated language is removed from the canvas.
 
