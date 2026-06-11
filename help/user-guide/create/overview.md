@@ -195,7 +195,7 @@ Draft creators can now share their drafts with collaborators, assign roles, and 
 
 * **Read-only access** for curious stakeholders to see the canvas before the R&A flow begins.
 
-Learn how to [use collaborative editing with your drafts]().
+Learn how to [use collaborative editing with your drafts](collaborative-editing.md).
 
 ### Manage variants
 
