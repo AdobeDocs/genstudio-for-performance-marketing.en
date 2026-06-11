@@ -1,5 +1,5 @@
 ---
-cloud: Experience Cloud
+cloud: CX Enterprise
 solution: GenStudio for Performance Marketing
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d

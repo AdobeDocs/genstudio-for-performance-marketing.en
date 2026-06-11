@@ -18,7 +18,7 @@ This topic is for **administrators** who install the app, gather credentials fro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
 
-1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL Experience Cloud]**.
+1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL CX Enterprise]**.
 1. Open the [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio) listing.
 ![Marketo for GenStudio listing on Adobe Exchange](/help/extensibility/marketo-adobe-exchange.png){width="75%"}
 1. Select **[!UICONTROL Free]** to request the app for your organization.
