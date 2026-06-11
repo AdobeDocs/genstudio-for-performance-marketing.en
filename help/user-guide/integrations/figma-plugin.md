@@ -220,6 +220,9 @@ A ZIP file is created in the plugin panel, or a link to **[!UICONTROL Open in Ge
 
 You can use the Figma plugin to convert a Figma frame, multiple frames, or an entire document to Photoshop format and export it for use with [GenStudio Photoshop](photoshop-plugin.md). Currently, only major properties such as visibility, font size, and basic layer attributes are supported during conversion. Features such as strikethrough, superscript, subscript, opacity as percentages, gradients, and similar advanced properties are not yet supported.
 
+<!-- GS-34076: Demo video placement is hardcoded in the tool UI; keep this video above "The plugin supports the following Figma layer types for conversion." -->
+>[!VIDEO](https://video.tv.adobe.com/v/3492271?learn=on)
+
 The plugin supports the following Figma layer types for conversion:
 
 * **Frame**
@@ -246,6 +249,11 @@ To convert frames:
 
 1. Open the Firefly Enterprise and GenStudio plugin in Figma and click the **[!UICONTROL Export]** tab in the plugin UI.
 1. On the canvas, select the frame or frames to export. You can choose a single frame or multiple frames.
+
+   >[!NOTE]
+   >
+   > Frames cannot be within a section during conversion. Select frames that are not nested inside a section node.
+
 1. To migrate the selected frame(s), do one of the following:
 
    * Click **[!UICONTROL Export]** to export the converted file to a chosen location, or
