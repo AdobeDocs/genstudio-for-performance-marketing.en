@@ -75,7 +75,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2026.06.11 {#latest}
 
-**NEW FEATURES**
+**NEW FEATURES:**
 
 ### YouTube Shorts in [!DNL Create] and [!DNL Activate]
 
