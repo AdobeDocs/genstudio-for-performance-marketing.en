@@ -710,6 +710,6 @@ Major product features include:
 
 **[!DNL Insights]** offers real-time assessment of content performance, helping marketers optimize their strategies and make data-driven decisions.
 
-GenStudio for Performance Marketing integrates with other Adobe Experience Cloud products including Adobe Express and Adobe AEM Assets.
+GenStudio for Performance Marketing integrates with other Adobe CX Enterprise products including Adobe Express and Adobe AEM Assets.
 
 +++
