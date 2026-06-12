@@ -75,29 +75,27 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ## 2026.06.11 {#latest}
 
+**NEW FEATURES**
+
 ### YouTube Shorts in [!DNL Create] and [!DNL Activate]
 
-Short-form video is now a governed channel in [!DNL GenStudio for Performance Marketing]. [Create on-brand YouTube Shorts](/help/user-guide/create/overview.md) in the [!DNL Create] workflow with brand, product, and persona guardrails applied from the start, then publish approved experiences to [!DNL Content] for reuse across campaigns.
+Short-form video is now a governed channel in [!DNL GenStudio for Performance Marketing]. Create and activate on-brand YouTube Shorts in the [!DNL Create] workflow with brand, product, and persona guardrails applied from the start.
 
 Activation closes the loop without a manual handoff: push Shorts into Google Ads Demand Gen campaigns or upload them as unlisted videos on YouTube when your team traffics YouTube ads through DV360.
 
 ### CM360 video activation
 
-Video display ads created in GenStudio no longer stop at the CM360 activation gate. Select governed video experiences from the display channel, preview them in the activation workflow, and [publish creatives directly to Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) alongside image and HTML5 formats.
-
-Ad-type filters help you browse by creative type, and video activations support save-and-resume drafts so trafficking teams can finish complex publishes on their schedule.
+Video display ads created in [!DNL GenStudio for Performance Marketing] no longer stop at the CM360 activation gate. Select governed video experiences from the display channel, preview them in the activation workflow, and [publish creatives directly to Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) alongside image and HTML5 formats.
 
 ### Meta App Promotion campaigns in [!DNL Activate]
 
-Mobile app marketers can now [activate experiences to Meta campaigns](/help/user-guide/activation/activate-meta-ad.md) with the App Promotion objective, including ad sets that target App Installs and App Events. App Promotion campaigns appear in the activation picker alongside Awareness, Traffic, Engagement, Leads, and Sales.
-
-GenStudio applies the app store URL from your ad set when Meta requires it, so governed creatives reach the right promoted app without a separate upload in Meta Ads Manager. Single and multi-aspect-ratio image and video formats are supported.
+Mobile app marketers can now [activate experiences to Meta campaigns](/help/user-guide/activation/activate-meta-ad.md) with the App Promotion objective, including ad sets that target App Installs and App Events. Previously, only non-app campaign objectives were supported.
 
 ### Translation on the Horizon canvas
 
-Out-of-the-box translation now extends to paid media experiences on the Horizon canvas, so regional teams can localize approved Meta, LinkedIn, and Display drafts without exporting copy to external tools.
+Out-of-the-box translation now extends to paid media experiences on the Horizon Canvas, so regional teams can localize approved Meta, LinkedIn, and Display drafts without exporting copy to external tools.
 
-Start from an approved experience in [!DNL Content], generate translated variants on the canvas, and publish each language as its own governed experience. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md) for the broader translation workflow.
+See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md) for the broader translation workflow.
 
 ### Multiple images per pod in email templates
 
