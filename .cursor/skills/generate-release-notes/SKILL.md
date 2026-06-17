@@ -32,6 +32,7 @@ If new information belongs in the doc, place it under the current **`{#latest}`*
 
 Work in this order. Copy the checklist and track progress for multi-step edits.
 
+0. [ ] If **Jira** and **Confluence** MCP are available, run [consume-release-sources](../consume-release-sources/SKILL.md) first to ingest the work ticket, ceremony wiki (GA and Beta feature groups), and KT pages. If MCP is unavailable, use pasted KT/wiki content and [reference.md](reference.md#internal-sources-kt-and-release-wikis) field mapping.
 1. [ ] Open `help/user-guide/release-notes.md` and read the current `## YYYY.MM {#latest}` block. Treat **Earlier release notes** as **read-only** context unless you are performing the archive step in step 2.
 2. [ ] If adding a **new** monthly release: archive the current latest (see [Archive previous latest](#archive-previous-latest)).
 3. [ ] Add or edit **only** the top `## YYYY.MM {#latest}` section (newest month at top of the release list).
@@ -131,7 +132,7 @@ Before completing the task:
 
 ## Content sources (summary)
 
-When pulling from Knowledge Transfer docs or release wikis internally, map fields as described in [reference.md](reference.md#internal-sources-kt-and-release-wikis). The shipped page must read as standalone user documentation.
+When **Jira/Confluence MCP** is available, start with [consume-release-sources](../consume-release-sources/SKILL.md) (ceremony wiki → KT pages → structured handoff). Otherwise map pasted Knowledge Transfer or release wiki fields as described in [reference.md](reference.md#internal-sources-kt-and-release-wikis). The shipped page must read as standalone user documentation.
 
 ## Optional: polish new subsections
 
