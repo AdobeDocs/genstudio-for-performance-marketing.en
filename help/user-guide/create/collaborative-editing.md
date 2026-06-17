@@ -24,11 +24,11 @@ Collaborative editing on the Horizon canvas offers these capabilities:
 
 All invited collaborators can open and view the draft. The following table lists editing and workflow actions by role.
 
-| Role | Edit artboard elements | Edit chrome fields | Share draft | Initiate review and approval | Publish | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| **[!UICONTROL Owner]** | Yes | Yes | Yes | Yes | Yes | Document creator only |
-| **[!UICONTROL Editor]** | Yes | Yes | Yes | Yes | Yes | Users explicitly invited as **[!UICONTROL Editor]** |
-| **[!UICONTROL Viewer]** | No | No | No | No | No | Users invited as **[!UICONTROL Viewer]** |
+| Role | Edit artboard elements | Edit chrome fields | Share draft | Delete draft | Initiate review and approval | Publish | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **[!UICONTROL Owner]** | Yes | Yes | Yes | Yes | Yes | Yes | Document creator only |
+| **[!UICONTROL Editor]** | Yes | Yes | Yes | No | Yes | Yes | Users explicitly invited as **[!UICONTROL Editor]** |
+| **[!UICONTROL Viewer]** | No | No | No | No | No | No | Users invited as **[!UICONTROL Viewer]** |
 
 ## Prerequisites
 
