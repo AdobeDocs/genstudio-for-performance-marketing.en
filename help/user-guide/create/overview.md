@@ -185,6 +185,22 @@ Drafts are automatically saved and shown in the _Recents_ section of [!DNL Creat
 
 Click the gallery view (grid) icon to display _Recents_ items in either a grid or table view.
 
+### Translate and localize
+
+You can translate approved email and paid media experiences into multiple languages from the [!DNL Create] landing page or from [!DNL Content]. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).
+
+### Collaborative editing
+
+Draft creators can now share their drafts with collaborators, assign roles, and work to craft content together in real time. This feature offers a few significant workflow advatages beyond simple review and approval:
+
+* **Easy collaboration on an existing draft** with quick notifications, without having to recreate or export anything.
+
+* **Real-time co-editing** between team members live without refreshing or merging files afterward.
+
+* **Read-only access** for curious stakeholders to see the canvas before the R&A flow begins.
+
+Learn how to [use collaborative editing with your drafts](collaborative-editing.md).
+
 ### Manage variants
 
 GenStudio for Performance Marketing allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).

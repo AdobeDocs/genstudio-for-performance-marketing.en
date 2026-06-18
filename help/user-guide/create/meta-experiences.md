@@ -42,6 +42,10 @@ When generating Meta experiences four variations are created and shown in the Ca
 
 GenStudio for Performance Marketing supports both [standard and custom size Meta ads](/help/user-guide/templates/meta-template.md).
 
+
+You can translate an approved Meta experience into multiple languages on the HTML canvas. See [Translate and localize experiences](/help/user-guide/create/translate-experiences.md).
+
+
 Editable sections of an email experience include:
 
 * Headline

@@ -8,6 +8,7 @@ alwaysApply: false
 
 When this file is open or when editing `help/user-guide/release-notes.md`, follow the full workflow in the project skill:
 
+- `.cursor/skills/consume-release-sources/SKILL.md` — Phase 0 MCP ingest (Jira ticket → ceremony wiki → KT pages)
 - `.cursor/skills/generate-release-notes/SKILL.md` — main checklist and rules
 - `.cursor/skills/generate-release-notes/examples.md` — paste-ready patterns
 - `.cursor/skills/generate-release-notes/reference.md` — frontmatter notes, KT field mapping, doc paths

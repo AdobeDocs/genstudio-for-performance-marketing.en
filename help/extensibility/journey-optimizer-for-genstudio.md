@@ -19,7 +19,7 @@ This topic is for **administrators and developers** who install the app, create 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483287?learn=on)
 
-1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL Experience Cloud]**.
+1. Open [Adobe Exchange](https://exchange.adobe.com) and go to **[!UICONTROL CX Enterprise]**.
 1. Open the [Journey Optimizer for GenStudio](https://exchange.adobe.com/apps/ec/abpopqqr1q/journey-optimizer-for-genstudio) listing.
 ![Journey Optimizer for GenStudio listing on Adobe Exchange, including requirements and Free install](/help/extensibility/ajo-adobe-exchange.png){width="75%"}
 1. Select **[!UICONTROL Free]** to request the app for your organization.
@@ -30,7 +30,7 @@ This topic is for **administrators and developers** who install the app, create 
 Create a **project** in the [Adobe Developer Console](https://developer.adobe.com/console/) that provides OAuth credentials for the Journey Optimizer API. You will need values such as **Client ID**, **Client Secret**, **Org ID**, and **Scope** when you configure the app in Exchange.
 
 1. Sign in to the Adobe Developer Console and create a **new project**.
-1. Add the **Adobe Journey Optimizer (AJO) API** to the project by clicking **[!UICONTROL Add API]** and selecting **[!UICONTROL Adobe Journey Optimizer]** from the **[!DNL Experience Cloud]** product APIs list.
+1. Add the **Adobe Journey Optimizer (AJO) API** to the project by clicking **[!UICONTROL Add API]** and selecting **[!UICONTROL Adobe Journey Optimizer]** from the **[!DNL CX Enterprise]** product APIs list.
 1. Generate credentials in the project workspace and copy **Client ID**, **Client Secret**, **Org ID**, **Scope**, and any other values your deployment flow asks for. Store them securely for the next section.
 
 >[!NOTE]
