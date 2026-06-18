@@ -99,9 +99,9 @@ role: User
   + [Campaigns](insights/campaigns.md)
   + [Published Experiences details](insights/published-experiences.md)
   + [Media](insights/media.md)
-  + [Attributes](insights/attributes.md)
   + [Ad Tags](insights/ad-tags.md)
-  + Attribute categories {#categories}
+  + Attributes {#attributes}
+    + [Attributes overview](insights/attributes.md)
     + [Image features](insights/image-features.md)
     + [Video features](insights/video-features.md)
     + [Text features](insights/text-features.md)

@@ -176,6 +176,26 @@ Explore the details in [Using Adobe Express templates in GenStudio for Performan
 
 You can now create, approve, and activate TikTok in-feed video ads from GenStudio for Performance Marketing. Generate ads easily in the [!DNL Create] workflow, then publish the experience to [!DNL Content]. Use [!DNL Insights] for TikTok to monitor performance and inform the next creative refresh.
 
+### Content Intelligence Featurization V4
+
+Featurization V4 represents a comprehensive upgrade from V3, introducing an advertising-first design with many new advertising-specific features across image, text, and video content types.
+
+Benefits with V4 include:
+
+* **Advertising-First Design**: Purpose-built for advertising analysis with comprehensive CTA/Offer/Logo analysis suite (18 combined features).
+* **Granular Taxonomy**: 249% increase in total features with clear categorization and consistent feature definitions across image/text/video.
+* **Production Quality Assessment**: 13 video quality features for technical quality assessment, mobile optimization, and production type classification (CLC/Studio/UGC).
+* **Enhanced Semantic Understanding**: New capabilities including Brand Personas, Human Wants, Cognitive Triggers, and comprehensive entity recognition.
+* **Cross-Channel Consistency**: Unified features across content types enabling cross-channel advertising analysis.
+* **Mobile Optimization**: Dedicated features for aspect ratio, placement fit, and mobile-native detection.
+
+**Major Feature additions:**
+
+* Advertising Suite (20+ features): CTA/Offer/Logo analysis, Co-branding, Influencer detection
+* Campaign & Product Context (7 features): Product, Campaign Objective/Theme, Target Audience, Country, Geo
+* Video Quality Metrics (13 features): Technical quality, Production classification, Mobile optimization
+* Entity Recognition (9 features): Influencer, Events, Venues, Brand/Product Mentions, Popular Media
+
 +++
 
 +++Notes from 2026.01.15
