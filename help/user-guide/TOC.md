@@ -101,7 +101,7 @@ role: User
   + [Media](insights/media.md)
   + [Ad Tags](insights/ad-tags.md)
   + Attributes {#attributes}
-    + [Attributes overview](insights/attributes.md)
+    + [About Attributes](insights/attributes.md)
     + [Image features](insights/image-features.md)
     + [Video features](insights/video-features.md)
     + [Text features](insights/text-features.md)
