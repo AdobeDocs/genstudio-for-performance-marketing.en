@@ -40,7 +40,7 @@ topic_v2:
 ---
 # Attributes overview
 
-The [!DNL Insights] _[!UICONTROL Attributes]_ view shows a list of attributes used in ad campaigns for the selected channel account.
+The [!DNL Insights] _[!UICONTROL Attributes]_ view shows a list of attributes used in ad campaigns for the selected channel account. The latest version of the attributes is V4. For release information about V4, see [Content Intelligence Featurization V4](/help/user-guide/release-notes.md#content-intelligence-featurization-v4) in the Release Notes.
 
 {{connect-insights}}
 
