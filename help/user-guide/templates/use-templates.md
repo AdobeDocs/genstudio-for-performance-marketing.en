@@ -105,13 +105,13 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 **To add a template**:
 
-1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL HTML Templates]** section in the top bar.
 
-2. Click **[!UICONTROL Add template]**.
+1. Click **[!UICONTROL + Add template]**.
 
-3. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
+1. In the _[!UICONTROL Add your approved template]_ pane, choose the template type. Then browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-4. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
+1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
    Example Preview for an email template:
 
@@ -119,20 +119,20 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
+   >If details in the template are not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
 
-5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
-6. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
+1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
-   - **Meta**: requires Aspect ratio
-   - **Banner and Display ad**: requires Dimensions
+   - **Meta**: requires aspect ratio
+   - **Banner and Display ad**: requires dimensions
 
-7. Add as many details as you can to improve template identification in searches and filtering.
+1. Add as many details as you can to improve template identification in searches and filtering.
 
-8. Click **[!UICONTROL Done]**.
+1. Click **[!UICONTROL Done]**.
 
 ### Refresh template
 
