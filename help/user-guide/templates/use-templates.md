@@ -136,6 +136,8 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
    > | **Other (editable)** | AI generates content for this field at runtime, or allows manual editing of a custom field. | Headlines, body copy, CTAs — anywhere AI variation is desired. Or custom fields for manual editing or content fragment swaps. |
    > | **Fixed** | Field cannot be modified by AI or users. | Legal disclaimers, regulatory footnotes, unsubscribe links. |
 
+1. Alternatively, you may manually edit the HTML in the Code tab and click the **[!UICONTROL Auto-detect fields]** button to re-run detection and update the field list.
+
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
 1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
