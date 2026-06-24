@@ -95,7 +95,7 @@ For example, you may want to find a template of a specific channel type or aspec
 
 The following shows filter by the channel type, such as email, Display ads, Meta ads, and LinkedIn ads.
 
-![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650"}
+![Content template list](/help/assets/content-templates-filter.png "Search the LinkedIn templates"){width="650" zoomable="yes"}
 
 The template search capability is available during [!UICONTROL Create] when selecting a template for owned or paid media. If certain filter options are not visible, it indicates that no templates in the repository match the corresponding metadata criteria. Ensure that templates are properly tagged with metadata to make them discoverable through these filters.
 
@@ -111,7 +111,7 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In the _[!UICONTROL Add your approved template]_ pane, choose the template type. Then browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-    ![Template types in the pane](/help/assets/template-choose-type.png){width="500"}
+    ![Template types in the pane](/help/assets/template-choose-type.png){width="500" zoomable="yes"}
 
 1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
@@ -123,11 +123,11 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    Example Preview for an email template:
 
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
 1. If a region was not auto-detected, hover over it in the Preview panel to see the **hover-to-tag** feature. Click to assign a handlebars tag and set the correct slot state.
 
-    ![Hover-to-tag feature showing slot states for a logo field](/help/assets/template-slot-state.png){width="500"}
+    ![Hover-to-tag feature showing slot states for a logo field](/help/assets/template-slot-state.png){width="500" zoomable="yes"}
 
    >[!TIP]
    >
