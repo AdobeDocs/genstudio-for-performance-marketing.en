@@ -113,13 +113,15 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
 
-   Example Preview for an email template:
-
-   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
-
    >[!TIP]
    >
    >If details in the template are not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
+
+1. Review the auto-detected fields. In the two-panel Preview/Code view, the left panel shows a live preview of the template with color-highlighted detected zones.The right sidebar shows the field list of all detected fields with their current slot state. Fields are tagged with handlebars notation (e.g., `{{headline}}`, `{{body}}`, `{{image}}`) visible in the Code tab.
+
+   Example Preview for an email template:
+
+   ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
