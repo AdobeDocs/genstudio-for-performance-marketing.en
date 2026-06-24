@@ -123,6 +123,19 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
    ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
+1. If a region was not auto-detected, hover over it in the Preview panel to see the **hover-to-tag** feature. Click to assign a handlebars tag and set the correct slot state.
+
+   >[!TIP]
+   >
+   > **Slot states**
+   >
+   > For each detected field, assign the appropriate slot state:
+   >
+   > | **Slot state** | **Description** | **Use for** |
+   > |---|---|---|
+   > | **Other (editable)** | AI generates content for this field at runtime, or allows manual editing of a custom field. | Headlines, body copy, CTAs — anywhere AI variation is desired. Or custom fields for manual editing or content fragment swaps. |
+   > | **Fixed** | Field cannot be modified by AI or users. | Legal disclaimers, regulatory footnotes, unsubscribe links. |
+
 1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
 
 1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
