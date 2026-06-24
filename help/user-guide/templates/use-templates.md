@@ -105,34 +105,55 @@ Before uploading a template, ensure it is fully prepared and ready for use in Ge
 
 **To add a template**:
 
-1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL HTML Templates]** section in the top bar.
 
-2. Click **[!UICONTROL Add template]**.
+1. Click **[!UICONTROL + Add template]**.
 
-3. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
+1. In the _[!UICONTROL Add your approved template]_ pane, choose the template type. Then browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-4. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
+    ![Template types in the pane](/help/assets/template-choose-type.png){width="500"}
+
+1. In the _[!UICONTROL Check detected fields]_ pane, review the fields. Verify that you are using the correct template and that all the details are as expected.
+
+   >[!TIP]
+   >
+   >If details in the template are not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
+
+1. Review the auto-detected fields. In the two-panel Preview/Code view, the left panel shows a live preview of the template with color-highlighted detected zones.The right sidebar shows the field list of all detected fields with their current slot state. Fields are tagged with handlebars notation (e.g., `{{headline}}`, `{{body}}`, `{{image}}`) visible in the Code tab.
 
    Example Preview for an email template:
 
    ![Preview fields detected](/help/assets/template-detected-fields.png){width="650"}
 
+1. If a region was not auto-detected, hover over it in the Preview panel to see the **hover-to-tag** feature. Click to assign a handlebars tag and set the correct slot state.
+
+    ![Hover-to-tag feature showing slot states for a logo field](/help/assets/template-slot-state.png){width="500"}
+
    >[!TIP]
    >
-   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file. Or use the [template code editor](/help/user-guide/templates/code-editor.md) to make simple corrections.
+   > **Slot states**
+   >
+   > For each detected field, assign the appropriate slot state:
+   >
+   > | **Slot state** | **Description** | **Use for** |
+   > |---|---|---|
+   > | **Other (editable)** | AI generates content for this field at runtime, or allows manual editing of a custom field. | Headlines, body copy, CTAs — anywhere AI variation is desired. Or custom fields for manual editing or content fragment swaps. |
+   > | **Fixed** | Field cannot be modified by AI or users. | Legal disclaimers, regulatory footnotes, unsubscribe links. |
 
-5. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+1. Alternatively, you may manually edit the HTML in the Code tab and click the **[!UICONTROL Auto-detect fields]** button to re-run detection and update the field list.
 
-6. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
+1. Click **[!UICONTROL Next]** when you are satisfied with the template preview.
+
+1. In _[!UICONTROL Provide template details and upload]_, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 
-   - **Meta**: requires Aspect ratio
-   - **Banner and Display ad**: requires Dimensions
+   - **Meta**: requires aspect ratio
+   - **Banner and Display ad**: requires dimensions
 
-7. Add as many details as you can to improve template identification in searches and filtering.
+1. Add as many details as you can to improve template identification in searches and filtering.
 
-8. Click **[!UICONTROL Done]**.
+1. Click **[!UICONTROL Done]**.
 
 ### Refresh template
 
