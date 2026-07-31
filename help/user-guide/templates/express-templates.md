@@ -122,6 +122,14 @@ Available text formatting includes:
 1. To format the text, click on or type in the text box element. Formatting options will appear in a popup bar. Holding Shift hides the bar to view the text.
 1. Click away from the text field to save any changes.
 
+### Use linked text flow boxes
+
+[!DNL Adobe Express] supports Text Flow, which lets a template author link two text boxes so a single phrase flows across both boxes. For example, a headline can start in one box and finish in another, or part of a phrase can use different styling than the rest. When a template with Text Flow is imported into [!DNL GenStudio for Performance Marketing], the Canvas recognizes and honors that linkage. Learn more about creating linked text boxes in [Text Flow in Adobe Express](https://helpx.adobe.com/express/web/create-and-edit-documents-and-webpages/create-and-edit-documents/text-flow-faq.html).
+
+You generate copy for linked text boxes the same way you generate any other field, with no extra setup required. The linked boxes behave as a single connected phrase throughout generation, editing, and variant review, so you never need to split, copy, or reposition text between boxes.
+
+If generated copy is too long to fit the linked boxes, a red line appears along the bottom of the last box to indicate the overflow, matching the same indicator used in [!DNL Adobe Express]. Shorten the copy or regenerate the field to remove the overflow.
+
 ### View layers
 
 You can quickly select an individual layer of a variant and make changes, such as re-generating sections or cropping images. When you select an individual layer, the editable fields or images within the layer are highlighted.
