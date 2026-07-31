@@ -103,6 +103,10 @@ Email templates in [!DNL Create] can now carry more than one image inside a sing
 
 Upload or author templates with the additional image fields, then generate on-brand variants that respect your pod structure. See [Email experiences](/help/user-guide/create/email-experiences.md) for the end-to-end email workflow.
 
+### Text Flow support for Express templates
+
+[!DNL Create] now honors Text Flow, the Adobe Express feature that links two text boxes so a single phrase flows across both, on the Horizon Canvas. Generated copy fills the linked boxes as one connected phrase, so ad designs whose message splits across two boxes can finally be templated for generation without manual copying or repositioning. Learn more about [linked text flow boxes](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes).
+
 ## Earlier release notes
 
 +++Notes from 2026.05.15
