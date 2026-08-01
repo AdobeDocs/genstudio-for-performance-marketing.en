@@ -73,9 +73,25 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.06.11 {#latest}
+## 2026.07.16 {#latest}
 
 **NEW FEATURES:**
+
+### Bulk editing on the Horizon canvas
+
+[!DNL Create] now links related text and image fields across the sizes and pages in a multi-size or multi-page template, so a last-mile edit only has to happen once. Choose the **[!UICONTROL Apply to]** scope in the RTE panel — this size, all sizes, or all concepts — and the edit propagates automatically, with the option to manually adjust field tagging when needed.
+
+### Activate display ads directly to The Trade Desk
+
+Marketers can now publish approved display creative straight from [!DNL GenStudio for Performance Marketing] into existing The Trade Desk campaigns. Connect an account with an API token, launch activation from either [!DNL Activate] or [!DNL Content], and track activation status with deep links back into The Trade Desk.
+
+### Content fragment swap on the Horizon canvas
+
+[!DNL Create] now lets you swap a text block on the Horizon canvas for a pre-approved, reusable content fragment pulled straight from the AEM Content Fragment library. Content fragment swaps work with bulk editing, so a swap can apply to a single size or propagate across all sizes and concepts at once, keeping regulated copy exactly as approved without manual re-entry.
+
+## Earlier release notes
+
++++Notes from 2026.06.11
 
 ### YouTube Shorts in [!DNL Create] and [!DNL Activate]
 
@@ -107,7 +123,7 @@ Upload or author templates with the additional image fields, then generate on-br
 
 [!DNL Create] now honors Text Flow, the Adobe Express feature that links two text boxes so a single phrase flows across both, on the Horizon Canvas. Generated copy fills the linked boxes as one connected phrase, so ad designs whose message splits across two boxes can finally be templated for generation without manual copying or repositioning. Learn more about [linked text flow boxes](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes).
 
-## Earlier release notes
++++
 
 +++Notes from 2026.05.15
 
