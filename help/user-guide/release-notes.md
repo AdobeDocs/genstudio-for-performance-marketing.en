@@ -79,7 +79,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Bulk editing on the Horizon canvas
 
-[!DNL Create] now links related text and image fields across the sizes and pages in a multi-size or multi-page template, so a last-mile edit only has to happen once. Choose the **[!UICONTROL Apply to]** scope in the RTE panel — this size, all sizes, or all concepts — and the edit propagates automatically, with the option to manually adjust field tagging when needed.
+The Horizon canvas now links related text and image fields across the sizes and pages in a multi-size or multi-page template, so a last-mile edit only has to happen once. Choose the **[!UICONTROL Apply to]** scope in the RTE panel — this size, all sizes, or all concepts — and the edit propagates automatically, with the option to manually adjust field tagging when needed.
 
 ### Activate display ads directly to The Trade Desk
 
@@ -87,7 +87,7 @@ Marketers can now publish approved display creative straight from [!DNL GenStudi
 
 ### Content fragment swap on the Horizon canvas
 
-[!DNL Create] now lets you swap a text block on the Horizon canvas for a pre-approved, reusable content fragment pulled straight from the AEM Content Fragment library. Content fragment swaps work with bulk editing, so a swap can apply to a single size or propagate across all sizes and concepts at once, keeping regulated copy exactly as approved without manual re-entry.
+You can now swap a text block on the Horizon canvas for a pre-approved, reusable content fragment pulled straight from the AEM Content Fragment library. Content fragment swaps work with bulk editing, so a swap can apply to a single size or propagate across all sizes and concepts at once, keeping regulated copy exactly as approved without manual re-entry.
 
 ## Earlier release notes
 
