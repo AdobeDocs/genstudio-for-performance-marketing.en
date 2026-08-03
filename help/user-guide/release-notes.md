@@ -79,7 +79,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 ### Bulk editing on the Horizon canvas
 
-The Horizon canvas now links related text and image fields across the sizes and pages in a multi-size or multi-page template, so a last-mile edit only has to happen once. Choose the **[!UICONTROL Apply to]** scope in the RTE panel — this size, all sizes, or all concepts — and the edit propagates automatically, with the option to manually adjust field tagging when needed.
+The Horizon canvas now links related text and image fields across the sizes and pages in a multi-size or multi-page template, so a last-mile edit only has to happen once. Choose the **[!UICONTROL Apply to]** scope in the edit menu — this size, all sizes, or all concepts — and the edit propagates automatically, with the option to manually adjust field tagging when needed.
 
 ### Activate display ads directly to The Trade Desk
 
