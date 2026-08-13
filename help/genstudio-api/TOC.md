@@ -4,6 +4,7 @@ breadcrumb-title: GenStudio API
 user-guide-description: Retrieve approved GenStudio Experiences and deliver Experience data and assets to your applications at scale.
 feature-set: GenStudio for Performance Marketing
 role: Developer
+nudge: true
 ---
 
 # GenStudio API {#genstudio-api}
