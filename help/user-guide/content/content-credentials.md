@@ -29,10 +29,6 @@ topic_v2:
 
 Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow.
 
->[!WARNING]
->
-> This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
-
 ## Get started with Content Credentials {#content-credentials}
 
 >[!CONTEXTUALHELP]
@@ -40,15 +36,11 @@ Learn how tamper-proof credentials for content that prove brand authenticity and
 >title="Content Credentials in [!DNL GenStudio for Performance Marketing]"
 >abstract="Tamper-proof credentials for content that prove brand authenticity and drive compliance can be embedded directly in your marketing workflow."
 
-After Content Credentials have been activated in the Admin Console, GenStudio for Performance Marketing users can turn on Content Credentials for all assets globally in the app. If the global option to apply credentials is turned off, users have the choice to apply Content Credentials for each individual asset.  
+GenStudio for Performance Marketing applies Content Credentials globally to all assets, automatically. There is no setup step and no per-asset setting to turn on: credentials are embedded, preserved, and refreshed throughout the marketing workflow.  
 
 Once content is published, Content Credentials will be visible on external platforms, like LinkedIn.
 
-Administrators are responsible for uploading a valid X.509 certificate within the Admin Console. This step ensures that the enterprise's digital signature is properly configured and ready for use in supported Adobe DX applications.
-
->[!NOTE]
->
->Control over this setting might transition to the Admin Console in the future, streamlining the management of Content Credentials across applications and enhancing administrative oversight.
+C2PA-compliant Content Credentials require no certificate setup. Brand signature is the exception: to sign content with your organization's own signature, an administrator must upload a valid X.509 certificate within the Admin Console. This step ensures that the enterprise's digital signature is properly configured and ready for use in supported Adobe DX applications.
 
 ## What are Content Credentials?  
 
@@ -72,7 +64,7 @@ Applying Content Credentials can be done throughout the marketing workflow direc
 
 In the Content gallery, credentials are displayed on imported assets. 
 
-The Content Credential badge in the upper right corner of the thumbnail indicates "Brand signed" content. 
+The Content Credential badge in the upper right corner of the thumbnail indicates [!UICONTROL Brand signed] content. 
 
 ![An imported asset with credentials](./images/import-discovery1.png)
 
@@ -94,7 +86,7 @@ Credential metadata is preserved as assets are selected for experiences to maint
 
 During exports from a draft, modified assets are automatically re-signed and the new credential links to the original.  
 
-![Credential data on an exported asset](./images/edit-and-transformation1.png){width="60%"}
+![The Download dialog with export format options](./images/edit-and-transformation2.png){width="60%"}
 
 ### Review and approval 
 
@@ -104,7 +96,7 @@ In the Review and Approve preview, credential status is displayed for assets on 
 
 Per-variant credential details are shown as reviewers inspect the assets. Approved experiences are re-signed when users click **[!UICONTROL Save to Content]**. 
 
-![Credential data on an approved asset](./images/review-and-approve2.png)
+![The Confirm details dialog for approved content, with the Save to Content button](./images/review-and-approve3.png)
 
 ### Activation and export 
 
