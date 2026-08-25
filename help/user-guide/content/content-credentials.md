@@ -106,6 +106,8 @@ During Activation, credential status shows in the Experience selector.
 
 Exported files will have C2PA-compliant credentials embedded. 
 
+Exported assets also retain their lineage. The embedded credential records the assets that the export was derived from, so an exported experience can be traced back through its edits to the original imported asset. Because the lineage travels inside the file, it remains inspectable after the asset leaves GenStudio for Performance Marketing. 
+
 Credential integrity is maintained across all supported formats (JPEG, PNG, MP4). 
 
 ![Credential data on an exported asset](./images/activate-export2.png)
