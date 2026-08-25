@@ -111,3 +111,8 @@ Exported assets also retain their lineage. The embedded credential records the a
 Credential integrity is maintained across all supported formats (JPEG, PNG, MP4). 
 
 ![Credential data on an exported asset](./images/activate-export2.png)
+
+## Related information
+
+* [Content transparency](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
+* [Content Credentials](https://helpx.adobe.com/creative-cloud/help/content-credentials.html) at Adobe
