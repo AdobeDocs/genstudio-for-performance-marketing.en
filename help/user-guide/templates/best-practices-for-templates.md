@@ -129,6 +129,8 @@ See further tips and constraints when working with each template type to ensure 
 
 ## Express to GenStudio template best practices
 
+>[!VIDEO](https://video.tv.adobe.com/v/3502403?learn=on&enablevpops)
+
 The following tips help you get reliable results when you convert designs from [!DNL Adobe Express] into templates for [!DNL GenStudio for Performance Marketing].
 
 ### Use Multi-variation templates
