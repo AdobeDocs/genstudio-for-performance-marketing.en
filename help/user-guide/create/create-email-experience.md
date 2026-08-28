@@ -119,10 +119,57 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [apply text formatting](/help/user-guide/create/manage-variants.md#manually-edit-text)** in a variant, click the on-image text for a variant and click **[!UICONTROL Format text]**.
 * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [add or swap images in a variant](/help/user-guide/create/manage-variants.md#swap-image)**, click an image asset (or the image asset area if an image does not currently exist) and click the **[!UICONTROL Swap from content]** icon.
+* **To [edit an image in a variant](#edit-images-in-the-canvas)**, click an image field and click **[!UICONTROL Edit]** (pencil icon) to crop, reposition, or expand the image directly in the Canvas.
 * **To [add a link to an image in a variant](/help/user-guide/create/manage-variants.md#add-image-link)**, click an image asset (or the image asset area if an image does not currently exist) and click the link icon.
 * **To [add alt text for images in a variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)**, click an image asset and use the _Alt text_ option to manually add or generate alt text per image.
 * **To [add accessibility labels](/help/user-guide/create/manage-variants.md#add-accessibility-labels) to your variants** click on an image or call-to-action link, then provide a brief description that explains what the link or button does.
 * **To [delete an email](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
+
+## Edit images in the Canvas
+
+Adjust images without leaving the Canvas or relying on external design tools. You can crop and reposition an image to focus on a subject, or use Generative Expand to extend an image beyond its original boundaries. Edits apply to your email draft only. Source assets in [!DNL Content] and connected asset repositories are never modified.
+
+Access image editing from any image field in the email Canvas. Edited images are visually indicated so you can track which images you changed from the original asset.
+
+### Crop and reposition an image
+
+Crop an image to use only the region you want. Cropping in email is freeform, with no aspect ratio restriction, so you have full control over which portion of the image appears and at what proportion.
+
+**To crop and reposition an image**:
+
+1. In an email draft, hover over and click an image field.
+1. Click **[!UICONTROL Edit]** (pencil icon).
+1. Click **[!UICONTROL Crop]**.
+1. Adjust the crop region and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]** to crop the selected image, or **[!UICONTROL Apply to all images]** to apply the crop across all image fields in the draft.
+
+To exit without saving your changes, click **[!UICONTROL Cancel]**.
+
+![The Edit Image view with the Crop tool active on an image in the email Canvas](/help/assets/edit-image-crop-email.png){width="650" zoomable="yes"}
+
+### Expand an image with Generative Expand
+
+Use Generative Expand to extend an image beyond its original boundaries with generative AI. Expansion in email is not constrained to a fixed size or proportion, so you can fit an image to the space you need.
+
+**To expand an image**:
+
+1. In an email draft, hover over and click an image field.
+1. Click **[!UICONTROL Edit]** (pencil icon).
+1. Click **[!UICONTROL Expand]**.
+
+   The image opens in the _[!UICONTROL Edit Image]_ view on an expanded canvas, and [!DNL GenStudio for Performance Marketing] generates expansion options.
+
+1. Move the image to position it within the expanded area.
+1. Select a generated option, or click **[!UICONTROL More]** (plus icon) to see more options.
+1. Click **[!UICONTROL Apply]** to apply the result to the selected image, or **[!UICONTROL Apply to all images]** to apply it across all image fields in the draft.
+
+To exit without saving your changes, click **[!UICONTROL Cancel]**.
+
+>[!NOTE]
+>
+>Generative Expand output size is not constrained, so quality can vary for very large expansions. Click **[!UICONTROL More]** to generate additional options if the result does not meet your needs.
+
+![A Generative Expand result selected and ready to apply in the Edit Image view](/help/assets/generative-expand-email.png){width="650" zoomable="yes"}
 
 ## Submit generation feedback
 
