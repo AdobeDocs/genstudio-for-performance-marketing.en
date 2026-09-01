@@ -42,6 +42,8 @@ topic_v2:
 ---
 # GenStudio for Performance Marketing guidelines
 
+>[!VIDEO](https://video.tv.adobe.com/v/3502922?learn=on)
+
 GenStudio for Performance Marketing guidelines can be either uploaded or manually added to GenStudio for Performance Marketing, allowing users to establish brand guidelines that capture the essence of a brand's identity.
 
 The following guidelines help ensure that any AI-generated content is tailored to align with brand identity and accessibility specifications, enabling effective personalization of content:
