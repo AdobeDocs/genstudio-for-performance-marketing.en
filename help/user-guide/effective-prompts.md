@@ -39,6 +39,8 @@ GenStudio for Performance Marketing provides a generative AI prompt each time th
 
 As a best practice, supply GenStudio for Performance Marketing with your brand information using [guidelines](/help/user-guide/guidelines/overview.md), then you can fully leverage the generative AI to produce brand-aligned content experiences.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
+
 ## Descriptive language
 
 You can use natural language to articulate your ideas to create experiences. Your prompt guides the AI to generate channel content that is personalized and images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
