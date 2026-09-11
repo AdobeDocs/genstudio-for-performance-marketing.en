@@ -54,6 +54,8 @@ topic_v2:
 
 This tutorial demonstrates how to generate branded [Meta ad experiences](/help/user-guide/create/meta-experiences.md) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
+To build a multi-card carousel ad instead of a single image or video ad, see [Create a Meta carousel ad experience](/help/user-guide/create/create-meta-carousel-ad.md).
+
 Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 
 ## Choose a template
