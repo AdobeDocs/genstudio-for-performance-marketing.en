@@ -48,6 +48,7 @@ nudge: true
   + [Set up Logo Swap in templates](create/logo-swap-setup.md)
   + [Create an email experience](create/create-email-experience.md)
   + [Create a Meta ad experience](create/create-meta-ad.md)
+  + [Create Meta ad experience - Carousel Ads](create/create-meta-carousel-ad.md)
   + [Create a ChatGPT ad experience](create/create-chatgpt-ad.md)
   + [Create a LinkedIn experience](create/create-linkedin.md)
   + [Create a display ad experience](create/create-display-ad.md)
