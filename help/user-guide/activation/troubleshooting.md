@@ -27,15 +27,19 @@ topic_v2:
 
 Activating an ad experience for paid ad channels involves two main phases:
 
-* Preparing your experience for activation
+* Configuring ad and platform setup details for each row in your activation table
 
-* Publishing your experience to its designated paid channel ad managers
+* Publishing your activation to its designated paid ad channels' ad managers
 
-Following best practices when creating and activating your ad experience can help minimize potential complications or errors during delivery to target channels.
+Following best practices when configuring and activating your ad experiences can help minimize potential complications or errors during delivery to target channels.
 
 ## Best practices
 
 Here are some common best practices and the errors that they can prevent.
+
+* **Use a unique tracking ID for each row**
+
+   [!DNL Activate] flags duplicate tracking IDs as [!UICONTROL Needs Attention] and won't let you publish until each row in the affected format and platform table has a unique tracking ID. If you bulk-edit a tracking ID across multiple rows, confirm you meant to apply the same value to every selected row.
 
 * **Use valid, complete destination URLs**
 
@@ -43,7 +47,7 @@ Here are some common best practices and the errors that they can prevent.
 
 * **Ensure that your application handles token expiration correctly**
 
-   Applications should request new tokens as needed. As needed, re-authenticate and obtain a new access token by logging in again or refreshing the session. Sample error: _Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons. (190)_
+   Applications must request new tokens as needed. Re-authenticate and obtain a new access token by logging in again or refreshing the session. Sample error: _Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons. (190)_
 
 * **Review your ad set and ensure that only one ad is active at any time**
 

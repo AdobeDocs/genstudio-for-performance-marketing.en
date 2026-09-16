@@ -21,63 +21,32 @@ role_v2:
 ---
 # Activate Amazon Ads
 
-Adobe GenStudio for Performance Marketing enables GenStudio system managers and editors to publish ad experiences to the Amazon Ads platform.
+Adobe GenStudio for Performance Marketing supports the activation of ad experiences to Amazon Ads.
 
-You can initiate publication of a Amazon Ads ad experience from either the Content gallery or Activate home.
+**Supported formats**: Static Display.
 
-## Step 1: Set up your Amazon Ads accounts
+Activating an Amazon Ads experience follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Amazon Ads-specific prerequisites and setup fields. After you activate an experience in GenStudio for Performance Marketing, use Amazon Ads to review the experience and launch the ad.
 
-Amazon Ads allows marketers to organize campaigns and ads within different accounts. Each account includes a creative library. GenStudio for Performance Marketing publishes ad experiences into a creative library.
+GenStudio system managers and editors can activate ad experiences.
 
-Before attempting an activation, [log in to your Amazon Ads account][1]. Confirm that you have access to Amazon Ads advertisers. When you publish an Amazon Ads experience from GenStudio for Performance Marketing, it's delivered to the ad account selected during creation.
+## Prerequisites
 
-## Step 2: Connect to your Amazon Ads accounts
+* Access to the target Amazon Ads account.
+* Admin access to that account, to read and write into Amazon Ads.
 
-Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Amazon Ads accounts to GenStudio for Performance Marketing. This user must have admin access to the advertiser to read and write into Amazon Ads. See [Connect paid media accounts][2].
+Amazon Ads organizes campaigns and ads within different accounts, and each account includes a creative library. The target account must already exist in Amazon Ads; GenStudio for Performance Marketing publishes ad experiences into that account's creative library, but does not create accounts.
 
-After the sync is complete, you can view the added accounts.
+## Connect your Amazon Ads account
 
-## Step 3: Select content for your ad experience
+Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Amazon Ads account to GenStudio for Performance Marketing. You must have admin access to that account to read from and write to Amazon Ads. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
 
-You can start the publication process from either the Content Experiences gallery or the Activate home. Approved experiences cannot be edited. Each experience can contain only one asset.
+After the sync completes, you can view the added accounts.
 
-To select experiences:
+## Amazon Ads setup fields
 
-1. Use the Content gallery's search and filter tools to identify the experience you want to activate, then click **[!UICONTROL Use]**. (Alternatively, you can select an experience from Activate by clicking **[!UICONTROL New]** on the Amazon Ads product card.) 
+Approved assets are locked and can't be edited during activation, since they already went through review and approval in [!DNL Content]. You can edit:
 
-1. You will be asked to select a platform before continuing with activation. Select _Amazon_.
+* **Text fields**: Tracking ID (used as the platform creative name)
+* **Platform setup fields**: Account
 
-   The Amazon Ads Experience setup page opens for this experience. It's pre-populated with the experience's details, which cannot be revised. 
-
-1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
-
-1. Click **[!UICONTROL Next]** to confirm your Amazon Ads platform setup.
-
-   The _Platform setup_ view opens. This view is populated with options that are derived from your configured Amazon Ads accounts.
-
-## Step 4: Confirm Amazon Ads platform setup
-
-1. Select an account from the Account drop-down menu. Your Amazon Ads account settings determine the available accounts.Your creative experience is delivered to this account's creative library in Amazon Ads when activation is complete.
-
-1. Add a name to the Creative name field. Amazon Ads identifies the experience by this name. 
-   
-1.Repeat for each selected experience.
-
-1. Click **[!UICONTROL Next]** to confirm your Amazon Ads setup.
-
-## Step 5: Preview and activate your ad
-
-The Review page provides a final opportunity to review your activation before publishing.
-
-1. (Optional) Click **[!UICONTROL Edit section]** next to the Platform setup label to edit the platform setup. You cannot edit experience content.
-
-1. Click **[!UICONTROL Publish]**.
-
-   Your Amazon Ads ad experiences are pushed directly to the creative library within the selected Amazon Ads account.
-
-## Step 6: Complete publication of your ad experience
-
-[Log in to your Amazon Ads account][1] to manage the final steps of setup and deploying your ad within the published experience.
-
-[1]: https://advertising.amazon.com/
-[2]: /help/user-guide/connectors/connect-channel.md
+Your creative experience is delivered to the selected account's creative library in Amazon Ads when activation completes.
