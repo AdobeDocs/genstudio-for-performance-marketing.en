@@ -73,9 +73,19 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.07.16 {#latest}
+## 2026.09.15 {#latest}
 
 **NEW FEATURES:**
+
+### Bulk activation
+
+[!DNL Activate] now supports bulk activation: select multiple approved experiences from [!DNL Content] and publish them across multiple paid ad channels in a single activation table, including Meta, LinkedIn, Google Campaign Manager 360, Amazon Ads, Innovid, TikTok, YouTube, ChatGPT, and The Trade Desk. Edit shared fields inline or in bulk, then publish every ad together with per-ad status tracking and automatic retry for any that fail.
+
+Learn more in [Activation workflow](/help/user-guide/activation/create-activation.md).
+
+## Earlier release notes
+
++++Notes from 2026.07.16
 
 ### Bulk editing on the Horizon canvas
 
@@ -89,7 +99,7 @@ Marketers can now publish approved display creative straight from [!DNL GenStudi
 
 You can now swap a text block on the Horizon canvas for a pre-approved, reusable content fragment pulled straight from the AEM Content Fragment library. Content fragment swaps work with bulk editing, so a swap can apply to a single size or propagate across all sizes and concepts at once, keeping regulated copy exactly as approved without manual re-entry.
 
-## Earlier release notes
++++
 
 +++Notes from 2026.06.11
 
