@@ -28,53 +28,32 @@ topic_v2:
 ---
 # Activate an Innovid ad
 
-Adobe GenStudio for Performance Marketing enables GenStudio system managers and editors to publish ad experiences to the Innovid platform.
+Adobe GenStudio for Performance Marketing supports the activation of ad experiences to Innovid.
 
-Initiate the publication of an Innovid ad experience from either the Content gallery or Activate home.
+**Supported formats**: Static Display, HTML5 Zip Display.
 
-## Step 1: Set up your Innovid accounts
+Activating an Innovid experience follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Innovid-specific prerequisites and setup fields. After you activate an experience in GenStudio for Performance Marketing, use Innovid to review the experience and turn the ad live.
 
-Innovid allows marketers to organize campaigns and ads within different accounts. Each advertiser has a creative library, and GenStudio for Performance Marketing publishes ad experiences into a creative library.
+GenStudio system managers and editors can activate ad experiences.
 
-Before attempting an activation, [log in to your Innovid account][1]. Confirm that you have access to Innovid accounts. When you publish an Innovid experience from GenStudio for Performance Marketing, it's delivered to the creative library that was selected during creation.
+## Prerequisites
 
-## Step 2: Connect to your Innovid accounts
+* An Innovid account with access to the target advertiser.
+* Admin access to the account, to read and write into Innovid.
 
-Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Innovid accounts to GenStudio for Performance Marketing. You must have admin access to the added account to read and write into Innovid. See [Connect paid media accounts][2].
+Innovid organizes campaigns and ads within different accounts, and each account has a creative library. The target creative library must already exist in Innovid; GenStudio for Performance Marketing publishes ad experiences into that creative library, but does not create accounts or creative libraries.
 
-After the sync is complete, you can view the added accounts.
+## Connect your Innovid account
 
-## Step 3: Select content for your ad experience
+Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Innovid account to GenStudio for Performance Marketing. You must have admin access to the account to read and write into Innovid. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
 
-Start the publication process from either the Content Experiences gallery or the Activate home. Approved experiences cannot be edited. Each experience can contain only one asset.
+After the sync completes, you can view the added accounts.
 
-To select experiences:
+## Innovid setup fields
 
-1. Use the Content gallery's search and filter tools to identify the experience you want to activate. Then click **[!UICONTROL Use]**. Alternatively, you can select an experience from Activate by clicking **[!UICONTROL New]** on the Innovid product card.
-1. You'll be prompted to select a platform before continuing with activation. Select *Innovid*. The Innovid Experience setup page opens for this experience. It's pre-populated with the experience's details and cannot be revised. 
-1. (Optional) Click **[!UICONTROL Add experience]** to add experiences to this activation group.
-1. Click **[!UICONTROL Next]** to confirm your Innovid platform setup. The **[!UICONTROL Platform setup]** view opens.This view shows options derived from your configured Innovid accounts.
+Approved assets are locked and can't be edited during activation, since they already went through review and approval in [!DNL Content]. You can edit:
 
-## Step 4: Confirm Innovid platform setup
+* **Text fields**: Tracking ID (used as the platform creative name)
+* **Platform setup fields**: Account, Creative Library, Concept Name
 
-1. Select an account from the **[!UICONTROL Account]** drop-down menu. 
-1. Select a Creative Library from the **[!UICONTROL Creative Library]** drop down. Your Innovid account settings determine the Creative Libraries available. Your creative experience is delivered to this Creative Library in Innovid when activation is complete.
-1. Add a name to the **[!UICONTROL Creative name]** field. Innovid identifies the experience by this name.
-1. Repeat for each selected experience.
-1. Click **[!UICONTROL Next]** to confirm your Innovid setup.
-
-## Step 5: Preview and activate your ad   
-
-The Review page provides a final opportunity to review your activation before publishing.
-
-1. (Optional) Click **[!UICONTROL Edit section]** next to the **[!UICONTROL Platform setup]** label to edit the platform setup. You cannot edit experience content.
-1. Click **[!UICONTROL Publish]**.
-
-Your Innovid ad experiences are pushed directly to the creative library within the selected Innovid account.
-
-## Step 6: Complete publication of your ad experience
-
-Visit [Innovid's website][1] to manage the final steps of setup and to deploy your ad within the published experience.
-
-[1]: https://www.innovid.com/
-[2]: /help/user-guide/connectors/connect-channel.md
+Your creative experience is delivered to the selected creative library in Innovid when activation completes.

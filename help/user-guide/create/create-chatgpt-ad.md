@@ -8,7 +8,7 @@ level: Beginner
 
 # Create a ChatGPT ad experience
 
-Use [[!DNL Create]](/help/user-guide/create/overview.md) in [!DNL GenStudio for Performance Marketing] to build **ChatGPT ads** as paid media experiences—from guidelines and assets through generation, brand and channel checks, approval, publishing to [!DNL Content], and activation in the same [!DNL Activate] flow used for channels such as Meta and Google Campaign Manager 360.
+Use [[!DNL Create]](/help/user-guide/create/overview.md) in [!DNL GenStudio for Performance Marketing] to build **ChatGPT ads** as paid media experiences, from guidelines and assets through generation, brand and channel checks, approval, publishing to [!DNL Content], and activation in the same [!DNL Activate] flow used for channels such as Meta and Google Campaign Manager 360.
 
 Before you begin, [add guidelines](/help/user-guide/guidelines/add-guidelines.md) where needed and review [effective prompts](/help/user-guide/effective-prompts.md) so your headline prompts produce strong variants.
 
@@ -71,7 +71,7 @@ To run content checks:
 
 1. Click **[!UICONTROL Content check]** (brand and channel checks).
 1. Review validation results in the [_Content check_ panel](/help/user-guide/guidelines/brand-validation.md#content-check-panel).
-1. Resolve any flagged issues—for example copy length or dense on-screen text—by editing variants or regenerating as needed.
+1. Resolve any flagged issues (for example, copy length or dense on-screen text) by editing variants or regenerating as needed.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
@@ -81,8 +81,8 @@ Saving moves your ChatGPT ad experience into [!DNL Content] so it can be reviewe
 
 There are two states:
 
-* **Draft experience** — Work in progress and not approved.
-* **Published experience** — Approved and available in [!DNL Content] for activation.
+* **Draft experience**: Work in progress and not approved.
+* **Published experience**: Approved and available in [!DNL Content] for activation.
 
 ### Send for review
 
@@ -100,65 +100,13 @@ See [Request review and approval](/help/user-guide/approvals/request-review.md) 
 After all required approvals, publish to [!DNL Content]:
 
 1. Click **[!UICONTROL Publish to Content]**.
-1. Confirm metadata—for example campaign or activation name, region, language, persona, funnel stage, and **Channel: ChatGPT**.
+1. Confirm metadata, for example campaign or activation name, region, language, persona, funnel stage, and **Channel: ChatGPT**.
 1. Click **[!UICONTROL Publish]**.
 
-The ChatGPT ad appears in [!DNL Content]—discoverable with filters such as channel or campaign—and is ready for selection in [!DNL Activate].
+The ChatGPT ad appears in [!DNL Content], discoverable with filters such as channel or campaign, and is ready for selection in [!DNL Activate].
 
 See [Publish approved content](/help/user-guide/approvals/publish-content.md) and [[!DNL Content] overview](/help/user-guide/content/overview.md).
 
 ## Activate a ChatGPT ad
 
-ChatGPT activation uses the same [[!DNL Activate]](/help/user-guide/activation/overview.md) module as Meta and Google Campaign Manager 360. See [Create an activation](/help/user-guide/activation/create-activation.md) for the shared activation workflow.
-
-### Start a ChatGPT activation
-
-You can start from [!DNL Content] or from [!DNL Activate].
-
-**From [!DNL Content]**
-
-* Select one or more **published** ChatGPT experiences.
-
-**From [!DNL Activate]**
-
-* Open the **ChatGPT** card and click **[!UICONTROL + New]**.
-
-Each experience maps to **one** ChatGPT ad.
-
-### Configure experience setup
-
-For each selected experience, confirm:
-
-* **Title**
-* **Body**
-* **Target URL** — Must use valid `https://` format (for example `https://www.example.com`).
-
-### Configure platform setup
-
-Select ChatGPT Ads Manager details:
-
-* **OpenAI Ads account**
-* **ChatGPT Campaign** — Must already exist in OpenAI Ads Manager.
-* **ChatGPT Ad group** — Must already exist in OpenAI Ads Manager.
-* **ChatGPT Ad name** — One distinct name per ChatGPT ad.
-
-### Review and publish
-
-1. Review all creative and platform details.
-1. Click **[!UICONTROL Publish]**.
-
-[!DNL GenStudio for Performance Marketing] pushes ads to ChatGPT Ads Manager in an **inactive** state so your media team controls final launch timing and budget—consistent with other paid channels. See [Activate overview](/help/user-guide/activation/overview.md).
-
-### What happens after you publish
-
-* A **publishing in progress** modal appears and closes automatically.
-* You are redirected to the **ChatGPT Activation** table, which lists the latest activations. Status shows **[!UICONTROL Pending]** while processing completes.
-* You can navigate away while publishing finishes.
-
-When processing completes:
-
-* A confirmation pop-up shows **success** or **failure**.
-* If you click the pop-up—or open the ChatGPT activation in the activation table—you see the **Details** page.
-* If activation **[!UICONTROL Failed]**, the table shows that status plus an error message from ChatGPT.
-
-In OpenAI Ads Manager, media teams can run final checks and turn ads or ad groups live when ready.
+ChatGPT activation uses the same [[!DNL Activate]](/help/user-guide/activation/overview.md) module as other paid channels. See [Activate a ChatGPT ad](/help/user-guide/activation/activate-chatgpt-ad.md) for ChatGPT-specific prerequisites and setup fields.
