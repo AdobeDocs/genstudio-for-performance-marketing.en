@@ -42,6 +42,8 @@ You prepare and approve these components in [!DNL Content] before activation. [!
 
 A single activation table can include experiences for multiple paid ad channels and ad formats at once.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
+
 ## Connect your channel accounts
 
 A GenStudio system manager or editor must connect the ad accounts for each paid ad channel before you can activate an experience to that channel. To see the steps for this process, see [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
