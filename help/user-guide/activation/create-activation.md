@@ -32,11 +32,11 @@ topic_v2:
 
 [!DNL Activate] activates published experiences to their paid ad channels. A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared for a specific audience on a paid ad channel. Experiences for activation contain three main components:
 
-* **Media assets**: The images or video included in your ad experience. Supported file types and aspect ratios vary by channel and ad format.
+* **Media assets**: Images or video included in your ad experience. Supported file types and aspect ratios vary by channel and format.
 
 * **Text**: All forms of copy included in your ad, including headlines, body text, and call-to-action elements.
 
-* **Metadata**: User-defined attributes that you can assign to content. Metadata enhances performance analysis, filtering, and tracking. It is typically not visible to the final ad audience.
+* **Metadata**: User-defined attributes that enhance performance analysis, filtering, and tracking. Metadata is typically not visible to the final ad audience.
 
 You prepare and approve these components in [!DNL Content] before activation. [!DNL Activate] doesn't create or edit approved assets, headlines, or body copy. It only applies the setup each channel needs, then publishes the experience.
 
@@ -53,17 +53,17 @@ Start an activation from one of two entry points:
 * **From [!DNL Content]**: Filter to Experiences, select one or more published experiences, then click **[!UICONTROL Activate]** on the top action bar.
 * **From [!DNL Activate]**: On the [!DNL Activate] landing page, click **[!UICONTROL + New activation]**. This opens the Experience gallery, where you select experiences for activation.
 
-In either case, you can search and scroll by experience name, and filter by multiple channels at the same time, to find the experiences you want to activate.
+In either case, search by experience name or filter by multiple channels to find the experiences you want.
 
 If your selection includes display-format experiences, specify which display platform to use: Google Campaign Manager 360, Innovid, Amazon Ads, or The Trade Desk. Then click **[!UICONTROL Start activation]**. For other formats, such as Meta, LinkedIn, TikTok, YouTube, and ChatGPT, [!DNL Activate] infers the platform from the experience's channel and skips this step.
 
-[!DNL Activate] generates an activation table listing all selected experiences. The table is organized into sub-tables by ad format and channel, for example Meta single image or LinkedIn single image. Each row represents one ad. For most channels, such as LinkedIn, TikTok, and Display channels, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception: a Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
+[!DNL Activate] generates an activation table listing all selected experiences. The table is organized into sub-tables by ad format and channel, for example Meta single image or LinkedIn single image. Each row represents one ad. For most channels, such as LinkedIn, TikTok, and display channels, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception. A Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
 
 Your activation table saves as a draft automatically when it opens. You can leave and resume the draft at any point before publishing.
 
 To add more experiences to an activation table you already opened, click **[!UICONTROL Add more experiences]** in the top right of the table. This reopens the Experience gallery so you can select additional experiences, which [!DNL Activate] adds to the existing table.
 
-**[!UICONTROL Add more experiences]** also lets you activate to more than one display platform in the same table. Display-format experiences ask you to choose a single display platform up front, but you can click **[!UICONTROL Add more experiences]**, select more display-format experiences, and choose a different display platform than the one already in your table. For example, you can add The Trade Desk ads to a table that already contains Innovid ads.
+**[!UICONTROL Add more experiences]** also lets you activate to more than one display platform in the same table. Display-format experiences ask you to choose a single display platform first, but you can click **[!UICONTROL Add more experiences]**, select more display-format experiences, and choose a different display platform than the one already in your table. For example, you can add The Trade Desk ads to a table that already contains Innovid ads.
 
 ## Configure ad and platform setup details
 
@@ -91,7 +91,7 @@ You don't need to look up your channel's fields ahead of time. [!DNL Activate] o
 
 A **Tracking ID** is a unique label you assign to an ad row. It's passed to the destination platform as the ad or creative name, so use it to identify that ad for reporting and troubleshooting.
 
-Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once. Configure platform setup fields for each group of ad formats by clicking **[!UICONTROL Manage platform settings]** and editing the fields in the resulting dialog.
+Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once. To configure platform setup fields for a group of ad formats, click **[!UICONTROL Manage platform settings]** and edit the fields in the resulting dialog.
 
 To move between **[!UICONTROL Tracking ID]** fields more quickly, use these keyboard shortcuts:
 
@@ -103,7 +103,7 @@ To move between **[!UICONTROL Tracking ID]** fields more quickly, use these keyb
 
 Confirm that every row shows [!UICONTROL Ready to Activate]. [!DNL Activate] flags missing or invalid fields, incompatible calls to action, and duplicate tracking IDs as [!UICONTROL Needs Attention]. When every row is ready, click **[!UICONTROL Send to Platform]** and confirm in the publish dialog.
 
-[!DNL Activate] reports each ad's status in near real time: Pending, then Published or Failed. If an ad fails, hover over its status to see the platform's error. You can retry every failed ad in the table at once by clicking **[!UICONTROL Try again]**, rather than retrying each one individually. Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager. Your final pre-publication review, and turning ads live, happens in the destination channel's own ad manager: [!DNL Activate] always delivers ads in an inactive state.
+[!DNL Activate] reports each ad's status in near real time: Pending, then Published or Failed. If an ad fails, hover over its status to see the platform's error. You can retry every failed ad in the table at once by clicking **[!UICONTROL Try again]**, rather than retrying each one individually. Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager. Your final pre-publication review, and launching ads, happens in the destination channel's own ad manager: [!DNL Activate] always delivers ads in an inactive state.
 
 Your activation tables appear on the [!DNL Activate] landing page.
 

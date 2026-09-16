@@ -47,7 +47,7 @@ Here are some common best practices and the errors that they can prevent.
 
 * **Ensure that your application handles token expiration correctly**
 
-   Applications should request new tokens as needed. As needed, re-authenticate and obtain a new access token by logging in again or refreshing the session. Sample error: _Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons. (190)_
+   Applications must request new tokens as needed. Re-authenticate and obtain a new access token by logging in again or refreshing the session. Sample error: _Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons. (190)_
 
 * **Review your ad set and ensure that only one ad is active at any time**
 

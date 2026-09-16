@@ -32,13 +32,13 @@ topic_v2:
 
 GenStudio for Performance Marketing [!DNL Activate] is where you prepare and send ad experiences to paid ad channels, such as Meta or LinkedIn. _Activation_ takes an approved ad experience and its assets, applies the setup a specific channel requires, then directly delivers it to that channel in an inactive, off status. From there, you can do a final review in the channel's own ad manager before your ad goes live.
 
-[!DNL Activate] sends your experience straight to the channel: you don't need to export files or manually upload them to the channel's own ad manager.
+[!DNL Activate] delivers your experience directly to the channel, so you don't need to export files or manually upload them to the channel's own ad manager.
 
 A GenStudio system manager or editor must connect the ad account for each paid ad channel before you can activate an ad experience to that channel.
 
 ## Activate capabilities
 
-Use [!DNL Activate] to prepare ad experiences for their target paid ad channels. [Activate experiences in bulk](create-activation.md) across multiple paid ad channels in a single activation table, then [manage your activations](manage-activations.md) to see the status and details of every activated experience.
+Use [!DNL Activate] to prepare ad experiences for their target paid ad channels. [Activate experiences in bulk](create-activation.md) across multiple paid ad channels in a single activation table. Then, [manage your activations](manage-activations.md) to see the status and details of every activated experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 

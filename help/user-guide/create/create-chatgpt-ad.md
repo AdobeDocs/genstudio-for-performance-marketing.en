@@ -109,4 +109,4 @@ See [Publish approved content](/help/user-guide/approvals/publish-content.md) an
 
 ## Activate a ChatGPT ad
 
-ChatGPT activation uses the same [[!DNL Activate]](/help/user-guide/activation/overview.md) module as other paid channels. See [Activate a ChatGPT ad](/help/user-guide/activation/activate-chatgpt-ad.md) for ChatGPT-specific prerequisites and setup fields.
+ChatGPT activation uses the same [[!DNL Activate]](/help/user-guide/activation/overview.md) module as other paid channels. See [Activate a ChatGPT ad](/help/user-guide/activation/activate-chatgpt-ad.md) for prerequisites and setup fields specific to ChatGPT.

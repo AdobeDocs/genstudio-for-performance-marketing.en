@@ -33,7 +33,7 @@ Your activation tables appear on the [!DNL Activate] landing page. Each table li
 
 You can automatically retry failed activations by clicking **[!UICONTROL Try again]** in the top right.
 
-Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager, so you can jump directly to it to review or turn it live.
+Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager, so you can jump directly to it to review or launch it.
 
 ## Details view
 

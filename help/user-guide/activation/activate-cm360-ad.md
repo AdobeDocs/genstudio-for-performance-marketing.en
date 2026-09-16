@@ -28,7 +28,7 @@ Adobe GenStudio for Performance Marketing supports the activation of ad experien
 
 **Supported formats**: Static Display, Video Display, HTML5 Zip Display.
 
-Activating a Google Campaign Manager 360 ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Google Campaign Manager 360-specific prerequisites and setup fields. After you activate an experience in GenStudio for Performance Marketing, use Google Campaign Manager 360 to review the experience and turn the ad live.
+Activating a Google Campaign Manager 360 ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers prerequisites and setup fields specific to Google Campaign Manager 360. After you activate an experience in GenStudio for Performance Marketing, use Google Campaign Manager 360 to review the experience and launch the ad.
 
 GenStudio system managers and editors can activate ad experiences.
 

@@ -48,4 +48,4 @@ Approved video assets and description copy are locked and can't be edited during
 * **Text fields**: Call-to-action, Business name, Destination URL, URL Parameters, Tracking ID (used as the platform ad name)
 * **Platform setup fields**: Account, Campaign, Ad Group, Logo
 
-Select the logo from the logos available in your connected Google Ads account.
+Select a logo from those available in your connected Google Ads account.

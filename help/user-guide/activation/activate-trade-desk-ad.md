@@ -1,5 +1,5 @@
 ---
-title: Activate a The Trade Desk Ad
+title: Activate an Ad to The Trade Desk
 description: Learn how to activate a static display ad experience to The Trade Desk.
 feature: Ad Activation
 product_v2:
@@ -22,23 +22,23 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
 ---
-# Activate a The Trade Desk ad
+# Activate an ad to The Trade Desk
 
 Adobe GenStudio for Performance Marketing supports the activation of ad experiences to The Trade Desk.
 
 **Supported formats**: Static Display (single-asset only).
 
-Activating a The Trade Desk ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels, with one difference: The Trade Desk is a managed enterprise service, not a self-service ad platform, so account access works differently than for other channels. This page covers those differences along with The Trade Desk-specific prerequisites and setup fields.
+Activating an ad to The Trade Desk follows the [same general steps](create-activation.md) required for activation to other paid ad channels, with one difference. The Trade Desk is a managed enterprise service, not a self-service ad platform, so account access works differently than for other channels. This page covers those differences along with prerequisites and setup fields specific to The Trade Desk.
 
 GenStudio system managers and editors can activate ad experiences.
 
 ## Prerequisites
 
-* An existing, live The Trade Desk account. GenStudio for Performance Marketing cannot create a new The Trade Desk account on your behalf.
-* API access enabled by your The Trade Desk account team. Unlike other paid ad channels, you cannot enable this access yourself, and the connection does not use OAuth.
+* An existing, live The Trade Desk account. Set this up directly with The Trade Desk before connecting it to GenStudio for Performance Marketing.
+* API access enabled by your The Trade Desk account team. For The Trade Desk, your account team enables this access on your behalf using an API token, rather than the OAuth sign-in used by other paid ad channels.
 * The correct advertiser, seat, and permissions enabled by The Trade Desk for the GenStudio for Performance Marketing integration.
 * An API token or credentials from your The Trade Desk account team, with permissions to publish creatives to the target advertiser account.
-* A destination campaign that already exists in The Trade Desk. GenStudio for Performance Marketing activates into an existing campaign only; it does not create or configure campaigns in The Trade Desk.
+* A destination campaign that already exists in The Trade Desk. GenStudio for Performance Marketing activates ads into that existing campaign.
 
 ## Connect your The Trade Desk account
 

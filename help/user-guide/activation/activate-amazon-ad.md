@@ -25,20 +25,20 @@ Adobe GenStudio for Performance Marketing supports the activation of ad experien
 
 **Supported formats**: Static Display.
 
-Activating an Amazon Ads experience follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Amazon Ads-specific prerequisites and setup fields. After you activate an experience in GenStudio for Performance Marketing, use Amazon Ads to review the experience and turn the ad live.
+Activating an Amazon Ads experience follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Amazon Ads-specific prerequisites and setup fields. After you activate an experience in GenStudio for Performance Marketing, use Amazon Ads to review the experience and launch the ad.
 
 GenStudio system managers and editors can activate ad experiences.
 
 ## Prerequisites
 
-* An Amazon Ads account with access to the target advertiser.
-* Admin access to the advertiser, to read and write into Amazon Ads.
+* Access to the target Amazon Ads account.
+* Admin access to that account, to read and write into Amazon Ads.
 
 Amazon Ads organizes campaigns and ads within different accounts, and each account includes a creative library. The target account must already exist in Amazon Ads; GenStudio for Performance Marketing publishes ad experiences into that account's creative library, but does not create accounts.
 
 ## Connect your Amazon Ads account
 
-Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Amazon Ads account to GenStudio for Performance Marketing. You must have admin access to the advertiser to read and write into Amazon Ads. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
+Before your organization can publish assets in a creative library, a GenStudio system manager must connect your Amazon Ads account to GenStudio for Performance Marketing. You must have admin access to that account to read from and write to Amazon Ads. See [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
 
 After the sync completes, you can view the added accounts.
 

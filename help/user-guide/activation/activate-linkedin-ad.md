@@ -30,7 +30,7 @@ Adobe GenStudio for Performance Marketing supports the activation of LinkedIn ad
 
 You can [create a LinkedIn experience](/help/user-guide/create/create-linkedin.md) in GenStudio for Performance Marketing, then select it for activation.
 
-Activating a LinkedIn ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers LinkedIn-specific prerequisites and setup fields. After you activate a LinkedIn experience in GenStudio for Performance Marketing, use LinkedIn Campaign Manager to review the experience and turn the ad live.
+Activating a LinkedIn ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers LinkedIn-specific prerequisites and setup fields. After you activate a LinkedIn experience in GenStudio for Performance Marketing, use LinkedIn Campaign Manager to review the experience and launch the ad.
 
 GenStudio system managers and editors can activate ad experiences.
 

@@ -32,9 +32,9 @@ Adobe GenStudio for Performance Marketing supports the activation of Meta ad exp
 
 **Supported formats**: Image, Video, Carousel.
 
-You can [create a Meta experience](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing, then select it for activation.
+[Create a Meta experience](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing, then select it for activation.
 
-Activating a Meta ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Meta-specific prerequisites and setup fields. After you activate a Meta experience in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to review the experience and turn the ad live.
+Activating a Meta ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers Meta-specific prerequisites and setup fields. After you activate a Meta experience in GenStudio for Performance Marketing, use [Meta Ads Manager](https://adsmanager.facebook.com/) to review the experience and launch the ad.
 
 Unlike some other channels, a Meta ad can include multiple aspect ratios within a single ad. If your experience has multiple aspect ratios, [!DNL Activate] still generates only one row for it, not one row per aspect ratio.
 

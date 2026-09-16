@@ -30,7 +30,7 @@ Adobe GenStudio for Performance Marketing supports the activation of TikTok ad e
 
 You can [create a TikTok experience](/help/user-guide/create/tiktok-experiences.md) in GenStudio for Performance Marketing, then select it for activation.
 
-Activating a TikTok ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers TikTok-specific prerequisites and setup fields. After you activate a TikTok experience in GenStudio for Performance Marketing, use TikTok Ads Manager to run final checks and turn the ad live.
+Activating a TikTok ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers TikTok-specific prerequisites and setup fields. After you activate a TikTok experience in GenStudio for Performance Marketing, use TikTok Ads Manager to run final checks and launch the ad.
 
 GenStudio system managers and editors can activate ad experiences.
 
@@ -38,7 +38,7 @@ GenStudio system managers and editors can activate ad experiences.
 
 * A TikTok Ads account with Operator or Admin access.
 * At least one TikTok ad account enabled for use, connected by a GenStudio system manager or editor.
-* The target TikTok campaign must already exist in TikTok Ads Manager. Budget, bid, optimization, and targeting for the ad group are defined in TikTok Ads Manager, not in GenStudio for Performance Marketing.
+* The target TikTok campaign must already exist in TikTok Ads Manager. TikTok Ads Manager, not GenStudio for Performance Marketing, defines the ad group's budget, bid, optimization, and targeting.
 
 ## Connect your TikTok account
 

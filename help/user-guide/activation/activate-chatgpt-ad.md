@@ -30,7 +30,7 @@ Adobe GenStudio for Performance Marketing supports the activation of ChatGPT ad 
 
 You can [create a ChatGPT experience](/help/user-guide/create/create-chatgpt-ad.md) in GenStudio for Performance Marketing, then select it for activation.
 
-Activating a ChatGPT ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers ChatGPT-specific prerequisites and setup fields. After you activate a ChatGPT experience in GenStudio for Performance Marketing, use OpenAI Ads Manager to run final checks and turn the ad live.
+Activating a ChatGPT ad follows the [same general steps](create-activation.md) required for activation to other paid ad channels. This page covers ChatGPT-specific prerequisites and setup fields. After you activate a ChatGPT experience in GenStudio for Performance Marketing, use OpenAI Ads Manager to run final checks and launch the ad.
 
 GenStudio system managers and editors can activate ad experiences.
 
@@ -45,7 +45,7 @@ Before your organization can activate experiences, a GenStudio system manager mu
 
 1. In OpenAI Ads Manager, go to **[!UICONTROL Settings]** > **[!UICONTROL API Keys]** > **[!UICONTROL Create New Key]**.
 1. In GenStudio for Performance Marketing, go to **[!UICONTROL More]** > **[!UICONTROL Settings]** > **[!UICONTROL ChatGPT]** > **[!UICONTROL Connect]** > **[!UICONTROL Add Account]**.
-1. Enter the name of your OpenAI Ads account, paste in your API key, then click **[!UICONTROL Add Account]**.
+1. Enter the name of your OpenAI Ads account, paste your API key, then click **[!UICONTROL Add Account]**.
 
 ## ChatGPT setup fields
 
