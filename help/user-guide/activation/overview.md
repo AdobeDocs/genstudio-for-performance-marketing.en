@@ -30,38 +30,30 @@ topic_v2:
 ---
 # Adobe GenStudio for Performance Marketing Activate
 
-GenStudio for Performance Marketing [!DNL Activate] provides a central location for preparing your ad experience for activation to select paid ad channels. _Activation_ is the process of preparing ad experiences, assets, and text as a creative ad experience uniquely tailored for placement in a specific paid channel. Activation delivers the creative experience to designated channels in an inactive state, ready for final review and deployment from the channel. Ad experiences can then be distributed in their intended markets.
+GenStudio for Performance Marketing [!DNL Activate] is where you prepare and send ad experiences to paid ad channels, such as Meta or LinkedIn. _Activation_ takes an approved ad experience and its assets, applies the setup a specific channel requires, then directly delivers it to that channel in an inactive, off status. From there, you can do a final review in the channel's own ad manager before your ad goes live.
 
-Content editors and system managers can publish experiences whose assets are either generated in or uploaded into GenStudio for Performance Marketing.
+[!DNL Activate] delivers your experience directly to the channel, so you don't need to export files or manually upload them to the channel's own ad manager.
 
-[!DNL Activate] displays a product card for each supported paid media channel. This tile identifies the paid media channel and lists the number of successful ad activations that have occurred in the past 30 days. It also provides an entry point for managing activations and creating a new activation.
-
-Each paid media channel accounts must be connected to GenStudio for Performance Marketing before you can activate an ad experience.
-
-## Activate use cases
-
-* Activate approved experiences directly from [!DNL Content] for select paid ad channels.
-
-* [Create an activation](create-activation.md). You can craft an ad experience by selecting visual assets, assigning text, and defining metadata before pushing to a paid channel.
-
-* [Manage activations](manage-activations.md). _[!DNL Activate]_ provides an overview of all activated experiences. You can also view the details of individual activations.
+A GenStudio system manager or editor must connect the ad account for each paid ad channel before you can activate an ad experience to that channel.
 
 ## Activate capabilities
 
-[!DNL Activate] facilitates the preparation of ad experiences for distribution to their target paid channels.
+Use [!DNL Activate] to prepare ad experiences for their target paid ad channels. [Activate experiences in bulk](create-activation.md) across multiple paid ad channels in a single activation table. Then, [manage your activations](manage-activations.md) to see the status and details of every activated experience.
 
-### Activate an approved experience directly from Content
+>[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
-You can activate an approved experience directly from [!DNL Content], or activate multiple approved experiences as an activation group for select paid channels. All experiences in a group must target the same paid channel.
+### Activate approved experiences from Content
 
-### Prepare an experience for activation
+Select one or more approved, published experiences from [!DNL Content], or start from the [!DNL Activate] landing page. Unlike earlier versions of [!DNL Activate], a single activation table can include experiences for multiple paid ad channels at once, organized by ad format and channel.
 
-The _Experience setup_ page consolidates the tools that you need to select the visual elements of an ad experience, tweak ad text (including call-to-action text), and add helpful metadata that enhances experience tracking and visibility.
+>[!NOTE]
+>
+>[!DNL Content] calls a destination like Meta or LinkedIn a **channel**. [!DNL Activate] calls the same destination a **platform** (for example, in **[!UICONTROL Platform setup]**). The two terms refer to the same thing.
 
-### Select assets for ad experience
+### Configure ad and platform setup details
 
-Search for and select approved visual assets from [!DNL Content], or upload assets from Dropbox or OneDrive. You can upload assets directly from your device. One ad experience can run in multiple placements. Assets can be uploaded in the aspect ratios your ad placements require.
+Each row in the activation table represents one ad. Approved creative assets, headlines, and body copy are locked because they already went through review and approval. You can edit the remaining fields, such as call-to-action text, destination URL, and platform setup details like the ad account, campaign, and ad set. Edit fields for one row at a time, or select multiple rows to edit shared fields in bulk.
 
-### Preview and activate your experience to an ad channel
+### Review and publish your experiences to their ad channels
 
-Confirm the paid channel accounts, ad sets, and Meta campaigns associated with this ad activation. The _Preview_ panel lets you view ad experiences in different placements before you finalize it. (When you select a placement in the _Preview_ panel, only your view of the ad is affected. Your placement selection in the _Preview_ panel is not saved.) When you are satisfied with your ad experience, click **[!UICONTROL Publish]** to push the experience and its associated metadata to the paid ad channel.
+Confirm that every row shows [!UICONTROL Ready to Activate]. [!DNL Activate] flags missing or invalid fields, incompatible calls to action, and duplicate tracking IDs as [!UICONTROL Needs Attention]. When every row is ready, click **[!UICONTROL Send to Platform]** to publish all ads in the table. [!DNL Activate] reports each ad's status in near real time, and successfully published ads include a deep link to the ad in the destination platform's native ad manager. Failed ads return an error message and can be retried.

@@ -95,6 +95,10 @@ nudge: true
     + [Meta](activation/activate-meta-ad.md)
     + [Amazon](activation/activate-amazon-ad.md)
     + [Innovid](activation/activate-innovid-ad.md)
+    + [TikTok](activation/activate-tiktok-ad.md)
+    + [YouTube](activation/activate-youtube-ad.md)
+    + [ChatGPT](activation/activate-chatgpt-ad.md)
+    + [The Trade Desk](activation/activate-trade-desk-ad.md)
 + Insights {#insights}
   + [Insights overview](insights/overview.md)
   + [Insights filters](insights/filter-views.md)
