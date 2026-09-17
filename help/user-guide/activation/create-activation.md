@@ -30,38 +30,45 @@ topic_v2:
 ---
 # Activation workflow
 
-[!DNL Activate] activates published experiences to their paid ad channels. A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared for a specific audience on a paid ad channel. Experiences for activation contain three main components:
+[!DNL Activate] activates published experiences to their paid ad platforms. A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared for a specific audience on a paid ad platform. Experiences for activation contain three main components:
 
-* **Media assets**: Images or video included in your ad experience. Supported file types and aspect ratios vary by channel and format.
+* **Media assets**: Images or video included in your ad experience. Supported file types and aspect ratios vary by platform and format.
 
 * **Text**: All forms of copy included in your ad, including headlines, body text, and call-to-action elements.
 
 * **Metadata**: User-defined attributes that enhance performance analysis, filtering, and tracking. Metadata is typically not visible to the final ad audience.
 
-You prepare and approve these components in [!DNL Content] before activation. [!DNL Activate] doesn't create or edit approved assets, headlines, or body copy. It only applies the setup each channel needs, then publishes the experience.
+You prepare and approve these components in [!DNL Content] before activation. [!DNL Activate] doesn't create or edit approved assets, headlines, or body copy. It only applies the setup each platform needs, then publishes the experience.
 
-A single activation table can include experiences for multiple paid ad channels and ad formats at once.
+A single activation table can include experiences for multiple paid ad platforms and ad formats at once.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
-## Connect your channel accounts
+## Connect your platform accounts
 
-A GenStudio system manager or editor must connect the ad accounts for each paid ad channel before you can activate an experience to that channel. To see the steps for this process, see [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
+A GenStudio system manager or editor must connect the ad accounts for each paid ad platform before you can activate an experience to that platform. To see the steps for this process, see [Connect paid media accounts](/help/user-guide/connectors/connect-channel.md).
 
 ## Start an activation
 
 Start an activation from one of two entry points:
 
 * **From [!DNL Content]**: Filter to Experiences, select one or more published experiences, then click **[!UICONTROL Activate]** on the top action bar.
-* **From [!DNL Activate]**: On the [!DNL Activate] landing page, click **[!UICONTROL + New activation]**. This opens the Experience gallery, where you select experiences for activation.
 
-![Selecting published experiences in Content and clicking Activate to start an activation](./images/content-select-activate.png)
+  ![Selecting published experiences in Content and clicking Activate to start an activation](./images/content-select-activate.png)
+
+* **From [!DNL Activate]**: On the [!DNL Activate] landing page, click **[!UICONTROL + New activation]**. This opens the same Experience gallery, where you select experiences for activation.
 
 In either case, search by experience name or filter by multiple channels to find the experiences you want.
 
 If your selection includes display-format experiences, specify which display platform to use: Google Campaign Manager 360, Innovid, Amazon Ads, or The Trade Desk. Then click **[!UICONTROL Start activation]**. For other formats, such as Meta, LinkedIn, TikTok, YouTube, and ChatGPT, [!DNL Activate] infers the platform from the experience's channel and skips this step.
 
-[!DNL Activate] generates an activation table listing all selected experiences. The table is organized into sub-tables by ad format and channel, for example Meta single image or LinkedIn single image. Each row represents one ad. For most channels, such as LinkedIn, TikTok, and display channels, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception. A Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
+[!DNL Activate] then generates an activation table listing all your selected experiences.
+
+![A newly generated activation table grouped into Meta and LinkedIn sub-tables, with every ad flagged Needs attention until its fields are complete](./images/activation-table.png)
+
+The table is organized into sub-tables by ad format and platform, for example Meta single image or LinkedIn single image. Each row represents one ad. For most platforms, such as LinkedIn, TikTok, and display platforms, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception. A Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
+
+## Manage your activation table
 
 Your activation table saves as a draft automatically when it opens. You can leave and resume the draft at any point before publishing.
 
@@ -71,17 +78,15 @@ To add more experiences to an activation table you already opened, click **[!UIC
 
 ## Configure ad and platform setup details
 
-Approved assets, headlines, and body copy are locked and can't be edited in the activation table, since they already went through review and approval in [!DNL Content]. The remaining fields can be edited, and vary by channel:
+Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once.
 
->[!NOTE]
->
->[!DNL Content] calls a destination like Meta or LinkedIn a **channel**. [!DNL Activate] calls the same destination a **platform** (for example, in **[!UICONTROL Platform setup]**, and in the **Editable platform setup fields** column below). The two terms refer to the same thing.
+![Selecting multiple ads in an activation table to bulk-edit details or platform settings](./images/bulk-edit-action-bar.png)
 
-You don't need to look up your channel's fields ahead of time. [!DNL Activate] only shows the columns relevant to the channels and formats you selected. Use the table below as a reference for what's editable per channel.
+Approved assets, headlines, and body copy are locked and can't be edited in the activation table, since they already went through review and approval in [!DNL Content]. The remaining fields can be edited, and vary by platform. [!DNL Activate] only shows the columns relevant to the platforms and formats you selected. Use the table below as a reference for what's editable per platform.
 
-**Editable fields by channel**
+**Editable fields by platform**
 
-| Channel | Formats supported | Locked copy | Editable text fields | Editable platform setup fields |
+| Platform | Formats supported | Locked copy | Editable text fields | Editable platform setup fields |
 |---|---|---|---|---|
 | Meta | Image, Video, Carousel | Headline, Body | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad account, Facebook page, Instagram profile, Meta campaign, Meta ad set |
 | LinkedIn | Single Image, Single Video | Headline, Introductory Text | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad account, Campaign, Ad Set |
@@ -93,13 +98,13 @@ You don't need to look up your channel's fields ahead of time. [!DNL Activate] o
 | ChatGPT | Chat Cards | Title, Body | Target URL, Tracking ID | OpenAI ad account, OpenAI Campaign, OpenAI Ad group |
 | The Trade Desk | Static Display | n/a | Tracking ID | Account, Campaign |
 
-A **Tracking ID** is a unique label you assign to an ad row. It's passed to the destination platform as the ad or creative name, so use it to identify that ad for reporting and troubleshooting.
-
-Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once. To configure platform setup fields for a group of ad formats, click **[!UICONTROL Manage platform settings]** and edit the fields in the resulting dialog.
-
-![Selecting multiple ads in an activation table to bulk-edit details or platform settings](./images/bulk-edit-action-bar.png)
+To configure platform setup fields for a group of ad formats, click **[!UICONTROL Manage platform settings]** and edit the fields in the resulting dialog.
 
 ![The Manage platform settings dialog for choosing a Meta ad account, campaign, and ad set](./images/manage-platform-settings.png)
+
+The **[!UICONTROL Tracking ID]** fields are initially blank. A Tracking ID is the same thing as the ad platform's ad name or creative name, and is passed to the ad platform as the identifying name for the ad. Use this field to identify that ad for reporting and troubleshooting. Enter the values you want to use in the **[!UICONTROL Tracking ID]** fields.
+
+![Editing a Tracking ID field inline in the activation table](./images/tracking-id-edit.png)
 
 To move between **[!UICONTROL Tracking ID]** fields more quickly, use these keyboard shortcuts:
 
@@ -107,23 +112,21 @@ To move between **[!UICONTROL Tracking ID]** fields more quickly, use these keyb
 * Press the **Up** or **Down** arrow key to move to the previous or next **[!UICONTROL Tracking ID]** field in that column.
 * Press **Enter** again to save your edit.
 
-![Editing a Tracking ID field inline in the activation table](./images/tracking-id-edit.png)
+## Review and publish your experiences to their ad platforms
 
-## Review and publish your experiences to their ad channels
-
-Confirm that every row shows [!UICONTROL Ready to Activate]. [!DNL Activate] flags missing or invalid fields, incompatible calls to action, and duplicate tracking IDs as [!UICONTROL Needs Attention]. When every row is ready, click **[!UICONTROL Send to Platform]** and confirm in the publish dialog.
+Confirm that every row shows [!UICONTROL Ready to Activate]. [!DNL Activate] flags missing or invalid fields, incompatible calls to action, and duplicate tracking IDs as [!UICONTROL Needs Attention]. When every row is ready, click **[!UICONTROL Send to platforms]** and confirm in the publish dialog.
 
 ![An activation table where every row shows Ready to activate, enabling Send to platforms](./images/ready-to-activate.png)
 
-[!DNL Activate] reports each ad's status in near real time: Pending, then Published or Failed. If an ad fails, hover over its status to see the platform's error. You can retry every failed ad in the table at once by clicking **[!UICONTROL Try again]**, rather than retrying each one individually. Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager. Your final pre-publication review, and launching ads, happens in the destination channel's own ad manager: [!DNL Activate] always delivers ads in an inactive state.
+[!DNL Activate] reports each ad's status in near real time: Pending, then Sent to platforms or Failed. If an ad fails, hover over its status to see the platform's error. You can retry every failed ad in the table at once by clicking **[!UICONTROL Try again]**, rather than retrying each one individually. Rows already sent to platforms are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager. Your final pre-publication review, and launching ads, happens in the destination platform's own ad manager: [!DNL Activate] always delivers ads in an inactive state.
 
 ![An activation table showing a mix of Pending and Sent to platforms statuses after publishing](./images/activation-status-pending.png)
 
 Your activation tables appear on the [!DNL Activate] landing page.
 
-## Supported channels
+## Supported platforms
 
-Each paid ad channel has channel-specific setup fields and prerequisites. Select the paid ad channel for activation guidelines:
+Each paid ad platform has specific setup fields and prerequisites. Select the paid ad platform for activation guidelines:
 
 * [Meta](activate-meta-ad.md)
 * [LinkedIn](activate-linkedin-ad.md)
