@@ -76,6 +76,8 @@ To add more experiences to an activation table you already opened, click **[!UIC
 
 **[!UICONTROL Add more experiences]** also lets you activate to more than one display platform in the same table. Display-format experiences ask you to choose a single display platform first, but you can click **[!UICONTROL Add more experiences]**, select more display-format experiences, and choose a different display platform than the one already in your table. For example, you can add The Trade Desk ads to a table that already contains Innovid ads.
 
+Once your table has the right experiences, configure each ad's fields next.
+
 ## Configure ad and platform setup details
 
 Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once.
