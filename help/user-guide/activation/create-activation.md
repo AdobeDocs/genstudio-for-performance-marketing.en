@@ -55,6 +55,8 @@ Start an activation from one of two entry points:
 * **From [!DNL Content]**: Filter to Experiences, select one or more published experiences, then click **[!UICONTROL Activate]** on the top action bar.
 * **From [!DNL Activate]**: On the [!DNL Activate] landing page, click **[!UICONTROL + New activation]**. This opens the Experience gallery, where you select experiences for activation.
 
+![Selecting published experiences in Content and clicking Activate to start an activation](./images/content-select-activate.png)
+
 In either case, search by experience name or filter by multiple channels to find the experiences you want.
 
 If your selection includes display-format experiences, specify which display platform to use: Google Campaign Manager 360, Innovid, Amazon Ads, or The Trade Desk. Then click **[!UICONTROL Start activation]**. For other formats, such as Meta, LinkedIn, TikTok, YouTube, and ChatGPT, [!DNL Activate] infers the platform from the experience's channel and skips this step.
@@ -95,17 +97,27 @@ A **Tracking ID** is a unique label you assign to an ad row. It's passed to the 
 
 Edit fields inline per row, or select multiple rows within the same format table and click **[!UICONTROL Edit details]** on the toolbar that appears to bulk-edit those fields at once. To configure platform setup fields for a group of ad formats, click **[!UICONTROL Manage platform settings]** and edit the fields in the resulting dialog.
 
+![Selecting multiple ads in an activation table to bulk-edit details or platform settings](./images/bulk-edit-action-bar.png)
+
+![The Manage platform settings dialog for choosing a Meta ad account, campaign, and ad set](./images/manage-platform-settings.png)
+
 To move between **[!UICONTROL Tracking ID]** fields more quickly, use these keyboard shortcuts:
 
 * Press **Enter** to open the edit field for the selected **[!UICONTROL Tracking ID]**.
 * Press the **Up** or **Down** arrow key to move to the previous or next **[!UICONTROL Tracking ID]** field in that column.
 * Press **Enter** again to save your edit.
 
+![Editing a Tracking ID field inline in the activation table](./images/tracking-id-edit.png)
+
 ## Review and publish your experiences to their ad channels
 
 Confirm that every row shows [!UICONTROL Ready to Activate]. [!DNL Activate] flags missing or invalid fields, incompatible calls to action, and duplicate tracking IDs as [!UICONTROL Needs Attention]. When every row is ready, click **[!UICONTROL Send to Platform]** and confirm in the publish dialog.
 
+![An activation table where every row shows Ready to activate, enabling Send to platforms](./images/ready-to-activate.png)
+
 [!DNL Activate] reports each ad's status in near real time: Pending, then Published or Failed. If an ad fails, hover over its status to see the platform's error. You can retry every failed ad in the table at once by clicking **[!UICONTROL Try again]**, rather than retrying each one individually. Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager. Your final pre-publication review, and launching ads, happens in the destination channel's own ad manager: [!DNL Activate] always delivers ads in an inactive state.
+
+![An activation table showing a mix of Pending and Sent to platforms statuses after publishing](./images/activation-status-pending.png)
 
 Your activation tables appear on the [!DNL Activate] landing page.
 
