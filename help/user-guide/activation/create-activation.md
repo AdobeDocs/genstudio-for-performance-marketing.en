@@ -32,15 +32,15 @@ topic_v2:
 
 [!DNL Activate] activates published experiences to their paid ad platforms. A GenStudio for Performance Marketing experience is a marketing campaign component, such as an ad, that is prepared for a specific audience on a paid ad platform. Experiences for activation contain three main components:
 
-* **Media assets**: Images or video included in your ad experience. Supported file types and aspect ratios vary by platform and format.
+* **Media assets**: Images or video in your ad experience, in file types and aspect ratios that vary by platform and format.
 
 * **Text**: All forms of copy included in your ad, including headlines, body text, and call-to-action elements.
 
-* **Metadata**: User-defined attributes that enhance performance analysis, filtering, and tracking. Metadata is typically not visible to the final ad audience.
+* **Metadata**: User-defined attributes, typically not visible to the ad audience, that enhance performance analysis, filtering, and tracking.
 
 You prepare and approve these components in [!DNL Content] before activation. [!DNL Activate] doesn't create or edit approved assets, headlines, or body copy. It only applies the setup each platform needs, then publishes the experience.
 
-A single activation table can include experiences for multiple paid ad platforms and ad formats at once.
+A single activation table can include experiences for multiple paid ad platforms and ad formats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
@@ -66,7 +66,7 @@ If your selection includes display-format experiences, specify which display pla
 
 ![A newly generated activation table grouped into Meta and LinkedIn sub-tables, with every ad flagged Needs attention until its fields are complete](./images/activation-table.png)
 
-The table is organized into sub-tables by ad format and platform, for example Meta single image or LinkedIn single image. Each row represents one ad. For most platforms, such as LinkedIn, TikTok, and display platforms, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception. A Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
+[!DNL Activate] organizes the table into sub-tables by ad format and platform, for example Meta single image or LinkedIn single image. Each row represents one ad. For most platforms, such as LinkedIn, TikTok, and display platforms, an experience with multiple aspect ratios generates one row per aspect ratio; delete any rows you don't need. Meta is the exception. A Meta ad can include multiple aspect ratios within a single ad, so a multi-aspect-ratio Meta experience still generates only one row.
 
 ## Manage your activation table
 
@@ -90,21 +90,21 @@ Approved assets, headlines, and body copy are locked and can't be edited in the 
 
 | Platform | Formats supported | Locked copy | Editable text fields | Editable platform setup fields |
 |---|---|---|---|---|
-| Meta | Image, Video, Carousel | Headline, Body | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad account, Facebook page, Instagram profile, Meta campaign, Meta ad set |
-| LinkedIn | Single Image, Single Video | Headline, Introductory Text | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad account, Campaign, Ad Set |
+| Meta | Image, Video, Carousel | Headline, Body | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad Account, Facebook Page, Instagram Profile, Meta Campaign, Meta Ad Set |
+| LinkedIn | Single Image, Single Video | Headline, Introductory Text | Description, Call-to-action, Destination URL, URL Parameters, Tracking ID | Ad Account, Campaign, Ad Set |
 | Google Campaign Manager 360 | Static Display, Video Display, HTML5 Zip Display | n/a | Tracking ID | Advertiser |
 | Amazon Ads | Static Display | n/a | Tracking ID | Account |
 | Innovid | Static Display, HTML5 Zip Display | n/a | Tracking ID | Account, Creative Library, Concept Name |
-| TikTok | In-Feed Video Ads | Primary Text | Call-to-action, Destination URL, Tracking ID | Ad account, Campaign, Ad group |
+| TikTok | In-Feed Video Ads | Primary Text | Call-to-action, Destination URL, Tracking ID | Ad Account, Campaign, Ad Group |
 | YouTube | Shorts in Google Ads Demand Gen campaigns | Description | Call-to-action, Business name, Destination URL, URL Parameters, Tracking ID | Account, Campaign, Ad Group, Logo |
-| ChatGPT | Chat Cards | Title, Body | Target URL, Tracking ID | OpenAI ad account, OpenAI Campaign, OpenAI Ad group |
+| ChatGPT | Chat Cards | Title, Body | Target URL, Tracking ID | OpenAI Ad Account, OpenAI Campaign, OpenAI Ad Group |
 | The Trade Desk | Static Display | n/a | Tracking ID | Account, Campaign |
 
 To configure platform setup fields for a group of ad formats, click **[!UICONTROL Manage platform settings]** and edit the fields in the resulting dialog.
 
 ![The Manage platform settings dialog for choosing a Meta ad account, campaign, and ad set](./images/manage-platform-settings.png)
 
-The **[!UICONTROL Tracking ID]** fields are initially blank. A Tracking ID is the same thing as the ad platform's ad name or creative name, and is passed to the ad platform as the identifying name for the ad. Use this field to identify that ad for reporting and troubleshooting. Enter the values you want to use in the **[!UICONTROL Tracking ID]** fields.
+The **[!UICONTROL Tracking ID]** fields are initially blank. A Tracking ID is the same thing as the ad platform's ad name or creative name, and the ad platform uses it as the ad's identifying name. Use this field to identify that ad for reporting and troubleshooting. Enter the values you want to use in the **[!UICONTROL Tracking ID]** fields.
 
 ![Editing a Tracking ID field inline in the activation table](./images/tracking-id-edit.png)
 
