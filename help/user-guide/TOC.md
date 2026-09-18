@@ -19,6 +19,11 @@ nudge: true
   + [Configure [!DNL Brand] permissions](configure-brand-permissions.md)
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
++ AI assistants
+  + [AI assistants overview](ai-assistants/overview.md)
+  + [Connect an AI assistant](ai-assistants/connect-ai-assistants.md)
+  + [Use AI assistants](ai-assistants/use-ai-assistants.md)
+  + [AI assistant tools reference](ai-assistants/tools-reference.md)
 + Settings {#settings}
   + [Connect paid media](connectors/connect-channel.md)
   + Paid media accounts {#connect-account}
