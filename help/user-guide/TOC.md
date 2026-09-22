@@ -19,7 +19,7 @@ nudge: true
   + [Configure [!DNL Brand] permissions](configure-brand-permissions.md)
   + [User roles](user-roles.md)
   + [Effective prompts](effective-prompts.md)
-+ AI assistants
++ AI assistants {#ai-assistants}
   + [AI assistants overview](ai-assistants/overview.md)
   + [Connect an AI assistant](ai-assistants/connect-ai-assistants.md)
   + [Use AI assistants](ai-assistants/use-ai-assistants.md)
