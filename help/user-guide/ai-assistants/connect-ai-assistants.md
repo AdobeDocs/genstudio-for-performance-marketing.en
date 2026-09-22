@@ -32,8 +32,9 @@ Claude requires a Pro, Max, Team, or Enterprise plan. The same remote connector 
 1. Sign in with your Adobe ID.
 1. Select the IMS organization that has access to [!DNL GenStudio for Performance Marketing].
 
-> [!NOTE]
-> On a Team or Enterprise plan, an organization owner might need to add the connector first. If the connector is already available, select **[!UICONTROL Connect]** instead.
+>[!NOTE]
+>
+>On a Team or Enterprise plan, an organization owner might need to add the connector first. If the connector is already available, select **[!UICONTROL Connect]** instead.
 
 ## Connect ChatGPT
 
@@ -48,8 +49,9 @@ ChatGPT requires a Plus, Pro, Business, Enterprise, or Education account. Custom
 1. Sign in with your Adobe ID.
 1. Select the IMS organization that has access to [!DNL GenStudio for Performance Marketing].
 
-> [!NOTE]
-> ChatGPT can change the location of developer and connector settings. If these labels differ in your account, follow the current OpenAI instructions for adding a remote MCP connector.
+>[!NOTE]
+>
+>ChatGPT can change the location of developer and connector settings. If these labels differ in your account, follow the current OpenAI instructions for adding a remote MCP connector.
 
 ## Connect Codex
 
@@ -102,8 +104,9 @@ After setup, confirm that the tools are available.
 
 The assistant returns available performance data or explains why no data matches the request.
 
-> [!TIP]
-> If authentication fails, reconnect and confirm that you selected the correct IMS organization. If no tools appear, confirm that your account has access to [!DNL GenStudio for Performance Marketing].
+>[!TIP]
+>
+>If authentication fails, reconnect and confirm that you selected the correct IMS organization. If no tools appear, confirm that your account has access to [!DNL GenStudio for Performance Marketing].
 
 ## Related capabilities
 

@@ -85,8 +85,9 @@ Turn a recommendation or template into an editable draft:
 - "What can I change in this template?"
 - "Create a Meta ad from this template. Use the headline Summer Sale and the call to action Shop Now. Here is the creative brief: [describe the campaign, tone, and offer]."
 
-> [!TIP]
-> Creating a draft makes a real document in Creative Cloud. It is not a preview. Prepare the creative brief and copy before you ask.
+>[!TIP]
+>
+>Creating a draft makes a real document in Creative Cloud. It is not a preview. Prepare the creative brief and copy before you ask.
 
 ## Review and share a draft
 
@@ -105,8 +106,9 @@ After a draft is approved and published as an experience, publish it to a connec
 - "Set up this experience for my Meta ad account and campaign."
 - "Publish this experience to LinkedIn."
 
-> [!IMPORTANT]
-> Publishing creates a live ad placement and might incur ad spend. It is not reversible through the assistant. Confirm the target account, campaign, and experience before publishing. Repeating the request creates another ad.
+>[!IMPORTANT]
+>
+>Publishing creates a live ad placement and might incur ad spend. It is not reversible through the assistant. Confirm the target account, campaign, and experience before publishing. Repeating the request creates another ad.
 
 ## Interpret empty or unavailable results
 
