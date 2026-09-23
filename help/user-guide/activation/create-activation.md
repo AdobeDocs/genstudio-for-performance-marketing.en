@@ -104,7 +104,7 @@ To configure platform setup fields for a group of ad formats, click **[!UICONTRO
 
 ![The Manage platform settings dialog for choosing a Meta ad account, campaign, and ad set](./images/manage-platform-settings.png)
 
-The **[!UICONTROL Tracking ID]** fields are initially blank. A Tracking ID is the same thing as the ad platform's ad name or creative name, and the ad platform uses it as the ad's identifying name. Use this field to identify that ad for reporting and troubleshooting. Enter the values you want to use in the **[!UICONTROL Tracking ID]** fields.
+Each **[!UICONTROL Tracking ID]** field is pre-filled with the experience name: the ad platform uses this value as the ad's name or creative name for reporting and troubleshooting. Edit the value in place if you want to use something else.
 
 ![Editing a Tracking ID field inline in the activation table](./images/tracking-id-edit.png)
 

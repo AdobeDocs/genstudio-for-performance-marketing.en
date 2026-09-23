@@ -39,7 +39,7 @@ Here are some common best practices and the errors that they can prevent.
 
 * **Use a unique tracking ID for each row**
 
-   [!DNL Activate] flags duplicate tracking IDs as [!UICONTROL Needs Attention] and won't let you publish until each row in the affected format and platform table has a unique tracking ID. If you bulk-edit a tracking ID across multiple rows, confirm you meant to apply the same value to every selected row.
+   [!DNL Activate] flags duplicate tracking IDs as [!UICONTROL Needs Attention] and won't let you publish until each row in the affected format and platform table has a unique tracking ID. Each **[!UICONTROL Tracking ID]** field is pre-filled with the experience's name, so rows that share an experience across ad formats or platforms start with the same value. Check for and resolve these duplicates, not just ones introduced by bulk edits. If you bulk-edit a tracking ID across multiple rows, confirm you meant to apply the same value to every selected row.
 
 * **Use valid, complete destination URLs**
 
