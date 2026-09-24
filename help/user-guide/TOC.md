@@ -47,6 +47,7 @@ nudge: true
   + [Display ad experiences](create/display-ad-experiences.md)
   + [Banner experiences](create/banner-experiences.md)
   + [Manage variants](create/manage-variants.md)
+  + [Generate and refine content with Stateful Generation](create/stateful-generation.md)
   + [Translate and localize experiences](create/translate-experiences.md)
   + [Collaborative editing](create/collaborative-editing.md)
   + [Use Logo Swap](create/logo-swap.md)
