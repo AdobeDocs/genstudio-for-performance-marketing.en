@@ -1,9 +1,12 @@
 ---
 title: Adobe GenStudio for Performance Marketing Beta Release Notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
-hidefromtoc: yes
+hidefromtoc: 'yes'
 hide: true
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 ---
 # Adobe GenStudio for Performance Marketing Beta release notes
 

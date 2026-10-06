@@ -2,6 +2,12 @@
 title: Use AI Assistants
 description: Learn how to query performance data, create drafts, and publish approved ads using an AI assistant connected to [!DNL GenStudio for Performance Marketing].
 role: User
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 
 # Use AI assistants

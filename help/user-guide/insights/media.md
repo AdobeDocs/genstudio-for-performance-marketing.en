@@ -4,7 +4,7 @@ description: Learn how to evaluate media performance in Adobe GenStudio for Perf
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-TQID: https://experienceleague.adobe.com/fSBgN1uvr39dd7AV3Kvr3D5UnSDY2-dE1aX1g2Q7fTc
+TQID: 'https://experienceleague.adobe.com/fSBgN1uvr39dd7AV3Kvr3D5UnSDY2-dE1aX1g2Q7fTc'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -17,6 +17,8 @@ feature_v2:
     internal-label: Create
   - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
     internal-label: Content attributes
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a29f532b-105a-4aec-8a5d-e7e725214866
     internal-label: Media performance
@@ -26,6 +28,8 @@ subfeature_v2:
     internal-label: Channels
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
     internal-label: Experiences
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

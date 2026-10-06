@@ -2,6 +2,12 @@
 title: Connect an AI Assistant
 description: Learn how to connect a supported AI assistant to [!DNL GenStudio for Performance Marketing] and verify access to available tools.
 role: User
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 
 # Connect an AI assistant

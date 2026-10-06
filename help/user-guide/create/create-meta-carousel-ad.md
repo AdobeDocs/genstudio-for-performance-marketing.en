@@ -2,6 +2,12 @@
 title: Create Meta Ad Experience - Carousel Ads
 description: Learn how to create multi-card Meta carousel ad experiences, manage cards, and generate on-brand concepts in [!DNL GenStudio for Performance Marketing].
 role: User
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 
 # Create a Meta carousel ad experience

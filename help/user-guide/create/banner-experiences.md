@@ -6,7 +6,7 @@ badgeBeta: label="Beta" tooltip="This feature is currently in Beta, so some func
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-TQID: https://experienceleague.adobe.com/cxFps-5tUBUrqCUCRKuUcUcRIA-PYyTvZfsY0VUky68
+TQID: 'https://experienceleague.adobe.com/cxFps-5tUBUrqCUCRKuUcUcRIA-PYyTvZfsY0VUky68'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -17,11 +17,15 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: dee4e9a9-78d1-4953-8179-f8da6117027d
     internal-label: Create canvas
   - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
     internal-label: Display ad experiences
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

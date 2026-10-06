@@ -2,6 +2,12 @@
 title: AI Assistant Tools Reference
 description: Learn about the Insights, Create, Activate, and feedback tools an AI assistant can use with [!DNL GenStudio for Performance Marketing].
 role: User
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 
 # AI assistant tools reference
