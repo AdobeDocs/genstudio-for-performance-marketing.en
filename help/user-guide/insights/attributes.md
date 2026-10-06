@@ -4,7 +4,7 @@ description: Learn how to evaluate the performance of specific attributes in Ado
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-TQID: https://experienceleague.adobe.com/FW4WpVLALtYYI2mGT3i3IH5KYuYnZ5h2pbnm9gKcrVE
+TQID: 'https://experienceleague.adobe.com/FW4WpVLALtYYI2mGT3i3IH5KYuYnZ5h2pbnm9gKcrVE'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -17,11 +17,15 @@ feature_v2:
     internal-label: Create
   - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
     internal-label: Content attributes
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
   - id: b03d2162-d906-40a0-9cbd-001391e22d4a
     internal-label: Content performance
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

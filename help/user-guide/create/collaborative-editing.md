@@ -4,6 +4,21 @@ description: Learn how to share paid media drafts with collaborators, assign rol
 feature: Create Canvas
 role: User
 level: Beginner
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Collaborative editing
 

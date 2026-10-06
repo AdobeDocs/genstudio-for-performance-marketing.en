@@ -4,7 +4,7 @@ description: Learn about the video feature of attribute categories used in GenSt
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-TQID: https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c
+TQID: 'https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -15,9 +15,17 @@ feature_v2:
     internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
     internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+    internal-label: Content attributes
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
+  - id: f73d44c4-c328-457d-b61d-933788fc39b1
+    internal-label: Video attributes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

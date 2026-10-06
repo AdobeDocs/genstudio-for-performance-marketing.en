@@ -4,6 +4,21 @@ description: Configure brand logo placeholders in templates to enable logo swap 
 feature: Create Canvas
 role: User
 level: Intermediate
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Set up Logo Swap in templates
 

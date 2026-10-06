@@ -4,7 +4,7 @@ description: Learn about the image feature of attribute categories used in GenSt
 level: Intermediate
 feature: Reporting and Insights, Image Attributes, Generative AI
 exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
-TQID: https://experienceleague.adobe.com/dFi5aYBN8Mr3cYF9tHcAEh2ncDiQdCZiQIPrksmSmdw
+TQID: 'https://experienceleague.adobe.com/dFi5aYBN8Mr3cYF9tHcAEh2ncDiQdCZiQIPrksmSmdw'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -15,9 +15,17 @@ feature_v2:
     internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
     internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+    internal-label: Content attributes
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
+  - id: f5d477c2-bfe3-4f2f-9f4f-bde40fdf10a3
+    internal-label: Image attributes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

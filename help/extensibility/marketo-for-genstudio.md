@@ -2,6 +2,18 @@
 title: Marketo for GenStudio
 description: Install and configure the Marketo for GenStudio Adobe Exchange app so your organization can use Marketo Engage templates in GenStudio for Performance Marketing.
 feature: Extensibility
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Marketo for GenStudio
 

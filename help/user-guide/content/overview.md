@@ -4,7 +4,7 @@ description: Learn how to find, edit, reuse, and share brand-approved assets in 
 level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-TQID: https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc
+TQID: 'https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
     internal-label: Create
+subfeature_v2:
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

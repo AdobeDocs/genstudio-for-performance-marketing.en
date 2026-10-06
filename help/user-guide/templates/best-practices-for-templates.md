@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-TQID: https://experienceleague.adobe.com/fiKHSZ-YFZ2gSD5iZ-aKaZtsC49Mrj1dqHpHqtbXZVM
+TQID: 'https://experienceleague.adobe.com/fiKHSZ-YFZ2gSD5iZ-aKaZtsC49Mrj1dqHpHqtbXZVM'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -14,6 +14,17 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+    internal-label: Brand personalization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,7 +3,7 @@ title: Activate Amazon Ads
 description: Learn how to activate Amazon Ads experiences.
 feature: Ad Activation
 exl-id: 539cb43c-a9d8-4473-8a7d-e81967111741
-TQID: https://experienceleague.adobe.com/4L4JHcYLSsoQ50QbCW7Mof52h5jpz3z8n0UL8CaqLA8
+TQID: 'https://experienceleague.adobe.com/4L4JHcYLSsoQ50QbCW7Mof52h5jpz3z8n0UL8CaqLA8'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -15,6 +15,8 @@ feature_v2:
 subfeature_v2:
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
     internal-label: Experiences
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

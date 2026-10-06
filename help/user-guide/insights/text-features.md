@@ -3,7 +3,7 @@ title: Text Features
 description: Learn about the text feature of attribute categories used in GenStudio for Performance Marketing.
 feature: Reporting and Insights, Text Attributes, Generative AI
 exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
-TQID: https://experienceleague.adobe.com/Oec5q249StCtuG-2-n1dYmJoEDRPaqLF2QANpwClQ3A
+TQID: 'https://experienceleague.adobe.com/Oec5q249StCtuG-2-n1dYmJoEDRPaqLF2QANpwClQ3A'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -14,9 +14,17 @@ feature_v2:
     internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
     internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+    internal-label: Content attributes
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
+  - id: f3d08dda-f41e-4fb2-aedb-02d0faa1b9d4
+    internal-label: Text attributes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

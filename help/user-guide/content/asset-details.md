@@ -3,7 +3,7 @@ title: Asset Details
 description: Adobe GenStudio for Performance Marketing stores approved content with rich metadata for searchability and performance tracking.
 feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-TQID: https://experienceleague.adobe.com/Hm7qcrP6VcXf6IqZ2pYybduNyjjV8kdWj571gcRpglI
+TQID: 'https://experienceleague.adobe.com/Hm7qcrP6VcXf6IqZ2pYybduNyjjV8kdWj571gcRpglI'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Content attributes
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a8b28c00-da6e-4d27-8667-80f790ad8972
     internal-label: Email experiences
@@ -31,6 +33,8 @@ subfeature_v2:
     internal-label: Channels
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
     internal-label: Experiences
+  - id: ec92a2bc-afe3-4ff0-a985-0c8ef22b4da0
+    internal-label: Content management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

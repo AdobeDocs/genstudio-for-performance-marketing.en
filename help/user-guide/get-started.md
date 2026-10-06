@@ -5,7 +5,7 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-TQID: https://experienceleague.adobe.com/HAKr2otOS5gyJA0PDkZL4zpDx2OjqjFMwZLtFPFQ2M0
+TQID: 'https://experienceleague.adobe.com/HAKr2otOS5gyJA0PDkZL4zpDx2OjqjFMwZLtFPFQ2M0'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
@@ -31,6 +33,8 @@ subfeature_v2:
     internal-label: Experiences
   - id: fee2c7a9-112e-463c-b451-44aaecaa6966
     internal-label: Brand personalization
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

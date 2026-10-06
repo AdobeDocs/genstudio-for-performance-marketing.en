@@ -6,7 +6,7 @@ role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 8ad10ce2-8558-430c-8cc3-4c29bfa970c6
-TQID: https://experienceleague.adobe.com/rdtSlbuYIiCeaXc9aTg14zkUpgYzrL-q321V40i-DpI
+TQID: 'https://experienceleague.adobe.com/rdtSlbuYIiCeaXc9aTg14zkUpgYzrL-q321V40i-DpI'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -17,9 +17,13 @@ feature_v2:
     internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
     internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
     internal-label: Assets
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

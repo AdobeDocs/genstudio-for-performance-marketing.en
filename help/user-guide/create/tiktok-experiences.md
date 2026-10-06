@@ -4,7 +4,7 @@ description: Learn how to create, review, publish, and activate TikTok in-feed v
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/aK9mP2vR8xT4nW6yB1cF3hJ5kL7mN9pQ2rS4tU6vW8x
+TQID: 'https://experienceleague.adobe.com/aK9mP2vR8xT4nW6yB1cF3hJ5kL7mN9pQ2rS4tU6vW8x'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -26,6 +26,8 @@ subfeature_v2:
     internal-label: Experiences
   - id: f54ee13b-9545-4d68-9842-a12026e60aaf
     internal-label: Variant generation
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

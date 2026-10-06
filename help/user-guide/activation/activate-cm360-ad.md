@@ -3,7 +3,7 @@ title: Activate a Google Campaign Manager 360 Ad
 description: Learn how to activate a Google Campaign Manager 360 experience.
 feature: Ad Activation
 exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
-TQID: https://experienceleague.adobe.com/pQbT2OC7-jK33HhJWgTBBtJrmEvr48mGkl8v-fTkOLQ
+TQID: 'https://experienceleague.adobe.com/pQbT2OC7-jK33HhJWgTBBtJrmEvr48mGkl8v-fTkOLQ'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -15,6 +15,8 @@ feature_v2:
 subfeature_v2:
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
     internal-label: Experiences
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
