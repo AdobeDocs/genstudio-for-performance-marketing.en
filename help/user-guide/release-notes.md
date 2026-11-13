@@ -73,9 +73,25 @@ topic_v2:
 
 This release information provides the latest updates to the GenStudio for Performance Marketing application.
 
-## 2026.09.15 {#latest}
+## 2026.10.15 {#latest}
 
 **NEW FEATURES:**
+
+### Stateful generation with voiceprinting and visual cues
+
+Stateful generation lets you refine content turn by turn in a conversation instead of starting over with a new prompt each time. The generation remembers your earlier instructions and the variants you keep, then applies only the change you ask for.
+
+Voiceprinting keeps copy in your brand voice on channels with [!DNL Insights], such as LinkedIn and Meta. Visual cues ground copy in an image or video you select, and you can add a web page URL as reference context in your prompt.
+
+Learn more in [Generate and refine content with Stateful Generation](/help/user-guide/create/stateful-generation.md).
+
+### Fixes and enhancements
+
+* The Tracking ID in a bulk activation now auto-populates with the Experience name.
+
+## Earlier release notes
+
++++Notes from 2026.09.15
 
 ### Bulk activation
 
@@ -83,7 +99,7 @@ This release information provides the latest updates to the GenStudio for Perfor
 
 Learn more in [Activation workflow](/help/user-guide/activation/create-activation.md).
 
-## Earlier release notes
++++
 
 +++Notes from 2026.07.16
 
