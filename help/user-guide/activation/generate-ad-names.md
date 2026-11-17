@@ -8,21 +8,21 @@ role: User
 
 Automated ad naming in [!DNL GenStudio for Performance Marketing] helps you follow your organization's naming conventions when you activate ads. Consistent names support performance reporting, attribution, and spend reconciliation.
 
-A naming template defines the parts of an ad name, such as product, campaign, and market, and the order in which they appear. You create a template by uploading an Excel file that describes your organization's naming convention.
+A naming template defines the parts of an ad name and their order. For example, a name might include the product, campaign, and market. To create a template, upload an Excel file that describes your organization's naming convention.
 
 Use the template to generate names from information about each experience, such as its product or campaign. Review and correct the results before sending your ads. The final names are sent to each destination platform as the ad names.
 
 ## Before you begin
 
-You only need to set up a template once. If your platform already has a template assigned in your current Project, skip to [Generate names for an activation](#generate-names-for-an-activation).
+You only need to set up a template once. If your platform already has a template assigned in your current Project, go directly to [Generate names for an activation](#generate-names-for-an-activation).
 
 Otherwise, create a template and ask a system manager to [assign it to your platforms](#assign-a-template-to-platforms). Each Project can have a different default template for the same platform.
 
 For template setup, prepare an Excel file no larger than 3 MB, with only one sheet. CSV files are not supported. Describe the naming convention for individual ads, not campaigns or ad groups.
 
-Include the fields in their required order, allowed values, corresponding codes, and instructions for choosing values. For example, selecting `Image` for the `format` field can produce `IMG` in the name.
+List the fields in their required order. For each field, include the allowed values, corresponding codes, and instructions for choosing a value. For example, the `Image` option for the `format` field uses the code `IMG` in the name.
 
-Download the [WKND Meta naming convention example (Excel)](assets/wknd-meta-naming-convention.xlsx) to explore a sample structure. It includes field definitions and example values for year, quarter, brand, product, campaign, platform, format, creative version, persona, market, language, and CTA.
+For a sample structure, download the [WKND Meta naming convention example (Excel)](assets/wknd-meta-naming-convention.xlsx). The file defines fields and example values, including product, campaign, format, market, language, and call-to-action (CTA).
 
 Replace the sample values and rules with your organization's convention before using the file for your own activations. The example's platform values illustrate naming choices, not a list of supported activation destinations.
 
@@ -39,7 +39,7 @@ Create a template from your existing naming-convention file, then review the ext
 1. Select **[!UICONTROL Select file]** in the **[!UICONTROL Upload file]** dialog.
 1. Choose your Excel file.
 
-   You can also drag the file into the upload area. While **[!UICONTROL Analyzing your spreadsheet...]** appears, the fields and values are mapped to your template. This may take a few minutes.
+   Alternatively, drag the file into the upload area. While **[!UICONTROL Analyzing your spreadsheet...]** appears, the fields and values are mapped to your template. Allow a few minutes for the analysis to finish.
 
 1. Review the fields, allowed values, and **[!UICONTROL Ad name preview]**.
 
@@ -56,13 +56,13 @@ Edit a saved template to adjust its name, fields, separator, or rules.
 1. Go to **[!UICONTROL More]** > **[!UICONTROL Settings]** > **[!UICONTROL Ad name template]**.
 1. Open the three-dot menu beside your template.
 1. Select **[!UICONTROL Edit]**.
-1. Select the pencil icon beside the title to rename the template.
+1. To rename the template, select the pencil icon beside the title.
 1. Set the **[!UICONTROL Field separator]** to the character that separates the parts of the name, such as an underscore (`_`).
 1. Drag the fields into the required order.
 
    Use **[!UICONTROL Add field]** or a field's trash icon if you need to change which fields are included.
 
-1. Select a field's pencil icon to open its settings.
+1. To open a field's settings, select its pencil icon.
 1. Review **[!UICONTROL Type]** and **[!UICONTROL Name]** in the **[!UICONTROL Edit a field]** dialog.
 
    Use **[!UICONTROL Dropdown]** for a field with predefined choices or **[!UICONTROL Free text]** for a value that you enter.
@@ -75,7 +75,7 @@ Edit a saved template to adjust its name, fields, separator, or rules.
 
 1. Enter any **[!UICONTROL Field rules]** needed to choose or format that field's value.
 
-   For the example's `creativeVersion` free-text field, you can enter `Use the experience name as a starting value, with spaces removed.`
+   For example, enter `Use the experience name as a starting value, with spaces removed.` for the `creativeVersion` free-text field.
 
 1. Select **[!UICONTROL Save]** in the field dialog.
 
@@ -87,7 +87,7 @@ Edit a saved template to adjust its name, fields, separator, or rules.
 
 1. Select **[!UICONTROL Save]** at the top of the page.
 
-The preview reflects the updated field order and separator. Reopen the template to check your saved changes.
+The preview reflects the updated field order and separator. To check your saved changes, reopen the template.
 
 The field editor shows how readable options map to the codes included in generated names:
 
@@ -106,7 +106,7 @@ System managers set the default template for each platform within a Project. If 
 
 Each platform has one default template per Project. You can assign the same template to several platforms.
 
-You can view and edit templates across Projects, but you can change assignments only for the Project you are currently in.
+Templates are available to view and edit across Projects. However, you can change platform assignments only in your current Project.
 
 Replacing a platform's default does not delete the previous template or change other Projects' assignments.
 
@@ -116,7 +116,7 @@ The example below shows the template preview, field order, rules, and **[!UICONT
 
 ## Generate names for an activation
 
-Prepare your activation before generating names. Review each experience's metadata, the information about its campaign, product, or persona, to make sure your template has the values it needs. See [Activation workflow](create-activation.md) for help preparing an activation.
+Prepare your activation before generating names. Each experience's metadata contains information such as its campaign, product, or persona. Check that the metadata provides the values your template needs. See [Activation workflow](create-activation.md) for help preparing an activation.
 
 1. Open **[!UICONTROL Activate]** in the intended Project.
 1. Add your experiences to an activation.
@@ -138,7 +138,7 @@ If no platforms have templates assigned, no names are generated.
 
 Review generated names before you send your ads. Missing values appear as highlighted field placeholders, such as `[market]`, and the affected ads show **[!UICONTROL Needs attention]**.
 
-The activation table flags names with missing values so you can find and correct them:
+To find names that need corrections, look for highlighted placeholders and **[!UICONTROL Needs attention]** statuses in the activation table:
 
 ![Activation table with a missing-values warning, highlighted market placeholders in the Ad name column, and Needs attention statuses.](images/ad-names-missing-values.png)
 
@@ -200,7 +200,7 @@ Use an override to replace the entire generated name with a custom name, rather 
 
 The custom name stays unchanged when you generate names again.
 
-With the override enabled, you can edit the complete name instead of its individual template fields:
+With the override enabled, edit the complete name instead of its individual template fields:
 
 ![Edit ad name dialog with Override ad names enabled and the complete WKND ad name available for editing.](images/ad-name-override.png)
 
@@ -234,6 +234,6 @@ Review your final names and address unresolved fields, potential duplicates, and
 
 When the activation is ready, select **[!UICONTROL Send to platforms]**.
 
-[!DNL GenStudio for Performance Marketing] sends each ad's final name to the destination platform as its ad name. This includes generated names, names edited through template fields, and custom name overrides. The ad names on the platform exactly match the final names you reviewed.
+[!DNL GenStudio for Performance Marketing] sends each ad's final name to the destination platform as its ad name. The name sent includes any edits to template fields or custom name overrides. The ad names on the platform exactly match the final names you reviewed.
 
 For display destinations such as Innovid, names appear as creative names.
