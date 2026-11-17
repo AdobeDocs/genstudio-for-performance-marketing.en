@@ -8,7 +8,7 @@ role: User
 
 Automated ad naming in [!DNL GenStudio for Performance Marketing] helps you follow your organization's naming conventions when you activate ads. Consistent names support performance reporting, attribution, and spend reconciliation.
 
-A naming template defines the parts of an ad name and their order. For example, a name might include the product, campaign, and market. To create a template, upload an Excel file that describes your organization's naming convention.
+A naming template defines the parts of an ad name and their order. Example parts include the product, campaign, and market. To create a template, upload an Excel file that describes your organization's naming convention.
 
 Use the template to generate names from information about each experience, such as its product or campaign. Review and correct the results before sending your ads. The final names are sent to each destination platform as the ad names.
 
@@ -22,7 +22,7 @@ For template setup, prepare an Excel file no larger than 3 MB, with only one she
 
 List the fields in their required order. For each field, include the allowed values, corresponding codes, and instructions for choosing a value. For example, the `Image` option for the `format` field uses the code `IMG` in the name.
 
-For a sample structure, download the [WKND Meta naming convention example (Excel)](assets/wknd-meta-naming-convention.xlsx). The file defines fields and example values, including product, campaign, format, market, language, and call-to-action (CTA).
+For a sample structure, download the [WKND Meta naming convention example (Excel)](assets/wknd-meta-naming-convention.xlsx). The file defines fields and example values for product, campaign, market, and other parts of an ad name.
 
 Replace the sample values and rules with your organization's convention before using the file for your own activations. The example's platform values illustrate naming choices, not a list of supported activation destinations.
 
@@ -71,11 +71,11 @@ Edit a saved template to adjust its name, fields, separator, or rules.
 
    **[!UICONTROL Options]** contains the readable choices. **[!UICONTROL Code]** contains the corresponding values used in the ad name. For example, the option `Image` uses the code `IMG`.
 
-   Use **[!UICONTROL Add option]** to add a choice, or the minus icon beside a choice to remove it. Duplicate values within a field are not allowed.
+   To add a choice, select **[!UICONTROL Add option]**. To remove a choice, select its minus icon. Duplicate values within a field are not allowed.
 
 1. Enter any **[!UICONTROL Field rules]** needed to choose or format that field's value.
 
-   For example, enter `Use the experience name as a starting value, with spaces removed.` for the `creativeVersion` free-text field.
+   For the `creativeVersion` free-text field, enter this example rule: `Use the experience name as a starting value, with spaces removed.`
 
 1. Select **[!UICONTROL Save]** in the field dialog.
 
@@ -130,7 +130,7 @@ Prepare your activation before generating names. Each experience's metadata cont
 
 Generation applies to all ads on platforms with an assigned template, except ads with [custom name overrides](#use-a-custom-ad-name). Names are not generated automatically when you open the table.
 
-Initially, each ad uses its experience's name. If a platform has no assigned template, generation leaves its names unchanged, and you can edit them manually.
+Initially, each ad uses its experience's name. If a platform has no assigned template, generation leaves its names unchanged. Edit those names manually as needed.
 
 If no platforms have templates assigned, no names are generated.
 
@@ -162,13 +162,13 @@ Identical ad names on the same platform are flagged as potential duplicates.
 
 The potential-duplicate warning clears after the names are made different.
 
-## Edit several ad names at once
+## Edit multiple ad names {#edit-several-ad-names-at-once}
 
-Use bulk editing to apply a shared correction without replacing values that should remain different for each ad.
+Use bulk editing to apply a shared correction while preserving values that differ between ads.
 
 1. Select the ads using their row checkboxes.
 1. Select **[!UICONTROL Edit ad name]** from the selection toolbar.
-1. Change only the fields that should have the same value across the selected ads.
+1. Change only the fields that need the same value across the selected ads.
 
    **[!UICONTROL Mixed values]** means that the selected ads currently have different values for a field. Leave that field untouched to preserve each ad's value.
 
