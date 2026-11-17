@@ -40,6 +40,10 @@ You can automatically retry failed activations by clicking **[!UICONTROL Try aga
 
 Published rows are locked from resubmission and include a deep link to the ad in the destination platform's native ad manager, so you can jump directly to it to review or launch it.
 
+## Generate ad names
+
+Use your organization's naming convention to generate consistent ad names from experience information. You can review, edit, or override names before sending ads to platforms. See [Generate ad names](generate-ad-names.md).
+
 ## Details view
 
 Click on an ad row to open a focused view of its activation details. The read-only details view captures the defining details of an activated ad, including failed activations, with information derived from both GenStudio for Performance Marketing and the destination platform:
