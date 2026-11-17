@@ -118,6 +118,13 @@ The example below shows the template preview, field order, rules, and **[!UICONT
 
 Prepare your activation before generating names. Each experience's metadata contains information such as its campaign, product, or persona. Check that the metadata provides the values your template needs. See [Activation workflow](create-activation.md) for help preparing an activation.
 
+When you first create an activation, each ad's initial name depends on its platform's template assignment:
+
+| Platform setup | Initial ad name |
+| --- | --- |
+| A naming template is assigned in the current Project. | Empty template fields appear as placeholders, such as `[market]_[year]`. Names are generated only after you select **[!UICONTROL Generate ad name]**. |
+| No naming template is assigned in the current Project. | The ad uses its experience's name. Name generation leaves that name unchanged. |
+
 1. Open **[!UICONTROL Activate]** in the intended Project.
 1. Add your experiences to an activation.
 1. Complete the platform setup and all required information, including copy, call-to-action (CTA), and website URL.
@@ -130,13 +137,13 @@ Prepare your activation before generating names. Each experience's metadata cont
 
 Generation applies to all ads on platforms with an assigned template, except ads with [custom name overrides](#use-a-custom-ad-name). Names are not generated automatically when you open the table.
 
-Initially, each ad uses its experience's name. If a platform has no assigned template, generation leaves its names unchanged. Edit those names manually as needed.
+For platforms without an assigned template, edit the experience-based ad names manually as needed.
 
 If no platforms have templates assigned, no names are generated.
 
 ## Correct an individual ad name
 
-Review generated names before you send your ads. Missing values appear as highlighted field placeholders, such as `[market]`, and the affected ads show **[!UICONTROL Needs attention]**.
+Review generated names before you send your ads. Any fields that remain empty after generation appear as highlighted placeholders, such as `[market]`. The affected ads show **[!UICONTROL Needs attention]**.
 
 To find names that need corrections, look for highlighted placeholders and **[!UICONTROL Needs attention]** statuses in the activation table:
 
