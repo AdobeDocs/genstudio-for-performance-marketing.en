@@ -94,6 +94,7 @@ nudge: true
   + [Activation overview](activation/overview.md)
   + [Activation workflow](activation/create-activation.md)
   + [Manage activations](activation/manage-activations.md)
+  + [Generate ad names](activation/generate-ad-names.md)
   + [Optimize activations](activation/troubleshooting.md)
   + Paid media ads {#paid-media-ads}
     + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
