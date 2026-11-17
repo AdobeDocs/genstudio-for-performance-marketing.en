@@ -8,11 +8,15 @@ role: User
 
 Automated ad naming in [!DNL GenStudio for Performance Marketing] helps you follow your organization's naming conventions when you activate ads. Consistent names support performance reporting, attribution, and spend reconciliation.
 
-Upload your naming convention to create a template, then use it to generate names from experience metadata. Review the results and make any corrections before you send ads to your platforms.
+A naming template defines the parts of an ad name, such as product, campaign, and market, and the order in which they appear. You create a template by uploading an Excel file that describes your organization's naming convention.
+
+Use the template to generate names from information about each experience, such as its product or campaign. Review and correct the results before sending your ads. The final names are sent to each destination platform as the ad names.
 
 ## Before you begin
 
-Template setup is a one-time task. If your platform already has a template assigned in your current Project, skip to [Generate names for an activation](#generate-names-for-an-activation).
+You only need to set up a template once. If your platform already has a template assigned in your current Project, skip to [Generate names for an activation](#generate-names-for-an-activation).
+
+Otherwise, create a template and ask a system manager to [assign it to your platforms](#assign-a-template-to-platforms). Each Project can have a different default template for the same platform.
 
 For template setup, prepare an Excel file no larger than 3 MB, with only one sheet. CSV files are not supported. Describe the naming convention for individual ads, not campaigns or ad groups.
 
@@ -21,8 +25,6 @@ Include the fields in their required order, allowed values, corresponding codes,
 Download the [WKND Meta naming convention example (Excel)](assets/wknd-meta-naming-convention.xlsx) to explore a sample structure. It includes field definitions and example values for year, quarter, brand, product, campaign, platform, format, creative version, persona, market, language, and CTA.
 
 Replace the sample values and rules with your organization's convention before using the file for your own activations. The example's platform values illustrate naming choices, not a list of supported activation destinations.
-
-A system manager must assign the template to your platforms. Different Projects can use different default templates for the same platform.
 
 ## Create a naming template
 
@@ -55,7 +57,7 @@ Edit a saved template to adjust its name, fields, separator, or rules.
 1. Open the three-dot menu beside your template.
 1. Select **[!UICONTROL Edit]**.
 1. Select the pencil icon beside the title to rename the template.
-1. Set the **[!UICONTROL Field separator]** to match your convention.
+1. Set the **[!UICONTROL Field separator]** to the character that separates the parts of the name, such as an underscore (`_`).
 1. Drag the fields into the required order.
 
    Use **[!UICONTROL Add field]** or a field's trash icon if you need to change which fields are included.
@@ -114,7 +116,7 @@ The example below shows the template preview, field order, rules, and **[!UICONT
 
 ## Generate names for an activation
 
-Generate names after you prepare your activation and review the experience metadata your template needs, such as campaign, product, or persona.
+Prepare your activation before generating names. Review each experience's metadata, the information about its campaign, product, or persona, to make sure your template has the values it needs. See [Activation workflow](create-activation.md) for help preparing an activation.
 
 1. Open **[!UICONTROL Activate]** in the intended Project.
 1. Add your experiences to an activation.
@@ -126,7 +128,7 @@ Generate names after you prepare your activation and review the experience metad
 
 1. Review the **[!UICONTROL Ad name]** column.
 
-Generation applies to all ads on platforms with an assigned template, except ads with overrides enabled. Names are not generated automatically when you open the table.
+Generation applies to all ads on platforms with an assigned template, except ads with [custom name overrides](#use-a-custom-ad-name). Names are not generated automatically when you open the table.
 
 Initially, each ad uses its experience's name. If a platform has no assigned template, generation leaves its names unchanged, and you can edit them manually.
 
@@ -188,7 +190,7 @@ For example, changing only the persona from `OutdoorBeginners` to `Adventurers` 
 
 ## Use a custom ad name
 
-Override a generated name when an ad needs a complete custom name.
+Use an override to replace the entire generated name with a custom name, rather than editing individual template fields.
 
 1. Select the ad's row.
 1. Select **[!UICONTROL Edit ad name]**.
@@ -209,7 +211,7 @@ To return to template-based naming, follow these steps:
 1. Select **[!UICONTROL Save]**.
 1. Select **[!UICONTROL Generate ad name]** above the activation table.
 
-This generation action also applies to the other eligible ads in the table.
+This action also regenerates names for other ads in the table that have an assigned template and no custom name override.
 
 ## Respond to template changes
 
@@ -232,6 +234,6 @@ Review your final names and address unresolved fields, potential duplicates, and
 
 When the activation is ready, select **[!UICONTROL Send to platforms]**.
 
-Published names exactly match the final names in [!DNL GenStudio for Performance Marketing], including generated names, names edited through template fields, and overridden names.
+[!DNL GenStudio for Performance Marketing] sends each ad's final name to the destination platform as its ad name. This includes generated names, names edited through template fields, and custom name overrides. The ad names on the platform exactly match the final names you reviewed.
 
 For display destinations such as Innovid, names appear as creative names.
